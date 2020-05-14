@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://sharp-gates-538d88.netlify.app"
 languageCode = "en-us"
-title = "Comparativa de guitarras"
+title = "Comprar una guitarra"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
