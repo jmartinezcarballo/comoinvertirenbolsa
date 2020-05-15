@@ -1,5 +1,5 @@
 ---
-title: "¿Qué guitarra me compro para empezar a tocar?"
+title: "Mi primera guitarra"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
@@ -7,26 +7,8 @@ draft: false
 description: "this is meta description"
 
 # type
-type: "guitarras-baratas"
+type: "mi-primera-guitarra"
 ---
-
-![image](../../images/post/fender_stratocaster.jpg)
-![image](../../images/post/gibson-lespaul.jpg)
-
-### ¿Fender o Gibson?
-
-<hr>
-
-Si eres nuevo en esto de la música y te estás planteando dar el paso para comprarte una guitarra y empezar a tocar tus primeros acordes, seguramente estas dos marcas sean las típicas que te vengan a la cabeza.
-
-Ciertamente son las dos marcas más conocidas (y tal vez exitosas) de guitarra, pero en los siguientes minutos intentaré mostrarte, no solo que hay mucha vida más allá de las **Fender** y **Gibson**, sino que probablemente caigas en un error en pensar en estas marcas si lo que te planteas es comprarte una guitarra para aprender a tocar este maravilloso instrumento.
-
-
-### ¿Cuánto dinero me gasto?
-
-Esta es una de las primeras preguntas que deberás responder. Habrás podido comprobar como existe un rango amplísimo de precios en función de multitud de características y marcas. Mucha gente lo que recomienda es que tengas un presupuesto, y a partir de aquí busques aquellos modelos que se adapten a tu presupuesto y entre ellos te quedes con la que cumpla tus expectativas y aquí ya puedes tener en cuenta tus preferencias en cuanto a materiales, pastillas, estética o marca y qué guitarra te puedes permitir.
-
-### ¿Qué te ofrezco a continuación?
 
 Lo que voy a ofrecerte a partir de aquí son una serie de recomendaciones de guitarras por debajo de los 300€. Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama de precios, están bien consideradas y pueden ser opciones a tener en cuenta para ayudar a decidirte en caso de que busques una guitarra de gama media/baja pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su precio.
 

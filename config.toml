@@ -45,30 +45,25 @@ disqusShortname = ""
   
   # main menu
   [[menu.main]]
-  name = "Baratas"
-  URL = "guitarras-baratas"
+  name = "Guitarras"
+  URL = "mi-primera-guitarra"
   weight = 1
-
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 2
-  
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
 
   # footer menu
   [[menu.footer]]
-  name = "About"
-  URL = "about"
+  name = "Aviso legal"
+  URL = "aviso-legal"
   weight = 1
   
   [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
+  name = "Política de privacidad"
+  URL = "politica-de-privacidad"
   weight = 2
+
+  [[menu.footer]]
+  name = "Uso de cookies"
+  URL = "uso-de-cookies"
+  weight = 3
 
 
 #################### default parameters ################################
