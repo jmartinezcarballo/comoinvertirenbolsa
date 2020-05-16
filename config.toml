@@ -49,6 +49,12 @@ disqusShortname = ""
   URL = "mi-primera-guitarra"
   weight = 1
 
+  # main menu
+  [[menu.main]]
+  name = "Accesorios"
+  URL = "accesorios"
+  weight = 2
+
   # footer menu
   [[menu.footer]]
   name = "Aviso legal"
