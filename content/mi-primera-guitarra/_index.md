@@ -10,28 +10,37 @@ description: "this is meta description"
 type: "mi-primera-guitarra"
 ---
 
-Lo que voy a ofrecerte a partir de aquí son una serie de recomendaciones de guitarras por debajo de los 300€. Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama de precios, están bien consideradas y pueden ser opciones a tener en cuenta para ayudar a decidirte en caso de que busques una guitarra de gama media/baja pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su precio.
+A continuación te presento una serie de recomendaciones de guitarras por debajo de los 300€. Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama de precios, están bien consideradas y pueden ser opciones a tener en cuenta para ayudarte a decidir en caso de que busques una guitarra de gama media/baja pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su precio.
+
+Una cosa a tener en cuenta antes de nada. La guitarra es importante, pero tanto o más lo es el amplificador sobre el que la hagas sonar. Sin un amplificador decente cualquier guitarra te sonara mal. Y aquí es muchas veces donde empiezan los problemas y algunas frustraciones. Vas a empezar a tocar en casa y no quieres empezar a atronar a los vecinos y que te llamen la atención, pero con un ampli básico seguramente no notes mucha diferencia entre una u otra y el sonido no te acabe de convencer y pienses, equivocadamente, que has tirado el dinero en la guitarra.
+
+¿Qué puedes hacer? tranquilo hay soluciones para todo! pásate por la sección de **accesorios** y te contaré lo que yo uso en casa y que considero de las mejores compras que he hecho.
+
+Pero no nos desviemos del tema y vamos al lio. Empecemos por las guitarras!
 
 <hr>
 
-##### 1. Yamaha Pacífica 012
+##### 1. Yamaha Pacífica 112
 
-![image](../../images/post/yamaha_pacifica_012.jpg)
+Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. Este modelo es un clásico y una referencia entre las guitarras de gama media/baja y suele aparecer entre las recomendaciones para principiantes. Es una guitarra muy cómoda y versátil, pudiendo sacar buenos sonidos, tanto limpios con sus pastillas simples como unas aceptables distorsiones con su pastilla doble si lo que te gusta es el Rock o incluso el metal. Su precio en tienda suele ser superior a los 200€.
+
+![image](../../images/post/yamaha_pacifica_112_blk.jpg)
 
 <hr>
 
 ##### Características
 
-* 22 trastes de palosanto
+* Cuerpo de Agathis
 * Puente trémolo estilo vintage
-* 3,4kg de peso
-* 2 pastillas single coil y 1 Humbucker con selector de 5 posiciones
+* 22 trastes de palosanto
+* 4,2kg de peso
+* 2 pastillas single coil y 1 Humbucker en el puente con selector de 5 posiciones
 
 <hr>
 
-| Modelo        | Precio    | Valoraciones | Ver producto |      
+| Modelo        | Precio    | Valoraciones | Enlace |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | 200€ | 4,4 sobre 5 | Ver en Amazon		
+| Yamaha Pacífica PA012	   	   | más de 200€ | 4,4 sobre 5 | [Ver producto](https://www.google.com)  |  [Ver producto](https://www.google.com)	
 
 <hr>
 
@@ -43,17 +52,18 @@ Lo que voy a ofrecerte a partir de aquí son una serie de recomendaciones de gui
 
 ##### Características
 
-* Trastes: 22 trastes de palosanto
-* Puente: Trémolo estilo vintage
+* Cuerpo de Caoba
+* Mastil de arce
+* Puente fijo
+* 24 trastes Jumbo
 * Peso: 3,4kg
-* Pastillas: 2 pastillas single coil y 1 Humbucker con selector de 5 posiciones
-* List item
+* 2 pastillas humbucker IBZ-6
 
 <hr>
 
 | Modelo        | Pastillas    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | 200€ | 4,4 sobre 5 | Ver en Amazon		
+| Ibanez GRG121DX	   	   | alrededor de 200€ | ![image](../../images/post/valoracion_ibanez_121_dx.png) | [Ver producto](https://www.google.com)		
 
 <hr>
 
@@ -65,17 +75,17 @@ Lo que voy a ofrecerte a partir de aquí son una serie de recomendaciones de gui
 
 ##### Características
 
-* Trastes: 22 trastes de palosanto
-* Puente: Trémolo estilo vintage
-* Peso: 3,4kg
-* Pastillas: 2 pastillas single coil y 1 Humbucker con selector de 5 posiciones
-* List item
+* Cuerpo de aliso
+* Mastil de arce
+* 21 trastes de palosanto
+* Peso: 3kg
+* 3 pastillas single coil
 
 <hr>
 
 | Modelo        | Pastillas    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | 2 Single Coil y 1 Humbucker | 4,4 sobre 5 | Ver en Amazon		
+| Yamaha Pacífica PA012	   	   | 2 Single Coil y 1 Humbucker | 4,4 sobre 5 | [Ver producto](https://www.google.com)	
 
 <hr>
 
@@ -97,7 +107,7 @@ Lo que voy a ofrecerte a partir de aquí son una serie de recomendaciones de gui
 
 | Modelo        | Pastillas    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | 2 Single Coil y 1 Humbucker | 4,4 sobre 5 | Ver en Amazon		
+| Yamaha Pacífica PA012	   	   | 2 Single Coil y 1 Humbucker | 4,4 sobre 5 | [Ver producto](https://www.google.com)		
 
 <hr>
 
@@ -119,6 +129,6 @@ Lo que voy a ofrecerte a partir de aquí son una serie de recomendaciones de gui
 
 | Modelo        | Pastillas    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | 2 Single Coil y 1 Humbucker | 4,4 sobre 5 | Ver en Amazon		
+| Yamaha Pacífica PA012	   	   | 2 Single Coil y 1 Humbucker | 4,4 sobre 5 | [Ver producto](https://www.google.com)		
 
 <hr>
