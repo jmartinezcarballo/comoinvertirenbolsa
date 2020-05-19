@@ -1,5 +1,5 @@
 ---
-title: "Accesorios"
+title: "Behringer Guitar Link"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
@@ -7,14 +7,8 @@ draft: false
 description: "this is meta description"
 
 # type
-type: "accesorios"
+type: "behringer-guitar-link"
 ---
-
-En esta página voy a presentarte algunos accesorios interesantes y que pueden serte muy útiles en depende que circunstancias. 
-
-<hr>
-
-##### Behringer Guitar Link
 
 Desde que descubrí este aparatejo ya no he vuelto a recordar lo que es tener un amplificador en casa. Evidentemente, si vas a tocar en una banda o con amigos vas a necesitar un ampli, pero si vas a estar en casa y más si estas empezando en este mundillo, personalmente veo más interesante dedicar el presupuesto a comprar una guitarra un poco mejor que no dedicar un % a un ampli poco potente y de gama baja que además en casa no vas a poder sacarle partido y que te reste dinero para tu guitarra. Todo esto, evidentemente, bajo mi subjetivo punto de vista, para gustos no hay nada escrito.
 
@@ -24,7 +18,7 @@ Básicamente es una interfaz externa de audio, que te permite "sustituir" tu tar
 
 ##### ¿Si no tengo amplificador como simulo un sonido concreto?
 
-Para empezar, el Guitar Link viene con algunos presets de serie, pero necesitarás de algún software que procese el sonido que Guitar Link está haciendo llegar a tu ordenador. Si utilizas MAC puedes usar el [Garage Band] (https://www.apple.com/mac/garageband/). En el caso de Windows tienes muchas alternativas. Yo utilizo [Guitar Rig 5] (https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-5-pro/) (es de pago pero dispone de una versión demo). Pero tienes muchas más opciones como Reaper o Audacity, por poner sólo dos ejemplos.
+Para empezar, el Guitar Link viene con algunos presets de serie, pero necesitarás de algún software que procese el sonido que Guitar Link está haciendo llegar a tu ordenador. Si utilizas MAC puedes usar el [Garage Band](https://www.apple.com/mac/garageband/). En el caso de Windows tienes muchas alternativas. Yo utilizo [Guitar Rig 5](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-5-pro/) (es de pago pero dispone de una versión demo). Pero tienes muchas más opciones como Reaper o Audacity, por poner sólo dos ejemplos.
 
 
 ![image](../../images/post/behringer_guitar_link.png)

@@ -20,6 +20,8 @@ Pero no nos desviemos del tema y vamos al lio. Empecemos por las guitarras!
 
 <hr>
 
+
+
 ##### 1. Yamaha Pacífica 012
 
 Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. La Yamaha Pacífica es un clásico y una referencia entre las guitarras de gama media/baja y suele aparecer entre las recomendaciones para principiantes. Es una guitarra muy cómoda y versátil, pudiendo sacar buenos sonidos, tanto limpios con sus pastillas simples como unas aceptables distorsiones con su pastilla doble si lo que te gusta es el Rock o incluso el metal. Su precio en tienda suele ser inferior a los 200€ por lo que si tu presupuesto es un poco superior, Yamaha dispone en su catálogo del modelo 112 que, siendo un poco más cara que su hermana pequeña, ofrece mejores prestaciones sin llegar a los 300€.
@@ -34,40 +36,46 @@ Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. 
 * Puente trémolo estilo vintage
 * 22 trastes de palosanto
 * 4,2kg de peso
-* 2 pastillas single coil y 1 Humbucker en el puente con selector de 5 posiciones
+* 2 pastillas single coil y 1 humbucker en el puente con selector de 5 posiciones
 
 <hr>
 
 | Modelo        | Precio    | Valoraciones | Enlace |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | más de 200€ | 4,4 sobre 5 | [Ver producto](https://www.google.com)  |  [Ver producto](https://www.google.com)	
+| Yamaha Pacífica PA012	   	   | menos de 200€ | 4,4 sobre 5 | [Ver producto](https://www.google.com)  |  [Ver producto](https://www.google.com)	
 
 <hr>
 
-##### 2. Ibanez GRG121DX
+##### 2. LTD MH-10
 
-![image](../../images/post/ibanez_grg_121_dx.jpg)
+LTD es la segunda marca de la prestigiosa marca de guitarras ESP, referencia dentro del mundo del rock más duro. Grupos de la talla de Metallica han hecho famosas sus guitarras. Cuando hablamos de segundas marcas inevitablemente tenemos que tener en cuenta que los materiales no van a ser los mismos de la marca matriz, y mucho menos cuando hablamos, como es este caso, del modelo de la gama más baja de las LTD EC, así como tampoco el país de fabricación de la guitarra.
+
+Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. Si lo que quieres son sonidos limpios, tocar pop, etc. seguramente hayan mejores opciones, sin embargo, si lo que te gusta es el rock y el metal, son guitarras muy a tener en cuenta.
+
+![image](../../images/post/LTD_MH_10.png)
 
 <hr>
 
 ##### Características
 
-* Cuerpo de Caoba
+* Cuerpo de tilo
 * Mastil de arce
-* Puente fijo
-* 24 trastes Jumbo
-* Peso: 3,4kg
-* 2 pastillas humbucker IBZ-6
+* Puente Tune O Matic
+* 24 trastes Extra Jumbo
+* Peso: 4,3kg
+* 2 pastillas humbucker ESP Designed LH-100
 
 <hr>
 
-| Modelo        | Pastillas    | Valoraciones | Ver producto |      
+| Modelo        | Precio    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Ibanez GRG121DX	   	   | alrededor de 200€ | ![image](../../images/post/valoracion_ibanez_121_dx.png) | [Ver producto](https://www.google.com)		
+| LTD MH-10	   	   | más de 200€ | 4,5 de 5 | [Ver producto](https://www.google.com)		
 
 <hr>
 
 ##### 3. Squier Affinity Stratocaster
+
+Al igual que las LTD, las Squier son una segunda marca, en este caso de las legendarias Fender. Así como las LTD son recomendadas para sonidos más rudos por su configuración de pastillas, en el caso de la Squier Affinity es totalmente lo opuesto. Su electrónica con 3 pastillas single coil va más enfocada a sonidos más versátiles, limpios o blueseros que los de la LTD, por lo que aquí tendrás que tener en cuenta qué estilos te gustaría tocar para decantarte entre ámbos modelos. Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar a la versatilidad de la Yamaha.
 
 ![image](../../images/post/squier_affinity_stratocaster.png)
 
@@ -77,47 +85,47 @@ Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. 
 
 * Cuerpo de aliso
 * Mastil de arce
-* 21 trastes de palosanto
-* Peso: 3kg
+* Puente trémolo vintage
+* 21 trastes
+* Peso: 4,3kg
 * 3 pastillas single coil
 
 <hr>
 
-| Modelo        | Pastillas    | Valoraciones | Ver producto |      
+| Modelo        | Precio    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | 2 Single Coil y 1 Humbucker | 4,4 sobre 5 | [Ver producto](https://www.google.com)	
+| Squier Affinity Stratocaster | alrededor de 200€ | 4,2 sobre 5 | [Ver producto](https://www.google.com)	
 
 <hr>
 
-##### 4. LTD EC-10
+##### 4. Ibanez GRG170DX
 
-LTD es la segunda marca de la prestigiosa marca de guitarras ESP, referencia dentro del mundo del rock más duro. Grupos de la talla de Metallica han hecho famosas sus guitarras. Cuando hablamos de segundas marcas inevitablemente tenemos que tener en cuenta que los materiales no van a ser los mismos de la marca matriz, y mucho menos cuando hablamos, como es este caso, del modelo de la gama más baja de las LTD EC, así como tampoco el país de fabricación de la guitarra.
+ 
 
-Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. Si lo que quieres son sonidos limpios, tocar pop, etc. seguramente hayan mejores opciones, sin embargo, si lo que te gusta es el rock y el metal, son guitarras muy a tener en cuenta. 
-
-![image](../../images/post/ltd_ec_10.jpg)
+![image](../../images/post/Ibanez_GRG_170dx.png)
 
 <hr>
 
 ##### Características
 
-* Trastes: 22 trastes de palosanto
-* Puente: Trémolo estilo vintage
-* Peso: 3,4kg
-* Pastillas: 2 pastillas single coil y 1 Humbucker con selector de 5 posiciones
-* List item
+* Cuerpo de álamo
+* Mastil de arce
+* Puente semiflotante con trémolo
+* 24 trastes medium
+* Peso: 3,2kg
+* 2 pastillas humbucker en cuello y puente y 1 pastilla single coil en la posición intermedia
 
 <hr>
 
-| Modelo        | Pastillas    | Valoraciones | Ver producto |      
+| Modelo        | Precio    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | 2 Single Coil y 1 Humbucker | 4,4 sobre 5 | [Ver producto](https://www.google.com)		
+| Ibanez GRG170DX | más de 200€ | 4,2 sobre 5 | [Ver producto](https://www.google.com)		
 
 <hr>
 
 ##### 5. Cort CR 100
 
-Hablar de Cort es hablar de una marca contrastada con uno de los baremos calidad/precio mejores del mercado. Buen material, buenos acabados, buen sonido. Tal vez no sea la mejor en algo pero generalmente no es la peor en nada.
+Hablar de Cort es hablar de una marca contrastada con uno de los baremos calidad/precio mejores del mercado. Buen material, buenos acabados, buen sonido y muy ligera, apenas pesa 3kg!
 
 ![image](../../images/post/cort_cr_100.png)
 
@@ -125,19 +133,18 @@ Hablar de Cort es hablar de una marca contrastada con uno de los baremos calidad
 
 ##### Características
 
-* Trastes: 22 trastes de palosanto
-* Puente: Trémolo estilo vintage
-* Peso: 3,4kg
-* Pastillas: 2 pastillas single coil y 1 Humbucker con selector de 5 posiciones
-* List item
+* Cuerpo de caoba
+* Diapason de palorosa
+* Puente Tune O Matic
+* 22 trastes
+* Peso: 3kg
+* 2 pastillas humbucker Powersound PSLP-1F y PSLP-1R
 
 <hr>
 
-| Modelo        | Pastillas    | Valoraciones | Ver producto |      
+| Modelo        | Precio    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | 2 Single Coil y 1 Humbucker | 4,4 sobre 5 | [Ver producto](https://www.google.com)		
+| Cort CR 100	   	   | más de 250€ | 3,9 sobre 5 | [Ver producto](https://www.google.com)
 
-<hr>
 
-##### Conclusiones
 

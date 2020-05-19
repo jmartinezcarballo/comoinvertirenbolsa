@@ -46,14 +46,27 @@ disqusShortname = ""
   # main menu
   [[menu.main]]
   name = "Guitarras"
-  URL = "mi-primera-guitarra"
+  hasChildren = true
   weight = 1
+    # main menu
+    [[menu.main]]
+    name = "Guitarras baratas"
+    parent = "Guitarras"
+    URL = "guitarras-baratas"
+    weight = 1
+
 
   # main menu
   [[menu.main]]
   name = "Accesorios"
-  URL = "accesorios"
+  hasChildren = true
   weight = 2
+    # main menu
+    [[menu.main]]
+    name = "Behringer Guitar Link"
+    parent = "Accesorios"
+    URL = "behringer-guitar-link"
+    weight = 1
 
   # footer menu
   [[menu.footer]]
@@ -74,8 +87,8 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-home = "Home"
+logo = "images/logo_web_opt_2.png"
+home = "Inicio"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
@@ -83,12 +96,3 @@ author = "Themefisher"
 googleAnalitycsID = "UA-166363107-1"
 # copyright
 copyright = "| copyright &copy; 2020 [Comprar una Guitarra](https://www.comprarunaguitarra.com) All Rights Reserved |"
-
-  # Preloader
-  [params.preloader]
-  enable = true
-  preloader = "" # use .png , .svg or .gif format
-
-  # search
-  [params.search]
-  enable = true
