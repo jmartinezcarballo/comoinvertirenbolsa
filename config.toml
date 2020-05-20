@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://sharp-gates-538d88.netlify.app"
+baseURL = "https://comprarunaguitarra.com"
 languageCode = "en-us"
 title = "Comprar una guitarra"
 theme = "liva-hugo"
