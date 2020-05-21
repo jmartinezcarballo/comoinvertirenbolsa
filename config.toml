@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://comprarunaguitarra.com"
-languageCode = "en-us"
+languageCode = "es-ES"
 title = "Comprar una guitarra"
 theme = "liva-hugo"
 summaryLength = "10"
@@ -90,7 +90,7 @@ disqusShortname = ""
 logo = "images/logo_web_opt_2.png"
 home = "Inicio"
 # Meta data
-description = "This is meta description"
+description = "Comprar una guitarra. Te ayudo a buscar tu primera guitarra"
 author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "UA-167226734-1"
