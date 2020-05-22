@@ -83,6 +83,10 @@ disqusShortname = ""
   name = "Uso de cookies"
   URL = "uso-de-cookies"
   weight = 3
+  [[menu.footer]]
+  name = "Mapa del sitio web"
+  URL = "sitemap"
+  weight = 4
 
 
 #################### default parameters ################################
