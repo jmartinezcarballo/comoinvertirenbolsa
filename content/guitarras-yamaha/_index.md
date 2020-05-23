@@ -1,6 +1,6 @@
 ---
 title: "Guitarras Eléctricas Yamaha"
-date: 2020-05-23T10:07:47+06:00
+date: 2020-05-22T10:07:47+06:00
 draft: false
 
 # meta description

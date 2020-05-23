@@ -1,6 +1,6 @@
 ---
-title: "Guitarras baratas"
-date: 2019-10-29T10:07:47+06:00
+title: "Guitarras eléctricas baratas"
+date: 2020-05-22T10:07:47+06:00
 draft: false
 
 # meta description
