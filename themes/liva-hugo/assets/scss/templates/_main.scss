@@ -175,49 +175,6 @@
   }
 }
 
-/* pagination */
-.pagination {
-  justify-content: center;
-
-  .page-item {
-
-    .page-link {
-      display: inline-block;
-      width: 40px;
-      height: 40px;
-      text-align: center;
-      color: $primary-color;
-      border-top: 0;
-      border-bottom: 0;
-
-      &:hover {
-        background: $primary-color;
-        color: $white;
-      }
-    }
-
-    &:first-child,
-    &:last-child {
-      .page-link {
-        border-radius: 0;
-      }
-    }
-
-    &.active {
-      .page-link {
-        background: $white;
-        color: $text-color;
-        border: 1px solid $primary-color;
-      }
-    }
-  }
-}
-
-.author-thumb-sm {
-  max-height: 165px;
-  max-width: 165px;
-}
-
 
 /* markdown style */
 .content {

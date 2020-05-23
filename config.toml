@@ -55,12 +55,30 @@ disqusShortname = ""
     URL = "guitarras-baratas"
     weight = 1
 
+  # main menu
+  [[menu.main]]
+  name = "Marcas"
+  hasChildren = true
+  weight = 2
+    # main menu
+    [[menu.main]]
+    name = "Guitarras Yamaha"
+    parent = "Marcas"
+    URL = "guitarras-yamaha"
+    weight = 1
+    # main menu
+    [[menu.main]]
+    name = "Guitarras LTD ESP"
+    parent = "Marcas"
+    URL = "guitarras-ltd"
+    weight = 2
+
 
   # main menu
   [[menu.main]]
   name = "Accesorios"
   hasChildren = true
-  weight = 2
+  weight = 3
     # main menu
     [[menu.main]]
     name = "Behringer Guitar Link"
