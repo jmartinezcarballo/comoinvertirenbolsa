@@ -4,7 +4,7 @@ date: 2020-05-23T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Comprar una guitarra ltd esp. LTD ec 1000"
+description: "guitarra electrica ltd ec-401 ltd ec-1000 ltd ec-256 ltd ec-50 ltd ec-10 esp"
 
 # type
 type: "guitarras-electricas-ltd"
@@ -34,7 +34,7 @@ type: "guitarras-electricas-ltd"
 <hr>
 
 
-### LTD EC 401
+### LTD EC-401
 
 ![image](../../images/post/ltd-ec-401.png)
 

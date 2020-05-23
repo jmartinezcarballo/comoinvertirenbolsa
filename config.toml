@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://comprarunaguitarra.com"
 languageCode = "es-ES"
-title = "Comprar una guitarra"
+title = "Guitarras eléctricas | Guia para comprar una guitarra eléctrica"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
