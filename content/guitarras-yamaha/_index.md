@@ -10,13 +10,13 @@ description: "Comprar una guitarra yamaha. Yamaha pacifica 112v."
 type: "guitarras-electricas-yamaha"
 ---
 
-##### Yamaha Pacífica 012
+### Yamaha Pacífica 012
 
 ![image](../../images/post/yamaha_pacifica_012_opt.jpg)
 
 <hr>
 
-##### Características
+#### Características
 
 * Cuerpo de Agathis
 * Puente trémolo estilo vintage

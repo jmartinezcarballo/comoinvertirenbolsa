@@ -22,7 +22,7 @@ Pero no nos desviemos del tema y vamos al lio. Empecemos por las guitarras!
 
 
 
-##### 1. Yamaha Pacífica 012
+### 1. Yamaha Pacífica 012
 
 Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. La Yamaha Pacífica es un clásico y una referencia entre las guitarras de gama media/baja y suele aparecer entre las recomendaciones para principiantes. Es una guitarra muy cómoda y versátil, pudiendo sacar buenos sonidos, tanto limpios con sus pastillas simples como unas aceptables distorsiones con su pastilla doble si lo que te gusta es el Rock o incluso el metal. Su precio en tienda suele ser inferior a los 200€ por lo que si tu presupuesto es un poco superior, Yamaha dispone en su catálogo del modelo 112 que, siendo un poco más cara que su hermana pequeña, ofrece mejores prestaciones sin llegar a los 300€.
 
@@ -30,7 +30,7 @@ Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. 
 
 <hr>
 
-##### Características
+#### Características
 
 * Cuerpo de Agathis
 * Puente trémolo estilo vintage
@@ -46,7 +46,7 @@ Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. 
 
 <hr>
 
-##### 2. LTD MH-10
+### 2. LTD MH-10
 
 LTD es la segunda marca de la prestigiosa marca de guitarras ESP, referencia dentro del mundo del rock más duro. Grupos de la talla de Metallica han hecho famosas sus guitarras. Cuando hablamos de segundas marcas inevitablemente tenemos que tener en cuenta que los materiales no van a ser los mismos de la marca matriz, y mucho menos cuando hablamos, como es este caso, del modelo de la gama más baja de las LTD EC, así como tampoco el país de fabricación de la guitarra.
 
@@ -56,7 +56,7 @@ Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tiene
 
 <hr>
 
-##### Características
+#### Características
 
 * Cuerpo de tilo
 * Mastil de arce
@@ -73,7 +73,7 @@ Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tiene
 
 <hr>
 
-##### 3. Squier Affinity Stratocaster
+### 3. Squier Affinity Stratocaster
 
 Al igual que las LTD, las Squier son una segunda marca, en este caso de las legendarias Fender. Así como las LTD son recomendadas para sonidos más rudos por su configuración de pastillas, en el caso de la Squier Affinity es totalmente lo opuesto. Su electrónica con 3 pastillas single coil va más enfocada a sonidos más versátiles, limpios o blueseros que los de la LTD, por lo que aquí tendrás que tener en cuenta qué estilos te gustaría tocar para decantarte entre ámbos modelos. Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar a la versatilidad de la Yamaha.
 
@@ -81,7 +81,7 @@ Al igual que las LTD, las Squier son una segunda marca, en este caso de las lege
 
 <hr>
 
-##### Características
+#### Características
 
 * Cuerpo de aliso
 * Mastil de arce
@@ -98,15 +98,13 @@ Al igual que las LTD, las Squier son una segunda marca, en este caso de las lege
 
 <hr>
 
-##### 4. Ibanez GRG170DX
-
- 
+### 4. Ibanez GRG170DX
 
 ![image](../../images/post/Ibanez_GRG_170dx.png)
 
 <hr>
 
-##### Características
+#### Características
 
 * Cuerpo de álamo
 * Mastil de arce
@@ -123,7 +121,7 @@ Al igual que las LTD, las Squier son una segunda marca, en este caso de las lege
 
 <hr>
 
-##### 5. Cort CR 100
+### 5. Cort CR 100
 
 Hablar de Cort es hablar de una marca contrastada con uno de los baremos calidad/precio mejores del mercado. Buen material, buenos acabados, buen sonido y muy ligera, apenas pesa 3kg!
 
@@ -131,7 +129,7 @@ Hablar de Cort es hablar de una marca contrastada con uno de los baremos calidad
 
 <hr>
 
-##### Características
+#### Características
 
 * Cuerpo de caoba
 * Diapason de palorosa
