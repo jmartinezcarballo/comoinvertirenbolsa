@@ -1,6 +1,6 @@
 ---
 title: "Guitarras Eléctricas LTD ESP"
-date: 2020-05-22T10:07:47+06:00
+date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
