@@ -1,6 +1,6 @@
 ---
 title: "Mapa del sitio web"
-date: 2019-10-29T10:07:47+06:00
+date: 2020-05-24T11:07:47+06:00
 draft: false
 
 # meta description
@@ -10,10 +10,12 @@ description: "mapa del sitio web"
 type: "sitemap"
 ---
 
-## Guitarras
+### Guitarras
 
-[Guitarras eléctricas baratas](https://www.comprarunaguitarra.com/guitarras-baratas)
+* [Guitarras eléctricas baratas](/guitarras-baratas)
+* [Guitarras eléctricas Yamaha](/guitarras-yamaha)
+* [Guitarras eléctricas ltd esp](/guitarras-ltd)
 
-## Accesorios
+### Accesorios
 
-[Behringer Guitar Link](https://www.comprarunaguitarra.com/behringer-guitar-link)
+* [Behringer Guitar Link](/behringer-guitar-link)

@@ -3,36 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/about/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/contact/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/search/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/guitarras-baratas/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/tags/</loc>
-  </url>
-  
+<loc>https://comprarunaguitarra.com/guitarras-baratas/</loc>
+<lastmod>2020-05-24T11:07:47+06:00</lastmod>
+</url>
+<url>
+<loc>https://comprarunaguitarra.com/guitarras-ltd/</loc>
+<lastmod>2020-05-24T11:07:47+06:00</lastmod>
+</url>
+<url>
+<loc>https://comprarunaguitarra.com/guitarras-yamaha/</loc>
+<lastmod>2020-05-24T11:07:47+06:00</lastmod>
+</url>
+<url>
+<loc>https://comprarunaguitarra.com/</loc>
+<lastmod>2020-05-24T11:07:47+06:00</lastmod>
+</url>
+<url>
+<loc>https://comprarunaguitarra.com/aviso-legal/</loc>
+<lastmod>2020-05-24T11:07:47+06:00</lastmod>
+</url>
+<url>
+<loc>https://comprarunaguitarra.com/behringer-guitar-link/</loc>
+<lastmod>2020-05-24T11:07:47+06:00</lastmod>
+</url>
+<url>
+<loc>https://comprarunaguitarra.com/sitemap/</loc>
+<lastmod>2020-05-24T11:07:47+06:00</lastmod>
+</url>
+<url>
+<loc>https://comprarunaguitarra.com/uso-de-cookies/</loc>
+<lastmod>2020-05-24T11:07:47+06:00</lastmod>
+</url>
+<url>
+<loc>
+https://comprarunaguitarra.com/politica-de-privacidad/
+</loc>
+<lastmod>2020-05-24T11:07:47+06:00</lastmod>
+</url>
 </urlset>
