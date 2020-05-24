@@ -111,6 +111,10 @@ disqusShortname = ""
   name = "Mapa del sitio web"
   URL = "sitemap"
   weight = 4
+  [[menu.footer]]
+  name = "Contacto"
+  URL = "contacto"
+  weight = 5
 
 
 #################### default parameters ################################

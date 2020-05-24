@@ -29,7 +29,7 @@ type: "guitarras-electricas-squier"
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Squier Affinity Stratocaster | sunburn | 4,2 sobre 5 | [Ver producto](https://amzn.to/2zixUf9)	
+| Squier Affinity Stratocaster | sunburst | 4,2 sobre 5 | [Ver producto](https://amzn.to/2zixUf9)	
 
 <hr>
 

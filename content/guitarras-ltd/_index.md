@@ -27,9 +27,9 @@ type: "guitarras-electricas-ltd"
 
 <hr>
 
-| Modelo        | Precio    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD MH-10	   	   | más de 200€ | 4,5 de 5 | [Ver producto](https://amzn.to/3bP0q5p)		
+| LTD MH-10	   	   | negro | 4,5 de 5 | [Ver producto](https://amzn.to/3bP0q5p)		
 
 <hr>
 
@@ -52,8 +52,8 @@ type: "guitarras-electricas-ltd"
 
 <hr>
 
-| Modelo        | Precio    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD EC 401	| más de 600€ | 3,8 de 5 | [Ver producto](https://amzn.to/3epa4xl)		
+| LTD EC 401	| negro | 3,8 de 5 | [Ver producto](https://amzn.to/3epa4xl)		
 
 <hr>
