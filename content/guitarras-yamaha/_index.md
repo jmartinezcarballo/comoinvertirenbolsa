@@ -26,8 +26,32 @@ type: "guitarras-electricas-yamaha"
 
 <hr>
 
-| Modelo        | Precio    | Valoraciones | Enlace |      
+| Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | menos de 200€ | 4,4 sobre 5 | [Ver producto](https://amzn.to/3bLizRn)	
+| Yamaha Pacífica PA012	   	   | negro | 4,4 sobre 5 | [Ver producto](https://amzn.to/3bLizRn)	
+
+<hr>
+
+### Yamaha erg121ubl
+
+![image](../../images/post/yamaha-erg121ubl.png)
+
+<hr>
+
+#### Características
+
+* Cuerpo de Aliso 
+* Mástil de Arce
+* Diapasón de Palorrosa, herrajes cromados
+* Puente trémolo
+* 22 trastes de palosanto
+* 4,2kg de peso
+* 2 pastillas humbucker y 1 single coil Power SC
+
+<hr>
+
+| Modelo        | Color    | Valoraciones | Precio |      
+| ------------- |:-------------|:-------------|:-------------
+| Yamaha erg121ubl	   	   | negro | 4,7 sobre 5 | [Ver producto](https://amzn.to/3gcVbjj)	
 
 <hr>
