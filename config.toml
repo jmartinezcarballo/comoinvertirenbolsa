@@ -78,6 +78,12 @@ disqusShortname = ""
     parent = "Marcas"
     URL = "guitarras-squier"
     weight = 3
+    # main menu
+    [[menu.main]]
+    name = "Guitarras Cort"
+    parent = "Marcas"
+    URL = "guitarras-cort"
+    weight = 4
 
 
   # main menu
