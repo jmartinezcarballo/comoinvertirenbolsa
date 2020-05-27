@@ -12,7 +12,7 @@ type: "guitarras-electricas-cort"
 
 ### Cort CR250
 
-![image](../../images/post/cort-cr250.png)
+![guitarra cort cr250](../../images/post/cort-cr250.png)
 
 <hr>
 
@@ -36,7 +36,7 @@ type: "guitarras-electricas-cort"
 
 ### Cort CR 100
 
-![image](../../images/post/cort_cr_100_opt.png)
+![guitarra cort cr100](../../images/post/cort_cr_100_opt.png)
 
 <hr>
 

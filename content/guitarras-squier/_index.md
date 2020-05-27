@@ -12,7 +12,7 @@ type: "guitarras-electricas-squier"
 
 ### Squier Affinity Stratocaster
 
-![image](../../images/post/squier_affinity_stratocaster_opt.png)
+![guitarra electrica squier affinity stratocaster](../../images/post/squier_affinity_stratocaster_opt.png)
 
 <hr>
 
@@ -35,7 +35,7 @@ type: "guitarras-electricas-squier"
 
 ### Squier Bullet Stratocaster
 
-![image](../../images/post/squier-bullet-stratocaster.png)
+![guitarra electrica squier bullet stratocaster](../../images/post/squier-bullet-stratocaster.png)
 
 <hr>
 

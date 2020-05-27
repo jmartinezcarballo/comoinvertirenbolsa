@@ -42,7 +42,7 @@ Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. 
 
 | Modelo        | Precio    | Valoraciones | Enlace |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | menos de 200€ | 4,4 sobre 5 | [Ver producto](https://www.google.com)  |  [Ver producto](https://www.google.com)	
+| Yamaha Pacífica PA012	   	   | menos de 200€ | 4,4 sobre 5 | [Ver producto](https://www.google.com)	
 
 <hr>
 
@@ -52,7 +52,7 @@ LTD es la segunda marca de la prestigiosa marca de guitarras ESP, referencia den
 
 Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. Si lo que quieres son sonidos limpios, tocar pop, etc. seguramente hayan mejores opciones, sin embargo, si lo que te gusta es el rock y el metal, son guitarras muy a tener en cuenta.
 
-![image](../../images/post/LTD_MH_10.png)
+![ltd mh10](../../images/post/LTD_MH_10.png)
 
 <hr>
 
@@ -77,7 +77,7 @@ Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tiene
 
 Al igual que las LTD, las Squier son una segunda marca, en este caso de las legendarias Fender. Así como las LTD son recomendadas para sonidos más rudos por su configuración de pastillas, en el caso de la Squier Affinity es totalmente lo opuesto. Su electrónica con 3 pastillas single coil va más enfocada a sonidos más versátiles, limpios o blueseros que los de la LTD, por lo que aquí tendrás que tener en cuenta qué estilos te gustaría tocar para decantarte entre ámbos modelos. Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar a la versatilidad de la Yamaha.
 
-![image](../../images/post/squier_affinity_stratocaster.png)
+![squier affinity stratocaster](../../images/post/squier_affinity_stratocaster.png)
 
 <hr>
 

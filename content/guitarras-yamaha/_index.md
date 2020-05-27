@@ -12,7 +12,7 @@ type: "guitarras-electricas-yamaha"
 
 ### Yamaha Pacífica 012
 
-![image](../../images/post/yamaha_pacifica_012_opt.jpg)
+![guitarra yamaha pacifica 012](../../images/post/yamaha_pacifica_012_opt.jpg)
 
 <hr>
 
@@ -34,7 +34,7 @@ type: "guitarras-electricas-yamaha"
 
 ### Yamaha erg121ubl
 
-![image](../../images/post/yamaha-erg121ubl.png)
+![guitarra electrica yamaha erg121ubl](../../images/post/yamaha-erg121ubl.png)
 
 <hr>
 

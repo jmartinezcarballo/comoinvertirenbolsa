@@ -12,7 +12,7 @@ type: "guitarras-electricas-ltd"
 
 ### LTD MH-10
 
-![image](../../images/post/LTD_MH_10_opt.png)
+![guitarra electrica ltd mh10](../../images/post/LTD_MH_10_opt.png)
 
 <hr>
 
@@ -36,7 +36,7 @@ type: "guitarras-electricas-ltd"
 
 ### LTD EC-401
 
-![image](../../images/post/ltd-ec-401.png)
+![guitarra electrica ltd ec401](../../images/post/ltd-ec-401.png)
 
 <hr>
 
