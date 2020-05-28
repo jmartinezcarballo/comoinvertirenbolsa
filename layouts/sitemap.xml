@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-<url>
-<loc>https://www.comprarunaguitarra.com/guitarras-electricas-niños/</loc>
-<lastmod>2020-05-27T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/contacto/</loc>
-<lastmod>2020-05-27T11:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/</loc>
-<lastmod>2020-05-27T11:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/sitemap/</loc>
-<lastmod>2020-05-27T11:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/guitarras-baratas/</loc>
-<lastmod>2020-05-27T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/guitarras-cort-copia/</loc>
-<lastmod>2020-05-27T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/guitarras-cort/</loc>
-<lastmod>2020-05-27T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/guitarras-ltd/</loc>
-<lastmod>2020-05-27T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/guitarras-squier/</loc>
-<lastmod>2020-05-27T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/guitarras-yamaha/</loc>
-<lastmod>2020-05-27T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/aviso-legal/</loc>
-<lastmod>2019-10-29T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/behringer-guitar-link/</loc>
-<lastmod>2020-05-27T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/uso-de-cookies/</loc>
-<lastmod>2019-10-29T10:07:47+06:00</lastmod>
-</url>
-<url>
-<loc>https://www.comprarunaguitarra.com/politica-de-privacidad/</loc>
-<lastmod>2019-10-29T10:07:47+06:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.comprarunaguitarra.com/guitarras-electricas-niños/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/contacto/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+		<url>
+		<loc>https://www.comprarunaguitarra.com/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/sitemap/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/guitarras-baratas/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/guitarras-cort-copia/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/guitarras-cort/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/guitarras-ltd/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/guitarras-squier/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/guitarras-yamaha/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/aviso-legal/</loc>
+		<lastmod>2019-10-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/behringer-guitar-link/</loc>
+		<lastmod>2020-05-27</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/uso-de-cookies/</loc>
+		<lastmod>2019-10-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.comprarunaguitarra.com/politica-de-privacidad/</loc>
+		<lastmod>2019-10-29</lastmod>
+	</url>
 </urlset>
