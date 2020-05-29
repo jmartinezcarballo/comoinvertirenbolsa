@@ -10,13 +10,17 @@ description: "guitarra electrica ltd ec-401 ltd ec-1000 ltd ec-256 ltd ec-50 ltd
 type: "guitarras-electricas-ltd"
 ---
 
-### LTD MH-10
+Sección dedicada a las guitarras eléctricas de la marca LTD. Te voy a proponer diferentes modelos de **guitarras eléctricas LTD** para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.
+
+## LTD MH-10
+
+Consulta a continuación las características principales de la **LTD MH 10**.
 
 ![guitarra electrica ltd mh10](../../images/post/LTD_MH_10_opt.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de tilo
 * Mástil de arce
@@ -33,14 +37,17 @@ type: "guitarras-electricas-ltd"
 
 <hr>
 
+&nbsp;
 
-### LTD EC-401
+## LTD EC-401
+
+Consulta a continuación las características principales de la **LTD EC-401**.
 
 ![guitarra electrica ltd ec401](../../images/post/ltd-ec-401.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de caoba
 * Mástil de 3 piezas de caoba encolado a través del cuerpo
@@ -54,6 +61,4 @@ type: "guitarras-electricas-ltd"
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD EC 401	| negro | 3,8 de 5 | [Ver producto](https://amzn.to/3epa4xl)		
-
-<hr>
+| LTD EC 401	| negro | 3,8 de 5 | [Ver producto](https://amzn.to/3epa4xl)

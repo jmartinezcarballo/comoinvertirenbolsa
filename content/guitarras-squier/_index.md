@@ -10,13 +10,18 @@ description: "Comprar una guitarra  Fender Squier. Encuentra tu guitarra electri
 type: "guitarras-electricas-squier"
 ---
 
-### Squier Affinity Stratocaster
+Sección dedicada a las guitarras eléctricas de la marca Squier. Te voy a proponer diferentes modelos de **guitarras eléctricas Squier** para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.
+
+
+## Squier Affinity Stratocaster
+
+Consulta a continuación las características principales de la **Squier Affinity Stratocaster**.
 
 ![guitarra electrica squier affinity stratocaster](../../images/post/squier_affinity_stratocaster_opt.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de aliso
 * Mastil de arce
@@ -32,14 +37,16 @@ type: "guitarras-electricas-squier"
 | Squier Affinity Stratocaster | sunburst | 4,2 sobre 5 | [Ver producto](https://amzn.to/2zixUf9)	
 
 <hr>
+  
+&nbsp;
 
-### Squier Bullet Stratocaster
+## Squier Bullet Stratocaster
 
 ![guitarra electrica squier bullet stratocaster](../../images/post/squier-bullet-stratocaster.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de tilo 
 * Mástil de arce

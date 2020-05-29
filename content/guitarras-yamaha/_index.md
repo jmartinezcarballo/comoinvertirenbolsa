@@ -10,13 +10,17 @@ description: "Comprar una guitarra yamaha. Yamaha pacifica 112v."
 type: "guitarras-electricas-yamaha"
 ---
 
-### Yamaha Pacífica 012
+Sección dedicada a las guitarras eléctricas de la marca Yamaha. Te voy a proponer diferentes modelos de **guitarras eléctricas Yamaha** para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.
+
+## Yamaha Pacífica 012
+
+Consulta a continuación las características principales de la **Yamaha Pacifica 012**.
 
 ![guitarra yamaha pacifica 012](../../images/post/yamaha_pacifica_012_opt.jpg)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de Agathis
 * Puente trémolo estilo vintage
@@ -32,13 +36,17 @@ type: "guitarras-electricas-yamaha"
 
 <hr>
 
-### Yamaha erg121ubl
+&nbsp;
+
+## Yamaha erg121ubl
+
+Consulta a continuación las características principales de la **Yamaha erg121ubl**.
 
 ![guitarra electrica yamaha erg121ubl](../../images/post/yamaha-erg121ubl.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de Aliso 
 * Mástil de Arce
@@ -52,6 +60,4 @@ type: "guitarras-electricas-yamaha"
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha erg121ubl	   	   | negro | 4,7 sobre 5 | [Ver producto](https://amzn.to/3gcVbjj)	
-
-<hr>
+| Yamaha erg121ubl	   	   | negro | 4,7 sobre 5 | [Ver producto](https://amzn.to/3gcVbjj)

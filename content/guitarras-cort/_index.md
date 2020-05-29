@@ -10,13 +10,17 @@ description: "Comprar una guitarra electrica Cort. Cort cr250"
 type: "guitarras-electricas-cort"
 ---
 
-### Cort CR250
+Sección dedicada a las guitarras eléctricas de la marca Cort. Te voy a proponer diferentes modelos de **guitarras eléctricas Cort** para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.
+
+## Cort CR250
+
+Consulta a continuación las características principales de la **Cort CR 250**.
 
 ![guitarra cort cr250](../../images/post/cort-cr250.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de Caoba
 * Mástil de Caoba
@@ -34,13 +38,17 @@ type: "guitarras-electricas-cort"
 
 <hr>
 
-### Cort CR 100
+&nbsp;
+
+## Cort CR 100
+
+Consulta a continuación las características principales de la **Cort CR 100**.
 
 ![guitarra cort cr100](../../images/post/cort_cr_100_opt.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de caoba
 * Diapason de palorosa
@@ -53,6 +61,4 @@ type: "guitarras-electricas-cort"
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Cort CR100	   	   | negro | 3,9 sobre 5 | [Ver producto](https://amzn.to/2yjOWcd)	
-
-<hr>
+| Cort CR100	   	   | negro | 3,9 sobre 5 | [Ver producto](https://amzn.to/2yjOWcd)

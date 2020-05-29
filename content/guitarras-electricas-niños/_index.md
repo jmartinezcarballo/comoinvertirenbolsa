@@ -13,13 +13,15 @@ type: "guitarras-electricas-niños"
 ¿A tus hijos les gusta tu **guitarra eléctrica** y quieren que les dejes tocar? a continuación mostramos una serie de **guitarras eléctricas para niños** para que empiecen a sentir el gustillo por el instrumento. Son **guitarras infantiles** que les permitirá empezar a desarrollar la motivación por la música y empezar a practicar la movilidad de los dedos.
 
 
-### Guitarra eléctrica infantil Junior Clifton
+## Guitarra eléctrica infantil Junior Clifton
+
+Consulta a continuación las características principales de la **Junior Clifton**.
 
 ![clifton guitarra electrica para niños](../../images/post/guitarra-electrica-clifton.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Amplificador y altavoz incorporados, 
 * Incluye funda, correa y cable
@@ -36,13 +38,17 @@ type: "guitarras-electricas-niños"
 
 <hr>
 
-### Klangbeisser Startup
+&nbsp;
+
+## Klangbeisser Startup
+
+Consulta a continuación las características principales de la **Klangbeisser Startup**.
 
 ![guitarra electrica para niños klangbeisser startup](../../images/post/guitarra-klangbeisser-startup.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de madera de tilo
 * Cuello de madera de arce
@@ -59,13 +65,17 @@ type: "guitarras-electricas-niños"
 
 <hr>
 
-### Muslady Kit de Guitarra Electrica
+&nbsp;
+
+## Muslady Kit de Guitarra Electrica
+
+Consulta a continuación las características principales de la **Muslady Kit**.
 
 ![muslady kit de guitarra electrica para niños](../../images/post/muslady-kit-guitarra-electrica.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de paulownia
 * Mástil de arce
@@ -84,13 +94,17 @@ type: "guitarras-electricas-niños"
 
 <hr>
 
-### TS Music Fidelity
+&nbsp;
+
+## TS Music Fidelity
+
+Consulta a continuación las características principales de la **TS Music Fidelity**.
 
 ![guitarra electrica para niños ts music fidelity](../../images/post/ts-music-fidelity.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Fabricada en madera maciza
 * Cuello de madera de arce
@@ -109,13 +123,17 @@ type: "guitarras-electricas-niños"
 
 <hr>
 
-### Rocktile Sphere
+&nbsp;
+
+## Rocktile Sphere
+
+Consulta a continuación las características principales de la **Rocktile Sphere**.
 
 ![guitarra electrica para niños rocktile sphere](../../images/post/rocktile-sphere.png)
 
 <hr>
 
-#### Características
+### Características
 
 * Cuerpo de tilo
 * Diapasón de palisandro
@@ -130,5 +148,3 @@ type: "guitarras-electricas-niños"
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Rocktile Sphere | azul | 3,4 sobre 5 | [Ver producto](https://amzn.to/2XAkljg)	
-
-<hr>
