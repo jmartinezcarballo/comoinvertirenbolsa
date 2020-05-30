@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://comprarunaguitarra.com"
+baseURL = "https://www.comprarunaguitarra.com/"
 languageCode = "es-ES"
 title = "Guitarras eléctricas | Guia para comprar una guitarra eléctrica"
 theme = "liva-hugo"
