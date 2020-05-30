@@ -4,7 +4,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Comprar una guitarra  Fender Squier. Encuentra tu guitarra electrica Squier"
+description: "Compara entre diferentes modelos de guitarras eléctricas Squier de Fender, como la Affinity o la Bullet. Encuentra aquella que más se adapte a ti."
 
 # type
 type: "guitarras-electricas-squier"

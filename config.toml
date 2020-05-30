@@ -7,6 +7,11 @@ summaryLength = "10"
 paginate = 6
 disqusShortname = ""
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
