@@ -4,7 +4,7 @@ date: 2020-05-26T10:07:47+06:00
 draft: false
 
 # meta description
-description: "compra guitarras electricas para niños. Seleccion de guitarras infantiles y para niños hasta los 12 años"
+description: "las mejores guitarras eléctricas para niños de [2020], compara y encuentra la mejor guitarra electrica para niños entre los 4 y los 12 años"
 
 # type
 type: "guitarras-electricas-niños"
