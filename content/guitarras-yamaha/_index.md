@@ -74,12 +74,20 @@ Consulta a continuación las características principales de la **Yamaha erg121u
 
 Te dejo a continuación una **comparativa entre la Yamaha Pacífica 012 y la 112v**, ten en cuenta que la **112v** está un peldaño por encima de la **012** en cuanto a características, pero también lo está en **precio**, por lo que está en tu mano comparar las **características** de ambas para ver si te compensa la diferencia de precio por lo que ofrece una y otra.
 
-| Modelo        | Construcción    | Escala | Material cuerpo | Mástil | Trastes | Configuración pastillas | Push/Pull coil | Precio   
-| ------------- |:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------
-| Yamaha Pacífica 012	   	   | atornillada | 64,8cm | agathis | arce | 22 | H-S-S ceramic | No | [Consultar](https://amzn.to/3bLizRn)
-| Yamaha Pacífica 112v	   	   | atornillada | 64,8cm | aliso | arce | 22 | H-S-S alnico V| Sí | 250€
+| | Yamaha Pacífica 012 | Yamaha Pacífica 112v
+| ------------- |:-------------|:-------------
+| **Precio**	| [Consultar](https://amzn.to/3bLizRn) | 250€
+| **Construcción**	| atornillada  | atornillada
+| **Escala**	| 64,8cm | 64,8cm
+| **Material cuerpo**	| agathis | aliso
+| **Mástil**	| arce | arce
+| **Trastes**	| 22 | 22
+| **Configuración pastillas**	| H-S-S ceramic | alnico V
+| **Push/Pull coil**	| No | Sí
 
-Como puedes comprobar no son excesivas las diferencias entre un modelo y el otro, sin embargo esas diferencias son de peso para argumentar el aumento de precio de una respecto a la otra. Personalmente, destacaría dos diferencias por encima de las demás:
+
+
+Como puedes comprobar no son excesivas las diferencias entre un modelo y el otro, sin embargo esas diferencias son de peso para argumentar el aumento de precio de una respecto a la otra. Personalmente, además de las diferencias en algunos materiales con los que están hechas, destacaría dos diferencias por encima de las demás:
 
 * Por un lado el tipo de pastillas. Si bien la configuración de ellas son idénticas con 2 simples y una humbucker, las de la **pacífica 112v** son de mejor calidad y ofrecen una **mayor ganancia** y calidad de sonido.
 * Por otro lado el **push/pull coil** definitivamente marca la diferencia. El push/pull lo que te permite es **separar la pastilla doble en dos pastillas simples**, lo cual duplica las posibilidades de sonido de la guitarra dándole un nivel de **versatilidad** y de abanico de sonidos mucho mayor.
