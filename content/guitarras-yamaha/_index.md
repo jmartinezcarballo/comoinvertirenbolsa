@@ -4,7 +4,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra la guitarra yamaha que estas buscando. guitarras electricas yamaha pacifica 112v y 012"
+description: "Encuentra la guitarra yamaha que estas buscando. guitarras electricas yamaha pacifica 012 vs 112v"
 
 # type
 type: "guitarras-electricas-yamaha"
@@ -70,9 +70,9 @@ Consulta a continuación las características principales de la **Yamaha erg121u
 
 &nbsp;
 
-## Comparativa entre la Yamaha Pacífica 012 y la Yamaha Pacífica 112v
+## Yamaha Pacífica 012 vs 112v
 
-Te dejo a continuación una **comparativa entre la Pacífica 012 y la 112v**, ten en cuenta que la **112v** está un peldaño por encima de la **012** en cuanto a características, pero también lo está en **precio**, por lo que está en tu mano comparar las **características** de ambas para ver si te compensa la diferencia de precio por lo que ofrece una y otra.
+Te dejo a continuación una **comparativa entre la Yamaha Pacífica 012 y la 112v**, ten en cuenta que la **112v** está un peldaño por encima de la **012** en cuanto a características, pero también lo está en **precio**, por lo que está en tu mano comparar las **características** de ambas para ver si te compensa la diferencia de precio por lo que ofrece una y otra.
 
 | Modelo        | Construcción    | Escala | Material cuerpo | Mástil | Trastes | Configuración pastillas | Push/Pull coil | Precio   
 | ------------- |:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------
