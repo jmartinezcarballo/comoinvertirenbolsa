@@ -1,5 +1,5 @@
 ---
-title: "Las Mejores Guitarras Eléctricas para Niños"
+title: "Guitarras Eléctricas para Niños"
 date: 2020-05-30T10:07:47+06:00
 draft: false
 
