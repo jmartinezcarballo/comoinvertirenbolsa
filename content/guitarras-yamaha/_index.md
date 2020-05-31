@@ -16,11 +16,13 @@ Una de las gamas más prestigiosas de Yamaha son las **Yamaha Pacífica**, entre
 
 Te presento a continuación algunos modelos de Yamaha:
 
-
-
 ## Yamaha Pacífica 012
 
-Consulta a continuación las características principales de la **Yamaha Pacifica 012**.
+La **Yamaha Pacífica 012** es una guitarra muy cómoda y versátil, con un **precio** muy ajustado para sus prestaciones. 
+
+Con ella podrás sacar buenos sonidos, tanto limpios con sus pastillas simples como unas aceptables distorsiones con su pastilla doble si lo que te gusta es el Rock o incluso el metal.
+
+El **precio de la Yamaha Pacífica 012** suele rondar los **200€**.
 
 ![guitarra yamaha pacifica 012](../../images/post/yamaha_pacifica_012_opt.jpg)
 
