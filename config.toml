@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://www.comprarunaguitarra.com/"
 languageCode = "es-ES"
-title = "Guitarras eléctricas | Guia para comprar una guitarra eléctrica"
+title = "Comparativas y consejos para comprar una guitarra eléctrica | Comprar una Guitarra"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -139,7 +139,7 @@ disqusShortname = ""
 logo = "images/logo_web_opt_2.png"
 home = "Inicio"
 # Meta data
-description = "Encuentra y compra la guitarra eléctrica perfecta para ti. Consulta y compara diferentes modelos y marcas conocidas como Yamaha, LTD, Ibanez, Fender Squier o Cort."
+description = "¿Quieres aprender a tocar la guitarra? Encuentra la guitarra eléctrica perfecta para ti. Consulta y compara modelos de marcas reconocidas como Yamaha o LTD"
 author = "Comprar una Guitarra"
 # Google Analitycs
 googleAnalitycsID = "UA-167226734-1"
