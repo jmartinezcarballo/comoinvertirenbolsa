@@ -4,7 +4,7 @@ date: 2020-05-30T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra las mejores guitarras eléctricas para niños de 2020, ideales para niños entre los 4 y los 12 años."
+description: "Encuentra las mejores guitarras eléctricas para niños de 2020, ideales para niños entre los 4 y los 12 años. guitarras cadete, guitarras 3/4"
 
 # type
 type: "guitarras-electricas-niños"
@@ -19,7 +19,7 @@ Este matiz es importante ya que existen multitud de opciones en el mercado y son
 
 ## Guitarras eléctricas a escala 3/4
 
-Si tienes un hijo entre los 6 y 12 años aproximadamente y lo que quieres es comprarle una guitarra eléctrica con todo lo que ello implica, lo que mejor se adapte a él seguramente sean las **guitarras eléctricas a escala 3/4**, también conocidas como guitarras de **escala corta**. Son guitarras eléctricas como las de adultos, aptas para todas las edades, pero adaptadas en tamaño y peso para los más peques o personas con, por ejemplo, manos pequeñas las cuales la escala estándar les ofrece más dificultades para tocar el instrumento. Fabricantes de renombre como Squier de Fender o Ibanez disponen en su catálogo de guitarras 3/4 para los más pequeños de la casa. Esto te puede dar una idea de que una guitarra de éstas no es ninguna broma ni un juguete pasajero con el que estar 3 o 4 días después de reyes y olvidarse de él, son guitarras eléctricas de verdad. 
+Si tienes un hijo entre los 6 y 12 años aproximadamente y lo que quieres es comprarle una guitarra eléctrica con todo lo que ello implica, lo que mejor se adapte a él seguramente sean las **guitarras eléctricas a escala 3/4**, también conocidas como guitarras de **escala corta** o **guitarra cadete**. Son guitarras eléctricas como las de adultos, aptas para todas las edades, pero adaptadas en tamaño y peso para los más peques o personas con, por ejemplo, manos pequeñas las cuales la escala estándar les ofrece más dificultades para tocar el instrumento. Fabricantes de renombre como Squier de Fender o Ibanez disponen en su catálogo de guitarras 3/4 para los más pequeños de la casa. Esto te puede dar una idea de que una guitarra de éstas no es ninguna broma ni un juguete pasajero con el que estar 3 o 4 días después de reyes y olvidarse de él, son guitarras eléctricas de verdad. 
 
 A continuación te presento algunos modelos seleccionados de guitarras eléctricas 3/4 para que puedas comparar:
 
