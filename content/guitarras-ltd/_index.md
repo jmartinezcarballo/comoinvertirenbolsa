@@ -4,7 +4,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "guitarras electricas esp ltd. las guitarras esp ltd de metallica. ltd ec-401 ltd ec-1000 ltd ec-256 ltd ec-50 ltd ex 401"
+description: "las mejores guitarras esp ltd en 2020. las guitarras que llevaron a la fama Metallica. ltd ec-401 ltd ec-1000 ltd ec-256 ltd ec-50 ltd ex 401"
 
 # type
 type: "guitarras-electricas-ltd"
@@ -43,28 +43,6 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 
 &nbsp;
 
-
-## LTD MH-10
-
-Consulta a continuación las características principales de la **LTD MH 10**.
-
-![guitarra electrica ltd mh10](../../images/post/LTD_MH_10_opt.png)
-
-### Características
-
-* Cuerpo de tilo
-* Mástil de arce
-* Puente Tune O Matic
-* 24 trastes Extra Jumbo
-* Peso: 4,3kg
-* 2 pastillas humbucker ESP Designed LH-100
-
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| LTD MH-10	   	   | negro | 4,5 de 5 | <a href="https://amzn.to/3bP0q5p" target="_blank">Ver producto</a>		
-
-&nbsp;
-
 ## LTD EC-401
 
 Consulta a continuación las características principales de la **LTD EC-401**.
@@ -83,9 +61,53 @@ Consulta a continuación las características principales de la **LTD EC-401**.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD EC 401	| negro | 3,8 de 5 | <a href="https://amzn.to/3epa4xl" target="_blank">Ver producto</a>
+| LTD EC 401	| negro | 3,8 sobre 5 | <a href="https://amzn.to/3epa4xl" target="_blank">Ver producto</a>
 
 {{< youtube 1y8ymc6ERMo >}}
+
+&nbsp;
+
+
+## LTD MH-10
+
+Consulta a continuación las características principales de la **LTD MH 10**.
+
+![guitarra electrica ltd mh10](../../images/post/LTD_MH_10_opt.png)
+
+### Características
+
+* Cuerpo de tilo
+* Mástil de arce
+* Puente Tune O Matic
+* 24 trastes Extra Jumbo
+* Peso: 4,3kg
+* 2 pastillas humbucker ESP Designed LH-100
+
+| Modelo        | Color    | Valoraciones | Precio |      
+| ------------- |:-------------|:-------------|:-------------
+| LTD MH-10	   	   | negro | 4,5 sobre 5 | <a href="https://amzn.to/3bP0q5p" target="_blank">Ver producto</a>		
+
+&nbsp;
+
+## LTD Viper 400 baritone
+
+Consulta a continuación las características principales de la **LTD Viper 400 baritone**.
+
+![guitarra electrica ltd ec401](../../images/post/ltd-ec-401.png)
+
+### Características
+
+* Cuerpo de caoba
+* Escala 27" Baritone
+* Mástil de 3 piezas de caoba
+* Puente Tune O Matic
+* 24 trastes Extra Jumbo
+* afinadores Grover
+* 2 Pastillas activas emg 85/81
+
+| Modelo        | Color    | Valoraciones | Precio |      
+| ------------- |:-------------|:-------------|:-------------
+| LTD Viper 400 baritone	| negro satín | 5 sobre 5 | <a href="https://amzn.to/2XNYxAY" target="_blank">Ver producto</a>
 
 &nbsp;
 
