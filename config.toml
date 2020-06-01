@@ -104,10 +104,16 @@ disqusShortname = ""
   weight = 3
     # main menu
     [[menu.main]]
+    name = "Transmisores inalámbricos"
+    parent = "Accesorios"
+    URL = "transmisor-inalambrico/"
+    weight = 1
+    # main menu
+    [[menu.main]]
     name = "Behringer Guitar Link"
     parent = "Accesorios"
     URL = "behringer-guitar-link/"
-    weight = 1
+    weight = 2
 
   # footer menu
   [[menu.footer]]
