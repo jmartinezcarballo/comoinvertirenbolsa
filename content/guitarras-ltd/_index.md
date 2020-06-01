@@ -39,7 +39,9 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD EX 401	| negro | - | <a href="https://amzn.to/2U0B5z7" target="_blank">Ver producto</a>	
+| LTD EX 401	| negro | - | <a href="https://amzn.to/2U0B5z7" target="_blank">Ver producto</a>
+
+{{< youtube O3m29fW1sBQ >}}
 
 &nbsp;
 
@@ -72,7 +74,7 @@ Consulta a continuación las características principales de la **LTD EC-401**.
 
 Consulta a continuación las características principales de la **LTD MH 10**.
 
-![guitarra electrica ltd mh10](../../images/post/LTD_MH_10_opt.png)
+![compra guitarra electrica ltd mh10](../../images/post/LTD_MH_10_opt.png)
 
 ### Características
 
@@ -93,7 +95,7 @@ Consulta a continuación las características principales de la **LTD MH 10**.
 
 Consulta a continuación las características principales de la **LTD Viper 400 baritone**.
 
-![guitarra electrica ltd ec401](../../images/post/ltd-ec-401.png)
+![guitarra electrica ltd viper 400 baritone](../../images/post/ltd-viper-400-baritone.png)
 
 ### Características
 
@@ -108,6 +110,8 @@ Consulta a continuación las características principales de la **LTD Viper 400 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | LTD Viper 400 baritone	| negro satín | 5 sobre 5 | <a href="https://amzn.to/2XNYxAY" target="_blank">Ver producto</a>
+
+{{< youtube LuH7Pur_8p4 >}}
 
 &nbsp;
 
