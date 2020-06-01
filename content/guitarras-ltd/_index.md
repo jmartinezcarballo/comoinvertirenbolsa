@@ -12,21 +12,21 @@ type: "guitarras-electricas-ltd"
 
 Sección dedicada a las **guitarras eléctricas** de la marca **ESP LTD**. ESP es una exitosa marca de guitarras surgida, al igual que **Yamaha**, en Japón. Su popularidad creció exponencialmente durante la década de los 80 a raíz de que algunos músicos de mucho prestigio descubrieran la marca y empezaran a utilizar sus modelos y bautizaran sus modelos signature. 
 
-A mitad de los **años 90** ESP, al igual que otras marcas, decidió crear una nueva marca con idea de hacer llegar sus modelos a todos los bolsillos, con **precios más asequibles** y, todo sea dicho, con materiales algo inferiores a los de las **ESP**, y así nacieron las **LTD**.
+A mitad de los **años 90** ESP, al igual que otras marcas, decidió crear una nueva marca con idea de hacer llegar sus modelos a todos los bolsillos, con **precios más asequibles** y, todo sea dicho, con materiales algo inferiores a los de las ESP, y así nacieron las LTD.
 
-A día de hoy se puede decir que **LTD** es la marca más exitosa dentro del panorama del **heavy metal**, ganándose ese status gracias a diferentes modelos algunos de los cuales poco tienen que envidiar a los de sus hermanas mayores ESP, como por ejemplo la exitosa **LTD EC 1000**.
+A día de hoy se puede decir que LTD es la marca más exitosa dentro del panorama del **heavy metal**, ganándose ese status gracias a diferentes modelos algunos de los cuales poco tienen que envidiar a los de sus hermanas mayores ESP, como por ejemplo la exitosa **LTD EC 1000**.
 
-A continuación puedes consultar algunos de los **modelos** que forman parte del catálogo de las **LTD**.
+A continuación puedes consultar algunos de los **modelos** que forman parte del catálogo de las LTD.
 
 <hr>
 
 ## LTD EX 401
 
-Probablemente sean miles y miles de chavales los que en las últimas decadas hayan adquirido una **ltd explorer** queriendo emular a su ídolo **James Hetfield** aprendiéndose los **riffs** de **Master of Puppets**, **Enter Sandman** o **For Whom the Bell Tolls**. Es un modelo que no necesita ningún tipo de presentación. En este caso el modelo que presento es la **ex 401**, modelo de gama más alta que sus predecesoras, la **ex-50** y la **ex-200**. Tendrás que rascarte un poco más el bolsillo que con las otras pero tendrás un cañon de guitarra.
+Probablemente sean miles y miles de chavales los que en las últimas decadas hayan adquirido una **ltd explorer** queriendo emular a su ídolo **James Hetfield** aprendiéndose los riffs de **Master of Puppets**, **Enter Sandman** o **For Whom the Bell Tolls**. Es un modelo que no necesita ningún tipo de presentación. En este caso el modelo que presento es la ex 401, modelo de gama más alta que sus predecesoras, la **ex-50** y la **ex-200**. Tendrás que rascarte un poco más el bolsillo que con las otras pero tendrás un cañon de guitarra.
 
 ![guitarra electrica ltd mh10](../../images/post/ltd-ex-401.png)
 
-### Características
+### Características de la ltd ex 401
 
 * Cuerpo de caoba
 * Mástil de 3 piezas de caoba
@@ -51,7 +51,7 @@ Consulta a continuación las características principales de la **LTD EC-401**.
 
 ![guitarra electrica ltd ec401](../../images/post/ltd-ec-401.png)
 
-### Características
+### Características de la ltd ec 401
 
 * Cuerpo de caoba
 * Mástil de 3 piezas de caoba encolado a través del cuerpo
@@ -76,7 +76,7 @@ Consulta a continuación las características principales de la **LTD MH 10**.
 
 ![compra guitarra electrica ltd mh10](../../images/post/LTD_MH_10_opt.png)
 
-### Características
+### Características de la ltd mh 10
 
 * Cuerpo de tilo
 * Mástil de arce
@@ -97,7 +97,7 @@ Consulta a continuación las características principales de la **LTD Viper 400 
 
 ![guitarra electrica ltd viper 400 baritone](../../images/post/ltd-viper-400-baritone.png)
 
-### Características
+### Características de la ltd Viper 400
 
 * Cuerpo de caoba
 * Escala 27" Baritone
@@ -119,8 +119,8 @@ Consulta a continuación las características principales de la **LTD Viper 400 
 
 Sin desmerecer a ningún artista, desde hace muchos años hablar de **ESP LTD** es hablar de **Metallica**. Desde la segunda mitad de los 80 hasta hoy día tanto **James Hetfield** como **Kirk Hammett** adoptaron esta marca como la más habitual de su repertorio y las empezaron a hacer sonar por todo el mundo a medida que el éxito de la banda iba alcanzando cotas cada vez mayores. 
 
-**Kirk Hammett** fue el primero en dar el salto a **ESP LTD** bautizando su famoso modelo signature **kh-2**, de la que existen numerosos modelos signature como la **Ouija** o **The Mummy**.
+Kirk Hammett fue el primero en dar el salto a ESP bautizando su famoso modelo signature **kh-2**, de la que existen numerosos modelos signature como la **Ouija** o **The Mummy**.
 
-A diferencia de **Kirk** que tradicionalmente ha utilizado modelos **stratocaster**, **Hetfield** popularizó en **los 80** los modelos **explorer**, dando el salto de **Gibson** a **ESP** al descubrir la marca japonesa.
+A diferencia de Kirk que tradicionalmente ha utilizado modelos **stratocaster**, Hetfield popularizó en los 80 los modelos **explorer**, dando el salto de **Gibson** a **ESP** al descubrir la marca japonesa.
 
 {{< youtube qjAhgd9K-8o >}}
