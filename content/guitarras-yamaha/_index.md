@@ -4,7 +4,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "¿Quieres comprar una yamaha pacifica? &#127928; aquí encontrarás los mejores modelos y comparativas del 2020 &#9989; para decidirte por la que mejor se adapte a ti."
+description: "Compara y compra entre las mejores yamaha pacifica del 2020 &#9989; Yamaha pacifica 012 vs 112, elige tu preferida!"
 
 # type
 type: "guitarras-electricas-yamaha"
