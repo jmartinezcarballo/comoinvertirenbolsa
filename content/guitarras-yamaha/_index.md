@@ -4,7 +4,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "¿Quieres comprar una yamaha pacifica? &#9989; aquí encontrarás los mejores modelos y comparativas del 2020 para decidirte por la que mejor se adapte a ti."
+description: "¿Quieres comprar una yamaha pacifica? &#127928; aquí encontrarás los mejores modelos y comparativas del 2020 &#9989; para decidirte por la que mejor se adapte a ti."
 
 # type
 type: "guitarras-electricas-yamaha"
@@ -12,7 +12,11 @@ type: "guitarras-electricas-yamaha"
 
 Sección dedicada a las **guitarras eléctricas** de la marca **Yamaha**. Las Yamaha son una prestigiosa marca japonesa de guitarras tanto eléctricas como acústicas. 
 
-Una de las gamas más prestigiosas de Yamaha son las **Yamaha Pacífica**, entre las que destaca sus exitosos modelos **012** y **112v**. Aparecieron en los años 90 y con los años se han establecido como una referencia dentro de las **guitarras eléctricas para principiantes**. Si quieres una guitarra para aprender a tocar la Pacífica 012 y la 112v son dos opciones muy a tener en cuenta.
+Una de las gamas más prestigiosas de Yamaha son las **Yamaha Pacífica**, entre las que destaca sus exitosos modelos **012** y **112v**. 
+
+Aparecieron en los años 90 y con los años se han establecido como una referencia dentro de las **guitarras eléctricas para principiantes**. 
+
+Si quieres una guitarra para aprender a tocar, las Pacífica 012 y la 112v son dos opciones muy a tener en cuenta.
 
 Te presento a continuación algunos modelos:
 
