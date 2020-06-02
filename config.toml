@@ -114,6 +114,12 @@ disqusShortname = ""
     parent = "Accesorios"
     URL = "behringer-guitar-link/"
     weight = 2
+    # main menu
+    [[menu.main]]
+    name = "Púas de guitarra"
+    parent = "Accesorios"
+    URL = "puas-guitarra/"
+    weight = 3
 
   # footer menu
   [[menu.footer]]
