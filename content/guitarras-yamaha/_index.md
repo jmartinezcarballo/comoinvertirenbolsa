@@ -42,7 +42,7 @@ El **precio** de la Yamaha Pacífica 012 suele rondar los **200€**.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | negro | 4,4 sobre 5 | [Ver producto](https://amzn.to/3bLizRn)	
+| Yamaha Pacífica PA012	   	   | negro | 4,4 sobre 5 | <a href="https://amzn.to/3bLizRn" rel="nofollow" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -64,7 +64,7 @@ Consulta a continuación las características principales de la **Yamaha erg121u
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha erg121ubl	   	   | negro | 4,7 sobre 5 | [Ver producto](https://amzn.to/3gcVbjj)
+| Yamaha erg121ubl	   	   | negro | 4,7 sobre 5 | <a href="https://amzn.to/3gcVbjj" rel="nofollow" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -74,7 +74,7 @@ Te dejo a continuación una **comparativa entre la Yamaha Pacífica 012 y la 112
 
 | | Yamaha Pacífica 012 | Yamaha Pacífica 112v
 | ------------- |:-------------|:-------------
-| **Precio**	| [Consultar](https://amzn.to/3bLizRn) | 250€
+| **Precio**	| <a href="https://amzn.to/3bLizRn" rel="nofollow" target="_blank">Consultar</a> | 250€
 | **Construcción**	| atornillada  | atornillada
 | **Escala**	| 64,8cm | 64,8cm
 | **Material cuerpo**	| agathis | aliso

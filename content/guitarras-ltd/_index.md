@@ -19,8 +19,6 @@ A día de hoy se puede decir que LTD es la marca más exitosa dentro del panoram
 
 A continuación puedes consultar algunos de los **modelos** que forman parte del catálogo de las LTD.
 
-<hr>
-
 ## LTD EX 401
 
 Probablemente sean miles y miles de chavales los que en las últimas decadas hayan adquirido una **ltd explorer** queriendo emular a su ídolo **James Hetfield** aprendiéndose los riffs de **Master of Puppets**, **Enter Sandman** o **For Whom the Bell Tolls**. Es un modelo que no necesita ningún tipo de presentación. En este caso el modelo que presento es la ex 401, modelo de gama más alta que sus predecesoras, la **ex-50** y la **ex-200**. Tendrás que rascarte un poco más el bolsillo que con las otras pero tendrás un cañon de guitarra.
@@ -40,7 +38,7 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD EX 401	| negro | - | <a href="https://amzn.to/2U0B5z7" target="_blank">Ver producto</a>
+| LTD EX 401	| negro | - | <a href="https://amzn.to/2U0B5z7" rel="nofollow" target="_blank">Ver producto</a>
 
 {{< youtube O3m29fW1sBQ >}}
 
@@ -64,7 +62,7 @@ Consulta a continuación las características principales de la **LTD EC-401**.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD EC 401	| negro | 3,8 sobre 5 | <a href="https://amzn.to/3epa4xl" target="_blank">Ver producto</a>
+| LTD EC 401	| negro | 3,8 sobre 5 | <a href="https://amzn.to/3epa4xl" rel="nofollow" target="_blank">Ver producto</a>
 
 {{< youtube 1y8ymc6ERMo >}}
 
@@ -88,7 +86,7 @@ Consulta a continuación las características principales de la **LTD MH 10**.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD MH-10	   	   | negro | 4,5 sobre 5 | <a href="https://amzn.to/3bP0q5p" target="_blank">Ver producto</a>		
+| LTD MH-10	   	   | negro | 4,5 sobre 5 | <a href="https://amzn.to/3bP0q5p" rel="nofollow" target="_blank">Ver producto</a>		
 
 &nbsp;
 
@@ -110,7 +108,7 @@ Consulta a continuación las características principales de la **LTD Viper 400 
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD Viper 400 baritone	| negro satín | 5 sobre 5 | <a href="https://amzn.to/2XNYxAY" target="_blank">Ver producto</a>
+| LTD Viper 400 baritone	| negro satín | 5 sobre 5 | <a href="https://amzn.to/2XNYxAY" rel="nofollow" target="_blank">Ver producto</a>
 
 {{< youtube LuH7Pur_8p4 >}}
 
@@ -136,7 +134,7 @@ A continuación os dejo las características para el modelo V de la **serie 400 
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD V 401	| negro | - | <a href="https://amzn.to/3eJecrX" target="_blank">Ver producto</a>
+| LTD V 401	| negro | - | <a href="https://amzn.to/3eJecrX" rel="nofollow" target="_blank">Ver producto</a>
 
 &nbsp;
 

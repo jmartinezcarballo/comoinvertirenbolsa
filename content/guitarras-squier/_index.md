@@ -35,7 +35,7 @@ Consulta a continuación las características principales de la **Squier Affinit
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Squier Affinity Stratocaster | sunburst | 4,2 sobre 5 | [Ver producto](https://amzn.to/2zixUf9)	
+| Squier Affinity Stratocaster | sunburst | 4,2 sobre 5 | <a href="https://amzn.to/2zixUf9" rel="nofollow" target="_blank">Ver producto</a>	
 
 <hr>
   
@@ -61,6 +61,6 @@ Consulta a continuación las características principales de la **Squier Affinit
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Squier Bullet Stratocaster | negro | 4,5 sobre 5 | [Ver producto](https://amzn.to/2zqDj3O)	
+| Squier Bullet Stratocaster | negro | 4,5 sobre 5 | <a href="https://amzn.to/2zqDj3O" rel="nofollow" target="_blank">Ver producto</a>
 
 <hr>

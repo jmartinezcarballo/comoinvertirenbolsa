@@ -46,7 +46,7 @@ A continuación te expongo las características principales de la **Fender Squie
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Fender Squier Mini Stratocaster | rojo torino | 4,5 sobre 5 | <a href="https://amzn.to/2XYlvWb" target="_blank">Ver producto</a>
+| Fender Squier Mini Stratocaster | rojo torino | 4,5 sobre 5 | <a href="https://amzn.to/2XYlvWb" rel="nofollow" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -74,7 +74,7 @@ A continuación te expongo las características principales de la **Rocktile L-5
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Rocktile L-50B | negro | 5 sobre 5 | <a href="https://amzn.to/3ceVvL3" target="_blank">Ver producto</a>
+| Rocktile L-50B | negro | 5 sobre 5 | <a href="https://amzn.to/3ceVvL3" rel="nofollow" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -100,7 +100,7 @@ A continuación te expongo las características principales de la **Ibanez GRGM2
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Ibanez GRGM21-WHGIO Mikro | blanco | 5 sobre 5 | <a href="https://amzn.to/2XJMNz9" target="_blank">Ver producto</a>
+| Ibanez GRGM21-WHGIO Mikro | blanco | 5 sobre 5 | <a href="https://amzn.to/2XJMNz9" rel="nofollow" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -126,7 +126,7 @@ A continuación te expongo las características principales de la **Stagg S300**
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Stagg S300 | negro | 4 sobre 5 | <a href="https://amzn.to/36LEGGy" target="_blank">Ver producto</a>
+| Stagg S300 | negro | 4 sobre 5 | <a href="https://amzn.to/36LEGGy" rel="nofollow" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -154,7 +154,7 @@ A continuación te expongo las características principales de la **Rocktile Sph
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Rocktile Sphere | azul o negro | 3,4 sobre 5 | <a href="https://amzn.to/2XAkljg" target="_blank">Ver producto</a>
+| Rocktile Sphere | azul o negro | 3,4 sobre 5 | <a href="https://amzn.to/2XAkljg" rel="nofollow" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -181,7 +181,7 @@ Consulta a continuación las características principales de la **Klangbeisser S
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Klangbeisser startup | sunburst | - | <a href="https://amzn.to/2M9mYTW" target="_blank">Ver producto</a>
+| Klangbeisser startup | sunburst | - | <a href="https://amzn.to/2M9mYTW" rel="nofollow" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -214,7 +214,7 @@ Consulta a continuación las características principales de la **Muslady Kit**.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Muslady Kit | blanco | - | <a href="https://amzn.to/2XEdg19" target="_blank">Ver producto</a>	
+| Muslady Kit | blanco | - | <a href="https://amzn.to/2XEdg19" rel="nofollow" target="_blank">Ver producto</a>	
 
 <hr>
 
@@ -243,7 +243,7 @@ Consulta a continuación las características principales de la **TS Music Fidel
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| TS Music Fidelity | negro | 3,9 sobre 5 | <a href="https://amzn.to/2XCHPUR" target="_blank">Ver producto</a>	
+| TS Music Fidelity | negro | 3,9 sobre 5 | <a href="https://amzn.to/2XCHPUR" rel="nofollow" target="_blank">Ver producto</a>	
 
 &nbsp;
 
@@ -268,7 +268,7 @@ Consulta a continuación las características principales de la **Junior Clifton
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Guitarra Junior Clifton 	| rojo | 3,5 sobre 5 | <a href="https://amzn.to/3guf3yl" target="_blank">Ver producto</a>
+| Guitarra Junior Clifton 	| rojo | 3,5 sobre 5 | <a href="https://amzn.to/3guf3yl" rel="nofollow" target="_blank">Ver producto</a>
 
 <hr>
 
