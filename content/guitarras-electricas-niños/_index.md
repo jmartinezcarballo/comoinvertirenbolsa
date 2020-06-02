@@ -1,5 +1,6 @@
 ---
 title: "Guitarras Eléctricas para Niños"
+seoTitle: "Las mejores guitarras eléctricas para niños de 2020 | Comprar una Guitarra"
 date: 2020-05-30T10:07:47+06:00
 draft: false
 
