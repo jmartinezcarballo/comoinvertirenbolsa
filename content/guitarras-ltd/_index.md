@@ -4,7 +4,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "las mejores guitarras esp ltd en 2020. las guitarras que llevaron a la fama Metallica. ltd ec-401 ltd ec-1000 ltd ec-256 ltd ec-50 ltd ex 401"
+description: "las mejores guitarras esp ltd en 2020. las guitarras que llevaron a la fama Metallica. Compara y encuentra tu favorita de la serie 400"
 
 # type
 type: "guitarras-electricas-ltd"
@@ -115,12 +115,36 @@ Consulta a continuación las características principales de la **LTD Viper 400 
 
 &nbsp;
 
+## LTD V 401
+
+Ya hemos visto casi toda la gama 400 previamente, pero nos faltaba una por tratar, la **flying V**.
+
+A continuación os dejo las características para el modelo V de la **serie 400 de ltd** que, como veréis, son casi idénticas a las otras ltd de idéntica gama.
+
+![guitarra electrica ltd v 401 flying](../../images/post/ltd-v-401.png)
+
+### Características de la ltd V 401
+
+* Cuerpo de caoba
+* Mástil de 3 piezas de arce
+* Diapasón de palorosa
+* Puente Tune O Matic
+* 24 trastes Extra Jumbo
+* afinadores Grover
+* 2 Pastillas activas emg 81/85
+
+| Modelo        | Color    | Valoraciones | Precio |      
+| ------------- |:-------------|:-------------|:-------------
+| LTD V 401	| negro | - | <a href="https://amzn.to/3eJecrX" target="_blank">Ver producto</a>
+
+&nbsp;
+
 ## ESP LTD y Metallica
 
 Sin desmerecer a ningún artista, desde hace muchos años hablar de **ESP LTD** es hablar de **Metallica**. Desde la segunda mitad de los 80 hasta hoy día tanto **James Hetfield** como **Kirk Hammett** adoptaron esta marca como la más habitual de su repertorio y las empezaron a hacer sonar por todo el mundo a medida que el éxito de la banda iba alcanzando cotas cada vez mayores. 
 
 Kirk Hammett fue el primero en dar el salto a ESP bautizando su famoso modelo signature **kh-2**, de la que existen numerosos modelos signature como la **Ouija** o **The Mummy**.
 
-A diferencia de Kirk que tradicionalmente ha utilizado modelos **stratocaster**, Hetfield popularizó en los 80 los modelos **explorer**, dando el salto de **Gibson** a **ESP** al descubrir la marca japonesa.
+A diferencia de Kirk que tradicionalmente ha utilizado modelos **stratocaster**, Hetfield popularizó en los 80 los modelos **explorer**, dando el salto de Gibson a ESP al descubrir la marca japonesa.
 
 {{< youtube qjAhgd9K-8o >}}
