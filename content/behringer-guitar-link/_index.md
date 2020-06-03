@@ -11,7 +11,7 @@ description: "Behringer Guitar Link ‎ucg102 &#9989; Si quieres comprar el guit
 type: "behringer-guitar-link"
 ---
 
-Desde que descubrí el **Behringer Guitar Link ‎ucg102** ya no he vuelto a recordar lo que es tener un amplificador en casa. 
+Si hay una **review** que tenía ganas de hacer esa era la del **Behringer Guitar Link ‎ucg102** y es que, desde que lo descubrí, ya no he vuelto a recordar lo que es tener un amplificador en casa.
 
 Evidentemente, si vas a tocar en una banda o con amigos vas a necesitar un ampli, pero si vas a estar en casa y más si estás **aprendiendo a tocar la guitarra**, personalmente veo más interesante dedicar el presupuesto a comprar una guitarra un poco mejor que no dedicar un % a un ampli poco potente y de gama baja que además en casa no vas a poder sacarle partido y que te reste dinero para tu guitarra. Todo esto, evidentemente, bajo mi subjetivo punto de vista, para gustos no hay nada escrito.
 
