@@ -5,7 +5,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "las mejores guitarras esp ltd en 2020. las guitarras que llevaron a la fama Metallica. Compara y encuentra tu favorita de la serie 400"
+description: "las mejores guitarras esp ltd en 2020 &#9989; las guitarras que llevaron a la fama Metallica. Compara y encuentra tu favorita de la serie 400"
 
 # type
 type: "guitarras-electricas-ltd"
