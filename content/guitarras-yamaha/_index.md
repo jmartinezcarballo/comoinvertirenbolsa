@@ -29,22 +29,41 @@ Con ella podrás sacar buenos sonidos, tanto limpios con sus pastillas simples c
 
 El **precio** de la Yamaha Pacífica 012 suele rondar los **200€**.
 
-![guitarra yamaha pacifica 012](../../images/post/yamaha_pacifica_012_opt.jpg)
+![guitarra yamaha pacifica 012](https://www.thomann.de/pics/prod/152332.jpg)
 
 ### Características de la Yamaha Pacífica 012
 
 * Cuerpo de Agathis
 * Puente trémolo estilo vintage
 * 22 trastes de palosanto
-* 4,2kg de peso
 * 2 pastillas single coil y 1 humbucker en el puente con selector de 5 posiciones
 
-
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | negro | 4,4 sobre 5 | <a href="https://amzn.to/3bLizRn" rel="nofollow" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/3bLizRn" class="btn" rel="nofollow" target="_blank">Ver en Amazon</a>&nbsp;
+	<a href="https://www.thomann.de/es/yamaha_pacifica_012rm.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver en Thomann</a>
+</div>
 
 &nbsp;
+
+## Yamaha Pacífica 112v
+
+La **Yamaha Pacífica 112v** es el modelo superior de la pacifica 012. Al igual que su hermana pequeña destaca por su versatilidad y comodidad que la hace ideal para principiantes.
+
+![yamaha pacifica 112v](https://www.thomann.de/pics/prod/111359.jpg)
+
+### Características de la Yamaha Pacífica 112v
+
+* Cuerpo de aliso
+* Mastil de arce
+* Diapasón de palisandro
+* Puente trémolo estilo vintage
+* Push/pull coil para convertir la pastilla doble en simple
+* 22 trastes de palosanto
+* 2 pastillas single coil y 1 humbucker de alnico con selector de 5 posiciones
+
+<div>
+	<a href="https://www.thomann.de/es/yamaha_pacifica_112v_bl.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver producto</a>
+</div>
 
 ## Yamaha erg121ubl
 
@@ -62,9 +81,9 @@ Consulta a continuación las características principales de la **Yamaha erg121u
 * 4,2kg de peso
 * 2 pastillas humbucker y 1 single coil Power SC
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Yamaha erg121ubl	   	   | negro | 4,7 sobre 5 | <a href="https://amzn.to/3gcVbjj" rel="nofollow" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/3gcVbjj" class="btn" rel="nofollow" target="_blank">Ver producto</a>&nbsp;
+</div>
 
 &nbsp;
 
