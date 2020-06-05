@@ -160,7 +160,7 @@ La **ESP LTD black metal arrow** es un modelo de ltd con una única pastilla EMG
 
 Si buscas una **guitarra ltd flying V**, ésta es la perfecta para ti.
 
-![ltd black metal arrow](https://images.static-thomann.de/pics/bdb/458254/13878811_800.jpg)
+![ltd black metal arrow](https://www.thomann.de/pics/bdb/458254/13878816_800.jpg)
 
 ### Características de la **ESP LTD Arrow BKM BLKS**.
 
