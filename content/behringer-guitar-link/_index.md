@@ -21,7 +21,7 @@ Básicamente es una **interfaz externa de audio**, que te permite "sustituir" tu
 
 <div><img src="../../images/post/behringer_guitar_link_opt.png" alt="behringer guitar link ucg102" width="200" height="268"></div>
 <div>
-	<a href="https://amzn.to/3e8gvEN" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/3e8gvEN" class="btn" rel="nofollow" target="_blank">Comprar guitar link</a>
 </div>
 
 ## Configurar Guitar Link
@@ -38,4 +38,4 @@ Para empezar, el Guitar Link viene con algunos **presets** de serie, pero necesi
 
 {{< youtube T4XafHppNF8 >}}
 
-**Compra tu Behringer Guitar Link** <a href="https://amzn.to/3e8gvEN" rel="nofollow" target="_blank">**aquí**.</a>
+**Accede a comprar Guitar Link** <a href="https://amzn.to/3e8gvEN" rel="nofollow" target="_blank">**aquí**.</a>
