@@ -96,7 +96,6 @@ disqusShortname = ""
     URL = "guitarras-cort/"
     weight = 4
 
-
   # main menu
   [[menu.main]]
   name = "Accesorios"
@@ -120,6 +119,18 @@ disqusShortname = ""
     parent = "Accesorios"
     URL = "puas-guitarra/"
     weight = 3
+
+  # main menu
+    [[menu.main]]
+    name = "Guitarristas"
+    hasChildren = true
+    weight = 4
+    # main menu
+    [[menu.main]]
+    name = "James Hetfield"
+    parent = "Guitarristas"
+    URL = "james-hetfield/"
+    weight = 1
 
   # footer menu
   [[menu.footer]]
