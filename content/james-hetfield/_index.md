@@ -5,7 +5,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Biografía de James Hetfield a través de sus guitarra utilizadas hasta 2020 &#9989; conoce todo sobre las guitarras del líder de Metallica"
+description: "Biografía de James Hetfield a través de sus guitarras utilizadas hasta 2020 &#9989; conoce todo sobre las guitarras del líder de Metallica y hazte con una!"
 
 # type
 type: "james-hetfield"
