@@ -37,7 +37,7 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 * 2 Pastillas activas emg-60/81
 
 <div>
-	<a href="https://amzn.to/3e8gvEN" class="btn" rel="nofollow" target="_blank">Ver en Amazon</a> &nbsp;
+	<a href="https://amzn.to/2BxUWzh" class="btn" rel="nofollow" target="_blank">Ver en Amazon</a> &nbsp;
 	<a href="https://www.thomann.de/es/esp_ex_401_sw.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver en Thomann</a>
 </div>
 

@@ -17,7 +17,7 @@ Hablar de **James Hetfield** es hablar de una de las mayores leyendas vivas dent
 
 Nacido en agosto de 1963, James Hetfield fundó en octubre de 1981 junto a **Lars Ulrich** la banda californiana **Metallica**, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
 
-Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus **guitarras**, así que eso es lo que voy a intentar en las siguientes lineas, espero que os guste el enfoque que le he querido dar.
+Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus **guitarras**, así que eso es lo que voy a intentar en las siguientes líneas, espero que os guste el enfoque que le he querido dar.
 
 ## Biografía de James Hetfield a través de sus guitarras
 
@@ -30,9 +30,9 @@ Icónica **flying V** blanca con la que **Hetfield** grabó y se llevó de gira 
 <div><img src="../../images/james-hetfield/james-hetfield-flying-v-blanca.jpg" alt="james hetfield flying v kill em all" width="350" height="525"></div>
 <div><img src="../../images/james-hetfield/michael-schenker-flying-v.jpg" alt="michael schenker flying v" width="350" height="326"></div>
 
-Utilizada hasta 1984 cuando se rompió el mástil y decidió pasarse a la Gibson explorer, ésta flying V fue la tercera guitarra que James Hetfield tuvo en propiedad.
+Utilizada hasta 1984 cuando se rompió el mástil y decidió pasarse a la Gibson explorer, ésta flying V fue la tercera guitarra que tuvo en propiedad.
 
-Como dato curioso, fue restaurada hace unos años añadíendole unas pastillas EMG y fue una de las guitarras utilizadas en la grabación de **Death Magnetic** en 2008. La podéis oir, por ejemplo, en la intro de **Broken, Beat and Scarred**.
+Como dato curioso, fue restaurada hace unos años añadíendole unas pastillas EMG y fue una de las guitarras utilizadas en la grabación de **Death Magnetic** en 2008. La podéis oír, por ejemplo, en la intro de **Broken, Beat and Scarred**.
 
 #### Características de la Electra Gibson Flying V
 
@@ -76,7 +76,7 @@ De igual manera que con la flying V, para el Death Magnetic Hetfield quiso recup
 
 ### ESP MX 220 (1987-1990)
 
-En **1987**, después de que **Kirk Hammett** le descubrierá las **ESP**, **James Hetfield** decidió también hacer el cambió dejando atrás las Gibson que había utilizado los últimos años por las guitarras ESP. Eso si, no tenía intención de renunciar al icónico estilo explorer blanco que ya se había convertido en característico de su imagen. De esta manera llegaron las **ESP MX 220** a manos de Hetfield, cuyo diseño la marca nipona quiso hacer a imagen y semejanza de la **Gibson Explorer** original de **1958**.
+En **1987**, después de que **Kirk Hammett** le descubriera las **ESP**, **James Hetfield** decidió también hacer el cambio dejando atrás las Gibson que había utilizado los últimos años por las guitarras ESP. Eso sí, no tenía intención de renunciar al icónico estilo explorer blanco que ya se había convertido en característico de su imagen. De esta manera llegaron las **ESP MX 220** a manos de Hetfield, cuyo diseño la marca nipona quiso hacer a imagen y semejanza de la **Gibson Explorer** original de **1958**.
 
 <div><img src="../../images/james-hetfield/james-hetfield-esp-mx-220-eet-fuk.jpg" alt="james hetfield esp mx 220 1987" width="335" height="390"></div>
 
@@ -96,7 +96,7 @@ Desde 1990 Hetfield ya no usa esta guitarra aunque, una vez más, la recuperó p
 * Afinadores Gotoh
 * 2 pastillas activas EMG 81/60
 
-Os dejo una grabación de uno de los mejores conciertos de la carrera de la banda, con la **ESP MX 220 Ett Fuk** en plena acción.
+Os dejo una grabación de uno de los mejores conciertos de la carrera de la banda, con la **ESP MX 220 Ett Fuk** en plena acción en Seattle 89.
 
 {{< youtube vp-7hB-8jJY >}}
 
@@ -131,10 +131,10 @@ Os dejo con un video del concierto **homenaje a Freddy Mercury** donde podéis v
 
 &nbsp;
 
-Hasta aquí el repaso a los 15 primeros años de la carrera de Metallica en lo que a guitarras se refiere. Te han gustado las **explorer de James Hetfield**?
+Hasta aquí el repaso a los 15 primeros años de la carrera de Metallica en lo que a guitarras se refiere. ¿Te han gustado las **explorer de James Hetfield**?
 
 <div>
-	<a href="https://amzn.to/3e8gvEN" class="btn" rel="nofollow" target="_blank">Quiero una ESP explorer blanca</a> &nbsp;
+	<a href="https://amzn.to/2BxUWzh" class="btn" rel="nofollow" target="_blank">Quiero una ESP explorer blanca</a> &nbsp;
 	<a href="https://www.thomann.de/es/esp_ltd_ex_200_black.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Quiero una ESP explorer negra</a>
 </div>
 
@@ -142,15 +142,15 @@ Hasta aquí el repaso a los 15 primeros años de la carrera de Metallica en lo q
 
 A partir de la segunda mitad de los 90, y de la misma manera que a estética personal se refiere, James Hetfield abandona los diseños digamos que estándar y empieza a incorporar diseños estéticamente mucho más customizados y llamativos que se diferencian notablemente de los modelos de serie habituales.
 
-He de decir que una de sus primeras elecciones no pudo ser más acertada, estamos hablando de su íconica **Ken Lawrence Explorer**, personalmente mi guitarra preferida de **James Hetfield**.
+He de decir que una de sus primeras elecciones no pudo ser más acertada, estamos hablando de su icónica **Ken Lawrence Explorer**, personalmente mi guitarra preferida de **James Hetfield**.
 
 La guitarra fue creada por el prestigioso **luthier Ken Lawrence** que, a pesar de estar especializado en bajos, ha construído varias guitarras para Hetfield.
 
 <div><img src="../../images/james-hetfield/james-hetfield-ken-lawrence-explorer.jpg" alt="james hetfield ken lawrence explorer" width="300" height="400"></div>
 
-Junto a la MX 250 es de las guitarras más utilizadas por Hetfield en su carrera. Seguramente es la guitarra que mejores **sonidos limpios** le da, por eso suele ser la guitarra que siempre usa en canciones como **Nothing else Matters, One, Fade to Black o Enter Sandman** por su intro.
+Junto a la MX 250 es de las guitarras más utilizadas por Hetfield en su carrera. Seguramente es la guitarra que mejores **sonidos limpios** le da, por eso suele ser la guitarra que siempre usa en canciones como **Nothing else Matters, One, Sanitarium o Enter Sandman** por su intro.
 
-Hetfield tiene, al menos, tres versiones de este modelo. Dos de ellas diferenciadas por los inlays y una tercera de doble mástil siendo uno de ellos **barítono**. Por cierto, para quien no sepa que son exactamente los inlays que lleva en la primera que se fabricó, vienen a representar una escena de caza azteca.
+Hetfield tiene, al menos, tres versiones de este modelo. Dos de ellas diferenciadas por los inlays y una tercera de doble mástil siendo uno de ellos **barítono**. Por cierto, para quien no sepa qué son exactamente los inlays que lleva en la primera que se fabricó, vienen a representar una escena de caza azteca.
 
 En cuanto a las características de la guitarra que aquí te presento, viene a ser muy similar a la MX250 con diferente clavijero y algunos detalles más. Con el paso de los años, eso sí, las pastillas EMG de serie fueron cambiadas por las **pastillas JH** signature, que vienen a ser unas EMGs customizadas por el propio Hetfield.
 
@@ -218,13 +218,13 @@ En 2003 se construyeron apenas 300 unidades de la fácilmente reconocible viper 
 
 ### ESP Truckster (desde 2008)
 
-A partir de 2003 empezó a ser más habitual ver a **James Hetfield** utilizar modelos **Single Cut** en los conciertos de la banda. De sobra conocidos son los **problemas de espalda** que ha sufrido el cantante a lo largo de su carrera y probablemente este fuera uno de los motivos que lo llevaran a empezar a alternar modelos más ligeros y manejables con las explorer.
+A partir de 2003 empezó a ser más habitual ver a **James Hetfield** utilizar modelos **Single Cut** en los conciertos de la banda. De sobra conocidos son los **problemas de espalda** que ha sufrido el cantante a lo largo de su carrera y probablemente esto fuese uno de los motivos que lo llevaran a empezar a alternar modelos más ligeros y manejables con las explorer.
 
 En 2008 **ESP** construyó para Hetfield el modelo signature **Truckster**, del que existen varios modelos y colores diferentes.
 
 <div><img src="../../images/james-hetfield/james-hetfield-esp-truckster.webp" alt="james hetfield esp truckster" width="266" height="400"></div>
 
-Ésta fue la primera guitarra en incorporar las **pastillas EMG** signature creadas bajo la supervisión de James Hetfield, basadas en las habituales **EMG 81/60**, las JH bridge y neck (**JH-B** y **JH-N**)
+La ESP Truckster fue la primera guitarra en incorporar las **pastillas EMG** signature creadas bajo la supervisión de James Hetfield, basadas en las habituales **EMG 81/60**, las JH bridge y neck (**JH-B** y **JH-N**)
 
 #### Características de la ESP Truckster
 
@@ -260,7 +260,7 @@ Basada en la **Gibson Les Paul Custom** que utilizó durante la gira de St.Anger
 
 {{< youtube QAvARtjXYaI >}}
 
-Te gustaría tener una **ESP Iron Cross**?
+¿Te gustaría tener una **ESP Iron Cross**?
 
 <div>
 	<a href="https://www.thomann.de/es/esp_ltd_iron_cross_sw_459164.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Comprar LTD Iron Cross</a>&nbsp;
@@ -290,7 +290,7 @@ Las especificaciones ofrecen pocas novedades respecto a modelos previos, con el 
 
 &nbsp;
 
-Te gustaría tener una **ESP Snakebyte**?
+¿Te gustaría tener una **ESP Snakebyte**?
 
 <div>
 	<a href="https://www.thomann.de/es/esp_ltd_snakebyte_sw_459205.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Comprar LTD Snakebyte</a>&nbsp;
@@ -319,7 +319,7 @@ La **ESP Vulture** es la última ESP signature creada para James Hetfield en 201
 
 {{< youtube beluHdu-DQw >}}
 
-Te gustaría tener una **ESP Vulture**?
+¿Te gustaría tener una **ESP Vulture**?
 
 <div>
 	<a href="https://www.thomann.de/es/esp_ltd_vulture_blks.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Comprar LTD Vulture</a>&nbsp;
@@ -328,7 +328,7 @@ Te gustaría tener una **ESP Vulture**?
 
 ### Kenneth Lawrence Explorer Garage Days "Carl" (2018)
 
-He dejado para el final la guitarra con mayor valor sentimental (ahora os explicaré porqué), además de ser la última creada por Ken Lawrence para James Hetfield, una reedición de la **Ken Lawrence Explorer** de 1996 a la que Hetfield bautizó como **Carl** (en referencia a **Carlson Boulevard**, calle donde se situa la casa donde la banda vivió en **San Francisco** a mitad de los años 80, coocida como **El Cerrito**).
+He dejado para el final la guitarra con mayor valor sentimental (ahora os explicaré porqué), además de ser la última creada por Ken Lawrence para James Hetfield, una reedición de la **Ken Lawrence Explorer** de 1996 a la que Hetfield bautizó como **Carl** (en referencia a **Carlson Boulevard**, calle donde se sitúa la casa donde la banda vivió en **San Francisco** a mitad de los años 80, conocida como **El Cerrito**).
 
 <div><img src="../../images/james-hetfield/james-hetfield-ken-lawrence-explorer-carl.jpg" alt="james hetfield ken lawrence explorer carl garage days" width="350" height="350"></div>
 
@@ -338,27 +338,24 @@ Pues bien, resulta que a Hetfield le picó el gusanillo de sus Garage Days cuand
 
 Pero circunstancias de la vida, en una fiesta que la banda realizó allí se enteraron que un amigo de la banda conservaba como recuerdo unos tablones de madera de aquel garaje.
 
-Así que, efectivamente, la capa externa golpeada y llena de huecos que se ve en la guitarra se ha hecho a partir de aquellos tablones que un día fueron testigos de parte de la historia de la música el lugar donde se ensayaron y se crearon el **Ride the Lightning** y el **Master of Puppets** (y probablemente alguna que otra fiesta y algo más), casi nada.
+Así que, efectivamente, la capa externa golpeada y llena de huecos que se ve en la guitarra se ha hecho a partir de aquellos tablones que un día fueron testigos de parte de la historia de la música, el lugar donde se ensayaron y se crearon el **Ride the Lightning** y el **Master of Puppets** (y probablemente alguna que otra fiesta y algo más), casi nada.
 
 <div><img src="../../images/james-hetfield/metallica-el-cerrito.jpg" alt="metallica el cerrito 3132 san francisco" width="350" height="263"></div>
 
-Pero, un momento, esto es a lo que cuerpo se refiere. Supongo que también querréis saber qué son todos esos inlays que se aprecian en la imagen. Bien, aquí viene la segunda parte de la historia.
+Pero, un momento, esto es a lo que cuerpo se refiere. Supongo que también os gustaría saber qué son todos esos inlays que se aprecian en la imagen. Bien, aquí viene la segunda parte de la historia.
 
 De abajo a arriba los inlays se distribuyen de la siguiente manera:
 
 * 3 inlays que representan a **Kirk Hammett**, **Lars Ulrich** y **James Hetfield**
 * 1 inlay, el del traste 12, que representa al recordado por todos **Cliff Burton** pidiendo a la banda mudarse a San Francisco como condición para entrar a la banda y éstos accediendo.
-* 3 inlays más que representan el puente de San Francisco y la muerte de Cliff Burton (dos cruces sobre la constelación de Orion)
+* 3 inlays más que representan el puente de San Francisco y la muerte de Cliff Burton (dos cruces bajo la constelación de Orion)
 * 2 inlays en la parte superior del mástil que representan la casa y garaje donde vivieron esos años.
 
-Si os fijáis, los inlays forman una secuencia **3132**, que es precisamente el **número de la calle** donde estaba situada **El Cerrito** y representan asímismo el recuerdo imborrable tanto de aquellos años como de Cliff Burton, el fallecido **bajista de Metallica** en un accidente de autobús cuando la banda estaba de gira por Europa presentando el Master of Puppets.
-
-
+Si os fijáis, los inlays forman una secuencia **3132**, que es precisamente el **número de la calle** donde estaba situada **El Cerrito** y representan asímismo el recuerdo imborrable tanto de aquellos años como de Cliff Burton, el fallecido **bajista de Metallica** en un accidente de autobús cuando la banda estaba de gira por Europa presentando el Master of Puppets en septiembre de 1986.
 
 Sin duda, todo el interior del cuerpo estará hecho de la mejor caoba que exista, pero el componente nostálgico de conseguir recubrir por fuera el cuerpo con un recuerdo de aquellos años me parece una idea fabulosa.
 
 {{< youtube pd9LfzWTaLQ >}}
-
 
 &nbsp;
 
