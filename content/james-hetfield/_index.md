@@ -1,11 +1,11 @@
 ---
 title: "James Hetfield, sus guitarras hasta 2020"
-seoTitle: "James Hetfield, una biografía a través de sus guitarras 2020 | Comprar una Guitarra"
+seoTitle: "James Hetfield, biografía y sus guitarras [2020] | Comprar una Guitarra"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Biografía de James Hetfield a través de los diferentes modelos de guitarra utilizados hasta 2020 &#9989; aprende todo sobre las guitarras del líder de Metallica"
+description: "Biografía de James Hetfield a través de sus guitarra utilizadas hasta 2020 &#9989; conoce todo sobre las guitarras del líder de Metallica"
 
 # type
 type: "james-hetfield"
@@ -144,7 +144,7 @@ A partir de la segunda mitad de los 90, y de la misma manera que a estética per
 
 He de decir que una de sus primeras elecciones no pudo ser más acertada, estamos hablando de su icónica **Ken Lawrence Explorer**, personalmente mi guitarra preferida de **James Hetfield**.
 
-La guitarra fue creada por el prestigioso **luthier Ken Lawrence** que, a pesar de estar especializado en bajos, ha construído varias guitarras para Hetfield.
+La guitarra fue creada por el prestigioso **luthier Ken Lawrence** que, a pesar de estar especializado en bajos, ha construido varias guitarras para Hetfield.
 
 <div><img src="../../images/james-hetfield/james-hetfield-ken-lawrence-explorer.jpg" alt="james hetfield ken lawrence explorer" width="300" height="400"></div>
 
@@ -174,7 +174,7 @@ Una última curiosidad de esta guitarra, inapreciable en imágenes y videos: en 
 
 ### ESP JH-1 Flying V (1996-1999)
 
-Guitarra elaborada por **ESP** en 1996. Si bien este modelo sólo fue utilizado en la época de **Load y Reload** y, puntualmente desde entonces para alguna canción suelta de algunos conciertos, he querido añadir esta guitarra en la biografía, no solo porque era la primera **flying V** que Hetfield utilizaba desde su blanca del Kill 'em all, sino también por ser la primera signature que ESP construía específicamente para él, de ahí el nombre de **ESP JH-1**. Le sucedieron los modelos **JH-2** y **JH-3**, siendo la JH-2 un modelo de tipo explorer con detalles de diamante negro en la capa externa del cuerpo y la JH-3 de tipo single cut (forma les paul) clásico.
+Guitarra elaborada por **ESP** en 1996. Si bien este modelo solo fue utilizado en la época de **Load y Reload** y, puntualmente desde entonces para alguna canción suelta de algunos conciertos, he querido añadir esta guitarra en la biografía, no solo porque era la primera **flying V** que Hetfield utilizaba desde su blanca del Kill 'em all, sino también por ser la primera signature que ESP construía específicamente para él, de ahí el nombre de **ESP JH-1**. Le sucedieron los modelos **JH-2** y **JH-3**, siendo la JH-2 un modelo de tipo explorer con detalles de diamante negro en la capa externa del cuerpo y la JH-3 de tipo single cut (forma les paul) clásico.
 
 <div><img src="../../images/james-hetfield/james-hetfield-jh-1-flying-v.jpg" alt="james hetfield esp jh-1 flying v" width="350" height="280"></div>
 
