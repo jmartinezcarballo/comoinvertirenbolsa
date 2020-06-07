@@ -362,3 +362,7 @@ Sin duda, todo el interior del cuerpo estará hecho de la mejor caoba que exista
 Y hasta aquí esta **biografía** que he querido hacer de **James Hetfield a través de sus guitarras**. Me he dejado varios modelos interesantes por el camino pero en algún punto tenía que poner el corte, mi intención ha sido que todas las épocas y discos quedaran representados.
 
 Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: guitarscollector y groundguitar.
+
+Si te ha parecido interesante el artículo y estás interesado/a en tener una **guitarra ltd** pero los modelos signature los ves excesivos, te recomiendo que te pases por la sección dedicada a las **guitarras ESP LTD** y veas los diferentes modelos que hay disponibles en el mercado hoy en día, algunos con un precio bastante asequible.
+
+<a href="/guitarras-ltd" class="btn">Guitarras ESP LTD</a>

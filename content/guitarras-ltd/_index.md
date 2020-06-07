@@ -43,6 +43,8 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 
 {{< youtube O3m29fW1sBQ >}}
 
+¿Te gustaría saber todo sobre **las ESP de James Hetfield?** pásate por la [biografía de James Hetfield a través de sus guitarras](/james-hetfield)
+
 &nbsp;
 
 ## LTD EC 401
