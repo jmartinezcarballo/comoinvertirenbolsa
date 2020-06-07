@@ -1,5 +1,5 @@
 ---
-title: "James Hetfield"
+title: "James Hetfield, sus guitarras hasta 2020"
 seoTitle: "James Hetfield, una biografía a través de sus guitarras 2020 | Comprar una Guitarra"
 date: 2020-05-24T10:07:47+06:00
 draft: false
@@ -17,7 +17,7 @@ Hablar de **James Hetfield** es hablar de una de las mayores leyendas vivas dent
 
 Nacido en agosto de 1963, James Hetfield fundó en octubre de 1981 junto a **Lars Ulrich** la banda californiana **Metallica**, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
 
-Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus **guitarras**, así que eso es lo que voy a intentar en las siguientes líneas, espero que os guste el enfoque que le he querido dar.
+Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus **guitarras**, así que si quieres saber que guitarra usa James Hetfield estás en el sitio adecuado.
 
 ## Biografía de James Hetfield a través de sus guitarras
 
