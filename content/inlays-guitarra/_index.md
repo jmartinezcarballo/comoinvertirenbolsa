@@ -5,7 +5,7 @@ date: 2020-06-08T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra los mejores inlays para guitarra de 2020. Compra el Eddie de Iron Maiden, el rayo de AC/DC y muchos más"
+description: "Encuentra los mejores inlays para guitarra de 2020. &#9989; Compra el Eddie de Iron Maiden, el rayo de AC/DC y muchos más"
 
 # type
 type: "inlays-guitarra"
