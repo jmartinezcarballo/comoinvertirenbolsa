@@ -26,6 +26,7 @@ type: "sitemap"
 ### Accesorios
 
 * [Behringer Guitar Link](/behringer-guitar-link/)
+* [Inlays para guitarra](/inlays-guitarra/)
 * [Púas de Guitarra](/puas-guitarra/)
 * [Transmisores Inalámbricos](/transmisor-inalambrico/)
 
