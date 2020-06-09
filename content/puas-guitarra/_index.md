@@ -1,5 +1,5 @@
 ---
-title: "Púas de guitarra"
+title: "Las mejores púas de guitarra"
 seoTitle: "Selección de púas de guitarra 2020 | Comprar una Guitarra"
 date: 2019-10-29T10:07:47+06:00
 draft: false
@@ -11,19 +11,19 @@ description: "las mejores púas de guitarra de 2020. Encuentra los mejores y má
 type: "puas-guitarra"
 ---
 
-Tanto si quieres **aprender a tocar la guitarra** como si ya eres un experto de las 6 cuerdas, casi con toda seguridad vas a necesitar púas.
+Tanto si quieres aprender a tocar la guitarra como si ya eres un experto de las 6 cuerdas, casi con toda seguridad vas a necesitar comprar en algún momento **púas de guitarra**.
 
-Aquí podrás encontrar todo tipo de **púas para tocar la guitarra** según su tamaño, grosor o diseño.
+Aquí podrás encontrar todo tipo de púas para tocar la guitarra según su **tamaño, grosor o diseño**.
 
 ## Púas de discos famosos
 
-Te presento un kit de 12 **púas de guitarra** con diseños de 24 de los más exitosos discos de la historia de la música. Podrás encontrar grandes portadas de discos de artistas como **Beatles, Queen, Metallica, David Bowie, Pink Floyd, Green Day o Guns n Roses**.
+Te presento un kit de 12 **púas de guitarra personalizadas** con diseños de 24 de los más exitosos discos de la historia de la música. Podrás encontrar grandes portadas de discos de artistas como Beatles, Queen, Metallica, David Bowie, Pink Floyd, Green Day o Guns n Roses.
 
 ![image](../../images/puas/puas-guitarra-portadas-discos.png)
 
 Cada púa incluye dos portadas diferentes, una por cada lado.
 
-Las púas tienen un **tamaño estándar** y **0,71mm de grosor**.
+Las púas tienen un tamaño estándar y **0,71mm de grosor**.
 
 Incluye una pequeña bolsa de terciopelo para guardarlas.
 
@@ -39,7 +39,7 @@ Kit variado de púas de diferentes diseños y grosores que podrás utilizar para
 
 El kit incluye:
 
-* **16 púas**
+* 16 púas
 * fabricadas con termoplásticos de celuloide
 * 8 diseños diferentes
 * 4 grosores diferentes: **0,46mm; 0,71mm; 0,96mm; 1,5mm**
