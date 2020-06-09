@@ -4,7 +4,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra las mejores guitarras baratas del 2020. Comparativa entre modelos de una gran calidad/precio"
+description: "Encuentra las mejores guitarras baratas del 2020. Comparativa entre modelos de una gran calidad/precio de marcas como &#9989; Yamaha, Ibanez o Squier"
 
 # type
 type: "guitarras-baratas"
