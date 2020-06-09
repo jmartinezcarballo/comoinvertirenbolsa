@@ -1,16 +1,16 @@
 ---
-title: "Guitarras eléctricas baratas"
+title: "Las 5 mejores guitarras eléctricas baratas de 2020"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "guitarras de menos de 300€"
+description: "Encuentra las mejores guitarras baratas del 2020. Comparativa entre modelos de una gran calidad/precio"
 
 # type
 type: "guitarras-baratas"
 ---
 
-A continuación te presento una serie de recomendaciones de guitarras por debajo de los 300€. Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama de precios, están bien consideradas y pueden ser opciones a tener en cuenta para ayudarte a decidir en caso de que busques una guitarra de gama media/baja pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su precio.
+A continuación te presento una serie de recomendaciones de **guitarras baratas** por **menos de 300€**. Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama de precios, están bien consideradas y pueden ser opciones a tener en cuenta para ayudarte a decidir en caso de que busques una guitarra de gama media/baja pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su precio.
 
 Una cosa a tener en cuenta antes de nada. La guitarra es importante, pero tanto o más lo es el amplificador sobre el que la hagas sonar. Sin un amplificador decente cualquier guitarra te sonara mal. Y aquí es muchas veces donde empiezan los problemas y algunas frustraciones. Vas a empezar a tocar en casa y no quieres empezar a atronar a los vecinos y que te llamen la atención, pero con un ampli básico seguramente no notes mucha diferencia entre una u otra y el sonido no te acabe de convencer y pienses, equivocadamente, que has tirado el dinero en la guitarra.
 
