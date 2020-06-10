@@ -1,17 +1,17 @@
 ---
-title: "Guitarras Eléctricas Cort"
+title: "Las mejores guitarras Eléctricas Cort"
 seoTitle: "Las mejores guitarras Cort de 2020 | Comprar una Guitarra"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Comprar una guitarra electrica Cort. Cort cr 250"
+description: "Encuentra una selección de las mejores guitarras Cort de 2020 &#9989;  Compara entre modelos como la Cort cr 250"
 
 # type
 type: "guitarras-electricas-cort"
 ---
 
-Sección dedicada a las guitarras eléctricas de la marca Cort. Te voy a proponer diferentes modelos de **guitarras eléctricas Cort** para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.
+Sección dedicada a las **guitarras Cort**. Te voy a proponer diferentes modelos de guitarras eléctricas para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.
 
 ## Cort CR250
 

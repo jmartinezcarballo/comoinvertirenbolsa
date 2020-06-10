@@ -5,7 +5,7 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # meta description
-description: "las mejores púas de guitarra de 2020. Encuentra los mejores y más originales diseños. Púas de metallica, pink floyd, queen o beatles."
+description: "las mejores púas de guitarra de 2020. &#9989; Encuentra los mejores y más originales diseños. Púas de metallica, pink floyd, queen o beatles."
 
 # type
 type: "puas-guitarra"
