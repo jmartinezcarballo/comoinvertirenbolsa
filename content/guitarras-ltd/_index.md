@@ -215,3 +215,27 @@ Kirk Hammett fue el primero en dar el salto a ESP bautizando su famoso modelo si
 A diferencia de Kirk que tradicionalmente ha utilizado modelos **stratocaster**, Hetfield popularizó en los 80 los modelos **explorer**, dando el salto de Gibson a ESP al descubrir la marca japonesa.
 
 {{< youtube qjAhgd9K-8o >}}
+
+&nbsp;
+
+&nbsp;
+
+**¿No has encontrado la guitarra ESP LTD que buscabas? quizá éstas te puedan interesar:**
+
+<div class="row">
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-yamaha/">
+          <figcaption>Guitarras Eléctricas Yamaha</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-squier/">
+          <figcaption>Guitarras Eléctricas Squier</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-cort/">
+          <figcaption>Guitarras Eléctricas Cort</figcaption>
+        </a>
+      </div>
+</div>

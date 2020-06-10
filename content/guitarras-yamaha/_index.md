@@ -108,3 +108,27 @@ Como puedes comprobar no son excesivas las diferencias entre un modelo u otro, s
 * Por otro lado el **push/pull coil** definitivamente marca la diferencia. El push/pull lo que te permite es separar la pastilla doble en dos pastillas simples, lo cual duplica las posibilidades de sonido de la guitarra dándole un nivel de **versatilidad** y de abanico de sonidos mucho mayor.
 
 {{< youtube tSLn6oSZC7w >}}
+
+&nbsp;
+
+&nbsp;
+
+**¿No has encontrado la guitarra Yamaha que buscabas? quizá éstas te puedan interesar:**
+
+<div class="row">
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-squier/">
+          <figcaption>Guitarras Eléctricas Squier</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-ltd/">
+          <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-cort/">
+          <figcaption>Guitarras Eléctricas Cort</figcaption>
+        </a>
+      </div>
+</div>

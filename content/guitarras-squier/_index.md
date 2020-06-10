@@ -11,18 +11,15 @@ description: "Compara entre diferentes modelos de guitarras eléctricas Squier d
 type: "guitarras-electricas-squier"
 ---
 
-Sección dedicada a las guitarras eléctricas de la marca Squier. Te voy a proponer diferentes modelos de **guitarras eléctricas Squier** para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.
-
+Sección dedicada a las **guitarras Fender Squier**. Te voy a proponer diferentes modelos de guitarras eléctricas para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.
 
 ## Squier Affinity Stratocaster
 
 Consulta a continuación las características principales de la **Squier Affinity Stratocaster**.
 
-![guitarra electrica squier affinity stratocaster](../../images/post/squier_affinity_stratocaster_opt.png)
+![fender squier affinity stratocaster](../../images/fender-squier/squier-affinity-stratocaster.jpg)
 
-<hr>
-
-### Características
+### Características de la Squier Affinity
 
 * Cuerpo de aliso
 * Mastil de arce
@@ -31,23 +28,17 @@ Consulta a continuación las características principales de la **Squier Affinit
 * Peso: 4,3kg
 * 3 pastillas single coil
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Squier Affinity Stratocaster | sunburst | 4,2 sobre 5 | <a href="https://amzn.to/2zixUf9" rel="nofollow" target="_blank">Ver producto</a>	
-
-<hr>
   
 &nbsp;
 
 ## Squier Bullet Stratocaster
 
-![guitarra electrica squier bullet stratocaster](../../images/post/squier-bullet-stratocaster.png)
+![fender squier bullet stratocaster](../../images/fender-squier/squier-bullet-stratocaster.jpg)
 
-<hr>
-
-### Características
+### Características de la Squier Bullet
 
 * Cuerpo de tilo 
 * Mástil de arce
@@ -57,10 +48,28 @@ Consulta a continuación las características principales de la **Squier Affinit
 * 4,65kg de peso
 * 2 pastillas single coil y 1 humbucker
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Squier Bullet Stratocaster | negro | 4,5 sobre 5 | <a href="https://amzn.to/2zqDj3O" rel="nofollow" target="_blank">Ver producto</a>
+| Squier Bullet Stratocaster | sunburst | 4,5 sobre 5 | <a href="https://amzn.to/2zqDj3O" rel="nofollow" target="_blank">Ver producto</a>
 
-<hr>
+&nbsp;
+
+**¿No has encontrado la guitarra Squier que buscabas? quizá éstas te puedan interesar:**
+
+<div class="row">
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-yamaha/">
+          <figcaption>Guitarras Eléctricas Yamaha</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-ltd/">
+          <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-cort/">
+          <figcaption>Guitarras Eléctricas Cort</figcaption>
+        </a>
+      </div>
+</div>

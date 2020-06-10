@@ -84,3 +84,25 @@ Consulta a continuación las características principales de la **Cort CR 100**.
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Cort CR100	   	   | negro | 3,9 sobre 5 | <a href="https://amzn.to/2yjOWcd" rel="nofollow" target="_blank">Ver producto</a>
+
+&nbsp;
+
+**¿No has encontrado la guitarra Cort que buscabas? quizá éstas te puedan interesar:**
+
+<div class="row">
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-yamaha/">
+          <figcaption>Guitarras Eléctricas Yamaha</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-ltd/">
+          <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-squier/">
+          <figcaption>Guitarras Eléctricas Squier</figcaption>
+        </a>
+      </div>
+</div>
