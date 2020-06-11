@@ -1,5 +1,5 @@
 ---
-title: "Las 5 mejores guitarras eléctricas baratas de 2020"
+title: "Las 5 mejores guitarras baratas de 2020"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
