@@ -115,7 +115,7 @@ disqusShortname = ""
     weight = 1
     # main menu
     [[menu.main]]
-    name = "Púas de guitarra"
+    name = "Puas de guitarra"
     parent = "Accesorios"
     URL = "puas-guitarra/"
     weight = 2
