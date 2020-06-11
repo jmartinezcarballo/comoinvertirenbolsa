@@ -28,9 +28,7 @@ A continuación te presento algunos modelos seleccionados de guitarras eléctric
 
 A continuación te expongo las características principales de la **Fender Squier Mini Stratocaster Torino**.
 
-![guitarra electrica para niños fender squier mini stratocaster escala 3/4](../../images/post/fender-squier-mini-stratocaster-torino.png)
-
-<hr>
+![fender squier mini stratocaster](../../images/guitarras-infantiles/fender-squier-mini-stratocaster.jpg)
 
 #### Características
 
@@ -42,8 +40,6 @@ A continuación te expongo las características principales de la **Fender Squie
 * Dimensiones: 113 x 38,1 x 10,2 cm
 * 3 pastillas single coil
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Fender Squier Mini Stratocaster | rojo torino | 4,5 sobre 5 | <a href="https://amzn.to/2XYlvWb" rel="nofollow" target="_blank">Ver producto</a>
@@ -54,9 +50,7 @@ A continuación te expongo las características principales de la **Fender Squie
 
 A continuación te expongo las características principales de la **Rocktile L-50B**.
 
-![guitarra electrica para niños rocktile L-50B escala 3/4](../../images/post/rocktile-L-50B.png)
-
-<hr>
+![rocktile L50B junior](../../images/guitarras-infantiles/rocktile-l50b-junior.jpg)
 
 #### Características
 
@@ -70,8 +64,6 @@ A continuación te expongo las características principales de la **Rocktile L-5
 * 1 pastilla humbucker
 * Peso: 2,7kg
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Rocktile L-50B | negro | 5 sobre 5 | <a href="https://amzn.to/3ceVvL3" rel="nofollow" target="_blank">Ver producto</a>
@@ -82,9 +74,7 @@ A continuación te expongo las características principales de la **Rocktile L-5
 
 A continuación te expongo las características principales de la **Ibanez GRGM21-WHGIO Mikro**.
 
-![guitarra electrica para niños Ibanez GRGM21 mikro escala 3/4](../../images/post/ibanez-grgm21-whgio-mikro.png)
-
-<hr>
+![Ibanez GRGM21 mikro](../../images/guitarras-infantiles/ibanez-grgm21-whgio-mikro.jpg)
 
 #### Características
 
@@ -96,8 +86,6 @@ A continuación te expongo las características principales de la **Ibanez GRGM2
 * Dimensiones: 96,6 x 39 x 8,6 cm
 * 2 pastillas humbucker Ibanez Infinity
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Ibanez GRGM21-WHGIO Mikro | blanco | 5 sobre 5 | <a href="https://amzn.to/2XJMNz9" rel="nofollow" target="_blank">Ver producto</a>
@@ -108,9 +96,7 @@ A continuación te expongo las características principales de la **Ibanez GRGM2
 
 A continuación te expongo las características principales de la **Stagg S300**.
 
-![guitarra electrica para niños stagg s300 escala 3/4](../../images/post/stagg-S300.png)
-
-<hr>
+![stagg s300 escala 3/4](../../images/guitarras-infantiles/stagg-s300.jpg)
 
 #### Características
 
@@ -122,8 +108,6 @@ A continuación te expongo las características principales de la **Stagg S300**
 * Dimensiones: 94 x 38,1 x 12,7 cm
 * 3 pastillas single coil
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Stagg S300 | negro | 4 sobre 5 | <a href="https://amzn.to/36LEGGy" rel="nofollow" target="_blank">Ver producto</a>
@@ -134,9 +118,7 @@ A continuación te expongo las características principales de la **Stagg S300**
 
 A continuación te expongo las características principales de la **Rocktile Sphere**.
 
-![guitarra electrica para niños rocktile sphere escala 3/4](../../images/post/rocktile-sphere.png)
-
-<hr>
+![guitarra electrica para niños rocktile sphere escala 3/4](../../images/guitarras-infantiles/rocktile-sphere.jpg)
 
 #### Características
 
@@ -150,8 +132,6 @@ A continuación te expongo las características principales de la **Rocktile Sph
 * 1 pastilla humbucker y 1 pastilla single coil
 * Incluye funda
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Rocktile Sphere | azul o negro | 3,4 sobre 5 | <a href="https://amzn.to/2XAkljg" rel="nofollow" target="_blank">Ver producto</a>
@@ -164,9 +144,7 @@ Este modelo, a diferencia de los anteriores, es de escala inferior, en este caso
 
 Consulta a continuación las características principales de la **Klangbeisser Startup**:
 
-![guitarra electrica para niños klangbeisser startup](../../images/post/guitarra-klangbeisser-startup.png)
-
-<hr>
+![klangbeisser startup](../../images/guitarras-infantiles/klangbeisser-startup.jpg)
 
 ### Características
 
@@ -176,8 +154,6 @@ Consulta a continuación las características principales de la **Klangbeisser S
 * 21 trastes
 * 3 pastillas single coil
 * Incluye cable conector y llave allen
-
-<hr>
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
@@ -195,9 +171,7 @@ A continuación te presento algunos modelos que pueden serte interesantes:
 
 Consulta a continuación las características principales de la **Muslady Kit**.
 
-![muslady kit de guitarra electrica para niños](../../images/post/muslady-kit-guitarra-electrica.png)
-
-<hr>
+![muslady kit de guitarra electrica para niños](../../images/guitarras-infantiles/muslady-kit-guitarra-electrica.jpg)
 
 ### Características
 
@@ -210,13 +184,9 @@ Consulta a continuación las características principales de la **Muslady Kit**.
 * Dimensiones: 79 x 30 x 9 cm
 * 2,87kg de peso
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Muslady Kit | blanco | - | <a href="https://amzn.to/2XEdg19" rel="nofollow" target="_blank">Ver producto</a>	
-
-<hr>
 
 &nbsp;
 
@@ -224,9 +194,7 @@ Consulta a continuación las características principales de la **Muslady Kit**.
 
 Consulta a continuación las características principales de la **TS Music Fidelity**.
 
-![guitarra electrica para niños ts music fidelity](../../images/post/ts-music-fidelity.png)
-
-<hr>
+![guitarra electrica para niños ts music fidelity](../../images/guitarras-infantiles/ts-music-fidelity.jpg)
 
 ### Características
 
@@ -239,8 +207,6 @@ Consulta a continuación las características principales de la **TS Music Fidel
 * 1,8kg de peso
 * Incluye funda, correa, 6 cuerdas de recambio y llave para ajustar la altura de las cuerdas
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | TS Music Fidelity | negro | 3,9 sobre 5 | <a href="https://amzn.to/2XCHPUR" rel="nofollow" target="_blank">Ver producto</a>	
@@ -251,9 +217,7 @@ Consulta a continuación las características principales de la **TS Music Fidel
 
 Consulta a continuación las características principales de la **Junior Clifton**.
 
-![clifton guitarra electrica para niños](../../images/post/guitarra-electrica-clifton.png)
-
-<hr>
+![clifton guitarra electrica para niños](../../images/guitarras-infantiles/guitarra-junior-clifton.jpg)
 
 ### Características
 
@@ -264,14 +228,6 @@ Consulta a continuación las características principales de la **Junior Clifton
 * Dimensiones: 84 x 35 x 9 cm
 * 2kg de peso
 
-<hr>
-
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Guitarra Junior Clifton 	| rojo | 3,5 sobre 5 | <a href="https://amzn.to/3guf3yl" rel="nofollow" target="_blank">Ver producto</a>
-
-<hr>
-
-
-
-&nbsp;	
