@@ -1,11 +1,11 @@
 ---
-title: "Las mejores guitarras eléctricas Cort"
-seoTitle: "Las mejores guitarras Cort de 2020 | Comprar una Guitarra"
+title: "Guitarras eléctricas Cort"
+seoTitle: "Guitarras Cort | Comprar una Guitarra"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra una selección de las mejores guitarras Cort de 2020 &#9989;  Compara entre modelos exitosos como la Cort cr250 o la cort x11"
+description: "Encuentra una selección de las mejores guitarras Cort de 2020 &#9989;  Compara entre modelos exitosos como la Cort cr250 o la x11"
 
 # type
 type: "guitarras-electricas-cort"
