@@ -1,27 +1,27 @@
 ---
-title: "Guitarras Eléctricas LTD ESP"
+title: "Las mejores guitarras ltd"
 seoTitle: "Las mejores guitarras ltd de 2020 | Comprar una Guitarra"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra las mejores guitarras ltd en 2020 &#9989; ltd ec 1000, las guitarras que llevaron a la fama Metallica. Compara y encuentra tu favorita de las series 400 y eclipse."
+description: "Encuentra las mejores guitarras ltd en 2020 &#9989; Compara y encuentra tu favorita de las series 400 y eclipse."
 
 # type
 type: "guitarras-electricas-ltd"
 ---
 
-Sección dedicada a las **guitarras eléctricas** de la marca **ESP LTD**. ESP es una exitosa marca de guitarras surgida, al igual que **Yamaha**, en Japón. Su popularidad creció exponencialmente durante la década de los 80 a raíz de que algunos guitarristas de metal de prestigio descubrieran la marca y empezaran a utilizar sus modelos y bautizaran sus modelos signature. 
+Sección dedicada a las **guitarras ltd**. ESP es una exitosa marca de guitarras surgida, al igual que Yamaha, en Japón. Su popularidad creció exponencialmente durante la década de los 80 a raíz de que algunos guitarristas de metal de prestigio descubrieran la marca y empezaran a utilizar sus modelos y bautizaran sus modelos signature. 
 
-A mitad de los **años 90** ESP, al igual que otras marcas, decidió crear una filial con idea de hacer llegar sus modelos a todos los bolsillos, con **precios más asequibles** y, todo sea dicho, con materiales algo inferiores a los de las ESP y llevando su fabricación a países con mano de obra más barata, y así nacieron las LTD.
+A mitad de los **años 90** ESP, al igual que otras marcas, decidió crear una filial con idea de hacer llegar sus modelos a todos los bolsillos, con **precios más asequibles** y, todo sea dicho, con materiales algo inferiores a los de las ESP y llevando su fabricación a países con mano de obra más barata, y así nacieron las guitarras ltd.
 
-A día de hoy se puede decir que LTD es la marca más exitosa de guitarras de **heavy metal**, ganándose ese status gracias a diferentes modelos algunos de los cuales poco tienen que envidiar a los de sus hermanas mayores ESP, como por ejemplo la exitosa **LTD EC 1000**.
+A día de hoy se puede decir que LTD es la marca más exitosa de guitarras de heavy metal, ganándose ese status gracias a diferentes modelos algunos de los cuales poco tienen que envidiar a los de sus hermanas mayores ESP, como por ejemplo la exitosa **ltd ec 1000**.
 
-A continuación puedes consultar algunos de los **modelos** que forman parte del catálogo de las LTD.
+A continuación puedes consultar algunos de los **modelos** que forman parte del catálogo de las ltd.
 
 ## LTD EX 401
 
-Probablemente sean miles y miles de chavales los que en las últimas decadas hayan adquirido una **esp ltd explorer** queriendo emular a su ídolo **James Hetfield** aprendiéndose los riffs de **Master of Puppets**, **Enter Sandman** o **For Whom the Bell Tolls**. Es un modelo que no necesita ningún tipo de presentación. En este caso el modelo que presento es la ex 401, modelo de gama más alta que sus predecesoras, la **ex 50** y la **ex 200**. Tendrás que rascarte un poco más el bolsillo que con las otras pero tendrás un cañon de guitarra.
+Probablemente sean miles y miles de chavales los que en las últimas decadas hayan adquirido una **esp explorer** queriendo emular a su ídolo **James Hetfield** aprendiéndose los riffs de Master of Puppets, Enter Sandman o For Whom the Bell Tolls. Es un modelo que no necesita ningún tipo de presentación. En este caso el modelo que presento es la ex 401, modelo de gama más alta que sus predecesoras, la ex 50 y la ex 200. Tendrás que rascarte un poco más el bolsillo que con las otras pero tendrás un cañon de guitarra.
 
 ![ltd ex 401](https://www.thomann.de/pics/prod/385416.jpg)
 
@@ -43,7 +43,7 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 
 {{< youtube O3m29fW1sBQ >}}
 
-¿Te gustaría saber todo sobre **las ESP de James Hetfield?** pásate por la [biografía de James Hetfield a través de sus guitarras](/james-hetfield)
+¿Te gustaría saber todo sobre **las esp ltd de James Hetfield**? pásate por la [biografía de James Hetfield a través de sus guitarras](/james-hetfield)
 
 &nbsp;
 
@@ -51,7 +51,7 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 
 De características y componentes cercanos a los de la ltd ec 1000, la ltd ec 401 ofrece unas altas prestaciones a un precio un poco más ajustado que la top de las ltd. 
 
-Consulta a continuación las características principales de la **LTD EC 401**.
+Consulta a continuación las características principales de la **ltd ec 401**.
 
 ![ltd ec 401](https://www.thomann.de/pics/prod/109968.jpg)
 
@@ -76,15 +76,15 @@ Consulta a continuación las características principales de la **LTD EC 401**.
 
 ## LTD EC 1000
 
-Si buscas opiniones sobre la LTD EC 1000 puedo decirte que es la mejor guitarra ltd que puedes comprar, sin rodeos. Poco que envidiar en muchos aspectos a las **ESP eclipse** de la marca matriz. Aquí no puedo ser objetivo, soy poseedor de una de estas preciosidades y no puedo estar más contento con ella, para mi lo tiene todo para ser una grandísima guitarra: sonido, materiales, pastillas, diseño, comodidad y para ser una tipo les paul es ligera y manejable.
+Si buscas opiniones sobre la ltd ec 1000 puedo decirte que es la mejor guitarra ltd que puedes comprar, sin rodeos. Poco que envidiar en muchos aspectos a las **esp eclipse** de la marca matriz. Aquí no puedo ser objetivo, soy poseedor de una de estas preciosidades y no puedo estar más contento con ella, para mi lo tiene todo para ser una grandísima guitarra: sonido, materiales, pastillas, diseño, comodidad y para ser una tipo les paul es ligera y manejable.
 
-A diferencia de sus hermanas pequeñas, la ltd ec 1000 se fabrica en Korea, para aquellos más reticentes a guitarras fabricadas en países como Vietnam, China o Indonesia.
+A diferencia de sus hermanas pequeñas, ésta se fabrica en Korea, para aquellos más reticentes a guitarras fabricadas en países como Vietnam, China o Indonesia.
 
-Importante a tener en cuenta. Existen multiples configuraciones de la **ltd ec 1000**, entre otras, las que calzan **pastillas EMG** y las que calzan **pastillas Seymour Duncan**. En mi caso yo tengo una de las que calzan las Duncan pasivas ya que prefería unas pastillas pasivas y que la guitarra tuviese más versatilidad de la que creo que hubiera tenido con, por ejemplo, unas EMG (pastillas activas y más acotadas a sonidos pesados aunque se pueden sacar muy buenos limpios también), pero cualquier opción es un seguro de vida.
+Importante a tener en cuenta. Existen multiples configuraciones de la ltd ec 1000, entre otras, las que calzan **pastillas EMG** y las que calzan **pastillas Seymour Duncan**. En mi caso yo tengo una de las que calzan las Duncan pasivas ya que prefería unas pastillas pasivas y que la guitarra tuviese más versatilidad de la que creo que hubiera tenido con, por ejemplo, unas EMG (pastillas activas y más acotadas a sonidos pesados aunque se pueden sacar muy buenos limpios también), pero cualquier opción es un seguro de vida.
 
-En definitiva, si quieres comprar una ltd ec 1000, además del diseño ten en cuenta y comprueba también el tipo de electrónica que prefieres que tenga.
+En definitiva, si quieres comprar una, además del diseño ten en cuenta y comprueba también el tipo de electrónica que prefieres que tenga.
 
-Consulta a continuación las características principales de la **LTD EC 1000** en su versión **Vintage black**, una de mis dos versiones preferidas junto a la **Amber Sunburst**.
+Consulta a continuación sus características principales en su versión Vintage black, una de mis dos versiones preferidas junto a la Amber Sunburst.
 
 ![ltd ec 1000](https://www.thomann.de/pics/prod/192156.jpg) ![ltd ec 1000](https://www.thomann.de/pics/prod/336284.jpg)
 
