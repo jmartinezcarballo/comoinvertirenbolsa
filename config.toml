@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://www.comprarunaguitarra.com/"
 languageCode = "es-ES"
-title = "Comparativas y consejos sobre que guitarra comprar en 2020 | Comprar una Guitarra"
+title = "Consejos y reviews sobre que guitarra comprar en 2020"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6

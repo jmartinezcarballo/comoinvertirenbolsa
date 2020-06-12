@@ -1,6 +1,6 @@
 ---
 title: "Guitarras Eléctricas Yamaha"
-seoTitle: "Las mejores guitarras yamaha pacifica de 2020 | Comprar una Guitarra"
+seoTitle: "Las mejores guitarras yamaha pacifica de 2020"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
