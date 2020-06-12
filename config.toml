@@ -155,7 +155,7 @@ disqusShortname = ""
   weight = 3
   [[menu.footer]]
   name = "Mapa del sitio web"
-  URL = "sitemap"
+  URL = "mapa-web"
   weight = 4
   [[menu.footer]]
   name = "Contacto"
