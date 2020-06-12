@@ -63,7 +63,7 @@ disqusShortname = ""
     [[menu.main]]
     name = "Guitarras eléctricas para niños"
     parent = "Guitarras"
-    URL = "guitarras-electricas-niños/"
+    URL = "guitarras-para-ninos/"
     weight = 2
 
   # main menu
