@@ -123,7 +123,7 @@ disqusShortname = ""
     [[menu.main]]
     name = "Transmisores inalámbricos"
     parent = "Accesorios"
-    URL = "transmisor-inalambrico/"
+    URL = "transmisores-inalambricos-guitarra/"
     weight = 3
 
   # main menu
