@@ -5,7 +5,7 @@ date: 2020-05-30T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra las mejores guitarras eléctricas para niños de 2020, ideales para niños entre los 4 y los 12 años. guitarras cadete, guitarras 3/4"
+description: "Selección de las mejores guitarras eléctricas para niños de 2020 &#9989; ideales para niños entre los 4 y los 12 años."
 
 # type
 type: "guitarras-electricas-niños"

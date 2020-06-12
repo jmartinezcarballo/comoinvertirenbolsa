@@ -1,11 +1,11 @@
 ---
 title: "James Hetfield, sus guitarras hasta 2020"
-seoTitle: "Las guitarras de James Hetfield [2020] | Comprar una Guitarra"
+seoTitle: "Todas las guitarras de James Hetfield [2020]"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Biografía de James Hetfield a través de sus guitarras utilizadas hasta 2020 &#9989; conoce todo sobre las guitarras del líder de Metallica y hazte con una!"
+description: "Las mejores guitarras de James Hetfield hasta 2020 &#9989; conoce todo sobre las guitarras del líder de Metallica"
 
 # type
 type: "james-hetfield"
