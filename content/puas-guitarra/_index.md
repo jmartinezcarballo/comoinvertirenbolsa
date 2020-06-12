@@ -1,7 +1,7 @@
 ---
 title: "Las mejores puas de guitarra"
 seoTitle: "Selección de puas de guitarra 2020 | Comprar una Guitarra"
-date: 2019-10-29T10:07:47+06:00
+date: 2020-06-10T10:07:47+06:00
 draft: false
 
 # meta description
@@ -14,6 +14,8 @@ type: "puas-guitarra"
 Tanto si quieres aprender a tocar la guitarra como si ya eres un experto de las 6 cuerdas, casi con toda seguridad vas a necesitar comprar en algún momento **puas de guitarra**.
 
 Aquí las podrás encontrar de todo tipo para tocar la guitarra según su **tamaño, grosor o diseño**.
+
+Te presento una selección de las mejores y más vendidas puas de guitarra de 2020 que puedes encontrar en Amazon.
 
 ## Puas de discos famosos
 
@@ -31,22 +33,28 @@ Incluye una pequeña bolsa de terciopelo para guardarlas.
 	<a href="https://amzn.to/3eFBBdV" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
 </div>
 
-## Kit de puas para guitarra eléctrica, acústica y bajo
+## Kit de 40 puas Rayzm
 
-Kit variado de diferentes diseños y grosores que podrás utilizar para diferentes instrumentos en función del grosor que necesites en cada situación
+Kit variado de 40 puas de guitarra de **Celuloide ecológico** fabricadas por Rayzm.
 
-![image](../../images/puas/kit-puas-cuatro-grosores.png)
+Incluyen 6 diferentes grosores para adaptarse a diferentes estilos y guitarras, así como una caja protectora para guardarlas. También son compatibles para tocar el bajo.
+
+![image](../../images/puas/puas-rayzm.jpg)
 
 El kit incluye:
 
-* 16 puas
-* fabricadas con termoplásticos de celuloide
-* 8 diseños diferentes
-* 4 grosores diferentes: **0,46mm; 0,71mm; 0,96mm; 1,5mm**
-* Incluye caja metálica circular para su guardado
+* 8 puas de 0,46mm
+* 9 de 0,71mm
+* 8 de 0,81mm
+* 8 de 0,96mm
+* 4 de 1,2mm
+* 3 de 1,5mm
+* Forma de corazón de 26x30mm
+* Varios colores independientes del grosor
+* Incluye funda de tela resistente para su guardado
 
 <div>
-	<a href="https://amzn.to/2XrZPTi" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/37llUWG" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
 </div>
 
 ## Kit de 50 puas fabricadas en resina acetálica
@@ -71,4 +79,22 @@ El kit incluye:
 
 <div>
 	<a href="https://amzn.to/2XSU7bY" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
+</div>
+
+## Kit de puas para guitarra eléctrica, acústica y bajo
+
+Kit variado de diferentes diseños y grosores que podrás utilizar para diferentes instrumentos en función del grosor que necesites en cada situación
+
+![image](../../images/puas/kit-puas-cuatro-grosores.png)
+
+El kit incluye:
+
+* 16 puas
+* fabricadas con termoplásticos de celuloide
+* 8 diseños diferentes
+* 4 grosores diferentes: **0,46mm; 0,71mm; 0,96mm; 1,5mm**
+* Incluye caja metálica circular para su guardado
+
+<div>
+	<a href="https://amzn.to/2XrZPTi" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
 </div>
