@@ -66,9 +66,9 @@ disqusShortname = ""
     URL = "guitarras-para-ninos/"
     weight = 2
     [[menu.main]]
-    name = "Guitarras pequeñas y ukeleles"
+    name = "Guitarras pequeñas de cuatro cuerdas y ukeleles"
     parent = "Guitarras"
-    URL = "guitarra-ukelele/"
+    URL = "guitarra-pequena-cuatro-cuerdas/"
     weight = 3
 
   # main menu

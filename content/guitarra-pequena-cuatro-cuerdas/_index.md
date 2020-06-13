@@ -31,7 +31,7 @@ Hricane es una marca reconocida que ofrece buenos productos calidad/precio. Buen
 A continuación te expongo las características principales del **Hricane Ukelele**.
 
 
-![fender squier mini stratocaster](../../images/guitarra-ukelele/ukelele-hricane.jpg)
+![fender squier mini stratocaster](../../images/guitarra-pequena-cuatro-cuerdas/ukelele-hricane.jpg)
 
 ### Características del Hricane Ukelele
 
@@ -53,7 +53,7 @@ A continuación te traigo una **guitarra pequeña de cuatro cuerdas** que simula
 
 Es un **juguete educativo** perfecto para que los más pequeños de la casa se diviertan a la vez que se introducen en el mundo de la música, ligero y a un precio muy asequible.
 
-![healifty guitarra pequeña cuatro cuerdas](../../images/guitarra-ukelele/guitarra-cuatro-cuerdas-juguete.jpg)
+![healifty guitarra pequeña cuatro cuerdas](../../images/guitarra-pequena-cuatro-cuerdas/guitarra-cuatro-cuerdas-juguete.jpg)
 
 ### Características de la guitarra de cuatro cuerdas
 
@@ -75,7 +75,7 @@ A diferencia del primer ukelele que estaba disponible en cuatro tamaños diferen
 
 Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora **electrónica**. Dispone de un ecualizador que permite ajustar volumen, graves, medios y agudos e incluye una batería y una entrada que lo permite enchufar tanto a un altavoz como a un PC.
 
-![ukelele ammoon](../../images/guitarra-ukelele/ammoon-ukelele.jpg)
+![ukelele ammoon](../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele.jpg)
 
 ### Características del Ammonn Ukelele
 
