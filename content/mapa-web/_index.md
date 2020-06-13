@@ -13,7 +13,7 @@ type: "sitemap"
 ### Guitarras
 
 * [Guitarras eléctricas baratas](/guitarras-baratas/)
-* [Guitarras eléctricas para niños](/guitarras-electricas-niños/)
+* [Guitarras eléctricas para niños](/guitarras-para-ninos/)
 
 ### Marcas
 

@@ -75,7 +75,7 @@ A diferencia del primer ukelele que estaba disponible en cuatro tamaños diferen
 
 Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora **electrónica**. Dispone de un ecualizador que permite ajustar volumen, graves, medios y agudos e incluye una batería y una entrada que lo permite enchufar tanto a un altavoz como a un PC.
 
-![ukelele ammoon](../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele.jpg)
+![ukelele ammoon](../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-24-pulgadas.jpg)
 
 ### Características del Ammonn Ukelele
 
