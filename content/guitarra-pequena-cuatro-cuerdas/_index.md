@@ -11,12 +11,6 @@ description: "Encuentra la guitarra pequeña de cuatro cuerdas y ukelele ideal p
 type: "guitarra-pequena-cuatro-cuerdas"
 ---
 
-Tanto si estás buscando una **guitarra pequeña de cuatro cuerdas** para un niño como si lo que buscas es un **ukelele** para empezar a tocar este instrumento, en esta sección te voy a presentar una selección de ambos instrumentos para que puedas comprar aquello que estés buscando.
-
-En ámbos casos pueden considerarse buenas decisiones de compra en tanto que, a priori, son instrumentos más sencillos de tocar que una guitarra y de cara a una primera toma de contacto con los instrumentos de cuerda, o bien si has visto que la guitarra no es lo tuyo y te cuesta aprender, tal vez esta elección te facilite la adaptación, al ser instrumentos de sólo **cuatro cuerdas**, más ligeros y manejables.
-
-En el caso de querer un juguete infantil, puede ser una buena manera de que empiecen a acercarse a la música y a sentir interés por tocar un instrumento en el futuro.
-
 ## Diferencias entre una guitarra y un ukelele
 
 Evidentemente estamos hablando de dos instrumentos de cuerda diferentes entre sí y que no sonarán igual, pero, **¿qué diferencias hay entre una guitarra y un ukelele?** voy a pasar a enumerarte algunas de ellas.
