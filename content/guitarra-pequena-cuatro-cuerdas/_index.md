@@ -69,15 +69,15 @@ Es un **juguete educativo** perfecto para que los más pequeños de la casa se d
 
 &nbsp;
 
-## Ammoon Ukelele de 24 pulgadas
+## Ammoon Ukelele de 24 pulgadas con ecualizador
 
 A diferencia del primer ukelele que estaba disponible en cuatro tamaños diferentes, este sólo está disponible en su versión de 24 pulgadas.
 
 Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora **electrónica**. Dispone de un ecualizador que permite ajustar volumen, graves, medios y agudos e incluye una batería y una entrada que lo permite enchufar tanto a un altavoz como a un PC.
 
-![ukelele ammoon](../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele.jpg)
+![ukelele ammoon](../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-24-pulgadas.jpg)
 
-### Características del Ammonn Ukelele
+### Características del Ammonn Ukelele de 24 pulgadas
 
 * Cuerpo de Deadwood
 * Diapasón de palorosa
@@ -89,4 +89,25 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 
 | Modelo        | Escala    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Ammoon Ukelele | 24 pulgadas | 4,3 sobre 5 | <a href="https://amzn.to/30Bqzm1" rel="nofollow" target="_blank">Ver producto</a>
+| Ammoon Ukelele con ecualizador | 24 pulgadas | 4,3 sobre 5 | <a href="https://amzn.to/30Bqzm1" rel="nofollow" target="_blank">Ver producto</a>
+
+&nbsp;
+
+## Ammoon Ukelele de 21 pulgadas
+
+Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la electrónica del modelo anterior. Este modelo soprano, ideal para principiantes, ofrece un buen sonido con sus 4 cuerdas de nylon sobre un diapasón hecho de palorosa y cuerpo de picea.
+
+![ukelele ammoon](../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-21-pulgadas.jpg)
+
+### Características del Ammonn Ukelele de 21 pulgadas
+
+* Cuerpo de picea
+* Diapasón de palorosa
+* 4 cuerdas de nylon
+* 21 pulgadas de tamaño
+* Disponible en dos colores
+* Dimensiones: 55,4 x 21,8 x 11,2 cm
+
+| Modelo        | Escala    | Valoraciones | Precio |      
+| ------------- |:-------------|:-------------|:-------------
+| Ammoon Ukelele | 21 pulgadas | 4,4 sobre 5 | <a href="https://amzn.to/2Az0Foj" rel="nofollow" target="_blank">Ver producto</a>
