@@ -1,6 +1,6 @@
 ---
 title: "Guitarra Pequeña de cuatro cuerdas"
-seoTitle: "Las mejores Guitarras pequeñas de cuatro cuerdas [2020]"
+seoTitle: "Guitarras pequeñas de cuatro cuerdas y Ukeleles [2020]"
 date: 2020-06-11T10:07:47+06:00
 draft: false
 
