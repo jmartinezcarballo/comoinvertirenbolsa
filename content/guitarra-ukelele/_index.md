@@ -5,7 +5,7 @@ date: 2020-06-11T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra las mejores guitarras pequeñas de cuatro cuerdas y ukeleles de 2020. &#9989; Conoce las diferencias entre guitarra y ukelele"
+description: "Encuentra las mejores guitarras pequeñas de 4 cuerdas y ukeleles de 2020. &#9989; Conoce las diferencias entre guitarra y ukelele"
 
 # type
 type: "guitarras-ukelele"
@@ -37,6 +37,7 @@ A continuación te expongo las características principales del **Hricane Ukelel
 
 * Cubierta de madera de tilo por detrás y el costado
 * Diapasón de madera de tilo
+* 4 cuerdas de nylon
 * Cuatro tamaños diferentes a elegir
 * Incluye bolsa de transporte
 
@@ -81,6 +82,7 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 * Cuerpo de Deadwood
 * Diapasón de palorosa
 * Ecualizador para controlar sonido
+* 4 cuerdas de nylon
 * 24 pulgadas de tamaño
 * Funciona con 2 pilas 3V CR2032
 * Dimensiones: 62 * 21 * 7,5 cm
