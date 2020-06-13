@@ -116,7 +116,7 @@ Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la elec
 
 ## Nuobesty Mini Ukelele de juguete
 
-Para que los niños empiecen a desarrollar habilidades auditivas y musicales te traigo esta **guitarra pequeña de cuatro cuerdas** que simula ser un ukelele.
+Para que los niños empiecen a desarrollar habilidades auditivas y musicales te traigo esta **guitarra pequeña de juguete** que simula ser un ukelele.
 
 Es más fácil de agarrar que un ukelele y se pueden afinar las cuerdas con precisión. Las cuerdas son de nylon y de tacto agradable y suave.
 
