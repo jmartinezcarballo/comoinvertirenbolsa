@@ -1,11 +1,11 @@
 ---
-title: "Guitarras Pequeñas de cuatro cuerdas"
+title: "Guitarra Pequeña de cuatro cuerdas"
 seoTitle: "Guitarras pequeñas de cuatro cuerdas y Ukeleles [2020]"
 date: 2020-06-11T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra las mejores guitarras pequeñas de 4 cuerdas y ukeleles de 2020. &#9989; Conoce las diferencias entre guitarra y ukelele"
+description: "Encuentra la guitarra pequeña de cuatro cuerdas y ukelele ideal para ti en 2020. &#9989; Conoce las diferencias entre guitarra y ukelele"
 
 # type
 type: "guitarras-ukelele"
