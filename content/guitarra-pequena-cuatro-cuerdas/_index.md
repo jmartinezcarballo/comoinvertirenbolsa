@@ -71,7 +71,7 @@ Es un **juguete educativo** perfecto para que los más pequeños de la casa se d
 
 ## Ammoon Ukelele de 24 pulgadas con ecualizador
 
-A diferencia del primer ukelele que estaba disponible en cuatro tamaños diferentes, este sólo está disponible en su versión de 24 pulgadas.
+A diferencia del primer ukelele que estaba disponible en cuatro tamaños diferentes, este únicamente está disponible en su versión de 24 pulgadas.
 
 Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora **electrónica**. Dispone de un ecualizador que permite ajustar volumen, graves, medios y agudos e incluye una batería y una entrada que lo permite enchufar tanto a un altavoz como a un PC.
 
