@@ -1,11 +1,11 @@
 ---
 title: "Las mejores puas de guitarra"
 seoTitle: "Selección de puas de guitarra 2020 | Comprar una Guitarra"
-date: 2020-06-10T10:07:47+06:00
+date: 2020-06-10T10:07:47+06:00 
 draft: false
 
 # meta description
-description: "las mejores puas de guitarra de 2020. &#9989; Encuentra los mejores y más originales diseños. Puas de metallica, pink floyd, queen o beatles."
+description: "las mejores puas de guitarra de 2020. Encuentra los mejores y más originales diseños. Puas de metallica, pink floyd, queen o beatles."
 
 # type
 type: "puas-guitarra"
