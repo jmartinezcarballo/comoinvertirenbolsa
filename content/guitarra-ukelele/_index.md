@@ -5,14 +5,11 @@ date: 2020-06-11T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Selección de las mejores guitarras pequeñas de 4 cuerdas y ukeleles de 2020. &#9989; Conoce las diferencias entre guitarra y ukelele"
+description: "Encuentra las mejores guitarras pequeñas de cuatro cuerdas y ukeleles de 2020. &#9989; Conoce las diferencias entre guitarra y ukelele"
 
 # type
 type: "guitarras-ukelele"
 ---
-
-En esta sección voy a explicarte las diferencias entre una guitarra y un ukelele y te voy a mostrar una selección de modelos tanto de **guitarras pequeñas de cuatro cuerdas** como de **ukeleles** en función de lo que estés buscando.
-
 
 ## Diferencias entre una guitarra y un ukelele
 
