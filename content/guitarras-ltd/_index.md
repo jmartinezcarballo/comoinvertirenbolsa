@@ -13,11 +13,11 @@ type: "guitarras-electricas-ltd"
 
 Sección dedicada a las **guitarras ltd**. ESP es una exitosa marca de guitarras surgida, al igual que Yamaha, en Japón. Su popularidad creció exponencialmente durante la década de los 80 a raíz de que algunos guitarristas de metal de prestigio descubrieran la marca y empezaran a utilizar sus modelos y bautizaran sus modelos signature. 
 
-A mitad de los **años 90** ESP, al igual que otras marcas, decidió crear una filial con idea de hacer llegar sus modelos a todos los bolsillos, con **precios más asequibles** y, todo sea dicho, con materiales algo inferiores a los de las ESP y llevando su fabricación a países con mano de obra más barata, y así nacieron las guitarras ltd.
+A mitad de los años 90 ESP, al igual que otras marcas, decidió crear una filial con idea de hacer llegar sus modelos a todos los bolsillos, con precios más asequibles y, todo sea dicho, con materiales algo inferiores a los de las ESP y llevando su fabricación a países con mano de obra más barata, y así nacieron las guitarras ltd.
 
 A día de hoy se puede decir que LTD es la marca más exitosa de guitarras de heavy metal, ganándose ese status gracias a diferentes modelos algunos de los cuales poco tienen que envidiar a los de sus hermanas mayores ESP, como por ejemplo la exitosa **ltd ec 1000**.
 
-A continuación puedes consultar algunos de los **modelos** que forman parte del catálogo de las ltd.
+A continuación puedes consultar algunos de los mejores modelos que forman parte del catálogo de las ltd.
 
 ## LTD EX 401
 
@@ -50,8 +50,6 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 ## LTD EC 401
 
 De características y componentes cercanos a los de la ltd ec 1000, la ltd ec 401 ofrece unas altas prestaciones a un precio un poco más ajustado que la top de las ltd. 
-
-Consulta a continuación las características principales de la **ltd ec 401**.
 
 ![ltd ec 401](https://www.thomann.de/pics/prod/109968.jpg)
 
@@ -110,8 +108,6 @@ Consulta a continuación sus características principales en su versión Vintage
 
 La ltd mh 10 es la **Ltd stratocaster** de gama más baja. Si tienes un presupuesto ajustado y quieres una guitarra decente y relativamente barata ésta es tu ltd. Evidentemente no esperes las prestaciones de una ec 1000 ni de una ec 401, pero una ltd es sinonimo de un mínimo de calidad que no te va a faltar.
 
-Consulta a continuación las características principales de la **LTD MH 10**.
-
 ![ltd mh 10](https://www.thomann.de/pics/prod/431911.jpg)
 
 ### Características de la ltd mh 10
@@ -131,9 +127,7 @@ Consulta a continuación las características principales de la **LTD MH 10**.
 
 ## LTD Viper 400 baritone
 
-El modelo **barítono** de la LTD 400 se caracteriza por tener una configuración de escala, cuerdas y pastillas que está recomendada especialmente para aquellos que desean tener la guitarra afinada en **tonos más graves** del **Mi** estándar.
-
-Consulta a continuación las características principales de la **LTD Viper 400 baritone**.
+El modelo **barítono** de la LTD 400 se caracteriza por tener una configuración de escala, cuerdas y pastillas que está recomendada especialmente para aquellos que desean tener la guitarra afinada en tonos más graves del Mi estándar.
 
 ![ltd baritone viper 400 ](https://www.thomann.de/pics/bdb/458952/13875826_800.jpg)
 
@@ -164,7 +158,7 @@ Si buscas una **guitarra ltd flying V**, ésta es la perfecta para ti.
 
 ![ltd black metal arrow](https://www.thomann.de/pics/bdb/458254/13878816_800.jpg)
 
-### Características de la **ESP LTD Arrow BKM BLKS**.
+### Características de la ESP LTD Arrow BKM BLKS.
 
 * Cuerpo de caoba
 * Mástil de 3 piezas de arce
@@ -181,7 +175,7 @@ Si buscas una **guitarra ltd flying V**, ésta es la perfecta para ti.
 
 ## Gary Holt Les Paul Signature
 
-La leyenda del thrash metal **Gary Holt**, guitarrista de **Exodus** desde 1981, coincidiendo con Kirk Hammett en sus primeros años, y actualmente también siendo segundo guitarra de **Slayer** desde la muerte de Jeff Hanneman, posee sus modelos signature para aquellos fans deseosos de sacar e imitar los sonidos más veloces y extremos de su ídolo.
+La leyenda del thrash metal **Gary Holt**, guitarrista de **Exodus** desde 1981, coincidiendo con Kirk Hammett en sus primeros años, y actualmente también siendo segundo guitarra de **Slayer** desde la muerte de **Jeff Hanneman**, posee sus modelos signature para aquellos fans deseosos de sacar e imitar los sonidos más veloces y extremos de su ídolo.
 
 ### ESP LTD GH-200
 
@@ -189,9 +183,7 @@ De sus modelos signature éste es el más accesible en cuanto a **precio**.
 
 ![Gary Holt Les Paul](https://www.thomann.de/pics/prod/362630.jpg)
 
-Te dejo a continuación sus características y un enlace para que la puedas ver y escuchar de primera mano.
-
-### Características de la **ESP LTD GH-200**.
+### Características de la ESP LTD GH-200.
 
 * Cuerpo de tilo
 * Mástil de arce atornillado
@@ -208,11 +200,11 @@ Te dejo a continuación sus características y un enlace para que la puedas ver 
 
 ## ESP LTD y Metallica
 
-Sin desmerecer a ningún artista, desde hace muchos años hablar de **ESP LTD** es hablar de **Metallica**. Desde la segunda mitad de los 80 hasta hoy día tanto **James Hetfield** como **Kirk Hammett** adoptaron esta marca como la más habitual de su repertorio y las empezaron a hacer sonar por todo el mundo a medida que el éxito de la banda iba alcanzando cotas cada vez mayores. 
+Sin desmerecer a ningún artista, desde hace muchos años hablar de **ESP LTD** es hablar de **Metallica**. Desde la segunda mitad de los 80 hasta hoy día tanto **Hetfield** como **Kirk Hammett** adoptaron esta marca como la más habitual de su repertorio y las empezaron a hacer sonar por todo el mundo a medida que el éxito de la banda iba alcanzando cotas cada vez mayores. 
 
-Kirk Hammett fue el primero en dar el salto a ESP bautizando su famoso modelo signature **kh-2**, de la que existen numerosos modelos signature como la **Ouija** o **The Mummy**.
+Kirk Hammett fue el primero en dar el salto a ESP bautizando su famoso modelo signature **kh-2**, de la que existen numerosos modelos signature como la **Ouija** o **Mummy**.
 
-A diferencia de Kirk que tradicionalmente ha utilizado modelos **stratocaster**, Hetfield popularizó en los 80 los modelos **explorer**, dando el salto de Gibson a ESP al descubrir la marca japonesa.
+A diferencia de Kirk que tradicionalmente ha utilizado modelos stratocaster, Hetfield popularizó en los 80 los modelos explorer, dando el salto de Gibson a ESP al descubrir la marca japonesa.
 
 {{< youtube qjAhgd9K-8o >}}
 
@@ -220,7 +212,7 @@ A diferencia de Kirk que tradicionalmente ha utilizado modelos **stratocaster**,
 
 &nbsp;
 
-**¿No has encontrado la guitarra ESP LTD que buscabas? quizá éstas te puedan interesar:**
+**¿No has encontrado la guitarra ESP LTD que buscabas?** quizá éstas te puedan interesar:
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
