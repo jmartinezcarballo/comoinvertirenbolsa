@@ -170,7 +170,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/logo_web_opt_2.png"
+logo = "images/comprar-una-guitarra.png"
 home = "Inicio"
 # Meta data
 description = "¿Quieres aprender a tocar la guitarra en 2020 ? Encuentra consejos, comparativas y ayuda para comprar una guitarra"
