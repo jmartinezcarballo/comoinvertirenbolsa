@@ -37,8 +37,8 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 * 2 Pastillas activas emg-60/81
 
 <div>
-	<a href="https://amzn.to/2BxUWzh" class="btn" rel="nofollow" target="_blank">Ver en Amazon</a> &nbsp;
-	<a href="https://www.thomann.de/es/esp_ex_401_sw.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver en Thomann</a>
+	<a href="https://amzn.to/2BxUWzh" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a> &nbsp;
+	<a href="https://www.thomann.de/es/esp_ex_401_sw.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver en Thomann</a>
 </div>
 
 {{< youtube O3m29fW1sBQ >}}
@@ -64,8 +64,8 @@ De características y componentes cercanos a los de la ltd ec 1000, la ltd ec 40
 * 2 Pastillas activas emg-60/81
 
 <div>
-	<a href="https://amzn.to/3epa4xl" class="btn" rel="nofollow" target="_blank">Ver en Amazon</a> &nbsp;
-	<a href="https://www.thomann.de/es/esp_ex_401_sw.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver en Thomann</a>
+	<a href="https://amzn.to/3epa4xl" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a> &nbsp;
+	<a href="https://www.thomann.de/es/esp_ex_401_sw.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver en Thomann</a>
 </div>
 
 {{< youtube 1y8ymc6ERMo >}}
@@ -99,7 +99,7 @@ Consulta a continuación sus características principales en su versión Vintage
 * 2 Pastillas activas emg 81 y emg 60
 
 <div>
-	<a href="https://www.thomann.de/es/esp_ltd_ec1000_vbk.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver en Thomann</a>
+	<a href="https://www.thomann.de/es/esp_ltd_ec1000_vbk.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver en Thomann</a>
 </div>
 
 &nbsp;
@@ -120,7 +120,7 @@ La ltd mh 10 es la **Ltd stratocaster** de gama más baja. Si tienes un presupue
 * 2 pastillas humbucker ESP Designed LH-100
 
 <div>
-	<a href="https://amzn.to/3bP0q5p" class="btn" rel="nofollow" target="_blank">Ver producto</a>
+	<a href="https://amzn.to/3bP0q5p" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 </div>	
 
 &nbsp;
@@ -143,7 +143,7 @@ El modelo **barítono** de la LTD 400 se caracteriza por tener una configuració
 * 2 Pastillas activas emg 85/81
 
 <div>
-	<a href="https://amzn.to/2XNYxAY" class="btn" rel="nofollow" target="_blank">Ver producto</a>
+	<a href="https://amzn.to/2XNYxAY" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 </div>
 
 {{< youtube LuH7Pur_8p4 >}}
@@ -170,7 +170,7 @@ Si buscas una **guitarra ltd flying V**, ésta es la perfecta para ti.
 * 1 Pastillas activa emg 81
 
 <div>
-	<a href="https://www.thomann.de/es/esp_ltd_arrow_bkm_blks.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver producto</a>
+	<a href="https://www.thomann.de/es/esp_ltd_arrow_bkm_blks.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 </div>
 
 ## Gary Holt Les Paul Signature
@@ -195,7 +195,7 @@ De sus modelos signature éste es el más accesible en cuanto a **precio**.
 * LH-301N y LH-301B diseñadas por ESP
 
 <div>
-	<a href="https://https://www.thomann.de/es/esp_ltd_gh_200_blk_gary_holt.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver producto</a>
+	<a href="https://https://www.thomann.de/es/esp_ltd_gh_200_blk_gary_holt.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 </div>
 
 ## ESP LTD y Metallica

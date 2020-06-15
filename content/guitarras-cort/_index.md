@@ -34,7 +34,7 @@ Consulta a continuación las características principales de la Cort CR 250.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Cort CR250 	| Vintage Burst | 4,3 sobre 5 | <a href="https://amzn.to/3essWvn" rel="nofollow" target="_blank">Ver producto</a>
+| Cort CR250 	| Vintage Burst | 4,3 sobre 5 | <a href="https://amzn.to/3essWvn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -61,7 +61,7 @@ Consulta a continuación las características principales de la Cort x11.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Cort x11 	| Trans Charcoal Grey | 3,3 sobre 5 | <a href="https://amzn.to/2BJ7ELF" rel="nofollow" target="_blank">Ver producto</a>
+| Cort x11 	| Trans Charcoal Grey | 3,3 sobre 5 | <a href="https://amzn.to/2BJ7ELF" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -83,7 +83,7 @@ Consulta a continuación las características principales de la **Cort CR 100**.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Cort CR100	   	   | negro | 3,9 sobre 5 | <a href="https://amzn.to/2yjOWcd" rel="nofollow" target="_blank">Ver producto</a>
+| Cort CR100	   	   | negro | 3,9 sobre 5 | <a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 
 &nbsp;
 

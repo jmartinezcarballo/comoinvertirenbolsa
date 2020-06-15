@@ -134,8 +134,8 @@ Os dejo con un video del concierto **homenaje a Freddy Mercury** donde podéis v
 Hasta aquí el repaso a los 15 primeros años de la carrera de Metallica en lo que a guitarras se refiere. ¿Te han gustado las **explorer de James Hetfield**?
 
 <div>
-	<a href="https://amzn.to/2BxUWzh" class="btn" rel="nofollow" target="_blank">Quiero una ESP explorer blanca</a> &nbsp;
-	<a href="https://www.thomann.de/es/esp_ltd_ex_200_black.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Quiero una ESP explorer negra</a>
+	<a href="https://amzn.to/2BxUWzh" class="btn" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer blanca</a> &nbsp;
+	<a href="https://www.thomann.de/es/esp_ltd_ex_200_black.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer negra</a>
 </div>
 
 ### Ken Lawrence Explorer (desde 1996)
@@ -263,8 +263,8 @@ Basada en la **Gibson Les Paul Custom** que utilizó durante la gira de St.Anger
 ¿Te gustaría tener una **ESP Iron Cross**?
 
 <div>
-	<a href="https://www.thomann.de/es/esp_ltd_iron_cross_sw_459164.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Comprar LTD Iron Cross</a>&nbsp;
-	<a href="https://www.thomann.de/es/esp_iron_cross_sw.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Comprar ESP Iron Cross</a>
+	<a href="https://www.thomann.de/es/esp_ltd_iron_cross_sw_459164.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Iron Cross</a>&nbsp;
+	<a href="https://www.thomann.de/es/esp_iron_cross_sw.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Iron Cross</a>
 </div>
 
 ### ESP SNAKEBYTE (desde 2011)
@@ -293,8 +293,8 @@ Las especificaciones ofrecen pocas novedades respecto a modelos previos, con el 
 ¿Te gustaría tener una **ESP Snakebyte**?
 
 <div>
-	<a href="https://www.thomann.de/es/esp_ltd_snakebyte_sw_459205.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Comprar LTD Snakebyte</a>&nbsp;
-	<a href="https://www.thomann.de/es/esp_snakebyte_sw_james_hetfield.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Comprar ESP Snakebyte</a>
+	<a href="https://www.thomann.de/es/esp_ltd_snakebyte_sw_459205.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Snakebyte</a>&nbsp;
+	<a href="https://www.thomann.de/es/esp_snakebyte_sw_james_hetfield.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Snakebyte</a>
 </div>
 
 &nbsp;
@@ -322,8 +322,8 @@ La **ESP Vulture** es la última ESP signature creada para James Hetfield en 201
 ¿Te gustaría tener una **ESP Vulture**?
 
 <div>
-	<a href="https://www.thomann.de/es/esp_ltd_vulture_blks.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Comprar LTD Vulture</a>&nbsp;
-	<a href="https://www.thomann.de/es/esp_vulture_bks_hetfield.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Comprar ESP Vulture</a>
+	<a href="https://www.thomann.de/es/esp_ltd_vulture_blks.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Vulture</a>&nbsp;
+	<a href="https://www.thomann.de/es/esp_vulture_bks_hetfield.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Vulture</a>
 </div>
 
 ### Kenneth Lawrence Explorer Garage Days "Carl" (2018)

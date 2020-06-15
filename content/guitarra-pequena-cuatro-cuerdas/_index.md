@@ -43,7 +43,7 @@ A continuación te expongo las características principales del **Hricane Ukelel
 
 | Modelo        | Escala    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Hricane Ukelele | soprano | 4,5 sobre 5 | <a href="https://amzn.to/2Yqp8Em" rel="nofollow" target="_blank">Ver producto</a>
+| Hricane Ukelele | soprano | 4,5 sobre 5 | <a href="https://amzn.to/2Yqp8Em" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -65,7 +65,7 @@ Es un **juguete educativo** perfecto para que los más pequeños de la casa se d
 
 | Modelo        | Escala    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Healifty cuatro cuerdas | 21 pulgadas | - | <a href="https://amzn.to/2MV9M5i" rel="nofollow" target="_blank">Ver producto</a>
+| Healifty cuatro cuerdas | 21 pulgadas | - | <a href="https://amzn.to/2MV9M5i" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 
 &nbsp;
 
@@ -89,4 +89,4 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 
 | Modelo        | Escala    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Ammoon Ukelele | 24 pulgadas | 4,3 sobre 5 | <a href="https://amzn.to/30Bqzm1" rel="nofollow" target="_blank">Ver producto</a>
+| Ammoon Ukelele | 24 pulgadas | 4,3 sobre 5 | <a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>

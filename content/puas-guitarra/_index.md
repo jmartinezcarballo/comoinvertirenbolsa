@@ -30,7 +30,7 @@ Todas tienen un tamaño estándar y **0,71mm de grosor**.
 Incluye una pequeña bolsa de terciopelo para guardarlas.
 
 <div>
-	<a href="https://amzn.to/3eFBBdV" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/3eFBBdV" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
 </div>
 
 ## Kit de 40 puas Rayzm
@@ -54,7 +54,7 @@ El kit incluye:
 * Incluye funda de tela resistente para su guardado
 
 <div>
-	<a href="https://amzn.to/37llUWG" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/37llUWG" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
 </div>
 
 ## Kit de 50 puas fabricadas en resina acetálica
@@ -78,7 +78,7 @@ El kit incluye:
 * Incluye funda de tela para su guardado
 
 <div>
-	<a href="https://amzn.to/2XSU7bY" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/2XSU7bY" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
 </div>
 
 ## Kit de puas para guitarra eléctrica, acústica y bajo
@@ -96,5 +96,5 @@ El kit incluye:
 * Incluye caja metálica circular para su guardado
 
 <div>
-	<a href="https://amzn.to/2XrZPTi" class="btn" rel="nofollow" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/2XrZPTi" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
 </div>

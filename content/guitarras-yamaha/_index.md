@@ -37,8 +37,8 @@ Su **precio** suele rondar los **200€**.
 * 2 pastillas single coil y 1 humbucker en el puente con selector de 5 posiciones
 
 <div>
-	<a href="https://amzn.to/3bLizRn" class="btn" rel="nofollow" target="_blank">Ver en Amazon</a>&nbsp;
-	<a href="https://www.thomann.de/es/yamaha_pacifica_012rm.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver en Thomann</a>
+	<a href="https://amzn.to/3bLizRn" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>&nbsp;
+	<a href="https://www.thomann.de/es/yamaha_pacifica_012rm.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver en Thomann</a>
 </div>
 
 &nbsp;
@@ -60,7 +60,7 @@ La **Yamaha Pacifica 112v** es el modelo superior de la pacifica 012. Al igual q
 * 2 pastillas single coil y 1 humbucker de alnico con selector de 5 posiciones
 
 <div>
-	<a href="https://www.thomann.de/es/yamaha_pacifica_112v_bl.htm?partner_id=87175" class="btn" rel="nofollow" target="_blank">Ver producto</a>
+	<a href="https://www.thomann.de/es/yamaha_pacifica_112v_bl.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 </div>
 
 ## Yamaha erg121ubl
@@ -80,7 +80,7 @@ Consulta a continuación las características principales de la **Yamaha erg121u
 * 2 pastillas humbucker y 1 single coil Power SC
 
 <div>
-	<a href="https://amzn.to/3gcVbjj" class="btn" rel="nofollow" target="_blank">Ver producto</a>&nbsp;
+	<a href="https://amzn.to/3gcVbjj" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>&nbsp;
 </div>
 
 &nbsp;
@@ -91,7 +91,7 @@ Te dejo a continuación una **comparativa entre la Yamaha Pacifica 012 y la 112v
 
 | | Yamaha Pacifica 012 | Yamaha Pacifica 112v
 | ------------- |:-------------|:-------------
-| **Precio**	| <a href="https://amzn.to/3bLizRn" rel="nofollow" target="_blank">Consultar</a> | <a href="https://www.thomann.de/es/yamaha_pacifica_112v_bl.htm?partner_id=87175" rel="nofollow" target="_blank">Consultar</a>
+| **Precio**	| <a href="https://amzn.to/3bLizRn" rel="nofollow noopener noreferrer" target="_blank">Consultar</a> | <a href="https://www.thomann.de/es/yamaha_pacifica_112v_bl.htm?partner_id=87175" rel="nofollow noopener noreferrer" target="_blank">Consultar</a>
 | **Construcción**	| atornillada  | atornillada
 | **Escala**	| 64,8cm | 64,8cm
 | **Material cuerpo**	| agathis | aliso
