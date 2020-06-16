@@ -1,6 +1,6 @@
 ---
 title: "Las 5 mejores guitarras eléctricas baratas de 2020"
-seoTitle: "Las 5 mejores guitarras baratas de 2020"
+seoTitle: "Las 5 mejores guitarras eléctricas baratas de 2020"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
@@ -13,9 +13,9 @@ type: "guitarras-baratas"
 Si has llegado hasta aquí seguramente sea porque quieres **aprender a tocar la guitarra** y el primer paso para ello, evidentemente, es **comprar una guitarra eléctrica**, pero aquí ya te surgen muchas preguntas y dudas que te gustaría resolver antes de decidirte por un modelo u otro.
 
 En esta web te voy a presentar una serie de recomendaciones de **guitarras baratas por menos de 300€**. 
-Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama de precios, están bien consideradas 
+Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama, están bien consideradas 
 y pueden ser opciones a tener en cuenta para ayudarte a decidir en caso de que busques una guitarra de gama media/baja 
-pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su precio.
+pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su segmento.
 
 Una cosa a tener en cuenta antes de nada. La guitarra es importante, pero tanto o más lo es el amplificador 
 sobre el que la hagas sonar. Sin un amplificador decente cualquier guitarra te sonará mal. Y aquí es muchas veces donde 
@@ -45,7 +45,7 @@ Es una guitarra muy **cómoda y versátil**, pudiendo sacar buenos sonidos, tant
 con sus pastillas simples como unas aceptables distorsiones con su pastilla doble si lo que te gusta es el Rock 
 o incluso el metal, por tanto es ideal para alguien que quiere aprender a tocar.
 
-Su **precio** en tienda suele ser inferior a los 200€.
+Normalmente la puedes encontrar en tienda por debajo de los 200€.
 
 <p><img src="../../images/guitarras-baratas/yamaha-pacifica-012.jpg" alt="yamaha pacifica 012"></p>
 
@@ -101,7 +101,7 @@ el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 
 ### 3. Squier Affinity Stratocaster
 
-> Si eres un apasionado/a de Fender, este es el modelo ideal para tí!
+> Si eres un apasionado/a de Fender, este es el modelo ideal para ti!
 
 Al igual que las LTD, las <strong>Squier </strong> son una segunda marca, en este caso de las legendarias <strong>Fender</strong>. 
 
@@ -175,7 +175,7 @@ no tienen, es un tipo de diseño que tal vez para guitarristas novatos o inexper
 al principio, por ser generalmente guitarras con un **mástil más grueso** y, por su forma, es un poco más complicado llegar a
 los últimos trastes por su diseño curvo.
 
-Aun así, personalmente creo que es una de las mejores guitarras que vas a encontrar en este rango de precios.
+Aun así, personalmente creo que es una de las mejores guitarras que vas a encontrar en su segmento.
 
 <p><img src="../../images/guitarras-baratas/cort-cr100.jpg" alt="guitarra cort cr 100"></p>
 
@@ -212,8 +212,8 @@ Tranquilo, muchos han pasado por tu misma situación.
 
 ### Precio
 
-Esta es una de las primeras cuestiones que deberás responder. Habrás podido comprobar como existe un rango amplísimo 
-de precios en función de multitud de <strong>características y marcas</strong>. 
+Esta es una de las primeras cuestiones que deberás responder. Habrás podido comprobar como existen guitarras que pueden ir
+desde los 100 euros hasta costar miles, en función de multitud de <strong>características y marcas</strong>. 
 
 Mucha gente lo que recomienda es que tengas un <strong>presupuesto</strong>, y a partir de aquí busques aquellos modelos 
 que se adapten a él y entre ellos te quedes con la que cumpla tus expectativas y aquí ya puedes tener en cuenta 
