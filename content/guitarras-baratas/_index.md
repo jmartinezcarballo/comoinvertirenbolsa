@@ -1,36 +1,55 @@
 ---
-title: "Las 5 mejores guitarras baratas de 2020"
+title: "Las 5 mejores guitarras eléctricas baratas de 2020"
+seoTitle: "Las 5 mejores guitarras baratas de 2020"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra las mejores guitarras baratas del 2020. Comparativa entre modelos de una gran calidad/precio de marcas como &#9989; Yamaha, Ibanez o Squier"
+description: "Encuentra las mejores guitarras eléctricas baratas del 2020. Comparativa entre modelos de una gran calidad/precio de marcas como &#9989; Yamaha, Ibanez o Squier"
 
 # type
 type: "guitarras-baratas"
 ---
+Si has llegado hasta aquí seguramente sea porque quieres **aprender a tocar la guitarra** y el primer paso para ello, evidentemente, es **comprar una guitarra eléctrica**, pero aquí ya te surgen muchas preguntas y dudas que te gustaría resolver antes de decidirte por un modelo u otro.
 
-A continuación te presento una serie de recomendaciones de **guitarras baratas** por **menos de 300€**. Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama de precios, están bien consideradas y pueden ser opciones a tener en cuenta para ayudarte a decidir en caso de que busques una guitarra de gama media/baja pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su precio.
+En esta web te voy a presentar una serie de recomendaciones de **guitarras baratas por menos de 300€**. 
+Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama de precios, están bien consideradas 
+y pueden ser opciones a tener en cuenta para ayudarte a decidir en caso de que busques una guitarra de gama media/baja 
+pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su precio.
 
-Una cosa a tener en cuenta antes de nada. La guitarra es importante, pero tanto o más lo es el amplificador sobre el que la hagas sonar. Sin un amplificador decente cualquier guitarra te sonara mal. Y aquí es muchas veces donde empiezan los problemas y algunas frustraciones. Vas a empezar a tocar en casa y no quieres empezar a atronar a los vecinos y que te llamen la atención, pero con un ampli básico seguramente no notes mucha diferencia entre una u otra y el sonido no te acabe de convencer y pienses, equivocadamente, que has tirado el dinero en la guitarra.
+Una cosa a tener en cuenta antes de nada. La guitarra es importante, pero tanto o más lo es el amplificador 
+sobre el que la hagas sonar. Sin un amplificador decente cualquier guitarra te sonará mal. Y aquí es muchas veces donde 
+empiezan los problemas y algunas frustraciones al no poder usar un amplificador en casa.
 
-¿Qué puedes hacer? tranquilo hay soluciones para todo! pásate por la sección de [accesorios](https://www.comprarunaguitarra.com/accesorios) y te contaré lo que yo uso en casa y que considero de las mejores compras que he hecho.
+¿Qué puedes hacer? tranquilo hay soluciones para todo! pásate por la sección de <a href="/behringer-guitar-link">Behringer Guitar Link</a> 
+y te contaré lo que yo uso en casa y que considero de las mejores compras que he hecho.
 
 Pero no nos desviemos del tema y vamos al lio. Empecemos por las guitarras!
 
-<hr>
+&nbsp;
 
+## Las mejores guitarras eléctricas baratas
 
+&nbsp;
 
 ### 1. Yamaha Pacífica 012
 
-Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. La Yamaha Pacífica es un clásico y una referencia entre las guitarras de gama media/baja y suele aparecer entre las recomendaciones para principiantes. Es una guitarra muy cómoda y versátil, pudiendo sacar buenos sonidos, tanto limpios con sus pastillas simples como unas aceptables distorsiones con su pastilla doble si lo que te gusta es el Rock o incluso el metal. Su precio en tienda suele ser inferior a los 200€ por lo que si tu presupuesto es un poco superior, Yamaha dispone en su catálogo del modelo 112 que, siendo un poco más cara que su hermana pequeña, ofrece mejores prestaciones sin llegar a los 300€.
+> Las Yamaha Pacífica son la referencia número 1 en guitarras de calidad/precio para principantes
 
-![image](../../images/post/yamaha_pacifica_112_blk.jpg)
+Marca reconocida por hacer productos **fiables** y de una muy buena **calidad precio**. 
 
-<hr>
+La Yamaha Pacifica es un clásico y una referencia entre las guitarras de gama media/baja y suele aparecer entre las 
+recomendaciones para principiantes. 
 
-#### Características
+Es una guitarra muy **cómoda y versátil**, pudiendo sacar buenos sonidos, tanto limpios 
+con sus pastillas simples como unas aceptables distorsiones con su pastilla doble si lo que te gusta es el Rock 
+o incluso el metal, por tanto es ideal para alguien que quiere aprender a tocar.
+
+Su **precio** en tienda suele ser inferior a los 200€.
+
+<p><img src="../../images/guitarras-baratas/yamaha-pacifica-012.jpg" alt="yamaha pacifica 012"></p>
+
+#### Características de la Yamaha Pacifica 012
 
 * Cuerpo de Agathis
 * Puente trémolo estilo vintage
@@ -38,25 +57,34 @@ Marca reconocida por hacer productos fiables y de una muy buena calidad/precio. 
 * 4,2kg de peso
 * 2 pastillas single coil y 1 humbucker en el puente con selector de 5 posiciones
 
-<hr>
-
-| Modelo        | Precio    | Valoraciones | Enlace |      
+| Modelo        | Color    | Valoraciones | Enlace |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | menos de 200€ | 4,4 sobre 5 | [Ver producto](https://www.google.com)	
+| Yamaha Pacífica PA012	   	   | negro | 4,4 sobre 5 | <a href="https://amzn.to/3bLizRn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>	
 
-<hr>
+&nbsp;
 
-### 2. LTD MH-10
+### 2. LTD EC-10
 
-LTD es la segunda marca de la prestigiosa marca de guitarras ESP, referencia dentro del mundo del rock más duro. Grupos de la talla de Metallica han hecho famosas sus guitarras. Cuando hablamos de segundas marcas inevitablemente tenemos que tener en cuenta que los materiales no van a ser los mismos de la marca matriz, y mucho menos cuando hablamos, como es este caso, del modelo de la gama más baja de las LTD EC, así como tampoco el país de fabricación de la guitarra.
+> La ESP LTD a precio más asequible. Si te gusta el Rock Duro es la opción más interesante
 
-Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. Si lo que quieres son sonidos limpios, tocar pop, etc. seguramente hayan mejores opciones, sin embargo, si lo que te gusta es el rock y el metal, son guitarras muy a tener en cuenta.
+LTD es la segunda marca de la prestigiosa marca de **guitarras ESP**, referencia dentro del mundo del rock más duro. 
+Grupos de la talla de **Metallica** han hecho famosas sus guitarras. 
 
-![ltd mh10](../../images/post/LTD_MH_10.png)
+Cuando hablamos de segundas marcas inevitablemente tenemos que tener en cuenta que los materiales no van a ser los mismos 
+de la marca matriz, y mucho menos cuando hablamos, como es este caso, del modelo de la gama más baja de las LTD, la serie 10,
+así como tampoco el país de fabricación de la guitarra.
 
-<hr>
+Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. 
 
-#### Características
+Si lo que quieres son sonidos limpios, tocar pop, etc. seguramente hayan mejores opciones, sin embargo, si lo que te gusta 
+es el **rock y el metal**, son guitarras muy a tener en cuenta. 
+
+La **serie 10 de ltd** cuenta con diferentes modelos en función del diseño de la guitarra, de esta manera te puedes encontrar
+el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
+
+<p><img src="../../images/guitarras-baratas/ltd-ec-10.jpg" alt="ltd ec 10"></p>
+
+#### Características de la LTD EC 10
 
 * Cuerpo de tilo
 * Mastil de arce
@@ -65,23 +93,28 @@ Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tiene
 * Peso: 4,3kg
 * 2 pastillas humbucker ESP Designed LH-100
 
-<hr>
-
-| Modelo        | Precio    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD MH-10	   	   | más de 200€ | 4,5 de 5 | [Ver producto](https://www.google.com)		
+| LTD EC-10	   	   | negro | 4,5 de 5 | <a href="https://amzn.to/3bP0q5p" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>		
 
-<hr>
+&nbsp;
 
 ### 3. Squier Affinity Stratocaster
 
-Al igual que las LTD, las Squier son una segunda marca, en este caso de las legendarias Fender. Así como las LTD son recomendadas para sonidos más rudos por su configuración de pastillas, en el caso de la Squier Affinity es totalmente lo opuesto. Su electrónica con 3 pastillas single coil va más enfocada a sonidos más versátiles, limpios o blueseros que los de la LTD, por lo que aquí tendrás que tener en cuenta qué estilos te gustaría tocar para decantarte entre ámbos modelos. Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar a la versatilidad de la Yamaha.
+> Si eres un apasionado/a de Fender, este es el modelo ideal para tí!
 
-![squier affinity stratocaster](../../images/post/squier_affinity_stratocaster.png)
+Al igual que las LTD, las <strong>Squier </strong> son una segunda marca, en este caso de las legendarias <strong>Fender</strong>. 
 
-<hr>
+Así como las LTD son recomendadas para sonidos más rudos por su configuración de pastillas, 
+en el caso de la Squier Affinity es totalmente lo opuesto. Su electrónica con 3 pastillas single coil 
+va más enfocada a **sonidos más versátiles, limpios y blueseros** que los de la LTD, por lo que aquí tendrás que tener en cuenta 
+qué estilos te gustaría tocar para decantarte entre ámbos modelos. 
 
-#### Características
+Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar a la versatilidad que ofrecen las Yamaha.
+
+<p><img src="../../images/guitarras-baratas/squier-affinity.jpg" alt="squier affinity stratocaster"></p>
+
+#### Características de la Squier Affinity
 
 * Cuerpo de aliso
 * Mastil de arce
@@ -90,21 +123,31 @@ Al igual que las LTD, las Squier son una segunda marca, en este caso de las lege
 * Peso: 4,3kg
 * 3 pastillas single coil
 
-<hr>
-
-| Modelo        | Precio    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Squier Affinity Stratocaster | alrededor de 200€ | 4,2 sobre 5 | [Ver producto](https://www.google.com)	
+| Squier Affinity Stratocaster | sunburst| 4,2 sobre 5 | <a href="https://amzn.to/2zixUf9" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>	
 
-<hr>
+&nbsp;
 
 ### 4. Ibanez GRG170DX
 
-![image](../../images/post/Ibanez_GRG_170dx.png)
+> Comprar Ibanez es comprar calidad y comodidad. Una de las marcas más fiables que existen.
 
-<hr>
+<p><img src="../../images/guitarras-baratas/ibanez-grg170dx.jpg" alt="ibanez grg170dx"></p>
 
-#### Características
+Guitarra super interesante la que nos ofrece Ibanez en este rango de precios. Vas a poder dar caña con sus dos **pastillas 
+Humbucker**, pero además dispone de una pastilla simple, por lo que vas a tener todavía más versatilidad.
+
+Ibanez es un fabricante con una gran prestigio y de referencia por crear modelos muy cómodos, punto muy importante para
+todo principiante. 
+
+La **versatilidad, comodidad y peso** son sus grandes puntos a favor, además de la seguridad de una gran
+marca. 
+
+Por contra, a diferencia del resto de modelos, no dispone de puente simple sino que **el puente es semi flotante**. 
+Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te haga tener que afinarla más veces que con otros modelos
+
+#### Características de la Ibanez GRG170DX
 
 * Cuerpo de álamo
 * Mastil de arce
@@ -113,23 +156,30 @@ Al igual que las LTD, las Squier son una segunda marca, en este caso de las lege
 * Peso: 3,2kg
 * 2 pastillas humbucker en cuello y puente y 1 pastilla single coil en la posición intermedia
 
-<hr>
-
-| Modelo        | Precio    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Ibanez GRG170DX | más de 200€ | 4,2 sobre 5 | [Ver producto](https://www.google.com)		
+| Ibanez GRG170DX | negro | 4,2 sobre 5 | <a href="https://amzn.to/3bLQ0mL" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>		
 
-<hr>
+&nbsp;
 
 ### 5. Cort CR 100
 
-Hablar de Cort es hablar de una marca contrastada con uno de los baremos calidad/precio mejores del mercado. Buen material, buenos acabados, buen sonido y muy ligera, apenas pesa 3kg!
+> Las Cort no tienen nada que envidiar a marcas más conocidas. Su calidad/precio te sorprenderá!
 
-![image](../../images/post/cort_cr_100.png)
+Hablar de Cort es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
 
-<hr>
+Buen material, buenos acabados y buen sonido, una todoterreno.
 
-#### Características
+Esta es la única **tipo les paul** del listado. Si bien son guitarras muy bonitas y con una **calidez de sonidos** que las stratocaster
+no tienen, es un tipo de diseño que tal vez para guitarristas novatos o inexpertos se les pueda hacer un poco más difícil
+al principio, por ser generalmente guitarras con un **mástil más grueso** y, por su forma, es un poco más complicado llegar a
+los últimos trastes por su diseño curvo.
+
+Aun así, personalmente creo que es una de las mejores guitarras que vas a encontrar en este rango de precios.
+
+<p><img src="../../images/guitarras-baratas/cort-cr100.jpg" alt="guitarra cort cr 100"></p>
+
+#### Características de la Cort CR 100
 
 * Cuerpo de caoba
 * Diapason de palorosa
@@ -138,11 +188,112 @@ Hablar de Cort es hablar de una marca contrastada con uno de los baremos calidad
 * Peso: 3kg
 * 2 pastillas humbucker Powersound PSLP-1F y PSLP-1R
 
-<hr>
-
-| Modelo        | Precio    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Ver producto |      
 | ------------- |:-------------|:-------------|:-------------
-| Cort CR 100	   	   | más de 250€ | 3,9 sobre 5 | [Ver producto](https://www.google.com)
+| Cort CR 100	   	   | negro | 3,9 sobre 5 | <a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 
+&nbsp;
 
+## Consejos para comprar una guitarra
+
+Una vez hemos repasado el top 5 de guitarras voy a darte algunos consejos que pueden ayudarte a decidir en la compra
+de tu primera guitarra.
+
+### Comodidad
+
+Tu primera guitarra debe ser **cómoda** y, preferiblemente, **ligera**. 
+
+Piensa que vas a aprender a tocar un instrumento nuevo y, por tanto, no buscas lo mejor del mercado. 
+Debes buscar una guitarra con la que te sientas cómodo y tengas ese feeling inicial adecuado para ir cogiendo destreza 
+y movilidad con los dedos. 
+
+Si te acaba gustando, de buen seguro pasado un tiempo querrás dar el salto a una guitarra mejor. 
+Tranquilo, muchos han pasado por tu misma situación.
+
+### Precio
+
+Esta es una de las primeras cuestiones que deberás responder. Habrás podido comprobar como existe un rango amplísimo 
+de precios en función de multitud de <strong>características y marcas</strong>. 
+
+Mucha gente lo que recomienda es que tengas un <strong>presupuesto</strong>, y a partir de aquí busques aquellos modelos 
+que se adapten a él y entre ellos te quedes con la que cumpla tus expectativas y aquí ya puedes tener en cuenta 
+tus preferencias en cuanto a **materiales, pastillas, estética o marca** y qué guitarra te puedes permitir.
+
+El listado que has encontrado aquí se basa en este consejo, bajo la premisa de que tu presupuesto sea inferior a los 300 euros.
+
+### Diseño
+
+A pesar de que la comodidad es un factor determinante a la hora de escoger una guitarra, no menos importante tiene que ser 
+también el diseño. 
+
+¿Porqué deberías comprar una guitarra que no te gusta? el problema a veces está en que la guitarra que más te gusta 
+no es ni mucho menos la más comoda, bien porque es muy pesada, bien porque el cuerpo es demasiado grande, 
+el mástil es muy ancho, los dedos no deslizan bien por el mástil y te resulta incómodo llegar a los últimos trastes, etc.
+
+Por tanto, aquí es muy importante que busques un <strong>balance entre estética y comodidad</strong>. 
+Por ejemplo, en mi caso a mi siempre me han gustado muchos los modelos explorer y las tipo les paul, 
+sin embargo una epiphone les paul para mi gusto no es un tipo de guitarra que yo recomendaría especialmente para empezar. 
+Con la explorer ya ni me lo plantearía.
+
+Seguramente los modelos de tipo <strong>stratocaster y telecaster</strong> sean los más cómodos que hay, y si buscas 
+algo tipo les paul, fuera de la propia Epiphone seguro que encuentras marcas con modelos más cómodos o cuerpos más finos,
+como la Cort que has podido ver en este listado. Busca y compara!
+
+### A ser posible, pruébala
+
+Es verdad que para alguien que va a comprar su <strong>primera guitarra</strong> y que no sabe tocar, este apartado 
+puede que no sea tan importante, pero es un consejo que siempre se debe dar.
+
+Nunca vas a poder saber como te sientes con una guitarra si no te la has puesto encima antes, tan simple como eso.
+
+Hoy en día hay multitud de webs en las que puedes **comprar guitarras online**, en esta misma página web ofrezco enlaces 
+externos a compras de guitarras, no voy a decirte que no compres una guitarra por internet porque tampoco sería un buen consejo, 
+yo mismo lo he hecho y no precisamente barato, y siempre he quedado muy satisfecho con la compra, 
+pero es verdad que siempre es preferible echarle un vistazo de cerca antes y probarla en tienda, 
+ya que todas lo permiten (o deberían).
+
+### Las marcas se pagan
+
+Como en cualquier producto la marca se paga y el **precio</strong>** de la guitarra subirá dependiendo de qué marcas 
+estés mirando, y muchas veces, por modelos que no son mejores que los de otras marcas de menos renombre.
+
+Existen marcas en el mercado con una **relación calidad/precio** muy superior a sus competidores, 
+así que para tu primera guitarra creo que es mejor que te olvides de Fender y Gibson en los que pagaras mucho la marca 
+y te centres en marcas con muy buenas prestaciones sin que el presupuesto se tenga que resentir, 
+como por ejemplo <a href="/guitarras-yamaha">Yamaha</a> o <a href="/guitarras-cort">Cort</a>.</p>
+
+### Algunos tips sobre componentes
+
+Para finalizar los **consejos para comprar una guitarra eléctrica**, te voy a dejar unos sencillos tips que creo que son
+interesantes tener en cuenta cuando vayas a comprar una **guitarra barata**.
+
+* En guitarras de gama media/baja es preferible un puente de tipo fijo que no un puente flotante (Floyd Rose), 
+ya que éste último tiende a perder más la afinación.
+* A poder ser, es preferible que la guitarra tenga tanto pastillas simples como alguna doble. 
+Te dará una mayor versatilidad y variedad de sonidos y estilos diferentes para tocar.
+* Hay modelos de presupuesto bajo con push/pull coil incorporado, por ejemplo la Yamaha Pacifica 112v. 
+Esto te permitirá separar la pastilla doble en simples y dotar a tu guitarra de aun más versatilidad.
+
+&nbsp;
+
+Y hasta aquí la sección de guitarras baratas. Tal vez ya hayas encontrado esa primera guitarra eléctrica que buscabas. 
+En tal caso, **tal vez te interesen estos accesorios para complementar tu compra:**
+
+<div class="row">
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/behringer-guitar-link/">
+          <figcaption>Behringer Guitar Link</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/puas-guitarra/">
+          <figcaption>Puas de Guitarra</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/inlays-guitarra/">
+          <figcaption>Inlays para Guitarra</figcaption>
+        </a>
+      </div>
+</div>
 
