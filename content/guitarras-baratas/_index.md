@@ -21,8 +21,8 @@ Una cosa a tener en cuenta antes de nada. La guitarra es importante, pero tanto 
 sobre el que la hagas sonar. Sin un amplificador decente cualquier guitarra te sonará mal. Y aquí es muchas veces donde 
 empiezan los problemas y algunas frustraciones al no poder usar un amplificador en casa.
 
-¿Qué puedes hacer? tranquilo hay soluciones para todo! pásate por la sección de <a href="/behringer-guitar-link">Behringer Guitar Link</a> 
-y te contaré lo que yo uso en casa y que considero de las mejores compras que he hecho.
+¿Qué puedes hacer si no tienes amplificador en casa? tranquilo hay soluciones para todo! como alternativa casera existen 
+las <a href="/behringer-guitar-link">interfaces de sonido usb</a> que funcionan como tarjetas de sonido externas a tu ordenador.
 
 Pero no nos desviemos del tema y vamos al lio. Empecemos por las guitarras!
 
@@ -36,7 +36,7 @@ Pero no nos desviemos del tema y vamos al lio. Empecemos por las guitarras!
 
 > Las Yamaha Pacífica son la referencia número 1 en guitarras de calidad/precio para principantes
 
-Marca reconocida por hacer productos **fiables** y de una muy buena **calidad precio**. 
+Las <a href="/guitarras-yamaha/">guitarras yamaha</a> son reconocidas por hacer productos **fiables** y de una muy buena **calidad precio**. 
 
 La Yamaha Pacifica es un clásico y una referencia entre las guitarras de gama media/baja y suele aparecer entre las 
 recomendaciones para principiantes. 
@@ -74,7 +74,7 @@ Cuando hablamos de segundas marcas inevitablemente tenemos que tener en cuenta q
 de la marca matriz, y mucho menos cuando hablamos, como es este caso, del modelo de la gama más baja de las LTD, la serie 10,
 así como tampoco el país de fabricación de la guitarra.
 
-Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. 
+Dicho esto, hablar de <a href="/guitarras-ltd">ltd</a> es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. 
 
 Si lo que quieres son sonidos limpios, tocar pop, etc. seguramente hayan mejores opciones, sin embargo, si lo que te gusta 
 es el **rock y el metal**, son guitarras muy a tener en cuenta. 
@@ -103,7 +103,7 @@ el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 
 > Si eres un apasionado/a de Fender, este es el modelo ideal para ti!
 
-Al igual que las LTD, las <strong>Squier </strong> son una segunda marca, en este caso de las legendarias <strong>Fender</strong>. 
+Al igual que las LTD, las <a href="/guitarras-squier">Squier</a> son una segunda marca, en este caso de las legendarias <strong>Fender</strong>. 
 
 Así como las LTD son recomendadas para sonidos más rudos por su configuración de pastillas, 
 en el caso de la Squier Affinity es totalmente lo opuesto. Su electrónica con 3 pastillas single coil 
@@ -166,7 +166,7 @@ Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te 
 
 > Las Cort no tienen nada que envidiar a marcas más conocidas. Su calidad/precio te sorprenderá!
 
-Hablar de Cort es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
+Hablar de <a href="/guitarras-cort">Cort</a> es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
 
 Buen material, buenos acabados y buen sonido, una todoterreno.
 
@@ -271,7 +271,7 @@ interesantes tener en cuenta cuando vayas a comprar una **guitarra barata**.
 ya que éste último tiende a perder más la afinación.
 * A poder ser, es preferible que la guitarra tenga tanto pastillas simples como alguna doble. 
 Te dará una mayor versatilidad y variedad de sonidos y estilos diferentes para tocar.
-* Hay modelos de presupuesto bajo con push/pull coil incorporado, por ejemplo la Yamaha Pacifica 112v. 
+* Hay modelos de presupuesto bajo con push/pull coil incorporado, por ejemplo la <a href="/guitarras-yamaha">Yamaha Pacifica 112v</a>. 
 Esto te permitirá separar la pastilla doble en simples y dotar a tu guitarra de aun más versatilidad.
 
 &nbsp;

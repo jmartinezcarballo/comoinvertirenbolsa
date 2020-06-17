@@ -21,7 +21,13 @@ A continuación puedes consultar algunos de los mejores modelos que forman parte
 
 ## LTD EX 401
 
-Probablemente sean miles y miles de chavales los que en las últimas decadas hayan adquirido una **esp explorer** queriendo emular a su ídolo **James Hetfield** aprendiéndose los riffs de Master of Puppets, Enter Sandman o For Whom the Bell Tolls. Es un modelo que no necesita ningún tipo de presentación. En este caso el modelo que presento es la ex 401, modelo de gama más alta que sus predecesoras, la ex 50 y la ex 200. Tendrás que rascarte un poco más el bolsillo que con las otras pero tendrás un cañon de guitarra.
+Probablemente sean miles y miles de chavales los que en las últimas decadas hayan adquirido una **esp explorer** queriendo emular a su ídolo 
+<a href="/james-hetfield">James Hetfield</a> aprendiéndose los riffs de Master of Puppets, Enter Sandman o For Whom the Bell Tolls. 
+
+Es un modelo que no necesita ningún tipo de presentación. En este caso el modelo que presento es la ex 401, 
+modelo de gama más alta que sus predecesoras, la ex 50 y la ex 200. 
+
+Tendrás que rascarte un poco más el bolsillo que con las otras pero tendrás un cañon de guitarra.
 
 ![ltd ex 401](https://www.thomann.de/pics/prod/385416.jpg)
 
@@ -43,7 +49,7 @@ Probablemente sean miles y miles de chavales los que en las últimas decadas hay
 
 {{< youtube O3m29fW1sBQ >}}
 
-¿Te gustaría saber todo sobre **las esp ltd de James Hetfield**? pásate por la [biografía de James Hetfield a través de sus guitarras](/james-hetfield)
+¿Te gustaría saber todo sobre **las esp ltd de James Hetfield**? pásate por la [biografía de James Hetfield](/james-hetfield)
 
 &nbsp;
 
@@ -200,7 +206,8 @@ De sus modelos signature éste es el más accesible en cuanto a **precio**.
 
 ## ESP LTD y Metallica
 
-Sin desmerecer a ningún artista, desde hace muchos años hablar de **ESP LTD** es hablar de **Metallica**. Desde la segunda mitad de los 80 hasta hoy día tanto **Hetfield** como **Kirk Hammett** adoptaron esta marca como la más habitual de su repertorio y las empezaron a hacer sonar por todo el mundo a medida que el éxito de la banda iba alcanzando cotas cada vez mayores. 
+Sin desmerecer a ningún artista, desde hace muchos años hablar de **ESP LTD** es hablar de **Metallica**. 
+Desde la segunda mitad de los 80 hasta hoy día tanto el propio <a href="/james-hetfield">cantante de Metallica</a> como **Kirk Hammett** adoptaron esta marca como la más habitual de su repertorio y las empezaron a hacer sonar por todo el mundo a medida que el éxito de la banda iba alcanzando cotas cada vez mayores. 
 
 Kirk Hammett fue el primero en dar el salto a ESP bautizando su famoso modelo signature **kh-2**, de la que existen numerosos modelos signature como la **Ouija** o **Mummy**.
 

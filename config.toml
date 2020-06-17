@@ -145,27 +145,13 @@ disqusShortname = ""
 
   # footer menu
   [[menu.footer]]
-  name = "Aviso legal"
-  URL = "aviso-legal"
-  weight = 1
-  
-  [[menu.footer]]
-  name = "Política de privacidad"
-  URL = "politica-de-privacidad"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Uso de cookies"
-  URL = "uso-de-cookies"
-  weight = 3
-  [[menu.footer]]
   name = "Mapa del sitio web"
   URL = "mapa-web"
-  weight = 4
+  weight = 1
   [[menu.footer]]
   name = "Contacto"
   URL = "contacto"
-  weight = 5
+  weight = 2
 
 
 #################### default parameters ################################

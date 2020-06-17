@@ -21,7 +21,7 @@ Denominación social: **comprarunaguitarra.com**
 
 Correo electrónico:  info@comprarunaguitarra.com
 
-Domicilio social: C/ Cerdanya, 08830 Sant Boi de Llobregat
+Domicilio social:
 
 Su actividad social es: proporcionar información, asesoramiento y actividades de afiliación
 
