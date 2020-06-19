@@ -263,8 +263,7 @@ estés mirando, y muchas veces, por modelos que no son mejores que los de otras 
 
 Existen marcas en el mercado con una **relación calidad/precio** muy superior a sus competidores, 
 así que para tu primera guitarra creo que es mejor que te olvides de Fender y Gibson en los que pagaras mucho la marca 
-y te centres en marcas con muy buenas prestaciones sin que el presupuesto se tenga que resentir, 
-como por ejemplo <a href="/guitarras-yamaha">Yamaha</a> o <a href="/guitarras-cort">Cort</a>.</p>
+y te centres en marcas con muy buenas prestaciones sin que el presupuesto se tenga que resentir.
 
 ### Algunos tips sobre componentes
 
@@ -275,7 +274,7 @@ interesantes tener en cuenta cuando vayas a comprar una **guitarra barata**.
 ya que éste último tiende a perder más la afinación.
 * A poder ser, es preferible que la guitarra tenga tanto pastillas simples como alguna doble. 
 Te dará una mayor versatilidad y variedad de sonidos y estilos diferentes para tocar.
-* Hay modelos de presupuesto bajo con push/pull coil incorporado, por ejemplo la <a href="/guitarras-yamaha">Yamaha Pacifica 112v</a>. 
+* Hay modelos de presupuesto bajo con push/pull coil incorporado, por ejemplo la Yamaha Pacifica 112v. 
 Esto te permitirá separar la pastilla doble en simples y dotar a tu guitarra de aun más versatilidad.
 
 &nbsp;
@@ -289,12 +288,12 @@ muchas marcas suelen especializarse y destacar en nichos de mercado enfocados a 
 A continuación te expongo algunas marcas que, en el segmento de **guitarras eléctricas baratas y buenas**, ofrecen una amplia variedad 
 de modelos de gran calidad:
 
-* **Yamaha**: si hay una marca que destaca por encima de las demás esa es <a href="/guitarras-yamaha">Yamaha</a>. Su serie Pacifica se ha ganado
+* **Yamaha**: si hay una marca que destaca por encima de las demás esa es Yamaha. Su serie Pacifica se ha ganado
 con los años ese merecido reconocimiento por hacer unas guitarras de una calidad precio más que buenas a precios muy ajustados.
 Sus modelos **Pacifica 112v** y **Pacifica 012** son líderes de ventas en el sector.
 
 * **Cort**: cada vez tienen más seguidores y no es por casualidad. Siguiendo la filosofía de Yamaha tienen una escala de precios
-muy ajustada para la buena calidad que ofrecen. <a href="/guitarras-cort">Cort</a> son un claro ejemplo de que no es 
+muy ajustada para la buena calidad que ofrecen. Son un claro ejemplo de que no es 
 necesario pagar más por una marca de renombre cuando puedes tener una guitarra de igual o mejor calidad a un mejor precio.
 
 * **Rocktile**: <a href="https://amzn.to/2V1iuDB" rel="nofollow noopener noreferrer" target="_blank">para los presupuestos más ajustados</a>. Están un poco por debajo de las 
