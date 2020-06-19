@@ -1,5 +1,5 @@
 ---
-title: "Guitarra Pequeña de cuatro cuerdas"
+title: "Guitarras Pequeñas de cuatro cuerdas"
 seoTitle: "Guitarras pequeñas de cuatro cuerdas y Ukeleles [2020]"
 date: 2020-06-11T10:07:47+06:00
 draft: false
@@ -31,7 +31,7 @@ Hricane es una marca reconocida que ofrece buenos productos calidad/precio. Buen
 A continuación te expongo las características principales del **Hricane Ukelele**.
 
 
-![fender squier mini stratocaster](../../images/guitarra-pequena-cuatro-cuerdas/ukelele-hricane.jpg)
+![hricane ukelele](../../images/guitarra-pequena-cuatro-cuerdas/ukelele-hricane.jpg)
 
 ### Características del Hricane Ukelele
 
@@ -90,3 +90,65 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 | Modelo        | Escala    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Ammoon Ukelele | 24 pulgadas | 4,3 sobre 5 | <a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
+
+&nbsp;
+
+## Ammoon Ukelele de 21 pulgadas
+
+Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la electrónica del modelo anterior. Este modelo soprano, ideal para principiantes, ofrece un buen sonido con sus 4 cuerdas de nylon sobre un diapasón hecho de palorosa y cuerpo de picea.
+
+![ukelele ammoon](../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-21-pulgadas.jpg)
+
+### Características del Ammonn Ukelele de 21 pulgadas
+
+* Cuerpo de picea
+* Diapasón de palorosa
+* 4 cuerdas de nylon
+* 21 pulgadas de tamaño
+* Disponible en dos colores
+* Dimensiones: 55,4 x 21,8 x 11,2 cm
+
+| Modelo        | Escala    | Valoraciones | Precio |      
+| ------------- |:-------------|:-------------|:-------------
+| Ammoon Ukelele | 21 pulgadas | 4,4 sobre 5 | <a href="https://amzn.to/2Az0Foj" rel="nofollow" target="_blank">Ver producto</a>
+
+&nbsp;
+
+## Nuobesty Mini Ukelele de juguete
+
+Para que los niños empiecen a desarrollar habilidades auditivas y musicales te traigo esta **guitarra pequeña de juguete** que simula ser un ukelele.
+
+Es más fácil de agarrar que un ukelele y se pueden afinar las cuerdas con precisión. Las cuerdas son de nylon y de tacto agradable y suave.
+
+![nuobesty guitarra pequena juguete](../../images/guitarra-pequena-cuatro-cuerdas/nuobesty-guitarra-pequena-juguete.jpg)
+
+### Características de Nuobesty guitarra pequeña de juguete
+
+* Cuerpo de plástico
+* 4 cuerdas de nylon afinables
+* Varios colores disponibles
+* Dimensiones: 38 x 9.8 x 4.5cm
+
+| Modelo        | Escala    | Valoraciones | Precio |      
+| ------------- |:-------------|:-------------|:-------------
+| Nuobesty mini ukelele | 21 pulgadas | - | <a href="https://amzn.to/2B5HuTf" rel="nofollow" target="_blank">Ver producto</a>
+
+&nbsp;
+
+## Andoer Ukelele soprano
+
+De nuevo volvemos con otro ukelele, en este caso otro de tipo soprano de 21 pulgadas con la particularidad de que este tiene el cuerpo hecho de caoba, lo cual le da una mayor calidad de acabados. En este caso las cuerdas son de Aquila, marca de referencia que se caracteriza por fabricar cuerdas duraderas en el tiempo y suaves.
+
+![andoer ukelele soprano](../../images/guitarra-pequena-cuatro-cuerdas/andoer-ukelele-soprano.jpg)
+
+### Características del Andoer Ukelele soprano
+
+* Cuerpo de caoba
+* Diapasón y puente de palorosa
+* Escala de 21 pulgadas
+* 4 cuerdas de nylon Aquila
+* Dimensiones: 57 x 22,5 x 10cm
+
+| Modelo        | Escala    | Valoraciones | Precio |      
+| ------------- |:-------------|:-------------|:-------------
+| Andoer Ukelele soprano | 21 pulgadas | 4,3 sobre 5 | <a href="https://amzn.to/30Gq4aC" rel="nofollow" target="_blank">Ver producto</a>
