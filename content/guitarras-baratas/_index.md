@@ -297,9 +297,10 @@ Sus modelos **Pacifica 112v** y **Pacifica 012** son líderes de ventas en el se
 muy ajustada para la buena calidad que ofrecen. <a href="/guitarras-cort">Cort</a> son un claro ejemplo de que no es 
 necesario pagar más por una marca de renombre cuando puedes tener una guitarra de igual o mejor calidad a un mejor precio.
 
-* **Rocktile**: para los presupuestos más ajustados. Están por debajo de las anteriores marcas en cuanto a calidad, si bien sus
-precios son más económicos y puede ser una elección ideal para aquellos principiantes que busquen su primera guitarra sin querer
-gastarse mucho y prefieran esperar a dominar el instrumento para comprarse una guitarra de gama superior. 
+* **Rocktile**: <a href="https://amzn.to/2V1iuDB" rel="nofollow noopener noreferrer" target="_blank">para los presupuestos más ajustados</a>. Están un poco por debajo de las 
+anteriores marcas en cuanto a calidad, si bien sus precios son más económicos y puede ser una elección ideal para aquellos 
+principiantes que busquen su primera guitarra sin querer gastarse mucho y prefieran esperar a dominar el instrumento 
+para comprarse una guitarra de gama superior. 
 
 &nbsp;
 
