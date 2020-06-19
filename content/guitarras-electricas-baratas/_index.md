@@ -9,7 +9,7 @@ draft: false
 description: "Encuentra las mejores guitarras eléctricas baratas del 2020. Comparativa entre modelos de una gran calidad/precio de marcas como &#9989; Yamaha, Ibanez o Squier"
 
 # type
-type: "guitarras-baratas"
+type: "guitarras-electricas-baratas"
 ---
 
 Si has llegado hasta aquí seguramente sea porque quieres **aprender a tocar la guitarra** y el primer paso para ello, evidentemente, es **comprar una guitarra eléctrica**, 
@@ -32,6 +32,35 @@ Pero no nos desviemos del tema y volvamos a las seis cuerdas. ¿Quieres encontra
 
 &nbsp;
 
+<div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
+  <p class="toc_title">Tabla de contenidos 
+    <span class="toc_toggle">[<a id="toggle-link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
+  </p>
+  <ul id="toc-list" class="toc_list" style="display: none;">
+    <li><a href="#guitarras-eléctricas-baratas-para-principiantes"><span class="toc_number toc_depth_1">1</span> Guitarras eléctricas baratas para principiantes&nbsp;</a></li>
+    <li><a href="#1-yamaha-pacífica-012"><span class="toc_number toc_depth_2">1.1</span> Yamaha Pacífica 012</a></li>
+    <li><a href="#2-ltd-ec-10"><span class="toc_number toc_depth_2">1.2</span> LTD EC 10</a></li>
+    <li><a href="#3-squier-affinity-stratocaster"><span class="toc_number toc_depth_2">1.3</span> Squier Affinity Stratocaster</a></li>
+    <li><a href="#4-ibanez-grg170dx"><span class="toc_number toc_depth_2">1.4</span> Ibanez GRG170DX</a></li>
+    <li><a href="#5-cort-cr-100"><span class="toc_number toc_depth_2">1.5</span> Cort CR 100</a></li>
+    <li>
+      <a href="#consejos-para-comprar-una-guitarra">
+        <span class="toc_number toc_depth_1">2</span> Consejos para comprar una guitarra
+      </a>
+    </li>
+    <li><a href="#comodidad"><span class="toc_number toc_depth_2">2.1</span>Comodidad</a></li>
+        <li><a href="#precio"><span class="toc_number toc_depth_2">2.2</span> Precio</a></li>
+        <li><a href="#diseño"><span class="toc_number toc_depth_2">2.3</span> Diseño</a></li>
+        <li><a href="#a-ser-posible-pruébala"><span class="toc_number toc_depth_2">2.4</span> A ser posible, pruébala</a></li>
+        <li><a href="#las-marcas-se-pagan"><span class="toc_number toc_depth_2">2.5</span> Las marcas se pagan</a></li>
+        <li><a href="#algunos-tips-sobre-componentes"><span class="toc_number toc_depth_2">2.6</span> Algunos tips sobre componentes</a></li>
+    <li>
+      <a href="#las-mejores-marcas-de-guitarras-eléctricas-baratas"><span class="toc_number toc_depth_1">3</span> Las mejores marcas de guitarras eléctricas baratas</a></li>
+  </ul>
+</div>
+
+&nbsp;
+
 ## Guitarras eléctricas baratas para principiantes
 
 &nbsp;
@@ -51,7 +80,9 @@ o incluso el metal, por tanto es ideal para alguien que quiere aprender a tocar.
 
 Normalmente la puedes encontrar en tienda por debajo de los 200€.
 
-<p><img src="../../images/guitarras-baratas/yamaha-pacifica-012.jpg" alt="yamaha pacifica 012"></p>
+<p>
+<a href="https://amzn.to/3bLizRn" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/yamaha-pacifica-012.jpg" alt="yamaha pacifica 012"></a>
+</p>
 
 #### Características de la Yamaha Pacifica 012
 
@@ -61,13 +92,13 @@ Normalmente la puedes encontrar en tienda por debajo de los 200€.
 * 4,2kg de peso
 * 2 pastillas single coil y 1 humbucker en el puente con selector de 5 posiciones
 
-| Modelo        | Color    | Valoraciones | Enlace |      
+| Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Yamaha Pacífica PA012	   	   | negro | 4,4 sobre 5 | <a href="https://amzn.to/3bLizRn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>	
 
 &nbsp;
 
-### 2. LTD EC-10
+### 2. LTD EC 10
 
 > La ESP LTD a precio más asequible. Si te gusta el Rock Duro es la opción más interesante
 
@@ -86,7 +117,8 @@ es el **rock y el metal**, son guitarras muy a tener en cuenta.
 La **serie 10 de ltd** cuenta con diferentes modelos en función del diseño de la guitarra, de esta manera te puedes encontrar
 el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 
-<p><img src="../../images/guitarras-baratas/ltd-ec-10.jpg" alt="ltd ec 10"></p>
+<p><a href="https://amzn.to/3bP0q5p" rel="nofollow noopener noreferrer" target="_blank">
+<img src="../../images/guitarras-baratas/ltd-ec-10.jpg" alt="ltd ec 10"></a></p>
 
 #### Características de la LTD EC 10
 
@@ -97,7 +129,7 @@ el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 * Peso: 4,3kg
 * 2 pastillas humbucker ESP Designed LH-100
 
-| Modelo        | Color    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | LTD EC-10	   	   | negro | 4,5 de 5 | <a href="https://amzn.to/3bP0q5p" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>		
 
@@ -116,7 +148,8 @@ qué estilos te gustaría tocar para decantarte entre ámbos modelos.
 
 Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar a la versatilidad que ofrecen las Yamaha.
 
-<p><img src="../../images/guitarras-baratas/squier-affinity.jpg" alt="squier affinity stratocaster"></p>
+<p><a href="https://amzn.to/2zixUf9" rel="nofollow noopener noreferrer" target="_blank">
+<img src="../../images/guitarras-baratas/squier-affinity.jpg" alt="squier affinity stratocaster"></a></p>
 
 #### Características de la Squier Affinity
 
@@ -127,7 +160,7 @@ Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar 
 * Peso: 4,3kg
 * 3 pastillas single coil
 
-| Modelo        | Color    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Squier Affinity Stratocaster | sunburst| 4,2 sobre 5 | <a href="https://amzn.to/2zixUf9" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>	
 
@@ -137,7 +170,7 @@ Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar 
 
 > Comprar Ibanez es comprar calidad y comodidad. Una de las marcas más fiables que existen.
 
-<p><img src="../../images/guitarras-baratas/ibanez-grg170dx.jpg" alt="ibanez grg170dx"></p>
+<p><a href="https://amzn.to/3bLQ0mL" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/ibanez-grg170dx.jpg" alt="ibanez grg170dx"></a></p>
 
 Guitarra super interesante la que nos ofrece Ibanez en este rango de precios. Vas a poder dar caña con sus dos **pastillas 
 Humbucker**, pero además dispone de una pastilla simple, por lo que vas a tener todavía más versatilidad.
@@ -160,7 +193,7 @@ Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te 
 * Peso: 3,2kg
 * 2 pastillas humbucker en cuello y puente y 1 pastilla single coil en la posición intermedia
 
-| Modelo        | Color    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Ibanez GRG170DX | negro | 4,2 sobre 5 | <a href="https://amzn.to/3bLQ0mL" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>		
 
@@ -181,7 +214,7 @@ los últimos trastes por su diseño curvo.
 
 Aun así, personalmente creo que es una de las mejores guitarras que vas a encontrar en su segmento.
 
-<p><img src="../../images/guitarras-baratas/cort-cr100.jpg" alt="guitarra cort cr 100"></p>
+<p><a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/cort-cr100.jpg" alt="guitarra cort cr 100"></a></p>
 
 #### Características de la Cort CR 100
 
@@ -192,7 +225,7 @@ Aun así, personalmente creo que es una de las mejores guitarras que vas a encon
 * Peso: 3kg
 * 2 pastillas humbucker Powersound PSLP-1F y PSLP-1R
 
-| Modelo        | Color    | Valoraciones | Ver producto |      
+| Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
 | Cort CR 100	   	   | negro | 3,9 sobre 5 | <a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
 

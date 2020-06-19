@@ -41,9 +41,6 @@ disqusShortname = ""
   URL = "plugins/search/fuse.min.js"
   [[params.plugins.js]]
   URL = "plugins/search/mark.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/search.js"
-
   
 ############################## navigation ###############################
 [menu]
@@ -55,9 +52,9 @@ disqusShortname = ""
   weight = 1
     # main menu
     [[menu.main]]
-    name = "Guitarras baratas"
+    name = "Guitarras eléctricas baratas"
     parent = "Guitarras"
-    URL = "guitarras-baratas/"
+    URL = "guitarras-electricas-baratas/"
     weight = 1
     # main menu
     [[menu.main]]
