@@ -34,7 +34,7 @@ Pero no nos desviemos del tema y volvamos a las seis cuerdas. ¿Quieres encontra
 
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
-    <span class="toc_toggle">[<strong><a id="toggle-link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a></strong>]</span>
+    <span class="toc_toggle">[<a id="toggle-link" class="toggle_link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
   </p>
   <ul id="toc-list" class="toc_list" style="display: none;">
     <li><a href="#guitarras-eléctricas-baratas-para-principiantes"><span class="toc_number toc_depth_1">1</span> Guitarras eléctricas baratas para principiantes&nbsp;</a></li>
@@ -69,7 +69,7 @@ Pero no nos desviemos del tema y volvamos a las seis cuerdas. ¿Quieres encontra
 
 > Las Yamaha Pacífica son la referencia número 1 en guitarras de calidad/precio para principantes
 
-Las <strong><a href="/guitarras-yamaha/">guitarras yamaha</a></strong> son reconocidas por hacer productos **fiables** y de una muy buena **calidad precio**. 
+Las <a href="/guitarras-yamaha/"><strong>guitarras yamaha</strong></a> son reconocidas por hacer productos **fiables** y de una muy buena **calidad precio**. 
 
 La Yamaha Pacifica es un clásico y una referencia entre las guitarras de gama media/baja y suele aparecer entre las 
 recomendaciones para principiantes. 
@@ -139,7 +139,7 @@ el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 
 > Si eres un apasionado/a de Fender, este es el modelo ideal para ti!
 
-Al igual que las LTD, las <strong><a href="/guitarras-squier">Squier</a></strong> son una segunda marca, en este caso de las legendarias <strong>Fender</strong>. 
+Al igual que las LTD, las <a href="/guitarras-squier"><strong>Squier</strong></a> son una segunda marca, en este caso de las legendarias <strong>Fender</strong>. 
 
 Así como las LTD son recomendadas para sonidos más rudos por su configuración de pastillas, 
 en el caso de la Squier Affinity es totalmente lo opuesto. Su electrónica con 3 pastillas single coil 
@@ -203,7 +203,7 @@ Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te 
 
 > Las Cort no tienen nada que envidiar a marcas más conocidas. Su calidad/precio te sorprenderá!
 
-Hablar de <strong><a href="/guitarras-cort">Cort</a></strong> es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
+Hablar de <a href="/guitarras-cort"><strong>Cort</strong></a> es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
 
 Buen material, buenos acabados y buen sonido, una todoterreno.
 
@@ -272,13 +272,13 @@ Por ejemplo, en mi caso a mi siempre me han gustado muchos los modelos explorer 
 sin embargo una epiphone les paul para mi gusto no es un tipo de guitarra que yo recomendaría especialmente para empezar. 
 Con la explorer ya ni me lo plantearía.
 
-Seguramente los modelos de tipo <strong>stratocaster y telecaster</strong> sean los más cómodos que hay, y si buscas 
+Seguramente los modelos de tipo **stratocaster y telecaster** sean los más cómodos que hay, y si buscas 
 algo tipo les paul, fuera de la propia Epiphone seguro que encuentras marcas con modelos más cómodos o cuerpos más finos,
 como la Cort que has podido ver en este listado. Busca y compara!
 
 ### A ser posible, pruébala
 
-Es verdad que para alguien que va a comprar su <strong>primera guitarra</strong> y que no sabe tocar, este apartado 
+Es verdad que para alguien que va a comprar su **primera guitarra** y que no sabe tocar, este apartado 
 puede que no sea tan importante, pero es un consejo que siempre se debe dar.
 
 Nunca vas a poder saber como te sientes con una guitarra si no te la has puesto encima antes, tan simple como eso.
@@ -291,7 +291,7 @@ ya que todas lo permiten (o deberían).
 
 ### Las marcas se pagan
 
-Como en cualquier producto la marca se paga y el **precio</strong>** de la guitarra subirá dependiendo de qué marcas 
+Como en cualquier producto la marca se paga y el **precio** de la guitarra subirá dependiendo de qué marcas 
 estés mirando, y muchas veces, por modelos que no son mejores que los de otras marcas de menos renombre.
 
 Existen marcas en el mercado con una **relación calidad/precio** muy superior a sus competidores, 
@@ -329,9 +329,9 @@ Sus modelos **Pacifica 112v** y **Pacifica 012** son líderes de ventas en el se
 muy ajustada para la buena calidad que ofrecen. Son un claro ejemplo de que no es 
 necesario pagar más por una marca de renombre cuando puedes tener una guitarra de igual o mejor calidad a un mejor precio.
 
-* **Rocktile**: <strong><a href="https://amzn.to/2V1iuDB" rel="nofollow noopener noreferrer" target="_blank">para los presupuestos más ajustados</a></strong>. Están un poco por debajo de las 
-anteriores marcas en cuanto a calidad, si bien sus precios son más económicos y puede ser una elección ideal para aquellos 
-principiantes que busquen su primera guitarra sin querer gastarse mucho y prefieran esperar a dominar el instrumento 
+* **Rocktile**: <a href="https://amzn.to/2V1iuDB" rel="nofollow noopener noreferrer" target="_blank"><strong>para los presupuestos más ajustados</strong></a>. 
+Están un poco por debajo de las anteriores marcas en cuanto a calidad, si bien sus precios son más económicos y puede ser 
+una elección ideal para aquellos principiantes que busquen su primera guitarra sin querer gastarse mucho y prefieran esperar a dominar el instrumento 
 para comprarse una guitarra de gama superior. 
 
 &nbsp;
@@ -342,17 +342,17 @@ En tal caso, **tal vez te interesen estos accesorios para complementar tu compra
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="/behringer-guitar-link/">
-          <strong><figcaption>Behringer Guitar Link</figcaption></strong>
+          <figcaption><strong>Behringer Guitar Link</strong></figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="/puas-guitarra/">
-          <strong><figcaption>Puas de Guitarra</figcaption></strong>
+          <figcaption><strong>Puas de Guitarra</strong></figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="/inlays-guitarra/">
-          <strong><figcaption>Inlays para Guitarra</figcaption></strong>
+          <figcaption><strong>Inlays para Guitarra</strong></figcaption>
         </a>
       </div>
 </div>
