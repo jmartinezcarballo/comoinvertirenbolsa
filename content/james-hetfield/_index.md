@@ -44,8 +44,7 @@ Como dato curioso, fue restaurada hace unos años añadíendole unas pastillas E
 * Puente Tune O Matic
 * Pastillas Seymour Duncan
 
-
-{{< youtube UzdDAd9EBOI >}}
+<a href="https://youtu.be/UzdDAd9EBOI" class="lazy-youtube-embed">Metallica - Seek & Destroy (1983)</a>
 
 &nbsp;
 
@@ -70,7 +69,7 @@ De igual manera que con la flying V, para el Death Magnetic Hetfield quiso recup
 * Afinadores Grover
 * Pastillas Gibson pasivas 500T/496R
 
-{{< youtube SA0dsv-ClTw >}}
+<a href="https://www.youtu.be/SA0dsv-ClTw" class="lazy-youtube-embed">Metallica - For Whom the Bell Tolls (Day on The Green 1985)</a>
 
 &nbsp;
 
@@ -98,7 +97,7 @@ Desde 1990 Hetfield ya no usa esta guitarra aunque, una vez más, la recuperó p
 
 Os dejo una grabación de uno de los mejores conciertos de la carrera de la banda, con la **ESP MX 220 Ett Fuk** en plena acción en Seattle 89.
 
-{{< youtube vp-7hB-8jJY >}}
+<a href="https://www.youtu.be/vp-7hB-8jJY" class="lazy-youtube-embed">Metallica - Harvester of Sorrow (Seattle 1989)</a>
 
 &nbsp;
 
@@ -127,7 +126,7 @@ Lo que sí pasó a ser un elemento común de estas ESP, y acorde a la estética 
 
 Os dejo con un video del concierto **homenaje a Freddy Mercury** donde podéis ver en acción la MX250 original totalmente negra con los clásicos inlays de punto.
 
-{{< youtube Xube4aKrfiU >}}
+<a href="https://www.youtu.be/Xube4aKrfiU" class="lazy-youtube-embed">Metallica - Freddy Mercury tributo (1992)</a>
 
 &nbsp;
 
@@ -168,7 +167,7 @@ Una última curiosidad de esta guitarra, inapreciable en imágenes y videos: en 
 * 2 pastillas activas EMG 81/60
 * Leds rojos en el mástil
 
-{{< youtube D2WYXDMJ2qc >}}
+<a href="https://www.youtu.be/D2WYXDMJ2qc" class="lazy-youtube-embed">Metallica - King Nothing (Cunning Stunts - 1997)</a>
 
 &nbsp;
 
@@ -191,7 +190,7 @@ Existen dos modelos idénticos de esta guitarra, siendo una de ellas el diseño 
 * Clavijeros Sperzel con bloqueo
 * 2 pastillas activas EMG 81/60
 
-{{< youtube qigWHYliK2o >}}
+<a href="https://www.youtu.be/qigWHYliK2o" class="lazy-youtube-embed">Metallica - Motorbreath (Cunning Stunts - 1997)</a>
 
 &nbsp;
 
@@ -212,7 +211,7 @@ En 2003 se construyeron apenas 300 unidades de la fácilmente reconocible viper 
 * Clavijeros Sperzel con bloqueo
 * 2 pastillas activas EMG 81/60
 
-{{< youtube GudYotg4dgI >}}
+<a href="https://www.youtu.be/GudYotg4dgI" class="lazy-youtube-embed">Metallica - St.Anger (2003)</a>
 
 &nbsp;
 
@@ -237,7 +236,7 @@ La ESP Truckster fue la primera guitarra en incorporar las **pastillas EMG** sig
 * Clavijeros Sperzel con bloqueo
 * Pastillas EMG custom JH-B y JH-N
 
-{{< youtube 1yVV2i4vKuM >}}
+<a href="https://www.youtu.be/1yVV2i4vKuM" class="lazy-youtube-embed">Metallica - That Was Just Your Life (2008)</a>
 
 &nbsp;
 
@@ -258,7 +257,7 @@ Basada en la **Gibson Les Paul Custom** que utilizó durante la gira de St.Anger
 * Clavijeros Sperzel con bloqueo
 * Pastillas EMG custom JH-B y JH-N
 
-{{< youtube QAvARtjXYaI >}}
+<a href="https://www.youtu.be/QAvARtjXYaI" class="lazy-youtube-embed">Metallica - Breadfan (Barcelona - 2018)</a>
 
 ¿Te gustaría tener una **ESP Iron Cross**?
 
@@ -286,7 +285,7 @@ Las especificaciones ofrecen pocas novedades respecto a modelos previos, con el 
 * Clavijeros Sperzel con bloqueo
 * Pastillas EMG custom JH-B y JH-N (originalmente tenían las clásicas EMG 81/60 pero fueron cambiadas)
 
-{{< youtube 5y_x8UbU2h8 >}}
+<a href="https://www.youtu.be/5y_x8UbU2h8" class="lazy-youtube-embed">Metallica - Seek & Destroys (Madrid - 2018)</a>
 
 &nbsp;
 
@@ -317,7 +316,7 @@ La **ESP Vulture** es la última ESP signature creada para James Hetfield en 201
 * Clavijeros Gotoh con bloqueo
 * Pastillas EMG custom JH-B y JH-N
 
-{{< youtube beluHdu-DQw >}}
+<a href="https://www.youtu.be/beluHdu-DQw" class="lazy-youtube-embed">Metallica - Fuel (2016)</a>
 
 ¿Te gustaría tener una **ESP Vulture**?
 
@@ -355,7 +354,7 @@ Si os fijáis, los inlays forman una secuencia **3132**, que es precisamente el 
 
 Sin duda, todo el interior del cuerpo estará hecho de la mejor caoba que exista, pero el componente nostálgico de conseguir recubrir por fuera el cuerpo con un recuerdo de aquellos años me parece una idea fabulosa.
 
-{{< youtube pd9LfzWTaLQ >}}
+<a href="https://www.youtu.be/pd9LfzWTaLQ" class="lazy-youtube-embed">James Hetfield "Carl" Ken Lawrence Guitar</a>
 
 &nbsp;
 
