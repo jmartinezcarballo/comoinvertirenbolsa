@@ -1,7 +1,7 @@
 ---
 title: "Los mejores inlays para guitarra de 2020"
 seoTitle: "Top de los mejores inlays para guitarra de 2020 | Comprar una Guitarra"
-date: 2020-06-08T10:07:47+06:00
+date: 2020-06-18T10:07:47+06:00
 draft: false
 
 # meta description
@@ -11,8 +11,54 @@ description: "Encuentra los mejores inlays para guitarra de 2020. &#9989; Compra
 type: "inlays-guitarra"
 ---
 
-Te presento algunos de los mejores diseños de **inlays para guitarra** que puedes encontrar en 2020. Si buscas darle un cambio al mástil de tu guitarra y estás cansado de los clásicos puntos, te presento algunos **inlays adhesivos para guitarra** para que puedas darle un nuevo aspecto a tu guitarra eléctrica, como el **Eddie de Iron Maiden** o el **rayo** de **AC/DC**.
+¿Quieres hacerle un **cambio estético** a tu guitarra eléctrica? lo cierto es que son muchos los guitarristas, amateurs y profesionales,
+que decoran sus guitarras a su gusto, dotándolas de una estética especial y personal.
 
+Entre los cambios estéticos más habituales se encuentran los inlays de la guitarra.
+
+&nbsp;
+
+<div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
+  <p class="toc_title">Tabla de contenidos 
+    <span class="toc_toggle">[<a id="toggle-link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
+  </p>
+  <ul id="toc-list" class="toc_list" style="display: none;">
+    <li><a href="#qué-son-los-inlays-de-guitarra"><span class="toc_number toc_depth_1">1</span> Qué son los inlays de guitarra&nbsp;</a></li>
+    <li>
+      <a href="#inlays-para-guitarra-eléctrica">
+        <span class="toc_number toc_depth_1">2</span> Inlays para guitarra eléctrica
+      </a>
+    </li>
+    <li><a href="#tipos-de-inlays"><span class="toc_number toc_depth_1">3</span> Tipos de inlays&nbsp;</a></li>
+    <li><a href="#características-de-los-inlays-adhesivos-para-guitarra"><span class="toc_number toc_depth_1">4</span> Características de los inlays adhesivos para guitarra&nbsp;</a></li>
+    <li><a href="#cómo-cambiar-los-inlays-de-guitarra"><span class="toc_number toc_depth_1">5</span> Cómo cambiar los inlays de guitarra&nbsp;</a></li>
+    <li><a href="#inlays-caseros-para-imprimir"><span class="toc_number toc_depth_1">6</span> Inlays caseros para imprimir&nbsp;</a></li>
+  </ul>
+</div>
+
+&nbsp;
+
+## Qué son los inlays de guitarra
+
+Los inlays son esas **incrustaciones**, generalmente construídos de materiales como el abalón o la madreperla, que encontramos 
+en los trastes del **diapasón** de una guitarra. 
+Además de **decorar el mástil**, su función principal es la de guiar al guitarrista en todo momento y ayudarle a saber 
+en qué traste se encuentra.
+
+La gran mayoría de fabricantes de guitarras incluyen formas predeterminadas de inlays, motivo que lleva a muchos músicos a realizar
+este tipo de cambios. Los típicos inlays que encontramos en las guitarras son los de **punto, cuadrado o diamante**.
+
+<div><img src="../../images/inlays-guitarra/inlays-punto.jpg" alt="inlay punto" width="300" height="159"></div>
+
+<div>
+	<a href="https://amzn.to/30WKyvK" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar en Amazon</a>
+</div>
+
+## Inlays para guitarra eléctrica
+
+Te presento una selección de **inlay stickers** que puedes encontrar en sitios web como Amazon. 
+Si buscas darle un cambio al mástil de tu guitarra y estás cansado de los clásicos puntos, existen multitud de **pegatinas 
+para decorar** tu guitarra, aquí te presento algunos **inlays adhesivos de guitarra** para que puedas darle un nuevo aspecto a tu eléctrica.
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
@@ -88,3 +134,54 @@ Te presento algunos de los mejores diseños de **inlays para guitarra** que pued
         </a>
       </div>
     </div>
+    
+## Tipos de inlays
+
+Básicamente tienes dos maneras de cambiar los inlays de tu guitarra
+
+* Cambiando las incrustaciones de tu guitarra por otras.
+* Pegando unos inlay stickers encima de las incrustaciones de tu diapasón.
+
+En el caso de querer cambiar las incrustaciones, a no ser que seas todo un manitas, lo más recomendable es que
+acudas a un **luthier** a que te haga un presupuesto para el cambio. Si lo intentas por ti mismo y te queda mal, es posible que
+el daño que le hagas a la guitarra ya sea irreparable.
+
+Teniendo en cuenta el gran resultado que dan, y sobretodo si es tu primera vez, personalmente recomiendo probar primero
+con unos stickers que te darán un gran resultado.
+
+&nbsp;
+
+## Características de los inlays adhesivos para guitarra
+
+* Fáciles de cambiar
+* Multitud de diseños a elegir, personalizables
+* Generalmente hechos de vinilo
+* Son muy finos. No los notarás en tu mástil a la hora de tocar
+* Son de larga duración, no se despegan con facilidad
+* Son baratos
+
+&nbsp;
+
+## Cómo cambiar los inlays de guitarra
+
+Supongamos que ya disponemos de nuestros nuevos adhesivos y nos disponemos a cambiarlos. ¿Qué pasos hay que seguir?
+
+* **Quitar las cuerdas de la guitarra**: ni se te ocurra intentarlo con las cuerdas puestas!
+* **Limpiar el mástil**: es recomendable utilizar un **paño humedecido con un poco de agua y alcohol**.
+* Separa la parte opaca de la pegatina y coloca el resto del sticker sobre el traste elegido dejando por debajo la parte que pega.
+* Presiona con los dedos sobre el traste hasta que estés seguro que se ha pegado bien y retira la parte superior del plástico.
+* Repite el proceso con el resto de inlays
+* Coloca de nuevo las cuerdas y afina la guitarra
+* A tocar!
+
+&nbsp;
+
+## Inlays caseros para imprimir
+
+Si te gusta hacer tus propios diseños y quieres tener tus propios **inlays personalizados** siempre puedes elaborar tus propios 
+inlays caseros. Una vez que tengas el diseño no tienes más que enviarlo a una tienda especializada a que te creen los adhesivos
+con el diseño indicado o bien **imprimirlos en tu ordenador** y ponerle el adhesivo tú mismo en casa.
+
+Te dejo un video ejemplo de como cambiar en casa tus propios inlays de guitarra. Espero que te haya gustado esta sección.
+
+{{< youtube _OMFQYqJRXg >}}
