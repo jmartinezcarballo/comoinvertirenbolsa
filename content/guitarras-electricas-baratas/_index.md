@@ -26,7 +26,7 @@ sobre el que la hagas sonar. Sin un amplificador decente cualquier guitarra te s
 empiezan los problemas y algunas frustraciones al no poder usar un amplificador en casa.
 
 ¿Qué puedes hacer si no tienes amplificador en casa? tranquilo hay soluciones para todo! como alternativa casera existen 
-las **<a href="/behringer-guitar-link">interfaces de sonido usb</a>** que funcionan como tarjetas de sonido externas a tu ordenador.
+las <a href="/behringer-guitar-link">interfaces de sonido usb</a> que funcionan como tarjetas de sonido externas a tu ordenador.
 
 Pero no nos desviemos del tema y volvamos a las seis cuerdas. ¿Quieres encontrar una guitarra económica? voy a mostrarte las mejores.
 
@@ -34,7 +34,7 @@ Pero no nos desviemos del tema y volvamos a las seis cuerdas. ¿Quieres encontra
 
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
-    <span class="toc_toggle">[<a id="toggle-link" class="toggle_link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
+    <span class="toc_toggle">[<a id="toggle-link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
   </p>
   <ul id="toc-list" class="toc_list" style="display: none;">
     <li><a href="#guitarras-eléctricas-baratas-para-principiantes"><span class="toc_number toc_depth_1">1</span> Guitarras eléctricas baratas para principiantes&nbsp;</a></li>
@@ -69,7 +69,7 @@ Pero no nos desviemos del tema y volvamos a las seis cuerdas. ¿Quieres encontra
 
 > Las Yamaha Pacífica son la referencia número 1 en guitarras de calidad/precio para principantes
 
-Las <a href="/guitarras-yamaha/"><strong>guitarras yamaha</strong></a> son reconocidas por hacer productos **fiables** y de una muy buena **calidad precio**. 
+Las <a href="/guitarras-yamaha/">guitarras yamaha</a> son reconocidas por hacer productos **fiables** y de una muy buena **calidad precio**. 
 
 La Yamaha Pacifica es un clásico y una referencia entre las guitarras de gama media/baja y suele aparecer entre las 
 recomendaciones para principiantes. 
@@ -94,7 +94,7 @@ Normalmente la puedes encontrar en tienda por debajo de los 200€.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | negro | 4,4 sobre 5 | <a href="https://amzn.to/3bLizRn" rel="nofollow noopener noreferrer" target="_blank"><strong>Ver en Amazon</strong></a>	
+| Yamaha Pacífica PA012	   	   | negro | 4,4 sobre 5 | <a href="https://amzn.to/3bLizRn" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>	
 
 &nbsp;
 
@@ -131,7 +131,7 @@ el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| LTD EC-10	   	   | negro | 4,5 de 5 | <a href="https://amzn.to/3bP0q5p" rel="nofollow noopener noreferrer" target="_blank"><strong>Ver en Amazon</strong></a>		
+| LTD EC-10	   	   | negro | 4,5 de 5 | <a href="https://amzn.to/3bP0q5p" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>		
 
 &nbsp;
 
@@ -139,7 +139,7 @@ el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 
 > Si eres un apasionado/a de Fender, este es el modelo ideal para ti!
 
-Al igual que las LTD, las <a href="/guitarras-squier"><strong>Squier</strong></a> son una segunda marca, en este caso de las legendarias <strong>Fender</strong>. 
+Al igual que las LTD, las <a href="/guitarras-squier">Squier</a> son una segunda marca, en este caso de las legendarias <strong>Fender</strong>. 
 
 Así como las LTD son recomendadas para sonidos más rudos por su configuración de pastillas, 
 en el caso de la Squier Affinity es totalmente lo opuesto. Su electrónica con 3 pastillas single coil 
@@ -162,7 +162,7 @@ Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar 
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Squier Affinity Stratocaster | sunburst| 4,2 sobre 5 | <a href="https://amzn.to/2zixUf9" rel="nofollow noopener noreferrer" target="_blank"><strong>Ver en Amazon</strong></a>	
+| Squier Affinity Stratocaster | sunburst| 4,2 sobre 5 | <a href="https://amzn.to/2zixUf9" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>	
 
 &nbsp;
 
@@ -195,7 +195,7 @@ Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te 
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Ibanez GRG170DX | negro | 4,2 sobre 5 | <a href="https://amzn.to/3bLQ0mL" rel="nofollow noopener noreferrer" target="_blank"><strong>Ver en Amazon</strong></a>		
+| Ibanez GRG170DX | negro | 4,2 sobre 5 | <a href="https://amzn.to/3bLQ0mL" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>		
 
 &nbsp;
 
@@ -203,7 +203,7 @@ Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te 
 
 > Las Cort no tienen nada que envidiar a marcas más conocidas. Su calidad/precio te sorprenderá!
 
-Hablar de <a href="/guitarras-cort"><strong>Cort</strong></a> es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
+Hablar de <a href="/guitarras-cort">Cort</a> es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
 
 Buen material, buenos acabados y buen sonido, una todoterreno.
 
@@ -227,7 +227,7 @@ Aun así, personalmente creo que es una de las mejores guitarras que vas a encon
 
 | Modelo        | Color    | Valoraciones | Precio |      
 | ------------- |:-------------|:-------------|:-------------
-| Cort CR 100	   	   | negro | 3,9 sobre 5 | <a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank"><strong>Ver en Amazon</strong></a>
+| Cort CR 100	   	   | negro | 3,9 sobre 5 | <a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>
 
 &nbsp;
 
@@ -329,7 +329,7 @@ Sus modelos **Pacifica 112v** y **Pacifica 012** son líderes de ventas en el se
 muy ajustada para la buena calidad que ofrecen. Son un claro ejemplo de que no es 
 necesario pagar más por una marca de renombre cuando puedes tener una guitarra de igual o mejor calidad a un mejor precio.
 
-* **Rocktile**: <a href="https://amzn.to/2V1iuDB" rel="nofollow noopener noreferrer" target="_blank"><strong>para los presupuestos más ajustados</strong></a>. 
+* **Rocktile**: <a href="https://amzn.to/2V1iuDB" rel="nofollow noopener noreferrer" target="_blank">para los presupuestos más ajustados</a>. 
 Están un poco por debajo de las anteriores marcas en cuanto a calidad, si bien sus precios son más económicos y puede ser 
 una elección ideal para aquellos principiantes que busquen su primera guitarra sin querer gastarse mucho y prefieran esperar a dominar el instrumento 
 para comprarse una guitarra de gama superior. 
@@ -342,17 +342,17 @@ En tal caso, **tal vez te interesen estos accesorios para complementar tu compra
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="/behringer-guitar-link/">
-          <figcaption><strong>Behringer Guitar Link</strong></figcaption>
+          <figcaption>Behringer Guitar Link</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="/puas-guitarra/">
-          <figcaption><strong>Puas de Guitarra</strong></figcaption>
+          <figcaption>Puas de Guitarra</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="/inlays-guitarra/">
-          <figcaption><strong>Inlays para Guitarra</strong></figcaption>
+          <figcaption>Inlays para Guitarra</figcaption>
         </a>
       </div>
 </div>
