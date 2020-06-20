@@ -56,7 +56,7 @@ este tipo de cambios. Los típicos inlays que encontramos en las guitarras son l
 
 ## Inlays para guitarra eléctrica
 
-Te presento una selección de **inlay stickers** que puedes encontrar en sitios web como Amazon. 
+Te presento una selección de **inlaystickers** que puedes encontrar en sitios web como Amazon. 
 Si buscas darle un cambio al mástil de tu guitarra y estás cansado de los clásicos puntos, existen multitud de **pegatinas 
 para decorar** tu guitarra, aquí te presento algunos **inlays adhesivos de guitarra** para que puedas darle un nuevo aspecto a tu eléctrica.
 
