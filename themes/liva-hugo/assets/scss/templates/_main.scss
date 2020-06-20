@@ -119,18 +119,17 @@
   }
 
   ul {
-    padding-left: 0;
+    padding-left: 0px;
+
 
     li {
       position: relative;
       padding-left: 20px;
       margin-bottom: 15px;
-      list-style-type: none;
+      list-style-type: disc;
 
       &::before {
         position: absolute;
-        content: "\e71b";
-        font-family: $icon-font;
         font-size: 14px;
         left: 0;
         top: 1px;

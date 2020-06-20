@@ -30,7 +30,7 @@ A continuación te expongo las características principales de la **Fender Squie
 
 ![fender squier mini stratocaster](../../images/guitarras-infantiles/fender-squier-mini-stratocaster.jpg)
 
-#### Características
+#### Características de la Fender Squier Mini Stratocaster
 
 * Cuerpo de tilo
 * Diapasón de palisandro
@@ -52,7 +52,7 @@ A continuación te expongo las características principales de la **Rocktile L-5
 
 ![rocktile L50B junior](../../images/guitarras-infantiles/rocktile-l50b-junior.jpg)
 
-#### Características
+#### Características de la Rocktile L-50B
 
 * Cuerpo de tilo
 * Diapasón de palisandro
@@ -76,7 +76,7 @@ A continuación te expongo las características principales de la **Ibanez GRGM2
 
 ![Ibanez GRGM21 mikro](../../images/guitarras-infantiles/ibanez-grgm21-whgio-mikro.jpg)
 
-#### Características
+#### Características Ibanez GRGM21-WHGIO Mikro
 
 * Cuerpo de popar
 * Diapasón de palisandro con incrustaciones de tiburón
@@ -98,7 +98,7 @@ A continuación te expongo las características principales de la **Stagg S300**
 
 ![stagg s300 escala 3/4](../../images/guitarras-infantiles/stagg-s300.jpg)
 
-#### Características
+#### Características de la Stagg S300
 
 * Cuerpo de aliso
 * Diapasón de palisandro
@@ -120,7 +120,7 @@ A continuación te expongo las características principales de la **Rocktile Sph
 
 ![guitarra electrica para niños rocktile sphere escala 3/4](../../images/guitarras-infantiles/rocktile-sphere.jpg)
 
-#### Características
+#### Características de la Rocktile Sphere
 
 * Cuerpo de tilo
 * Diapasón de palisandro
@@ -146,7 +146,7 @@ Consulta a continuación las características principales de la **Klangbeisser S
 
 ![klangbeisser startup](../../images/guitarras-infantiles/klangbeisser-startup.jpg)
 
-### Características
+### Características de la Klangbeisser Startup
 
 * Cuerpo de madera de tilo
 * Cuello de madera de arce
@@ -173,7 +173,7 @@ Consulta a continuación las características principales de la **Muslady Kit**.
 
 ![muslady kit de guitarra electrica para niños](../../images/guitarras-infantiles/muslady-kit-guitarra-electrica.jpg)
 
-### Características
+### Características del Muslady Kit
 
 * Cuerpo de paulownia
 * Mástil de arce
@@ -196,7 +196,7 @@ Consulta a continuación las características principales de la **TS Music Fidel
 
 ![guitarra electrica para niños ts music fidelity](../../images/guitarras-infantiles/ts-music-fidelity.jpg)
 
-### Características
+### Características de la TS Music Fidelity
 
 * Fabricada en madera maciza
 * Cuello de madera de arce
@@ -219,7 +219,7 @@ Consulta a continuación las características principales de la **Junior Clifton
 
 ![clifton guitarra electrica para niños](../../images/guitarras-infantiles/guitarra-junior-clifton.jpg)
 
-### Características
+### Características de la Junior Clifton
 
 * Amplificador y altavoz incorporados, 
 * Incluye funda, correa y cable

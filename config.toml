@@ -21,8 +21,6 @@ disqusShortname = ""
   # CSS Plugins
   [[params.plugins.css]]
   URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
 
   # JS Plugins
   [[params.plugins.js]]

@@ -137,10 +137,8 @@ para decorar** tu guitarra, aquí te presento algunos **inlays adhesivos de guit
     
 ## Tipos de inlays
 
-Básicamente tienes dos maneras de cambiar los inlays de tu guitarra
-
-* Cambiando las incrustaciones de tu guitarra por otras.
-* Pegando unos inlay stickers encima de las incrustaciones de tu diapasón.
+Básicamente tienes dos maneras de **cambiar los inlays de tu guitarra**, cambiando las incrustaciones de tu guitarra por otras
+o bien pegando unos inlay stickers encima de las incrustaciones de tu diapasón.
 
 En el caso de querer cambiar las incrustaciones, a no ser que seas todo un manitas, lo más recomendable es que
 acudas a un **luthier** a que te haga un presupuesto para el cambio. Si lo intentas por ti mismo y te queda mal, es posible que
