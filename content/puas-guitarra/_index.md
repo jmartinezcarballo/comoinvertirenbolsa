@@ -18,9 +18,10 @@ La pua o **plectro** es ese pequeño elemento con forma de corazón o triangular
 Si bien es cierto que, en estilos sobretodo donde predominan los arpegios no siempre es necesario y no suele ser tan habitual su uso, en otros estilos, especialmente
 los más rockeros, su uso prácticamente es inevitable.
 
-Aquí las podrás encontrar de todo tipo para tocar la guitarra según su **tamaño, grosor o diseño**.
+Aquí las podrás encontrar de todo tipo para tocar la guitarra según su material, grosor o diseño y te explicaré todo lo que tienes que saber sobre las púas,
+independientemente de si tu guitarra es eléctrica, acústica o española.
 
-El **precio de las púas de guitarra** depende como todo de la calidad que tengan y de quienes las fabriquen, pero por lo general son uno de los artículos
+El **precio** de las púas de guitarra depende como todo de la calidad que tengan y de quienes las fabriquen, pero por lo general son uno de los artículos
 relacionados con la guitarra más asequibles del mercado y accesibles a todo el público.
 
 Para empezar te presento una selección de las **mejores púas de guitarra** de 2020 que puedes encontrar hoy en día.
@@ -68,7 +69,7 @@ Te presento un kit de 12 **puas de guitarra personalizadas** con diseños de 24 
 
 Cada pua incluye dos portadas diferentes, una por cada lado.
 
-Todas tienen un tamaño estándar y **0,71mm de grosor**.
+Todas tienen un tamaño estándar y 0,71mm de grosor.
 
 Incluye una pequeña bolsa de terciopelo para guardarlas.
 
@@ -135,7 +136,7 @@ El kit incluye:
 * 16 puas
 * fabricadas con termoplásticos de celuloide
 * 8 diseños diferentes
-* 4 grosores diferentes: **0,46mm; 0,71mm; 0,96mm; 1,5mm**
+* 4 grosores diferentes: 0,46mm; 0,71mm; 0,96mm; 1,5mm
 * Incluye caja metálica circular para su guardado
 
 <div>
@@ -170,12 +171,12 @@ Prácticamente todas las púas están hechas de **plástico**, pero dentro de es
 en función del tipo de plástico utilizado. De esta manera podemos clasificar las púas según los siguientes materiales:
 
 * **Celuloide**: material bastante habitual, si bien con los años ha ido dando paso a otras variantes, quedándose más especializado en estilos vintage.
-* **Delrin**: **duraderas** y fáciles de agarrar pero con una superfície que contiene texturas que puede no gustar siempre. 
+* **Delrin**: **duraderas** y fáciles de agarrar pero con una superficie que contiene texturas que puede no gustar siempre. 
 No son las más recomendables para rasgueos.
-* **Lexan**: son púas dificiles de curvar así que se suele utilizar para fabricar las púas de mayor grosor. Su superfície es brillante.
+* **Lexan**: son púas dificiles de curvar así que se suele utilizar para fabricar las púas de mayor grosor. Su superficie es brillante.
 * **Nylon**: con el nailon se suelen hacer las púas más finas ya que es suave, flexible y desliza bien. Por contra son menos duraderas.
-* **Tortex**: las de la tortuga. ¿Quien no ha visto alguna vez una **tortuga** dibujada en una pua? muy habitual en muchos fabricantes como **Dunlop**.
-Son **suaves** y poco **resbaladizas**.
+* **Tortex**: las de la tortuga. ¿Quien no ha visto alguna vez una **tortuga** dibujada en una pua? muy habitual en muchos fabricantes como Dunlop.
+Son suaves y poco resbaladizas.
 
 Hay que destacar que unos materiales son más duros que otros por lo que cogiendo dos púas de idéntico **grosor**, según el material con el
 que estén fabricadas, serán más o menos flexibles.
