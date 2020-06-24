@@ -1,7 +1,7 @@
 ---
 title: "Los mejores inlays para guitarra de 2020"
 seoTitle: "Top de los mejores inlays para guitarra de 2020 | Comprar una Guitarra"
-date: 2020-06-18T10:07:47+06:00
+date: 2020-06-24T10:07:47+06:00
 draft: false
 
 # meta description
@@ -12,7 +12,7 @@ type: "inlays-guitarra"
 ---
 
 ¿Buscas los mejores inlays adhesivos para tu guitarra eléctrica? ¿Quieres cambiar el aspecto de tu mástil? lo cierto es 
-que son muchos los guitarristas, amateurs y profesionales, que decoran sus guitarras a su gusto, dotándolas de una estética especial y personal.
+que son muchos los guitarristas, amateurs y profesionales de la talla de <a href="/james-hetfield">James Hetfield</a>, que decoran sus guitarras a su gusto, dotándolas de una estética especial y personal.
 
 Entre los cambios estéticos más habituales se encuentran los inlays de la guitarra.
 
@@ -183,3 +183,25 @@ con el diseño indicado o bien **imprimirlos en tu ordenador** y ponerle el adhe
 Te dejo un video ejemplo de como cambiar en casa tus propios inlays de guitarra. Espero que te haya gustado esta sección.
 
 {{< youtube _OMFQYqJRXg >}}
+
+&nbsp;
+
+**¿Pensando en cambiar de guitarra eléctrica? quizá estas marcas te puedan interesar:**
+
+<div class="row">
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-yamaha/">
+          <figcaption>Guitarras Eléctricas Yamaha</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-ltd/">
+          <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-cort/">
+          <figcaption>Guitarras Eléctricas Cort</figcaption>
+        </a>
+      </div>
+</div>
