@@ -270,3 +270,23 @@ Te presento algunas opciones recomendables tanto para un caso como el otro. Todo
         </a>
       </div>
 </div>
+
+**¿Quieres cambiar de guitarra? quizá estas marcas te puedan interesar:**
+
+<div class="row">
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-yamaha/">
+          <figcaption>Guitarras Eléctricas Yamaha</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-ltd/">
+          <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-cort/">
+          <figcaption>Guitarras Eléctricas Cort</figcaption>
+        </a>
+      </div>
+</div>
