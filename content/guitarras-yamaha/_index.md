@@ -11,13 +11,12 @@ description: "Top de las mejores guitarras yamaha del 2020 &#9989; Yamaha pacifi
 type: "guitarras-electricas-yamaha"
 ---
 
-Sección dedicada a las **guitarras eléctricas** de la marca **Yamaha**. Las Yamaha son una prestigiosa marca japonesa de guitarras tanto eléctricas como acústicas. 
+Sección dedicada a las guitarras de la marca Yamaha. Las Yamaha son una prestigiosa marca japonesa de guitarras tanto eléctricas como acústicas. 
 
-Una de las gamas más prestigiosas de Yamaha son las **Yamaha Pacifica**, guitarras de una gran calidad/precio. 
+Aparecieron en los años 90 y con los años se han establecido sobretodo como una referencia dentro de las **guitarras eléctricas para principiantes** 
+y por ofrecer en general unas grandes prestaciones a precios muy ajustados. 
 
-Aparecieron en los años 90 y con los años se han establecido como una referencia dentro de las **guitarras eléctricas para principiantes**. 
-
-Si quieres una guitarra para aprender a tocar, las Pacifica 012 y la 112v son dos opciones muy a tener en cuenta.
+En esta sección podrás ver las diferentes series de Yamaha, pudiendo consultar en cada una de ellas los modelos más importantes que las componen.
 
 ## Yamaha Pacifica 012
 

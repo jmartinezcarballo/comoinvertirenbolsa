@@ -27,6 +27,7 @@ type: "sitemap"
 
 * [Behringer Guitar Link](/behringer-guitar-link/)
 * [Inlays para guitarra](/inlays-guitarra/)
+* [Pastillas para guitarra](/pastillas-para-guitarra/)
 * [Púas de Guitarra](/puas-guitarra/)
 * [Transmisores Inalámbricos](/transmisores-inalambricos-guitarra/)
 

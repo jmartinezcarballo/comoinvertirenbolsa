@@ -11,7 +11,7 @@ description: "Encuentra los mejores inlays para guitarra de 2020. &#9989; Compra
 type: "inlays-guitarra"
 ---
 
-¿Buscas los mejores inlays adhesivos para tu guitarra eléctrica? ¿Quieres cambiar el aspecto de tu mástil? lo cierto es 
+¿Buscas los mejores **inlays adhesivos** para tu guitarra eléctrica? ¿Quieres cambiar el aspecto de tu mástil? lo cierto es 
 que son muchos los guitarristas, amateurs y profesionales de la talla de <a href="/james-hetfield">James Hetfield</a>, que decoran sus guitarras a su gusto, dotándolas de una estética especial y personal.
 
 Entre los cambios estéticos más habituales se encuentran los inlays de la guitarra.
@@ -182,7 +182,7 @@ con el diseño indicado o bien **imprimirlos en tu ordenador** y ponerle el adhe
 
 Te dejo un video ejemplo de como cambiar en casa tus propios inlays de guitarra. Espero que te haya gustado esta sección.
 
-{{< youtube _OMFQYqJRXg >}}
+<a href="https://www.youtu.be/_OMFQYqJRXg" class="lazy-youtube-embed">cambiar inlays a guitarra electrica</a>
 
 &nbsp;
 

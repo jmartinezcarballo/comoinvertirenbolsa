@@ -103,10 +103,15 @@ disqusShortname = ""
     weight = 1
     # main menu
     [[menu.main]]
+        name = "Pastillas para guitarra"
+        parent = "Accesorios"
+        URL = "pastillas-para-guitarra/"
+        weight = 2
+    [[menu.main]]
     name = "Puas de guitarra"
     parent = "Accesorios"
     URL = "puas-guitarra/"
-    weight = 2
+    weight = 3
     # main menu
     [[menu.main]]
     name = "Transmisores inalámbricos"
@@ -135,7 +140,6 @@ disqusShortname = ""
   name = "Contacto"
   URL = "contacto"
   weight = 2
-
 
 #################### default parameters ################################
 [params]
