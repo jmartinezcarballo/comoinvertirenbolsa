@@ -5,8 +5,7 @@ date: 2020-06-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra todo lo que necesitas saber sobre las pastillas para guitarra. Todos los tipos, las mejores marcas y modelos. Si quieres cambiar
-las pastillas de tu guitarra aquí encontraras lo que buscas."
+description: "Encuentra todo lo que necesitas saber sobre las pastillas para guitarra. Las mejores single coil y humbucker de marcas como DiMarzio, Seymour Duncan y EMG"
 
 # type
 type: "pastillas-para-guitarra"
