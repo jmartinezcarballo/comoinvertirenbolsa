@@ -46,7 +46,8 @@ reducir sensiblemente cambiando algunos elementos de tu guitarra, y posiblemente
 
 ## Qué son las pastillas de una guitarra
 
-Para entender la importancia de las pastillas en una guitarra primero tenemos que saber qué son y cual es su función dentro del instrumento.
+Para entender su importancia en una guitarra primero tenemos que saber qué son, cual es su función y entender como funcionan las pastillas de
+una guitarra eléctrica.
 
 Básicamente podemos decir que las pastillas son el micrófono de la guitarra eléctrica. Es el componente, transductor,  que recoge las ondas sonoras producidas 
 por el movimiento de las cuerdas al tocarlas y las convierte en energía eléctrica que, procesada y enviada a un amplificador, es lo que se acaba convirtiendo 
@@ -146,6 +147,23 @@ En muchos casos, los fabricantes incluyen en sus modelos de guitarras ámbos tip
       </div>
 </div>
 
+#### Diferencias entre pastillas activas y pasivas
+
+Dentro de las pastillas humbucker, podemos encontrarnos con pastillas activas y pastillas pasivas.
+
+Pero, **¿qué diferencias hay entre unas pastillas activas y pasivas?** te las enumero a continuación:
+
+* Las activas llevan **amplificación** que modifica el sonido de la guitarra, las pasivas propagan el sonido tal cual llega.
+* Las pastillas pasivas proporcionan más **versatilidad** que las pastillas activas, más centradas en estilos como el metal.
+* Normalmente las pasivas potencian más la técnica del guitarrista al dar más **calidez** al sonido que las activas.
+* Las activas tienen una **impedancia** más baja que las pasivas proporcionando al sonido una mayor **salida y sustain** y una menor pérdida de señal.
+
+Escoger entre unas pastillas activas o pasivas depende totalmente de lo que se busque en una guitarra. No hay unas mejores o peores, cada
+tipo tiene sus características y es una decisión totalmente subjetiva el decantarse por un tipo u otro. Así que simplemente piensa
+qué sonidos o estilos vas a utilizar más y, en función de ello, decándate por un tipo u otro.
+
+Muchos guitarras metaleros escogen pastillas activas EMG, otros prefieren pasivas de grandes marcas como Seymour Duncan o DiMarzio.
+
 ###  Pastillas p90
 
 Las pastillas p90 son una variante de la single coil introducidas por Gibson que se caracterizan por tener **una sola bovina pero de mayor tamaño**, dotándola de una 
@@ -156,3 +174,38 @@ Las pastillas p90 son una variante de la single coil introducidas por Gibson que
 <div>
   <a href="https://amzn.to/2C4ECqe" class="btn" rel="nofollow noopener noreferrer" target="_blank">Selección de pastillas p90</a>
 </div>
+
+## Las mejores pastillas EMG
+
+Las pastillas EMG son las pastillas más utilizadas en todos los generos relacionados con el metal, de sobra conocidos y utilizados
+son sus famosos modelos **EMG 85** y **EMG 81**.
+
+A continuación te muestro una selección de algunas de las mejores pastillas EMG para metal que puedes encontrar, todas ellas de una calidad
+indiscutible.
+
+<div class="row">
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/3iMTrP6" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/pastillas/EMG-Zack-Wylde-signature.jpg" alt="EMG Zack Wylde signature">
+          <figcaption>EMG 85/81 Zack Wylde signature</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/38ImcI7" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/pastillas/EMG-85.jpg" alt="EMG 85">
+          <figcaption>EMG 85</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/3eef2fQ" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/pastillas/EMG-89.jpg" alt="EMG 89">
+          <figcaption>EMG 89</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/2BLml1q" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/pastillas/EMG-81.jpg" alt="EMG 81">
+          <figcaption>EMG 81</figcaption>
+        </a>
+      </div>
+</div> 
