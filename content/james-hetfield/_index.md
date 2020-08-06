@@ -19,6 +19,12 @@ Nacido en agosto de 1963, James Hetfield fundó en octubre de 1981 junto a **Lar
 
 Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus **guitarras**, así que si quieres saber que guitarra usa James Hetfield estás en el sitio adecuado.
 
+**¿Te gustaría tocar como Hetfield?**
+
+<div>
+	<a href="https://amzn.to/2PuJYOU" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver catálogo</a>
+</div>
+
 ## Biografía de James Hetfield a través de sus guitarras
 
 He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones **signature**, de manera que cronológicamente pasemos por todas sus etapas sin excepción.
