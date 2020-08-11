@@ -34,3 +34,4 @@ type: "sitemap"
 ### Guitarristas
 
 * [James Hetfield](/james-hetfield/)
+* [Kirk Hammett](/kirk-hammett/)

@@ -130,6 +130,12 @@ disqusShortname = ""
     parent = "Guitarristas"
     URL = "james-hetfield/"
     weight = 1
+    # main menu
+    [[menu.main]]
+    name = "Kirk Hammett"
+    parent = "Guitarristas"
+    URL = "kirk-hammett/"
+    weight = 2
 
   # footer menu
   [[menu.footer]]

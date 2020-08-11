@@ -11,7 +11,7 @@ description: "Las mejores guitarras de James Hetfield hasta 2020 &#9989; conoce 
 type: "james-hetfield"
 ---
 
-Hablar de **James Hetfield** es hablar de una de las mayores leyendas vivas dentro del panorama musical mundial.
+Hablar de <a href="https://amzn.to/3ixnzgl" rel="nofollow noopener noreferrer" target="_blank">James Hetfield</a> es hablar de una de las mayores leyendas vivas dentro del panorama musical mundial.
 
 <div><img src="../../images/james-hetfield/james-hetfield-iron-cross.jpg" alt="james hetfield iron cross 30 aniversary" width="350" height="233"></div>
 
@@ -22,7 +22,7 @@ Como la historia de Metallica ya es conocida por todos, y siendo ésta una pági
 **¿Te gustaría tocar como Hetfield?**
 
 <div>
-	<a href="https://amzn.to/2PuJYOU" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver catálogo</a>
+	<a href="https://amzn.to/31J7mxD" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver catálogo</a>
 </div>
 
 ## Biografía de James Hetfield a través de sus guitarras
@@ -368,4 +368,9 @@ Y hasta aquí esta **biografía** que he querido hacer de **James Hetfield a tra
 
 Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: guitarscollector y groundguitar.
 
-Si te ha parecido interesante el artículo y estás interesado/a en tener una **guitarra ltd** pero los modelos signature los ves excesivos, te recomiendo que te pases por la sección dedicada a las [guitarras ESP LTD](/guitarras-ltd) y veas los diferentes modelos que hay disponibles en el mercado hoy en día, algunos con un precio bastante asequible.
+Si te ha parecido interesante el artículo te recomiendo pasarte por la nueva sección dedicada a **Kirk Hammett**. Espero con el tiempo poder ir añadiendo más
+guitarristas a esta sección:
+
+<div>
+	<a href="/kirk-hammett" class="btn" target="_blank">Las guitarras de Kirk Hammett</a>
+</div>
