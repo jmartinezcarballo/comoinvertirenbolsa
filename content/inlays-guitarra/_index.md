@@ -16,6 +16,10 @@ que son muchos los guitarristas, amateurs y profesionales de la talla de <a href
 
 Entre los cambios estéticos más habituales se encuentran los inlays de la guitarra.
 
+<div>
+	<a href="https://amzn.to/2XT8r4O" class="btn" rel="nofollow noopener noreferrer" target="_blank">Inlays Iron Cross de James Hetfield</a>
+</div>
+
 &nbsp;
 
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
@@ -51,7 +55,7 @@ este tipo de cambios. Los típicos inlays que encontramos en las guitarras son l
 <div><img src="../../images/inlays-guitarra/inlays-punto.jpg" alt="inlay punto" width="300" height="159"></div>
 
 <div>
-	<a href="https://amzn.to/30WKyvK" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar en Amazon</a>
+	<a href="https://amzn.to/30WKyvK" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar Inlays</a>
 </div>
 
 ## Inlays para guitarra eléctrica

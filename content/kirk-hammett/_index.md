@@ -136,17 +136,18 @@ se puede encontrar fácilmente en las interpretaciones de la mayoría de baladas
 
 &nbsp;
 
-### ESP KH-2 The Mummy (desde 1996)
+### ESP KH-2 (The Mummy)
 
 La guitarra preferida y modelo más carismático de Kirk Hammett. Fue la primera guitarra en incorporar un diseño en el cuerpo en homenaje
-a **Boris Karloff**. Le seguirían posteriormente otros diseños como Drácula o Frankestein.
+a **Boris Karloff**. Le seguirían posteriormente otros diseños como la conocida Ouija, Drácula o Frankestein, todas ellas con unas especificaciones
+idénticas entre ellas, cambiando sólo el diseño del cuerpo.
 
 De sobras es conocido la pasión que siente el guitarristas por las **películas de terror**, así que era cuestión de tiempo que llevara ese
 hobby a plasmarlo en sus modelos signature. 
 
 <div><img src="../../images/kirk-hammett/kirk-hammett-kh2-mummy.jpg" alt="kirk hammett KH-2 The Mummy" width="350" height="233"></div>
 
-#### Características de la ESP KH-2 The Mummy
+#### Características de las ESP KH-2 con diseños personalizados
 
 * Cuerpo de caoba con tapa de arce
 * Mástil de caoba
