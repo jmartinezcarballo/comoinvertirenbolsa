@@ -15,26 +15,36 @@ Sección dedicada a las **guitarras Cort**. Cort es un fabricante de guitarras s
 
 Compara entre diferentes modelos de guitarras eléctricas para que puedas decidir aquella que más se adapte a ti.
 
+<div>
+	<a href="https://amzn.to/33ZUMgw" class="btn" rel="nofollow noopener noreferrer" target="_blank">Busca tu guitarra Cort</a>
+</div>
+
 ## Cort CR250
 
 La **Cort CR250** es una guitarra tipo les paul dificilmente batible en calidad/precio. Poco o nada tiene que envidiar a guitarras más caras, siendo de las Cort más exitosas y vendidas.
 
-Consulta a continuación las características principales de la Cort CR 250.
+Construída con caoba y con unos buenos acabados, destaca por la tapa de arce. Sus dos pastillas Cort Humbucker cumplen perfectamente y permiten obtener tanto unos buenos limpios, como
+unas distorsiones más que aceptables, sin necesidad de tener que recurrir a unas EMG o Seymour Duncan.
+
+Dentro de su segmento de precio, una guitarra que no decepciona.
 
 ![cort cr250](../../images/cort/cort-cr250.jpg)
 
 ### Características de la Cort CR 250
 
-* Cuerpo de Caoba
-* Mástil de Caoba
+* Cuerpo de caoba
+* Tapa de arce
+* Mástil de caoba
 * Diapasón de jatoba
 * Puente Tune O Matic
-* 22 trastes de palosanto
-* 2 pastillas humbucker ClassicRocker
+* 22 trastes
+* 2 pastillas Cort Classic Rocker II Humbucker
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Cort CR250 	| Vintage Burst | 4,3 sobre 5 | <a href="https://amzn.to/3essWvn" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
+&nbsp;
+
+<div>
+	<a href="https://amzn.to/3essWvn" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+</div>
 
 &nbsp;
 
@@ -59,9 +69,39 @@ Consulta a continuación las características principales de la Cort x11.
 * 24 trastes
 * Pastillas EMG SRO OC1 & Bluebucker Pro Single con Push-Pull
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Cort x11 	| Trans Charcoal Grey | 3,3 sobre 5 | <a href="https://amzn.to/2BJ7ELF" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
+&nbsp;
+
+<div>
+	<a href="https://amzn.to/2BJ7ELF" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+</div>
+
+&nbsp;
+
+## Cort g260
+
+Preciosa y versátil guitarra la que nos ofrece Cort con su modelo g260. Sus pastillas con licencia Seymour Duncan aseguran un buen sonido, mientras que el push-pull 
+que incorpora nos permite convertir la pastilla Humbucker en dos pastillas simples, multiplicando la variedad de tonos que podemos obtener con ella.
+
+Destaca sobretodo por su comodidad y su sonido limpio y brillante.
+
+
+![cort g260](../../images/cort/cort-g260.png)
+
+### Características de la Cort g260
+
+* Cuerpo de fresno
+* Mástil de arce de 1 pieza atornillado
+* Diapasón de arce
+* Puente Floyd Rose
+* 22 trastes
+* 2 pastillas simples y una Humbucher Duncan Designed
+* Vibrato Wilkinson VS 50 II
+
+&nbsp;
+
+<div>
+	<a href="https://www.thomann.de/es/cort_g260_black_egitarre.htm" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+</div>
 
 &nbsp;
 
@@ -81,9 +121,9 @@ Consulta a continuación las características principales de la **Cort CR 100**.
 * 22 trastes
 * 2 pastillas humbucker Powersound PSLP-1F y PSLP-1R
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Cort CR100	   	   | negro | 3,9 sobre 5 | <a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/2yjOWcd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+</div>
 
 &nbsp;
 
