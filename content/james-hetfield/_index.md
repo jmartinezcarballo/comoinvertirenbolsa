@@ -22,7 +22,7 @@ Como la historia de Metallica ya es conocida por todos, y siendo ésta una pági
 **¿Te gustaría tocar como Hetfield?**
 
 <div>
-	<a href="https://amzn.to/31J7mxD" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver catálogo</a>
+	<a href="https://www.amazon.es/s/ref=as_li_ss_tl?k=james+hetfield&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1&linkCode=ll2&tag=guitar0de-21&linkId=ef32eff64bbbaa6cce400c14467d0441&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver catálogo</a>
 </div>
 
 ## Biografía de James Hetfield a través de sus guitarras

@@ -25,7 +25,7 @@ más conocido de la banda.
 **¿Te gustaría tocar como Kirk Hammett?**
 
 <div>
-	<a href="https://amzn.to/31DZNZb" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver catálogo</a>
+	<a href="https://www.amazon.es/s/ref=as_li_ss_tl?k=kirk+hammett&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1&linkCode=ll2&tag=guitar0de-21&linkId=d16782f5de86440da9e43fbf286b0bb6&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver catálogo</a>
 </div>
 
 ## Biografía de Kirk Hammett a través de sus guitarras

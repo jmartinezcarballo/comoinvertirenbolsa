@@ -17,7 +17,7 @@ que son muchos los guitarristas, amateurs y profesionales de la talla de <a href
 Entre los cambios estéticos más habituales se encuentran los inlays de la guitarra.
 
 <div>
-	<a href="https://amzn.to/2XT8r4O" class="btn" rel="nofollow noopener noreferrer" target="_blank">Inlays Iron Cross de James Hetfield</a>
+	<a href="https://www.amazon.es/Completo-pegatinas-guitarra-Stickers-Pegatinas/dp/B0831LKTLQ/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlays+iron+cross&qid=1597835273&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=5d8fddf397574d2c6f01406ad5b1fbf0&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Inlays Iron Cross de James Hetfield</a>
 </div>
 
 &nbsp;
@@ -55,7 +55,7 @@ este tipo de cambios. Los típicos inlays que encontramos en las guitarras son l
 <div><img src="../../images/inlays-guitarra/inlays-punto.jpg" alt="inlay punto" width="300" height="159"></div>
 
 <div>
-	<a href="https://amzn.to/30WKyvK" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar Inlays</a>
+	<a href="https://www.amazon.es/s/ref=as_li_ss_tl?k=inlays+guitarra&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1&linkCode=ll2&tag=guitar0de-21&linkId=6a5351ad8eedbe4e4d840c865aa28adf&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar Inlays</a>
 </div>
 
 ## Inlays para guitarra eléctrica
@@ -66,13 +66,13 @@ para decorar** tu guitarra, aquí te presento algunos **inlays adhesivos de guit
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2YinNiK" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Diapas%C3%B3n-marcadores-adhesivo-adhesivos-guitarra/dp/B00NSETFQK/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay+stickers+calavera&qid=1597835428&sr=8-1-fkmr0&linkCode=ll1&tag=guitar0de-21&linkId=86199e40bc2fc48effe3871258813bdf&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-calavera.jpg" alt="Inlays para guitarra de calaveras">
           <figcaption>Calaveras</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3h4MjfX" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Adhesivo-decorativo-guitarra-incrustaciones-diapas%C3%B3n/dp/B00NSESRA0/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay+stickers+murcielago&qid=1597835490&sr=8-1-fkmr0&linkCode=ll1&tag=guitar0de-21&linkId=2dd3d9e5b0e2b284e1b529b7164ca69d&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-murcielago.jpg" alt="Inlays para guitarra de murcielagos">
           <figcaption>Murciélago</figcaption>
         </a>
@@ -84,55 +84,55 @@ para decorar** tu guitarra, aquí te presento algunos **inlays adhesivos de guit
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3cF5LfL" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Lightning-Stickers-Guitarra-Pegatinas-Diapason/dp/B07H74TK24/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay+stickers+lightning&qid=1597835530&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=731147652b12a11a439f4e7b45efc177&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-rayo.jpg" alt="Inlays para guitarra de rayos">
           <figcaption>Rayos</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2Ybon1O" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Pentagram-Stickers-Guitarra-Pegatinas-Diapason/dp/B07H6T66YQ/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay+stickers+pentagrama&qid=1597835585&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=0a843dc250c80a072d349687ca3a9255&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-pentagrama.jpg" alt="Inlays para guitarra de pentagrama">
           <figcaption>Pentagramas</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3cLJGfw" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Deluxe-Markers-Stickers-pegatinas-Diapason/dp/B07H72QJRP/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay+stickers+eddie&qid=1597835612&sr=8-3&linkCode=ll1&tag=guitar0de-21&linkId=3a0e1e77f5b15b63d1c8fcbcb3b76d33&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-eddie-iron-maiden.jpg" alt="Inlays para guitarra de Eddie Iron Maiden">
           <figcaption>Iron Maiden - Eddie soldado</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/37a1lfW" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Markers-Stickers-Guitarra-Pegatinas-Diapason/dp/B07H5197BX/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay+stickers+poker&qid=1597835662&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=bf8047a989b79553f5d4aea1c2f63b15&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-poker.jpg" alt="Inlays para guitarra de cartas de poker">
           <figcaption>Baraja de poker</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3h9HW34" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Markers-Stickers-Inlays-Guitar-blanco/dp/B07N4RTX7K/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay+stickers+stars&qid=1597835715&sr=8-6&linkCode=ll1&tag=guitar0de-21&linkId=1cecc8da3618d3a4bf55a7498b69af02&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-estrellas.jpg" alt="Inlays para guitarra de estrellas">
           <figcaption>Estrellas</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2Y76dOA" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Diapas%C3%B3n-marcadores-adhesivo-adhesivos-Lightning/dp/B00OJZ0SYU/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay&qid=1591553193&sr=8-24&linkCode=ll1&tag=guitar0de-21&linkId=ba7d4168b81475e442aea2c854915c28&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-rayo-acdc.jpg" alt="Inlays para guitarra de AC/DC">
           <figcaption>Rayo AC/DC</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2Y9TMSi" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Tree-Life-Stickers-Pegatinas-Guitarra/dp/B07FYWZ7M8/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay+stickers+tree+of+life&qid=1597835812&sr=8-4&linkCode=ll1&tag=guitar0de-21&linkId=a43b797aecd298cb85b93f19c10b5b11&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-arbol-vida.jpg" alt="Inlays para guitarra de arbol de la vida">
           <figcaption>Árbol de la vida</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/379LNJ9" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Markers-Biohazard-Sticker-Pegatinas-guitarra/dp/B07F2JGDNW/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay+stickers+biohazard&qid=1597835847&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=51bf0c946a5a73f804ab766a9e67449c&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-biohazard.jpg" alt="Inlays para guitarra de biohazard">
           <figcaption>Biohazard</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/37b9MYp" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.amazon.es/Diapas%C3%B3n-marcadores-adhesivo-adhesivos-guitarra/dp/B00WWFM4KU/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlay&qid=1591553193&sr=8-32&linkCode=ll1&tag=guitar0de-21&linkId=d795340d4804cc0954cb1cfebe1ad071&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/inlays-guitarra/inlays-rosa-flor.jpg" alt="Inlays para guitarra de rosa y flores">
           <figcaption>Rosa</figcaption>
         </a>

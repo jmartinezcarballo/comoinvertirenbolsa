@@ -22,7 +22,7 @@ la guitarra puede perder la afinación con facilidad, pero en este caso aun no s
 La guitarra tiene un gran **sustain** y es muy **cómoda y rápida de tocar**, haciéndola ideal para solistas.
 
 <div>
-	<a href="https://amzn.to/2BJ7ELF" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://www.amazon.es/Cort-X-11-Alder-bk-alder/dp/B01BWP8H60/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=cort+x11&qid=1597835180&sr=8-2&linkCode=ll1&tag=guitar0de-21&linkId=a10b0def21354f75afa129712e800a44&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 Consulta a continuación las características principales de la Cort x11.
@@ -39,7 +39,7 @@ Consulta a continuación las características principales de la Cort x11.
 * Pastillas EMG Hz con Push-Pull
 
 <div>
-	<a href="https://amzn.to/2BJ7ELF" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/Cort-X-11-Alder-bk-alder/dp/B01BWP8H60/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=cort+x11&qid=1597835180&sr=8-2&linkCode=ll1&tag=guitar0de-21&linkId=a10b0def21354f75afa129712e800a44&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 &nbsp;
