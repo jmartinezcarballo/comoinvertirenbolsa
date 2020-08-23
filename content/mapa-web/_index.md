@@ -1,6 +1,6 @@
 ---
 title: "Mapa del sitio web"
-date: 2020-05-24T11:07:47+06:00
+date: 2020-08-22T11:07:47+06:00
 draft: false
 
 # meta description
@@ -35,3 +35,4 @@ type: "sitemap"
 
 * [James Hetfield](/james-hetfield/)
 * [Kirk Hammett](/kirk-hammett/)
+* [Slash](/slash/)

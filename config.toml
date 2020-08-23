@@ -136,6 +136,12 @@ disqusShortname = ""
     parent = "Guitarristas"
     URL = "kirk-hammett/"
     weight = 2
+    # main menu
+    [[menu.main]]
+    name = "Slash"
+    parent = "Guitarristas"
+    URL = "slash/"
+    weight = 3
 
   # footer menu
   [[menu.footer]]

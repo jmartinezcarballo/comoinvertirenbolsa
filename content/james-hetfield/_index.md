@@ -368,9 +368,10 @@ Y hasta aquí esta **biografía** que he querido hacer de **James Hetfield a tra
 
 Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: guitarscollector y groundguitar.
 
-Si te ha parecido interesante el artículo te recomiendo pasarte por la nueva sección dedicada a **Kirk Hammett**. Espero con el tiempo poder ir añadiendo más
-guitarristas a esta sección:
+Si te ha parecido interesante el artículo te recomiendo visitar la página dedicada a otros guitarristas, donde podrás encontrar
+un completísimo repaso a las carreras de los músicos desde el punto de vista de sus guitarras:
 
 <div>
-	<a href="/kirk-hammett" class="btn" target="_blank">Las guitarras de Kirk Hammett</a>
+  <a href="/slash" class="btn">Ir a las guitarras de Slash</a>
+	<a href="/kirk-hammett" class="btn">Ir a las guitarras de Kirk Hammett</a>
 </div>
