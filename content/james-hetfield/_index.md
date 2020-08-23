@@ -17,6 +17,8 @@ Hablar de <a href="https://amzn.to/3ixnzgl" rel="nofollow noopener noreferrer" t
 
 Nacido en agosto de 1963, James Hetfield fundó en octubre de 1981 junto a **Lars Ulrich** la banda californiana **Metallica**, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072KL77LR&linkId=a9bec1961a275376c2727ecf4e02d927"></iframe>
+
 Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus **guitarras**, así que si quieres saber que guitarra usa James Hetfield estás en el sitio adecuado.
 
 **¿Te gustaría tocar como Hetfield?**
@@ -104,6 +106,10 @@ Desde 1990 Hetfield ya no usa esta guitarra aunque, una vez más, la recuperó p
 Os dejo una grabación de uno de los mejores conciertos de la carrera de la banda, con la **ESP MX 220 Ett Fuk** en plena acción en Seattle 89.
 
 <a href="https://www.youtu.be/vp-7hB-8jJY" class="lazy-youtube-embed">Metallica - Harvester of Sorrow (Seattle 1989)</a>
+
+&nbsp;
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B073B7NZM1&linkId=76b8e4281e021fdae61df47ca878445c"></iframe>
 
 &nbsp;
 
@@ -221,6 +227,10 @@ En 2003 se construyeron apenas 300 unidades de la fácilmente reconocible viper 
 
 &nbsp;
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01EALU6XK&linkId=ab2407a9473af63b05cb537e073434c3"></iframe>
+
+&nbsp;
+
 ### ESP Truckster (desde 2008)
 
 A partir de 2003 empezó a ser más habitual ver a **James Hetfield** utilizar modelos **Single Cut** en los conciertos de la banda. De sobra conocidos son los **problemas de espalda** que ha sufrido el cantante a lo largo de su carrera y probablemente esto fuese uno de los motivos que lo llevaran a empezar a alternar modelos más ligeros y manejables con las explorer.
@@ -230,6 +240,10 @@ En 2008 **ESP** construyó para Hetfield el modelo signature **Truckster**, del 
 <div><img src="../../images/james-hetfield/james-hetfield-esp-truckster.webp" alt="james hetfield esp truckster" width="266" height="400"></div>
 
 La ESP Truckster fue la primera guitarra en incorporar las **pastillas EMG** signature creadas bajo la supervisión de James Hetfield, basadas en las habituales **EMG 81/60**, las JH bridge y neck (**JH-B** y **JH-N**)
+
+¿Quieres que tu guitarra tenga las EMG JH? pues las tienes a la venta!
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00GXNMJDO&linkId=12c1792fb2579aeb90cd3142585b1f52"></iframe>
 
 #### Características de la ESP Truckster
 
@@ -245,6 +259,8 @@ La ESP Truckster fue la primera guitarra en incorporar las **pastillas EMG** sig
 <a href="https://www.youtu.be/1yVV2i4vKuM" class="lazy-youtube-embed">Metallica - That Was Just Your Life (2008)</a>
 
 &nbsp;
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B019GXD7HY&linkId=5f47842c59126bcd1efcfe84c4cbea4e"></iframe>
 
 ### ESP IRON CROSS (desde 2008)
 
@@ -271,6 +287,9 @@ Basada en la **Gibson Les Paul Custom** que utilizó durante la gira de St.Anger
 	<a href="https://www.thomann.de/es/esp_ltd_iron_cross_sw_459164.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Iron Cross</a>&nbsp;
 	<a href="https://www.thomann.de/es/esp_iron_cross_sw.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Iron Cross</a>
 </div>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07GBCJ5RQ&linkId=96a491ce6a8f77f0296506aba074afe7"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00MBIDMCW&linkId=7290a0dc83ada0521b40239c0eed9bfd"></iframe>
 
 ### ESP SNAKEBYTE (desde 2011)
 
@@ -301,6 +320,10 @@ Las especificaciones ofrecen pocas novedades respecto a modelos previos, con el 
 	<a href="https://www.thomann.de/es/esp_ltd_snakebyte_sw_459205.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Snakebyte</a>&nbsp;
 	<a href="https://www.thomann.de/es/esp_snakebyte_sw_james_hetfield.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Snakebyte</a>
 </div>
+
+&nbsp;
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QPXGBJR&linkId=7d62a8d47fe612670a55b9d16943b44f"></iframe>
 
 &nbsp;
 
@@ -363,6 +386,11 @@ Sin duda, todo el interior del cuerpo estará hecho de la mejor caoba que exista
 <a href="https://www.youtu.be/pd9LfzWTaLQ" class="lazy-youtube-embed">James Hetfield "Carl" Ken Lawrence Guitar</a>
 
 &nbsp;
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004UAH5HC&linkId=bef158b9b2b053d6f08a3e29f4591149"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0845N5SZZ&linkId=39013565f2d720bafb4f9d5e929fb5fc"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004A91X8K&linkId=a5c7ad3ff8ca7fe546c59e159cc7ac5a"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0845TNRNM&linkId=d61a7b95218663ac0554f72b4502cae9"></iframe>
 
 Y hasta aquí esta **biografía** que he querido hacer de **James Hetfield a través de sus guitarras**. Me he dejado varios modelos interesantes por el camino pero en algún punto tenía que poner el corte, mi intención ha sido que todas las épocas y discos quedaran representados.
 
