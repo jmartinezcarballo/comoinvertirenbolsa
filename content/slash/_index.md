@@ -20,7 +20,7 @@ muchos años en todo un símbolo dentro del panorama del hard rock.
 A continuación repasaremos todo sobre las guitarras y el particular sonido de Slash a lo largo de su carrera. Así que si quieres saber la **marca de guitarras de Slash** y todo
 sobre ellas, toma asiento y resérvate unos pocos minutos para continuar leyendo. ¿Preparado?
 
-**¿Te gustaría tener una réplica de guitarra de Slash con pua dedicada de regalo? mira lo que tengo para tí!**
+**¿Te gustaría tener una réplica de guitarra de Slash con pua dedicada de regalo? mira lo que tengo para ti!**
 
 <div>
 	<a href="https://www.amazon.es/SLASH-Guitarra-miniatura-guitarra-Gibson/dp/B07QX25CZS/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=gibson+les+paul&qid=1598078438&sr=8-36&linkCode=ll1&tag=guitar0de-21&linkId=a2dfe030eff5ac05bb868e7a7311965d&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
@@ -41,7 +41,7 @@ a tocar y a dar sus primeros pasos.
 
 <div><img src="../../images/slash/memphis-les-paul.jpg" alt="Memphis les paul" width="200" height="200"></div>
 
-Con una construcción de arce y caoba, Slash de dió cuenta rápidamente que la guitarra no era tan buena como parecía y que necesitaría algo mejor para tocar en directo.
+Con una construcción de arce y caoba, Slash de dio cuenta rápidamente que la guitarra no era tan buena como parecía y que necesitaría algo mejor para tocar en directo.
 
 <a href="https://youtu.be/5Mqi59XCGGc" class="lazy-youtube-embed">Slash first guitar</a>
 
@@ -219,7 +219,7 @@ Eso convierte a la guitarra en una de una versatilidad enorme.
 
 ### Gibson Les Paul "Snakepit" (1996)
 
-Gibson Les Paul signature hecha por la marca a petición de Slash. Incorpora la imágen de la banda **Slash's Snakepit**. Los inlays son de forma de serpiente y, como no, incorpora dos pastillas
+Gibson Les Paul signature hecha por la marca a petición de Slash. Incorpora la imagen de la banda **Slash's Snakepit**. Los inlays son de forma de serpiente y, como no, incorpora dos pastillas
 Seymour Duncan Alnico Pro.
 
 <div><img src="../../images/slash/slash-gibson-les-paul-snakepit.jpg" alt="slash gibson les paul snakepit" width="327" height="450"></div>
