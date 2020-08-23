@@ -1,6 +1,6 @@
 ---
 title: "Guitarras eléctricas Cort"
-seoTitle: "Guitarras Cort | Comprar una Guitarra"
+seoTitle: "Las mejores guitarras Cort en 2020 | Comprar una Guitarra"
 date: 2020-08-13T10:07:47+06:00
 draft: false
 

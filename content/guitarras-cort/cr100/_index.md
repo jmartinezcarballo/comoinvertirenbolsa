@@ -28,7 +28,8 @@ Consulta a continuación las características principales de la **Cort CR 100**.
 ### Características
 
 * Cuerpo de caoba
-* Diapason de palorosa
+* Mástil atornillado de arce canadiense
+* Diapason de jatoba
 * Puente Tune O Matic
 * 22 trastes
 * 2 pastillas humbucker Powersound PSLP-1F y PSLP-1R
@@ -37,7 +38,15 @@ Consulta a continuación las características principales de la **Cort CR 100**.
 	<a href="https://amzn.to/2yjOWcd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
-&nbsp;  
+&nbsp;
+
+# Opiniones y reviews de la Cort CR 100
+
+Os dejo a continuación una review de la Cort CR 100 en la que se explican sus especificaciones y se prueba su sonido:
+
+<a href="https://www.youtu.be/x_0k9gZ9sGw" class="lazy-youtube-embed">Cort CR 100 opiniones</a>
+
+&nbsp;
 
 **¿No has encontrado la guitarra Cort que buscabas? quizá éstas te puedan interesar:**
 
