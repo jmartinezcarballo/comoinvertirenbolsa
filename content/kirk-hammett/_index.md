@@ -8,7 +8,7 @@ draft: false
 description: "Las mejores guitarras de Kirk Hammett hasta 2020 &#9989; conoce todo sobre las guitarras del solista de Metallica"
 
 # type
-type: "james-hetfield"
+type: "kirk-hammett"
 ---
 
 <a href="https://amzn.to/2DM2nUW" rel="nofollow noopener noreferrer" target="_blank">Kirk Hammett</a> es conocido por ser el guitarra solista de **Metallica**. Si bien se empezó a dar a conocer a principios de los 80 formando parte de los
@@ -22,6 +22,8 @@ composición de los temas. Es cierto que la mayoría de los riffs son creación 
 compuestos por Hetfield sino por Hammett, como por ejemplo el riff del puente en Creeping Death (donde la gente corea "die die!") y, el más sorprendente todavía, el riff principal de Enter Sandman, seguramente el riff
 más conocido de la banda.
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072R4HXZ4&linkId=d22f8102e62db6fa22fb0e23c1e1c763"></iframe>
+
 **¿Te gustaría tocar como Kirk Hammett?**
 
 <div>
@@ -31,6 +33,8 @@ más conocido de la banda.
 ## Biografía de Kirk Hammett a través de sus guitarras
 
 He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones **signature**, de manera que cronológicamente pasemos por todas sus etapas sin excepción.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0026XB9H2&linkId=ff706da7023aaefad78c7f585faa6988"></iframe>
 
 ### Gibson Flying V (1979-1989)
 
@@ -136,6 +140,8 @@ se puede encontrar fácilmente en las interpretaciones de la mayoría de baladas
 
 &nbsp;
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0846MRFMB&linkId=08c29b01723b8f4296a0777e6cc4dae2"></iframe>
+
 ### ESP KH-2 (The Mummy)
 
 La guitarra preferida y modelo más carismático de Kirk Hammett. Fue la primera guitarra en incorporar un diseño en el cuerpo en homenaje
@@ -164,13 +170,17 @@ hobby a plasmarlo en sus modelos signature.
 
 **¿Te gustaría tener una réplica en miniatura de The Mummy?**
 
-<div>
-	<a href="https://amzn.to/3fJNSOp" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar The Mummy</a>
-</div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0846MNXYF&linkId=f73e7bd54c016cc9e28906f8c4aca388"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0846MTCSL&linkId=1d7e768ddfddc1094e70418cb7203ab6"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01F5CJ6AM&linkId=c50be12232b16989c1e0ca286c174431"></iframe>
 
 Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: guitarscollector y groundguitar.
 
 &nbsp;
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B079X38XFR&linkId=785b538caaaa76fa844736fe217ef68a"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01C2T8OOA&linkId=dca27909127fd9b0e14a5a0b2f146616"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004U0JTDK&linkId=4d99e12257b3e603f43fd06a4a83c369"></iframe>
 
 Si te ha parecido interesante el artículo te recomiendo visitar la página dedicada a otros guitarristas, donde podrás encontrar
 un completísimo repaso a las carreras de los músicos desde el punto de vista de sus guitarras.
