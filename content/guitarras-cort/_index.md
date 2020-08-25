@@ -44,6 +44,12 @@ Compara entre diferentes modelos de guitarras eléctricas para que puedas decidi
           <figcaption>Cort cr100</figcaption>
         </a>
       </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="/guitarras-cort/g110">
+          <img src="../../images/cort/cort-g110-menu.jpg" alt="Cort g110">
+          <figcaption>Cort g110</figcaption>
+        </a>
+      </div>
     </div>
 
 ## Opiniones sobre las Guitarras Cort
