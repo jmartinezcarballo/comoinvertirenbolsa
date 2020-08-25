@@ -57,7 +57,7 @@ Segunda guitarra eléctrica de Slash que tampoco le duraría mucho tiempo. Fue u
 
 <div><img src="../../images/slash/slash-tidus-sloan.jpg" alt="slash tidus sloan" width="342" height="200"></div>
 
-Sí, el de la foto es Slash tocando con la banda Tidus Sloan, parece que aun no había descubierto el sombrero de copa.
+Querías ver a Slash de joven y sin gafas? sí, el de la foto es Slash tocando con la banda Tidus Sloan, parece que aun no había descubierto el sombrero de copa.
 
 Sobre la guitarra cabe destacar que llevaba unas Humbucker Di Marzio, bastante mejores que las anteriores pastillas.
 
@@ -65,7 +65,7 @@ Sobre la guitarra cabe destacar que llevaba unas Humbucker Di Marzio, bastante m
 
 &nbsp;
 
-### SLASH B.C. RICH WARLOCK (1984-1985)
+### SLASH B.C. RICH WARLOCK (1985)
 
 Segunda B.C. Rich de Slash y primera ya formando parte de Guns n Roses.
 
@@ -99,7 +99,7 @@ momento de la grabación del disco.
 
 ### 1959 Gibson Les Paul Standard Replica (1986)
 
-Entrando ya de lleno en la grabación del **Appetite for Destruction**, Slash no estaba satisfecho con el sonido que estaba consiguiendo con las guitarras de las que disponía y
+Entrando ya de lleno en la grabación del **Appetite for Destruction**, publicado en 1987, Slash no estaba satisfecho con el sonido que estaba consiguiendo con las guitarras de las que disponía y
 buscaba algo más clásico. Su manager le consiguió una réplica de una Gibson Les Paul Custom de 1959 hecha por el luthier **Kris Derrig**, a la que le fueron puestas unas
 pastillas **Seymour Duncan Alnico II Pro**.
 
