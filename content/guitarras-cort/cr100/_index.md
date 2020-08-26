@@ -1,5 +1,5 @@
 ---
-title: "Cort cr100"
+title: "Guitarra Cort cr100"
 seoTitle: "Todo sobre la Cort cr100 | Comprar una Guitarra"
 date: 2020-08-13T10:07:47+06:00
 draft: false

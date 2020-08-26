@@ -1,5 +1,5 @@
 ---
-title: "Cort x11"
+title: "Guitarra Cort x11"
 seoTitle: "Todo sobre la Cort x11 | Comprar una Guitarra"
 date: 2020-08-13T10:07:47+06:00
 draft: false
