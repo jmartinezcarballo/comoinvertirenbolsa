@@ -15,11 +15,11 @@ Hablar de <a href="https://amzn.to/3ixnzgl" rel="nofollow noopener noreferrer" t
 
 <div><img src="../../images/james-hetfield/james-hetfield-iron-cross.jpg" alt="james hetfield iron cross 30 aniversary" width="350" height="233"></div>
 
-Nacido en agosto de 1963, James Hetfield fundó en octubre de 1981 junto a **Lars Ulrich** la banda californiana **Metallica**, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
+Nacido en agosto de 1963, James Hetfield fundó en octubre de 1981 junto a Lars Ulrich la banda californiana **Metallica**, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072KL77LR&linkId=a9bec1961a275376c2727ecf4e02d927"></iframe>
 
-Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus **guitarras**, así que si quieres saber que guitarra usa James Hetfield estás en el sitio adecuado.
+Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus guitarras, así que si quieres saber **que guitarra usa James Hetfield** estás en el sitio adecuado.
 
 **¿Te gustaría tocar como Hetfield?**
 
@@ -29,11 +29,13 @@ Como la historia de Metallica ya es conocida por todos, y siendo ésta una pági
 
 ## Biografía de James Hetfield a través de sus guitarras
 
-He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones **signature**, de manera que cronológicamente pasemos por todas sus etapas sin excepción.
+He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones signature, de manera que cronológicamente pasemos por todas sus etapas sin excepción.
+
+¿Quieres saber todo sobre las **guitarras de James Hetfield**? ¡empecemos!
 
 ### ELECTRA "GIBSON" FLYING V (1980-1984)
 
-Icónica **flying V** blanca con la que **Hetfield** grabó y se llevó de gira para el primer disco de Metallica, el **Kill 'em all** de 1983. He entrecomillado lo de Gibson ya que definitivamente la guitarra es una imitación de la **Gibson flying V** elaborada en Japón por Electra. Según el propio Hetfield reconoció, fue engañado por el vendedor que se la hizo pasar por una Gibson y, como novato que era por entonces, picó en el cebo costándole alrededor de 200 dolares de la época. Lo que sí tenía claro es que quería tener una **flying V blanca** como homenaje a **Michael Schenker**, lo tenía entre ceja y ceja, y lo consiguió.
+Icónica flying V blanca con la que Hetfield grabó y se llevó de gira para el primer disco de Metallica, el **Kill 'em all** de 1983. He entrecomillado lo de Gibson ya que definitivamente la guitarra es una imitación de la **Gibson flying V** elaborada en Japón por Electra. Según el propio Hetfield reconoció, fue engañado por el vendedor que se la hizo pasar por una Gibson y, como novato que era por entonces, picó en el cebo costándole alrededor de 200 dolares de la época. Lo que sí tenía claro es que quería tener una **flying V blanca** como homenaje a **Michael Schenker**, lo tenía entre ceja y ceja, y lo consiguió.
 
 <div><img src="../../images/james-hetfield/james-hetfield-flying-v-blanca.jpg" alt="james hetfield flying v kill em all" width="350" height="525"></div>
 <div><img src="../../images/james-hetfield/michael-schenker-flying-v.jpg" alt="michael schenker flying v" width="350" height="326"></div>
