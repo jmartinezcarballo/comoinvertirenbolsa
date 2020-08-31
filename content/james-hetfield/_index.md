@@ -21,11 +21,16 @@ Nacido en agosto de 1963, James Hetfield fundó en octubre de 1981 junto a Lars 
 
 Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus guitarras, así que si quieres saber **que guitarra usa James Hetfield** estás en el sitio adecuado.
 
-**¿Te gustaría tocar como Hetfield?**
+&nbsp;
 
-<div>
-	<a href="https://www.amazon.es/s/ref=as_li_ss_tl?k=james+hetfield&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1&linkCode=ll2&tag=guitar0de-21&linkId=ef32eff64bbbaa6cce400c14467d0441&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver catálogo</a>
-</div>
+¿Aún no tienes en casa el **S&M2** de Metallica con la **Orquesta Sinfónica de San Francisco**? ¿A qué esperas? aquí lo tienes en diferentes formatos:
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B089J3LQN4&linkId=7e3fc812d5889347f460829cd12536d1"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08C9CZ47C&linkId=6b5361799f556c254e2700a77059eeff"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08CWD65YR&linkId=d4df911a664638f2decdd83190b10e3e"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08BDWYGMV&linkId=962378c74a80564205c77d9be329cedc"></iframe>
+
+&nbsp;
 
 ## Biografía de James Hetfield a través de sus guitarras
 

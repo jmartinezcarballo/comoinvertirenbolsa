@@ -24,11 +24,16 @@ más conocido de la banda.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072R4HXZ4&linkId=d22f8102e62db6fa22fb0e23c1e1c763"></iframe>
 
-**¿Te gustaría tocar como Kirk Hammett?**
+&nbsp;
 
-<div>
-	<a href="https://www.amazon.es/s/ref=as_li_ss_tl?k=kirk+hammett&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1&linkCode=ll2&tag=guitar0de-21&linkId=d16782f5de86440da9e43fbf286b0bb6&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver catálogo</a>
-</div>
+¿Aún no tienes en casa el **S&M2** de Metallica con la **Orquesta Sinfónica de San Francisco**? ¿A qué esperas? aquí lo tienes en diferentes formatos:
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B089J3LQN4&linkId=7e3fc812d5889347f460829cd12536d1"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08C9CZ47C&linkId=6b5361799f556c254e2700a77059eeff"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08CWD65YR&linkId=d4df911a664638f2decdd83190b10e3e"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08BDWYGMV&linkId=962378c74a80564205c77d9be329cedc"></iframe>
+
+&nbsp;
 
 ## Biografía de Kirk Hammett a través de sus guitarras
 
@@ -95,7 +100,7 @@ en las giras para medios tiempos en baja afinación, por ejemplo en Sad But True
 
 ### ESP MM-270 "Zorlac" (1986)
 
-Kirk es conocido por utilizar mayoritariamente [guitarras ESP](/guitarras-ltd), pero no fue hasta 1986 cuando adquirió su primera ESP, la MM-270 bautizada como **Zorlac**.
+Kirk es conocido por utilizar mayoritariamente [guitarras ESP](/ltd), pero no fue hasta 1986 cuando adquirió su primera ESP, la MM-270 bautizada como **Zorlac**.
 
 <div><img src="../../images/kirk-hammett/kirk-hammett-esp-mm270-zorlac.jpg" alt="kirk hammett esp mm270 zorlac" width="350" height="422"></div>
 
