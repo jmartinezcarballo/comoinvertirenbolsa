@@ -1,11 +1,11 @@
 ---
-title: "Todo sobre las puas de guitarra"
+title: "Las mejores puas de guitarra en 2020"
 seoTitle: "Top de las mejores puas de guitarra 2020 | Comprar una Guitarra"
 date: 2020-06-10T10:07:47+06:00 
 draft: false
 
 # meta description
-description: "las mejores puas de guitarra de 2020. Encuentra los mejores y más originales diseños, todos los materiales y grosores y puas de bandas famosas"
+description: "las mejores puas de guitarra de 2020. Encuentra todo tipo de diseños, materiales, puas personalizadas de distintos grosores"
 
 # type
 type: "puas-para-guitarra"
@@ -280,7 +280,7 @@ Te presento algunas opciones recomendables tanto para un caso como el otro. Todo
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-ltd/">
+        <a href="/ltd/">
           <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
         </a>
       </div>
