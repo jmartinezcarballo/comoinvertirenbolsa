@@ -14,11 +14,12 @@ type: "sitemap"
 
 * [Guitarras eléctricas baratas](/guitarras-electricas-baratas/)
 * [Guitarras eléctricas para niños](/guitarras-para-ninos/)
+* [Guitarras musicales](/guitarras-musicales/)
 
 ### Marcas
 
 * [Guitarras eléctricas Yamaha](/guitarras-yamaha/)
-* [Guitarras eléctricas ltd esp](/guitarras-ltd/)
+* [Guitarras eléctricas ltd esp](/ltd/)
 * [Guitarras eléctricas Squier](/guitarras-squier/)
 * [Guitarras eléctricas Cort](/guitarras-cort/)
 

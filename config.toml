@@ -48,10 +48,17 @@ disqusShortname = ""
     parent = "Guitarras"
     URL = "guitarras-para-ninos/"
     weight = 2
+    # main menu
     [[menu.main]]
     name = "Guitarras pequeñas de cuatro cuerdas y ukeleles"
     parent = "Guitarras"
     URL = "guitarra-pequena-cuatro-cuerdas/"
+    weight = 3
+    # main menu
+    [[menu.main]]
+    name = "Guitarras musicales"
+    parent = "Guitarras"
+    URL = "guitarras-musicales/"
     weight = 3
 
   # main menu
@@ -100,24 +107,24 @@ disqusShortname = ""
     name = "Inlays para guitarra"
     parent = "Accesorios"
     URL = "inlays-guitarra/"
-    weight = 1
+    weight = 2
     # main menu
     [[menu.main]]
-        name = "Pastillas para guitarra"
-        parent = "Accesorios"
-        URL = "pastillas-para-guitarra/"
-        weight = 2
+    name = "Pastillas para guitarra"
+    parent = "Accesorios"
+    URL = "pastillas-para-guitarra/"
+    weight = 3
     [[menu.main]]
     name = "Puas de guitarra"
     parent = "Accesorios"
     URL = "puas-guitarra/"
-    weight = 3
+    weight = 4
     # main menu
     [[menu.main]]
     name = "Transmisores inalámbricos"
     parent = "Accesorios"
     URL = "transmisores-inalambricos-guitarra/"
-    weight = 3
+    weight = 5
 
   # main menu
     [[menu.main]]
