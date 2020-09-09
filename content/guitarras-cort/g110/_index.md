@@ -15,7 +15,7 @@ La **Cort g110** es la stratocaster de Cort más asequible en cuanto a precio. E
 introducir en el mundo de las guitarras y quieran una buena marca para empezar.
 
 Su diseño strato con doble cutaway te asegura comodidad a la hora de tocar y menor peso del cuerpo respecto a otras Cort de rango similar como puede ser
-la [Cort CR 100](/cort/cr100).
+la [Cort CR 100](/guitarras-cort/cr100).
 
 Dispone de 2 pastillas simples y 1 humbucker, por lo que dispondrás de suficiente variedad de tonos para jugar y practicar todo tipo de estilos con ella,
 algo ideal para alguien que empieza.

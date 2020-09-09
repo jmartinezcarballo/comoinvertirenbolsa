@@ -202,25 +202,25 @@ de las más vendidas en su segmento.
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="guitarras-para-ninos/">
+        <a href="https://www.amazon.es/Dunlop-Delrin-p%C3%BAas-guitarra-arritmog%C3%A9nico/dp/B00CN7ZYUE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+delrin+Dunlop&qid=1599656836&s=musical-instruments&sr=1-1&linkCode=ll1&tag=guitar0de-21&linkId=81ad86d24be924f545679e025a3aa19d&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/puas-delrin.jpg" alt="puas de delrin dunlop con estuche">
           <figcaption>Puas de delrin Dunlop</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="guitarras-para-ninos/">
+        <a href="https://www.amazon.es/Dunlop-474R20-Stubby-jazz-2-0mm/dp/B000EELAGA/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+lexan+Dunlop&qid=1599656906&s=musical-instruments&sr=1-2&linkCode=ll1&tag=guitar0de-21&linkId=5f6f587c1466d6d5007ad4739c2c8b13&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/puas-dunlop-stubby-2mm.jpg" alt="puas de lexan Dunlop Stubby">
           <figcaption>puas de lexan Dunlop Stubby</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="guitarras-para-ninos/">
+        <a href="https://www.amazon.es/Jim-Dunlop-pvp102-Variedad-reproductor-guitarra/dp/B0055VBYWC/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+tortex+Dunlop&qid=1599656940&s=musical-instruments&sr=1-2&linkCode=ll1&tag=guitar0de-21&linkId=0e1453f3b976bd87c3eb4c3df2ea51f8&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/dunlop-tortex.jpg" alt="puas de tortex Dunlop">
           <figcaption>puas de tortex Dunlop</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="guitarras-para-ninos/">
+        <a href="https://www.amazon.es/Dunlop-PVP106-GENUINE-CELLULOID-Variety/dp/B01MQDULSR/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+celuloide+Dunlop&qid=1599656989&s=musical-instruments&sr=1-27&linkCode=ll1&tag=guitar0de-21&linkId=3aa89a824227934b307c33f67d26ba1c&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/dunlop-celuloide.jpg" alt="puas de celuloide Dunlop">
           <figcaption>puas de celuloide Dunlop</figcaption>
         </a>
@@ -280,7 +280,7 @@ Te presento algunas opciones recomendables tanto para un caso como el otro. Todo
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/ltd/">
+        <a href="/guitarras-ltd/">
           <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
         </a>
       </div>

@@ -100,7 +100,7 @@ en las giras para medios tiempos en baja afinación, por ejemplo en Sad But True
 
 ### ESP MM-270 "Zorlac" (1986)
 
-Kirk es conocido por utilizar mayoritariamente [guitarras ESP](/ltd), pero no fue hasta 1986 cuando adquirió su primera ESP, la MM-270 bautizada como **Zorlac**.
+Kirk es conocido por utilizar mayoritariamente [guitarras ESP](/guitarras-ltd), pero no fue hasta 1986 cuando adquirió su primera ESP, la MM-270 bautizada como **Zorlac**.
 
 <div><img src="../../images/kirk-hammett/kirk-hammett-esp-mm270-zorlac.jpg" alt="kirk hammett esp mm270 zorlac" width="350" height="422"></div>
 
