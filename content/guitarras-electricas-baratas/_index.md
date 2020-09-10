@@ -6,7 +6,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra las mejores guitarras eléctricas baratas del 2020. Comparativa entre modelos de gran calidad precio para tu guitarra ideal.
+description: "Encuentra las mejores guitarras eléctricas baratas para principiantes del 2020. Comparativa entre modelos de gran calidad precio, ¡Encuentra el tuyo!
 
 # type
 type: "guitarras-electricas-baratas"
@@ -109,7 +109,7 @@ Cuando hablamos de segundas marcas inevitablemente tenemos que tener en cuenta q
 de la marca matriz, y mucho menos cuando hablamos, como es este caso, del modelo de la gama más baja de las LTD, la serie 10,
 así como tampoco el país de fabricación de la guitarra.
 
-Dicho esto, hablar de <a href="/guitarras-ltd">ltd</a> es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. 
+Dicho esto, hablar de <a href="/ltd">ltd</a> es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. 
 
 Si lo que quieres son sonidos limpios, tocar pop, etc. seguramente hayan mejores opciones, sin embargo, si lo que te gusta 
 es el **rock y el metal**, son guitarras muy a tener en cuenta. 
