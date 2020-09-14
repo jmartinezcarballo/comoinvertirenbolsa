@@ -4,9 +4,9 @@ seoTitle: "Las 5 mejores guitarras eléctricas baratas de 2020"
 pageLabel: "guitarras-electricas-baratas"
 date: 2020-05-24T10:07:47+06:00
 draft: false
-
+ 
 # meta description
-description: "Encuentra las mejores guitarras eléctricas baratas para principiantes del 2020. Comparativa entre modelos de gran calidad precio, ¡Encuentra el tuyo!
+description: "Encuentra las mejores guitarras eléctricas baratas para principiantes del 2020. Comparativa entre modelos de gran calidad precio, ¡Encuentra el tuyo!"
 
 # type
 type: "guitarras-electricas-baratas"
