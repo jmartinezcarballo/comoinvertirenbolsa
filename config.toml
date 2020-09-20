@@ -76,7 +76,7 @@ disqusShortname = ""
     [[menu.main]]
     name = "Guitarras LTD ESP"
     parent = "Marcas"
-    URL = "guitarras-ltd/"
+    URL = "ltd/"
     weight = 2
     # main menu
     [[menu.main]]
@@ -110,21 +110,27 @@ disqusShortname = ""
     weight = 2
     # main menu
     [[menu.main]]
+    name = "Micrófonos de condensador"
+    parent = "Accesorios"
+    URL = "microfonos-de-condensador"
+    weight = 3
+    # main menu
+    [[menu.main]]
     name = "Pastillas para guitarra"
     parent = "Accesorios"
     URL = "pastillas-para-guitarra/"
-    weight = 3
+    weight = 4
     [[menu.main]]
     name = "Puas de guitarra"
     parent = "Accesorios"
     URL = "puas-guitarra/"
-    weight = 4
+    weight = 5
     # main menu
     [[menu.main]]
     name = "Transmisores inalámbricos"
     parent = "Accesorios"
     URL = "transmisores-inalambricos-guitarra/"
-    weight = 5
+    weight = 6
 
   # main menu
     [[menu.main]]
