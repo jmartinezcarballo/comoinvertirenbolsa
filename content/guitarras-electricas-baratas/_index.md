@@ -6,7 +6,7 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
  
 # meta description
-description: "Encuentra las mejores guitarras eléctricas baratas para principiantes del 2020. Comparativa entre modelos de gran calidad precio, ¡Encuentra el tuyo!"
+description: "Encuentra las mejores guitarras eléctricas baratas para principiantes del 2020. Comparativa entre buenas guitarras de gran calidad precio, ¡Encuentra el tuyo!"
 
 # type
 type: "guitarras-electricas-baratas"
@@ -17,8 +17,8 @@ pero aquí ya te surgen muchas preguntas y dudas que te gustaría resolver antes
 
 En esta web te voy a presentar una serie de recomendaciones de **guitarras baratas por menos de 300€**.
 
-Voy a intentar darte alternativas de algunas guitarras que, dentro de su gama, están bien consideradas 
-y pueden ser opciones a tener en cuenta para ayudarte a decidir en caso de que busques una guitarra de gama media baja 
+Voy a intentar darte alternativas de algunas **guitarras eléctricas baratas y buenas**
+que pueden ser opciones a tener en cuenta para ayudarte a decidir en caso de que busques una guitarra de gama media baja 
 pero sin por ello renunciar a tener un primer instrumento con una calidad más que aceptable para su segmento.
 
 Una cosa a tener en cuenta antes de nada. La guitarra es importante, pero tanto o más lo es el amplificador 
@@ -92,9 +92,9 @@ Normalmente la puedes encontrar en tienda por debajo de los 200€.
 * 4,2kg de peso
 * 2 pastillas single coil y 1 humbucker en el puente con selector de 5 posiciones
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Yamaha Pacífica PA012	   	   | negro | 4,4 sobre 5 | <a href="https://amzn.to/3bLizRn" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>	
+<div>
+	<a href="https://amzn.to/3bLizRn" class="btn" target="_blank">Ver más</a>
+</div>
 
 &nbsp;
 
@@ -129,9 +129,9 @@ el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 * Peso: 4,3kg
 * 2 pastillas humbucker ESP Designed LH-100
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| LTD EC-10	   	   | negro | 4,5 de 5 | <a href="https://amzn.to/3bP0q5p" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>		
+<div>
+	<a href="https://amzn.to/3bP0q5p" class="btn" target="_blank">Ver más</a>
+</div>		
 
 &nbsp;
 
@@ -160,9 +160,9 @@ Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar 
 * Peso: 4,3kg
 * 3 pastillas single coil
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Squier Affinity Stratocaster | sunburst| 4,2 sobre 5 | <a href="https://amzn.to/2zixUf9" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>	
+<div>
+	<a href="https://amzn.to/2zixUf9" class="btn" target="_blank">Ver más</a>
+</div>
 
 &nbsp;
 
@@ -193,15 +193,15 @@ Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te 
 * Peso: 3,2kg
 * 2 pastillas humbucker en cuello y puente y 1 pastilla single coil en la posición intermedia
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Ibanez GRG170DX | negro | 4,2 sobre 5 | <a href="https://amzn.to/3bLQ0mL" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>		
+<div>
+	<a href="https://amzn.to/3bLQ0mL" class="btn" target="_blank">Ver más</a>
+</div>		
 
 &nbsp;
 
 ### 5. Cort CR 100
 
-> Las Cort no tienen nada que envidiar a marcas más conocidas. Su calidad/precio te sorprenderá!
+> Las Cort no tienen nada que envidiar a marcas más conocidas. Su calidad precio te sorprenderá!
 
 Hablar de <a href="/guitarras-cort">Cort</a> es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
 
@@ -225,9 +225,9 @@ Aun así, personalmente creo que es una de las mejores guitarras que vas a encon
 * Peso: 3kg
 * 2 pastillas humbucker Powersound PSLP-1F y PSLP-1R
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Cort CR 100	   	   | negro | 3,9 sobre 5 | <a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>
+<div>
+	<a href="https://amzn.to/2yjOWcd" class="btn" target="_blank">Ver más</a>
+</div>
 
 &nbsp;
 
