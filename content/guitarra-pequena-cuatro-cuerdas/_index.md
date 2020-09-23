@@ -11,6 +11,12 @@ description: "Encuentra la guitarra pequeña de cuatro cuerdas y ukelele ideal p
 type: "guitarras-ukelele"
 ---
 
+Cuando pensamos en una guitarra normalmente pensamos en un instrumento formado por seis cuerdas, pero lo cierto es que existen guitarras con un número diferente
+de cuerdas, y no sólo con más, sino que también con menos. 
+
+En esta entrada encontrarás como es una **guitarra pequeñas de cuatro cuerdas** y sus similitudes y diferencias
+con los **ukeleles**, además te enseñaré algunos modelos interesantes por si estás buscando comprar uno de ellos.
+
 ## Diferencias entre una guitarra y un ukelele
 
 Evidentemente estamos hablando de dos instrumentos de cuerda diferentes entre sí y que no sonarán igual, pero, **¿qué diferencias hay entre una guitarra y un ukelele?** voy a pasar a enumerarte algunas de ellas.
