@@ -68,28 +68,34 @@ disqusShortname = ""
   weight = 2
     # main menu
     [[menu.main]]
-    name = "Guitarras Yamaha"
+    name = "Guitarras Cort"
     parent = "Marcas"
-    URL = "guitarras-yamaha/"
+    URL = "guitarras-cort/"
     weight = 1
+    # main menu
+    [[menu.main]]
+    name = "Guitarras Epiphone"
+    parent = "Marcas"
+    URL = "guitarras-epiphone/"
+    weight = 2
     # main menu
     [[menu.main]]
     name = "Guitarras LTD ESP"
     parent = "Marcas"
     URL = "ltd/"
-    weight = 2
+    weight = 3
     # main menu
     [[menu.main]]
     name = "Guitarras Squier"
     parent = "Marcas"
     URL = "guitarras-squier/"
-    weight = 3
+    weight = 4
     # main menu
     [[menu.main]]
-    name = "Guitarras Cort"
+    name = "Guitarras Yamaha"
     parent = "Marcas"
-    URL = "guitarras-cort/"
-    weight = 4
+    URL = "guitarras-yamaha/"
+    weight = 5
 
   # main menu
   [[menu.main]]
