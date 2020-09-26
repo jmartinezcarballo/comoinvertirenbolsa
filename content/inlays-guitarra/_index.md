@@ -22,6 +22,9 @@ Entre los cambios estéticos más habituales se encuentran los inlays de la guit
 
 &nbsp;
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08915SYC9&linkId=eb169c9a1b1d634bba6157ce6025abc5"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07L64QWDT&linkId=3b42cf66eeb87cf3490c96945a0db054"></iframe>
+
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
     <span class="toc_toggle">[<a id="toggle-link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
@@ -190,22 +193,24 @@ Te dejo un video ejemplo de como cambiar en casa tus propios inlays de guitarra.
 
 &nbsp;
 
-**¿Pensando en cambiar de guitarra eléctrica? quizá estas marcas te puedan interesar:**
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07HGG2Y99&linkId=c216010f738a6f2dc07f1db33a774a0d"></iframe>
+
+**¿Te ha gustado la sección? visita otras secciones de accesorios musicales:**
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-yamaha/">
-          <figcaption>Guitarras Eléctricas Yamaha</figcaption>
+        <a href="/inlays-guitarra/">
+          <figcaption>Inlays para guitarra</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-ltd/">
-          <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
+        <a href="/puas-guitarra/">
+          <figcaption>Puas para guitarra</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="/guitarras-cort/">
-          <figcaption>Guitarras Eléctricas Cort</figcaption>
+          <figcaption>Pastillas para guitarra</figcaption>
         </a>
       </div>
 </div>
