@@ -180,6 +180,6 @@ home = "Inicio"
 description = "¿Quieres aprender a tocar la guitarra en 2020 ? Encuentra consejos, comparativas y ayuda para comprar una guitarra"
 author = "Comprar una Guitarra"
 # Google Analitycs
-googleAnalitycsID = "UA-167226734-1"
+#googleAnalitycsID = "UA-167226734-1"
 # copyright
 copyright = "| copyright &copy; 2020 [Comprar una Guitarra](/) All Rights Reserved |"
