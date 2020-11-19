@@ -407,6 +407,7 @@ Si te ha parecido interesante el artículo te recomiendo visitar la página dedi
 un completísimo repaso a las carreras de los músicos desde el punto de vista de sus guitarras:
 
 <div>
+  <a href="/kirk-hammett" class="btn">Ir a las guitarras de Kirk Hammett</a>
   <a href="/slash" class="btn">Ir a las guitarras de Slash</a>
-	<a href="/kirk-hammett" class="btn">Ir a las guitarras de Kirk Hammett</a>
+  <a href="/daron-malakian" class="btn">Ir a las guitarras de Daron Malakian</a>
 </div>

@@ -193,4 +193,5 @@ un completísimo repaso a las carreras de los músicos desde el punto de vista d
 <div>
   <a href="/james-hetfield" class="btn">Ir a las guitarras de James Hetfield</a>
 	<a href="/slash" class="btn">Ir a las guitarras de Slash</a>
+	<a href="/daron-malakian" class="btn">Ir a las guitarras de Daron Malakian</a>
 </div>

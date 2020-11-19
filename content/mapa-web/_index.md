@@ -35,6 +35,7 @@ type: "sitemap"
 
 ### Guitarristas
 
+* [Daron Malakian](/daron-malakian/)
 * [James Hetfield](/james-hetfield/)
 * [Kirk Hammett](/kirk-hammett/)
 * [Slash](/slash/)

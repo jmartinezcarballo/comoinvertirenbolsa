@@ -251,4 +251,5 @@ artistas a esta sección:
 <div>
   <a href="/james-hetfield" class="btn">Ir a las guitarras de James Hetfield</a>
 	<a href="/kirk-hammett" class="btn">Ir a las guitarras de Kirk Hammett</a>
+	<a href="/daron-malakian" class="btn">Ir a las guitarras de Daron Malakian</a>
 </div>
