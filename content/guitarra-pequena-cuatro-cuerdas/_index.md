@@ -47,9 +47,9 @@ A continuación te expongo las características principales del **Hricane Ukelel
 * Cuatro tamaños diferentes a elegir
 * Incluye bolsa de transporte
 
-| Modelo        | Escala    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Hricane Ukelele | soprano | 4,5 sobre 5 | <a href="https://amzn.to/2Yqp8Em" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/2Yqp8Em" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+</div>
 
 &nbsp;
 
@@ -69,9 +69,9 @@ Es un **juguete educativo** perfecto para que los más pequeños de la casa se d
 * Dimensiones: 38 x 9,8 x 4,2 cm
 * Diferentes colores
 
-| Modelo        | Escala    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Healifty cuatro cuerdas | 21 pulgadas | - | <a href="https://amzn.to/2MV9M5i" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/2MV9M5i" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+</div>
 
 &nbsp;
 
@@ -93,9 +93,9 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 * Funciona con 2 pilas 3V CR2032
 * Dimensiones: 62 * 21 * 7,5 cm
 
-| Modelo        | Escala    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Ammoon Ukelele | 24 pulgadas | 4,3 sobre 5 | <a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+</div>
 
 &nbsp;
 
@@ -114,9 +114,9 @@ Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la elec
 * Disponible en dos colores
 * Dimensiones: 55,4 x 21,8 x 11,2 cm
 
-| Modelo        | Escala    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Ammoon Ukelele | 21 pulgadas | 4,4 sobre 5 | <a href="https://amzn.to/2Az0Foj" rel="nofollow" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/2Az0Foj" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+</div>
 
 &nbsp;
 
@@ -135,9 +135,9 @@ Es más fácil de agarrar que un ukelele y se pueden afinar las cuerdas con prec
 * Varios colores disponibles
 * Dimensiones: 38 x 9.8 x 4.5cm
 
-| Modelo        | Escala    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Nuobesty mini ukelele | 21 pulgadas | - | <a href="https://amzn.to/2B5HuTf" rel="nofollow" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/2B5HuTf" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+</div>
 
 &nbsp;
 
@@ -155,6 +155,6 @@ De nuevo volvemos con otro ukelele, en este caso otro de tipo soprano de 21 pulg
 * 4 cuerdas de nylon Aquila
 * Dimensiones: 57 x 22,5 x 10cm
 
-| Modelo        | Escala    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Andoer Ukelele soprano | 21 pulgadas | 4,3 sobre 5 | <a href="https://amzn.to/30Gq4aC" rel="nofollow" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/30Gq4aC" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+</div>
