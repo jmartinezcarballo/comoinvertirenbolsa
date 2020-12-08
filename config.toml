@@ -50,16 +50,22 @@ disqusShortname = ""
     weight = 2
     # main menu
     [[menu.main]]
+    name = "Guitarras en miniatura"
+    parent = "Guitarras"
+    URL = "guitarras-en-miniatura/"
+    weight = 3
+    # main menu
+    [[menu.main]]
     name = "Guitarras pequeñas de cuatro cuerdas y ukeleles"
     parent = "Guitarras"
     URL = "guitarra-pequena-cuatro-cuerdas/"
-    weight = 3
+    weight = 4
     # main menu
     [[menu.main]]
     name = "Guitarras musicales"
     parent = "Guitarras"
     URL = "guitarras-musicales/"
-    weight = 3
+    weight = 5
 
   # main menu
   [[menu.main]]

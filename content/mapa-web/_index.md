@@ -14,7 +14,9 @@ type: "sitemap"
 
 * [Guitarras eléctricas baratas](/guitarras-electricas-baratas/)
 * [Guitarras eléctricas para niños](/guitarras-para-ninos/)
+* [Guitarras en miniatura](/guitarras-en-miniatura/)
 * [Guitarras musicales](/guitarras-musicales/)
+* [Guitarras pequeñas de cuatro cuerdas y ukeleles](/guitarra-pequena-cuatro-cuerdas/)
 
 ### Marcas
 

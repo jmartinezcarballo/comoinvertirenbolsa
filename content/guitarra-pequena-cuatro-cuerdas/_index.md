@@ -70,7 +70,7 @@ Es un **juguete educativo** perfecto para que los más pequeños de la casa se d
 * Diferentes colores
 
 <div>
-	<a href="https://amzn.to/2MV9M5i" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2MV9M5i" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver producto</a>
 </div>
 
 &nbsp;
@@ -94,7 +94,7 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 * Dimensiones: 62 * 21 * 7,5 cm
 
 <div>
-	<a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver producto</a>
 </div>
 
 &nbsp;
@@ -115,7 +115,7 @@ Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la elec
 * Dimensiones: 55,4 x 21,8 x 11,2 cm
 
 <div>
-	<a href="https://amzn.to/2Az0Foj" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2Az0Foj" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver producto</a>
 </div>
 
 &nbsp;
@@ -136,7 +136,7 @@ Es más fácil de agarrar que un ukelele y se pueden afinar las cuerdas con prec
 * Dimensiones: 38 x 9.8 x 4.5cm
 
 <div>
-	<a href="https://amzn.to/2B5HuTf" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2B5HuTf" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver producto</a>
 </div>
 
 &nbsp;
@@ -156,5 +156,5 @@ De nuevo volvemos con otro ukelele, en este caso otro de tipo soprano de 21 pulg
 * Dimensiones: 57 x 22,5 x 10cm
 
 <div>
-	<a href="https://amzn.to/30Gq4aC" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/30Gq4aC" rel="nofollow noopener noreferrer" class="btn" target="_blank">Ver producto</a>
 </div>
