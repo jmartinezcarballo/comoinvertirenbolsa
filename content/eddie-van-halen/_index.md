@@ -1,249 +1,219 @@
 ---
-title: "Slash, sus guitarras hasta 2020"
-seoTitle: "Todas las guitarras de Slash [2020]"
+title: "Eddie Van Halen, sus guitarras hasta 2020"
+seoTitle: "Todas las guitarras de Eddie Van Halen [2020]"
 date: 2020-08-22T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Las mejores guitarras de Slash hasta 2020 &#9989; conoce todo sobre las guitarras del solista de Guns n Roses y Velvet Revolver"
+description: "Las mejores guitarras de Eddie Van Halen hasta 2020 &#9989; conoce todo sobre las guitarras del líder y fundador de Van Halen"
 
 # type
-type: "slash"
+type: "eddie-van-halen"
 ---
 
-Pocos guitarristas hay en el mundo del rock más carismáticos que Slash. De nombre real **Saul Hudson** y nacido en las cercanías de Londres en 1965, 
-tanto su sonido como su imagen con **sombrero de copa** y gafas de sol se han convertido hace ya
-muchos años en todo un símbolo dentro del panorama del hard rock.
+Eddie Van Halen está considerado, por méritos propios, uno de los mejores y más influyentes guitarristas de la historia del **Rock**.
 
-<div><img src="../../images/slash/slash-title.jpg" alt="Slash Gibson Les Paul" width="350" height="233"></div>
+Recientemente fallecido en octubre de 2020, la triste noticia no hizo más que reflejar el enorme legado que ha quedado para la posteridad en forma
+de riffs, solos, composiciones y colaboraciones de todo tipo, tanto en su banda **Van Halen**, como junto a muchos otros artistas de renombre. 
 
-A continuación repasaremos todo sobre las guitarras y el particular sonido de Slash a lo largo de su carrera. Así que si quieres saber la **marca de guitarras de Slash** y todo
+El **tapping**, técnica cuyo nombre acuñó y popularizó, es ya una lección obligatoria
+para todo aprendiz de guitarra solista que se precie y un reflejo de su influencia en guitarristas de todo el mundo.
+
+ 
+
+<div><img src="../../images/eddie-van-halen/eddie-van-halen.jpg" alt="Slash Gibson Les Paul" width="300" height="200"></div>
+
+A continuación repasaremos todo sobre las guitarras y el sonido de Eddie Van Halen a lo largo de su carrera. Así que si quieres saber **qué guitarras usaba Eddie Van Halen** y todo
 sobre ellas, toma asiento y resérvate unos pocos minutos para continuar leyendo. ¿Preparado?
 
-**¿Te gustaría tener una réplica de guitarra de Slash con pua dedicada de regalo? mira lo que tengo para ti!**
+**¿Te gustaría tocar como Van Halen? compra su método de guitarra con sus mejores licks. Imprescindible!**
 
-<div>
-	<a href="https://www.amazon.es/SLASH-Guitarra-miniatura-guitarra-Gibson/dp/B07QX25CZS/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=gibson+les+paul&qid=1598078438&sr=8-36&linkCode=ll1&tag=guitar0de-21&linkId=a2dfe030eff5ac05bb868e7a7311965d&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
-</div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1476874379&linkId=ba5b0f1c0f9f92e2abcf003446c29afe"></iframe>
 
-## Biografía de Slash a través de sus guitarras
+## Biografía de Eddie Van Halen a través de sus guitarras
 
 He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones **signature**, de manera que cronológicamente pasemos por todas sus etapas sin excepción.
 
-Si quieres leer la **biografía completa de Slash** te recomiendo adquirir su biografía oficial.
+Si quieres leer la **biografía completa de Van Halen** te recomiendo adquirir alguna biografía de la banda, como por ejemplo ésta.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8493686433&linkId=763b5e10d086e9ffb7af771971d6aced"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1770412638&linkId=9fef9e1c09bf38f4987bd1fce39349d9"></iframe>
+
+&nbsp;
  
-### MEMPHIS LES PAUL (1980)
+### FRANKENSTRAT ORIGINAL (1974)
 
-Primera guitarra eléctrica que tuvo Slash entre sus manos. Fue su segunda guitarra tras una guitarra acústica que se había comprado tiempo atrás. Con ella empezó a aprender
-a tocar y a dar sus primeros pasos.
+Primera guitarra eléctrica conocida de Eddie Van Halen y la más mítica de todas. No verás un listado de las guitarras más famosas del mundo en el que no aparezca la **Frankenstrat**.
 
-<div><img src="../../images/slash/memphis-les-paul.jpg" alt="Memphis les paul" width="200" height="200"></div>
+Con los años se hicieron muchas réplicas y variaciones de ella pero la original data aproximadamente de 1974. Eddie pretendía comprar una guitarra que mezclara una **Fender Stratocaster** y una **Gibson** en una sola guitarra pero
+como no existía decidió fabricársela él mismo con su bajo presupuesto
 
-Con una construcción de arce y caoba, Slash de dio cuenta rápidamente que la guitarra no era tan buena como parecía y que necesitaría algo mejor para tocar en directo.
+<div><img src="../../images/eddie-van-halen/frankenstrat.jpg" alt="Eddie Van Halen Frankenstrat" width="300" height="169"></div>
 
-<a href="https://youtu.be/5Mqi59XCGGc" class="lazy-youtube-embed">Slash first guitar</a>
+Edward le compró el cuerpo de fresno y el mástil de arce al no tan conocido por aquel entonces **Wayne Charvel** por poco más de 100 dolares al ser piezas defectuosas. 
+Como pastillas instaló una single coil y una **Gibson PAF** sacada de una **Gibson ES-335** y las intentó conectar sin tener muchos conocimientos del tema. 
+Con la de bobina simple no lo consiguió por lo que simplemente quedó como adorno de la guitarra quedándo la PAF como única pastilla funcional de la guitarra. 
+Como puente utilizó un **Floyd Rose**, colocando una **moneda de 25 centavos** en el lugar de la palanca de vibrato.
 
-&nbsp;
+Ésta primera versión de la Frankenstrat fue pintada de **blanco y negro** y fue utilizada ya en el álbum de debut de la banda, el homónimo Van Halen (se puede ver a Eddie con ella en la 
+portada del disco).
 
-¿Quieres que tu primera guitarra eléctrica sea como la de Slash?
+¿Obra de arte? ¿construcción cutre? lo cierto es que demostró que con muy poco presupuesto ni calidad de construcción se podía llegar a sonar bien, pero que muy bien. 
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00IQCRJ8K&linkId=41df9bfa1a2461211eb9a14e5d296b87"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=chollos_guau-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01JRHCDII&linkId=00318bab3ba9e67893008a5cc2a14c24"></iframe>
 
-### B.C. RICH MOCKINGBIRD (1982)
+#### FRANKENSTRAT BUMBLEBEE ( hasta 1979)
 
-Segunda guitarra eléctrica de Slash que tampoco le duraría mucho tiempo. Fue utilizada en 1982 en la banda en la que estaba por aquel entonces, **Tidus Sloan**.
+Para el segundo disco de la banda, **Van Halen II de 1979**, Eddie quiso rediseñar parte de su guitarra y a nivel estético modificó todo el cuerpo para colorearla de **negro y amarillo**,
+motivo por el que se acuñaría con el nombre de **BumbleBee** (abejorro).
 
-<div><img src="../../images/slash/slash-tidus-sloan.jpg" alt="slash tidus sloan" width="342" height="200"></div>
+<div><img src="../../images/eddie-van-halen/bumblebee.jpg" alt="Eddie Van Halen BumbleBee" width="200" height="231"></div>
 
-Querías ver a Slash de joven y sin gafas? sí, el de la foto es Slash tocando con la banda Tidus Sloan, parece que aun no había descubierto el sombrero de copa.
-
-Sobre la guitarra cabe destacar que llevaba unas Humbucker Di Marzio, bastante mejores que las anteriores pastillas.
-
-<a href="https://www.youtu.be/J6FmtYz2kWk" class="lazy-youtube-embed">Slash Tidus Sloan improvisation</a>
-
-&nbsp;
-
-### SLASH B.C. RICH WARLOCK (1985)
-
-Segunda B.C. Rich de Slash y primera ya formando parte de Guns n Roses.
-
-<div><img src="../../images/slash/slash-bc-rich-warlock.jpg" alt="slash B.C. Rich warlock" width="350" height="197"></div>
-
-Esta guitarra fue la que acompañó a Slash durante los primeros bolos de **Guns n Roses** hasta que el grupo entró al estudio a grabar el que sería su álbum de debut y quiso 
-cambiar de sonido para la grabación. Vendió la guitarra durante la grabación del Appetite for Destruction sin saberse exactamente si la guitarra fue utilizada en algún 
-momento de la grabación del disco. 
-
-#### Características de la B.C. RICH WARLOCK
-
-* Cuerpo de caoba, nuez o agathis (dependiendo del modelo)
-* Mástil encolado o atornillado (en los modelos más baratos)
-* 24 trastes jumbo
-* Escala 25.5"
-* Inlays del diapasón con diamantes
-* Puente Floyd Rose en los modelos de gama superior
-* Pastillas B.C. Rich BDSM pasivas
+Esa guitarra creada en 1979 sería regalada a los padres de **Dimebag Darrell** en 2004 tras el asesinato del guitarrista
+de **Pantera**, y fue enterrada junto al cuerpo del ya también legendario guitarrista de metal.
 
 &nbsp;
 
-¿Quieres una guitarra en miniatura de coleccionista? tienes la B.C.Rich disponible aquí:
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00FTDIGHC&linkId=98c756c637a08da1868fe850eff3ee5c"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08KHFTTFW&linkId=f891bee5a897b798100e0d4cc0a8a54a"></iframe>
 
 &nbsp;
 
-¿Te gustan los Funkos? no te pierdas el de Slash!
+#### FRANKENSTRAT SCHWINN
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01G5Y4W8U&linkId=0dcc9d9b2faadaef82faaa5827ec8e2e"></iframe>
+Finalmente en 1979 tras publicarse Van Halen II Edward decide volver a cambiar el diseño y darle la estética definitiva que sería la famosa que todos conocemos 
+con los colores **rojo, blanco y negro** a base de tiras de cinta. El motivo que le llevó a este cambio fue por las **bicicletas Schwinn**, modelos de mucho éxito en aquellos años 
+y en los que predominaba ese rojo.
 
-### 1959 Gibson Les Paul Standard Replica (1986)
+<div><img src="../../images/eddie-van-halen/frankenstrat-schwinn.jpg" alt="Eddie Van Halen Frankenstrat Schwinn" width="300" height="169"></div>
 
-Entrando ya de lleno en la grabación del **Appetite for Destruction**, publicado en 1987, Slash no estaba satisfecho con el sonido que estaba consiguiendo con las guitarras de las que disponía y
-buscaba algo más clásico. Su manager le consiguió una réplica de una Gibson Les Paul Custom de 1959 hecha por el luthier **Kris Derrig**, a la que le fueron puestas unas
-pastillas **Seymour Duncan Alnico II Pro**.
+Para los acabados de la guitarra no se le ocurrió otra cosa que hacer lo típico que solemos hacer todos con nuestras guitarras, añadirle unas luces de camión por detrás, unas cuantas
+quemaduras de cigarrillo y la moneda de 25 centavos, vamos lo típico que nosotros tenemos en mente para mantener a nuestra guitarra perfectamente cuidada.
 
-<div><img src="../../images/slash/slash-les-paul-custom-replica.jpg" alt="slash les paul custom replica by kris derrig" width="350" height="469"></div>
-
-Fue tal el acierto del manager que esta guitarra y la Gibson Les Paul Standard en general, se convertirían en el modelo preferido de Slash,
-siendo parte fundamental en la carrera musical de Slash desde aquel
-momento hasta hoy en día, no solo en Guns n Roses, sino en sus proyectos posteriores como **Velvet Revolver**.
-
-De hecho, esta misma réplica se convirtió en la guitarra principal para todas las grabaciones que realizó Slash desde aquel momento durante toda su carrera,
-dejando para las giras los modelos de serie de Gibson para mantener en buen estado la réplica de Kris Derrig.
-
-Ni que decir tiene que resulta un tanto paradójico y curioso que Gibson creara un modelo signature de Gibson les Paul para Slash el cual se basaba en una
-guitarra que era una réplica a su vez de otra Gibson. 
-
-El fabricante original copiando a la réplica de otra Gibson original!
-
-#### Características de la Gibson Les Paul Standard Replica de Kris Derrig
-
-* Cuerpo de arce de dos piezas por delante y de caoba de una pieza por detrás
-* Mástil de caoba
-* Diapasón de palorosa
-* 22 trastes
-* Dos controles de volumen y dos de tono
-* 2 pastillas Seymour Duncan Alnico II Pro
-
-Os dejo con un video donde Slash explica la historia con el Appetite for Destruction y Gibson, 
-si bien no hace mención alguna a la réplica, sin duda por temas legales con Gibson
-
-<a href="https://www.youtu.be/SnCdF11CYv8" class="lazy-youtube-embed">Slash - Gibson les Paul Appetite for Destruction</a>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07K2JD57C&linkId=9e4e167decb70975e27a1bb0ed366bf1"></iframe>
 
 &nbsp;
 
-### Gibson EDS-1275 Doubleneck
+Os dejo con la entrevista que **Guitar World** realizó a Eddie Van Halen en noviembre de **2006** acerca de su Frankenstrat:
 
-Al igual que las Gibson les Paul Standard, no menos emblemática ha sido la **Gibson negra de doble mástil** de Slash, la Gibson EDS-1275, en
-este caso no de tipo les paul sino con cuerpo SG.
-Fue comprada en 1990 en una pequeña tienda de instrumentos en Indiana e inmediatamente formó parte indispensable de las giras de Guns.
-
-<div><img src="../../images/slash/slash-gibson-eds-1275-doubleneck.jpg" alt="slash gibson EDS-1275 double neck" width="300" height="450"></div>
-
-Esta guitarra es utilizada frecuentemente en directo para tocar canciones como **Knocking on Heaven's door** y **Patience**.
-
-#### Características de la Gibson EDS-1275 Doubleneck
-
-* Cuerpo de ébano sólido de una pieza
-* Dos mástiles de ébano, el superior de 12 cuerdas y el inferior de 6
-* Diapasones de palorosa indio
-* 20 trastes medium jumbo
-* Inlays de celuloide. Paralelogramos
-* 2 pastillas Custombucker Alnico III
-
-<a href="https://www.youtu.be/wPDukkwaJnU" class="lazy-youtube-embed">Guns n Roses Knocking on Heavens Door (Tokio 1992)</a>
+<a href="https://www.youtu.be/9LnXW5cQKug" class="lazy-youtube-embed">EVH - Frankenstrat Guitar World interview</a>
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B011A9H1GU&linkId=2c43391bfd5880fd5e6b296f7146c536"></iframe>
+### KRAMER FRANKENSTRAT (1983)
+
+En 1981 Edward conoció a **Dennis Berardi**, ejecutivo de Kramer, con el que desde entonces mantuvo contacto hasta que en 1983 se fraguó la alianza que llevó a **EVH** a comercializar
+por primera vez sus guitarras bajo la marca **Kramer**.
+
+<div><img src="../../images/eddie-van-halen/kramer-frankenstrat.jpg" alt="Eddie Van Halen Kramer Frankenstrat" width="200" height="213"></div>
+
+Los diseños de Kramer se basaban en la Frankenstrat original pero con piezas Kramer de mayor calidad y una pastilla single coil esta vez totalmente funcional y no simplemente
+como adorno, aunque antes de esta serie el propio EVH construiría la **Kramer 5150**.
+
+#### Características de la Kramer 5150
+
+La primera Kramer fue la Kramer 5150 y fue construída por el propio Eddie en la fábrica de Kramer de New Jersey y aquí te listo algunas de sus características:
+
+* Cuerpo de álamo
+* Mástil de arce
+* Diapasón de arce
+* Puente Floyd Rose
+* Pastilla Seymour Duncan SH-11 Custom
+* Potenciómetros Gotoh
+* Estética con las cintas rojas, negras y blancas
 
 &nbsp;
 
-### Gibson Les Paul Tobacco Sunburst
+¿Te gustaría aprender el estilo de **Van Halen**, sus mejores **solos** y todo sobre su **técnica**? Te dejo un un link a su libro con las **mejores tabs**:
 
-Gibson Les Paul con una curiosa historia detrás de ella. La guitarra originalmente perteneció a **Joe Perry** de Aerosmith pero fue vendida por su 
-primera ex-mujer después de divorciarse.
+<a href="https://amzn.to/3pdVzBU" class="btn">Jam With Van Halen</a>
 
-Después de pasar por varias manos más llegó a manos de **Eric Johnson**, que la disfrutó durante varios años hasta que descubrió que pertenecía a 
-Joe Perry y le ofreció vendérsela al mismo precio de compra pero el de Aerosmith lo rechazó ya que no la podía pagar en aquel momento.
+### IBANEZ DESTROYER "THE SHARK"
 
-Al no poder vendérsela a Joe Perry, Eric Johnson contactó con varios guitarristas más a los cuales se la ofreció, siendo finalmente Slash el que se
-la quedó.
+Además de su Frankenstrat, EVH utilizó en sus primeros años con la banda una **Ibanez Destroyer** a la que después de unos años rediseñaría y apodaría como **The Shark**, ya que buscaba poder variar en determinados
+momentos el sonido de la strato y para ello escogió el modelo explorer de Ibanez.
 
-Slash se la quedó hasta el año 2000 y no por ganas de Joe Perry de recuperarla, así que finalmente en ese año Slash decidió darle a Joe Perry
-una sorpresa por su cumpleaños. Os podéis imaginar cuál fue la sorpresa...
+<div><img src="../../images/eddie-van-halen/ibanez-destroyer.jpg" alt="EVH Ibanez Destroyer" width="200" height="267"></div>
 
-<div><img src="../../images/slash/slash-gibson-les-paul-standard-tobacco-sunburst.jpg" alt="slash gibson les paul standard tobacco sunburst" width="300" height="450"></div>
+Aquella explorer fue fabricada con madera de Sen, un árbol de origen japonés de la familia de la Hiedra de color ceniza, con el mástil de arce y el diapasón de palorosa.
 
-Esta guitarra es conocida, entre otras cosas, por ser la que aparece en el **videoclip de November Rain** y también por haber sido utilizada en la grabación de **Use Your Illusion** I y II
+Originalmente la guitarra era blanca, si bien con los años, como ya he comentado fue rediseñada de forma y estética con la míticas cintas rojas, negras y blancas copiando la estética
+de la Frankenstrat.
 
-Las características de la guitarra son las comunes en las Gibson Les Paul Standard.
+<div><img src="../../images/eddie-van-halen/ibanez-destroyer-shark.jpg" alt="EVH Ibanez Destroyer The Shark" width="200" height="282"></div>
 
-Os dejo el videoclip oficial de November Rain con la letra traducida al español.
+#### Características de la Ibanez Destroyer DT 520
 
-<a href="https://www.youtu.be/k2fOJHo1RWg" class="lazy-youtube-embed">Guns n Roses - November rain</a>
-
-&nbsp;
-
-### B.C. RICH MOCKINGBIRD
-
-A pesar de ser grandes guitarras y de estar enamorado de ellas, las Gibson Les Paul tenían y tienen un gran handicap, la ausencia de trémolo, y eso para un guitarra solista
-puede ser algo muy importante, así que Slash necesitaba una guitarra con trémolo para ciertos solos y es aquí donde llega la guitarra roja conocida B.C. Rich Mockingbird, similar
-a la Warlock que habéis visto al principio.
-
-<div><img src="../../images/slash/slash-bc-rich-mockingbird.jpg" alt="slash b.c. rich mockingbird" width="300" height="442"></div>
-
-En la imagen lo podéis ver precisamente haciendo uso de la palanca de trémolo, una guitarra preciosa. 
-
-Como curiosidad de esta guitarra, que la diferencia de lo habitual, es que
-además de los habituales controles de volumen y tono para las pastillas, incorpora también 3 palancas coil tap para separar cada una de las Humbuckers y convertiras en single coil, 
-las podéis distinguir en la foto debajo de los controles de tono y volumen.
-
-Eso convierte a la guitarra en una de una versatilidad enorme.
-
-#### Características de la B.C. RICH MOCKINGBIRD
+Os dejo a continuación las características generales que podéis encontrar en una Ibanez Destroyer de la serie DT 520.
 
 * Cuerpo de caoba
-* Mástil de caoba
-* Diapasón de ébano
-* 24 trastes jumbo
-* Escala 25.5"
-* Puente Floyd Rose original con trémolo
-* 3 coil tap para convertir las Humbucker en single coil
-* Pastillas Humbucker
-
-<a href="https://www.youtu.be/LUtvWvf1vq0" class="lazy-youtube-embed">Slash solo with his B.C. Rich Mockingbird</a>
+* Mástil de caoba atornillado
+* Diaapasón de palorosa
+* Escala 24,7
+* 22 trastes medium
+* Puente tight-tune
+* Herrajes cromados
+* Pastillas DiMarzio pasivas
 
 &nbsp;
 
-### Gibson Les Paul "Snakepit" (1996)
+### Ernie Ball Music Man (1991)
 
-Gibson Les Paul signature hecha por la marca a petición de Slash. Incorpora la imagen de la banda **Slash's Snakepit**. Los inlays son de forma de serpiente y, como no, incorpora dos pastillas
-Seymour Duncan Alnico Pro.
+Tras varios problemas con Kramer Eddie Van Halen rompe con la marca y firma con **Ernie Ball** para construir la que sería la **Music Man EVH**.
 
-<div><img src="../../images/slash/slash-gibson-les-paul-snakepit.jpg" alt="slash gibson les paul snakepit" width="327" height="450"></div>
+<div><img src="../../images/eddie-van-halen/ernie-ball-music-man-evh.jpg" alt="EVH Ibanez Destroyer The Shark" width="200" height="277"></div>
 
-#### Características de la Gibson Les Paul "Snakepit"
+Podemos ver como EVH abandona el estilo super strato tradicional de la guitarra para adoptar un estilo con formas más curvas y menos agresivas que lo representaría durante años, 
+tanto con Music Man como posteriormente con Peavey.
 
-* Cuerpo de caoba con tapa de arce
-* Mástil de caoba
-* Diapasón de palorosa
+La relación de Eddie con Ernie Ball terminaría en 1995 al no poder la marca cubrir las necesidades de producción que exigía el músico. Este motivo le llevaría a cambiarse a **Peavey**
+y cambiar la Muic Man por la acabaría siendo la **EVH Wolfgang**.
+
+#### Características de la Ernie Ball Music Man EVH
+
+* Cuerpo de tilo de 2 piezas con recubrimiento superior de arce tallado
+* Mastil de arce atornillado
+* Diapasón de arce
+* Puente Music Man Floyd Rose
+* Escala 25,5
+* 2 pastillas Humbuckers DiMarzio
+* Selector de 3 posiciones con 1 control de volumen
+
+&nbsp;
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0865SHYST&linkId=a631654558f866255c2ac16a1bbec02b"></iframe>
+
+&nbsp;
+
+### Peavey EVH Wolfgang (desde 1996)
+
+En 1995 Peavey y EVH comenzaron a trabajar en la elaboración de un nuevo modelo de guitarra que, según palabras del propio Eddie, reuniese todos los años de conocimiento y 
+experimentación que había tenido en lo que a construcción de guitarras se refiere. De esta colaboración y trabajo surgió la **Peavey EVH Wolfgang**.
+
+<div><img src="../../images/eddie-van-halen/peavey-evh-wolfgang.jpg" alt="Peavey EVH Wolfgang" width="300" height="220"></div>
+
+El **nombre** de esta guitarra proviene del propio **hijo** de Edward, **Wolfgang Van Halen**, nacido en 1991 y su diseño se basó, como ya se ha comentado antes, en el modelo de Ernie Ball Music Man.
+
+#### Características de la Peavey EVH Wolfgang
+
+* Cuerpo de tilo de 2 piezas. Algunos modelos llevaban un cubrimiento superior de arce tallado
+* Mastil de arce atornillado
+* Diapasón de arce
 * 22 trastes jumbo
-* Escala 24.75"
-* 2 pastillas Seymour Duncan Alnico Pro
+* Escala 25,5
+* 2 pastillas Humbucker Peavey custom 
+* 2 controles para tono y volumen cromados con abacado plateado
 
-<a href="https://www.youtu.be/rSA6yyiqBdY" class="lazy-youtube-embed">Slash with his LEs Paul Snakepit</a>
+Os dejo con una **entrevista** donde EVH habla acerca de la serie Wolfgang de Peavey:
+
+<a href="https://www.youtu.be/yXS4Qjj8yK0" class="lazy-youtube-embed">EVH - Peavey Wolfgang interview</a> 
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07RFRBXYH&linkId=fde5097d9aeae1f1b72b08862fb193fc"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00WM0TT8U&linkId=6651d924f59ab669000756e37b18352d"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08JM81R9B&linkId=e7c431ce7f6d28246c88773e5c2d6962"></iframe>
 
-&nbsp;
+Y hasta aquí esta **biografía** que he querido hacer de **Eddie Van Halen a través de sus guitarras**.
 
-Y hasta aquí esta **biografía** que he querido hacer de **Slash a través de sus guitarras**.
-
-Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: guitarscollector y groundguitar.
+Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: Guitarscollector y Equipboard.
 
 Si te ha parecido interesante el artículo te recomiendo pasarte por las secciones dedicadas a otros grandes guitarristas. Espero con el tiempo poder ir añadiendo más
 artistas a esta sección:
@@ -251,5 +221,5 @@ artistas a esta sección:
 <div>
   <a href="/james-hetfield" class="btn">Ir a las guitarras de James Hetfield</a>
 	<a href="/kirk-hammett" class="btn">Ir a las guitarras de Kirk Hammett</a>
-	<a href="/daron-malakian" class="btn">Ir a las guitarras de Daron Malakian</a>
+	<a href="/slash" class="btn">Ir a las guitarras de Slash</a>
 </div>

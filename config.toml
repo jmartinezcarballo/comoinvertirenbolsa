@@ -157,22 +157,28 @@ disqusShortname = ""
     weight = 1
     # main menu
     [[menu.main]]
+    name = "Eddie Van Halen"
+    parent = "Guitarristas"
+    URL = "eddie-van-halen/"
+    weight = 2
+    # main menu
+    [[menu.main]]
     name = "James Hetfield"
     parent = "Guitarristas"
     URL = "james-hetfield/"
-    weight = 2
+    weight = 3
     # main menu
     [[menu.main]]
     name = "Kirk Hammett"
     parent = "Guitarristas"
     URL = "kirk-hammett/"
-    weight = 3
+    weight = 4
     # main menu
     [[menu.main]]
     name = "Slash"
     parent = "Guitarristas"
     URL = "slash/"
-    weight = 4
+    weight = 5
 
   # footer menu
   [[menu.footer]]

@@ -38,6 +38,7 @@ type: "sitemap"
 ### Guitarristas
 
 * [Daron Malakian](/daron-malakian/)
+* [Eddie Van Halen](/eddie-van-halen)
 * [James Hetfield](/james-hetfield/)
 * [Kirk Hammett](/kirk-hammett/)
 * [Slash](/slash/)
