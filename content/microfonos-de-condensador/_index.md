@@ -5,7 +5,7 @@ date: 2020-09-10T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Compara entre los mejores micrófonos de condensador para encontrar el que mejor se adapte a tus necesidades"
+description: "Todo sobre los micrófonos de condensador. Consejos y reviews de algunos de los mejores modelos calidad precio como los Tonor TC 20 y Tonor TC-777"
 
 # type
 type: "microfonos-de-condensador"
@@ -27,7 +27,9 @@ En esta sección te voy a explicar todo lo que necesitas saber para comprar un m
 
 Así pues empecemos!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000K67VG0&linkId=026346b6d04cbcc7b7a5763592be2a5b"></iframe>
+<div>
+  <a href="https://amzn.to/3hj4jnd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
+</div>
 
 
 &nbsp;
