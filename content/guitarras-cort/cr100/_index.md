@@ -1,11 +1,11 @@
 ---
-title: "Guitarra Cort cr100"
+title: "Guitarra Cort CR100"
 seoTitle: "Todo sobre la Cort cr100 | Comprar una Guitarra"
 date: 2020-08-13T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Consulta nuestra review de la Cort cr100, la hermana pequeña de la exitosa Cort cr250. Descripciones, especificaciones y opiniones de los modelos más exitosos de Cort"
+description: "Consulta nuestra review de la Cort CR100. Características, especificaciones y precio de una de las guitarras baratas más exitosas de Cort"
 
 # type
 type: "cort-cr100"
@@ -13,7 +13,7 @@ type: "cort-cr100"
 
 Si la [Cort CR250](/guitarras-cort/cr250) se te escapa de presupuesto esta es su hermana pequeña. 
 
-De relación calidad precio bastante aceptable, no tiene las mismas prestaciones que la CR 250 pero es una muy buena elección si dispones de **menos de 300€**.
+De relación calidad precio bastante aceptable, no tiene las mismas prestaciones que la CR250 pero es una muy buena elección si dispones de **menos de 300€**.
  
 Es una les paul más enfocada a personas que quieren empezar a tocar la guitarra pero no quieren que su primera guitarra sea la típica de pack de principiante, sino algo mejor.
 
@@ -21,7 +21,7 @@ Es una les paul más enfocada a personas que quieren empezar a tocar la guitarra
 	<a href="https://amzn.to/2yjOWcd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
-Consulta a continuación las características principales de la **Cort CR 100**.
+Consulta a continuación las características principales de la **Cort CR100**.
 
 <div>
   <a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank">
@@ -29,7 +29,7 @@ Consulta a continuación las características principales de la **Cort CR 100**.
   </a>
 </div>
 
-### Características
+### Características de la Cort CR100
 
 * Cuerpo de caoba
 * Mástil atornillado de arce canadiense
