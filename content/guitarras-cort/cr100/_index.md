@@ -23,7 +23,11 @@ Es una les paul más enfocada a personas que quieren empezar a tocar la guitarra
 
 Consulta a continuación las características principales de la **Cort CR 100**.
 
-![cort cr100](../../images/cort/cort-cr100.jpg)
+<div>
+  <a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank">
+    <img src="../../images/cort/cort-cr100.jpg" alt="Cort CR100" width="400" height="139"/>
+  </a>
+</div>
 
 ### Características
 
