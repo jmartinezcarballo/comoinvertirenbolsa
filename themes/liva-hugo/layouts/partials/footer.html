@@ -27,7 +27,7 @@
         <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Legal y privacidad</h6>
+        <div class="mb-4"><b>Legal y privacidad</b></div>
         
         <ul class="list-unstyled">
           <li class="mb-3"><a class="text-dark"
@@ -39,13 +39,13 @@
         </ul>
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Uso de cookies</h6>
+        <div class="mb-4"><b>Uso de cookies</b></div>
         <ul class="list-unstyled">
           <li class="mb-3"><a class="text-dark" href="/uso-de-cookies/">Uso de cookies</a></li>
         </ul>
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Redes Sociales y partners</h6>
+        <div class="mb-4"><b>Redes Sociales y partners</b></div>
         <ul class="list-unstyled">
           <li class="mb-3"><a class="text-dark" target="_blank" href="https://www.twitter.com/ComprarUna" rel="nofollow">Síguenos en Twitter</a></li>
           <li class="mb-3"><a class="text-dark" target="_blank" href="https://t.me/comprarunaguitarra" rel="nofollow">Síguenos en Telegram</a></li>
@@ -53,7 +53,7 @@
         </ul>
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Acerca del sitio web</h6>
+        <div class="mb-4"><b>Acerca del sitio web</b></div>
         <ul class="list-unstyled">
           {{ range .Site.Menus.footer }}
           <li class="mb-3"><a class="text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
