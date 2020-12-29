@@ -88,7 +88,7 @@ disqusShortname = ""
     [[menu.main]]
     name = "Guitarras LTD ESP"
     parent = "Marcas"
-    URL = "ltd/"
+    URL = "guitarras-ltd/"
     weight = 3
     # main menu
     [[menu.main]]
