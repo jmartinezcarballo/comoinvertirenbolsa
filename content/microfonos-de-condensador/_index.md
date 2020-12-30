@@ -219,8 +219,7 @@ tengas donde elegir en función de tu presupuesto.
 
 ### Tonor TC 20
 
-Si el Tonor que destacaba al principio del artículo tiene conectividad por USB, ahora he querido seleccionar otro modelo
-de Tonor, en este caso el TC20, con conectividad XLR.
+Si el Tonor que destacaba al principio del artículo tiene conectividad por USB, ahora he querido seleccionar otro modelo, en este caso el [Tonor TC20](/microfonos-de-condensador/tonor-tc20), con conectividad XLR.
 
 <div>
   <a href="https://www.amazon.es/Condensador-TONOR-Profesional-Amortiguador-TC20/dp/B089SX1DX2/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=b79f56f9791c594ed06ff7908ff6bfbb&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
