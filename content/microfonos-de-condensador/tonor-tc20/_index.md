@@ -5,7 +5,7 @@ date: 2020-09-10T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Review completa del Tonor TC20. Especificaciones, accesorios y todo lo que necesitas saber de uno de los mejores micrófonos de condensador en relación calidad precio del mercado."
+description: "Review completa del Tonor TC20. Especificaciones, accesorios y todo lo que necesitas saber de este micrófono de condensador."
 
 # type
 type: "microfonos-de-condensador"
