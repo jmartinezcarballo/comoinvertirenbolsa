@@ -1,11 +1,11 @@
 ---
 title: "Guitarra Cort x11"
-seoTitle: "Todo sobre la Cort x11 | Comprar una Guitarra"
-date: 2020-08-13T10:07:47+06:00
+seoTitle: "Cort x11: review y especificaciones | Comprar una Guitarraa"
+date: 2020-12-30T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Consulta nuestra review de la Cort x11. Descripciones, especificaciones y opiniones de los modelos más exitosos de Cort"
+description: "Consulta nuestra review de la Cort x11. Características, especificaciones y precio de una de las guitarras más vendidas de Cort"
 
 # type
 type: "cort-x11"
