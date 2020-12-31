@@ -24,10 +24,16 @@ Te presento a continuación diferentes modelos de guitarras, entre los que no pu
 </div>
 
 <div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+      <div class="column" style="float: left; width: 50%; padding: 5px;">
         <a href="/guitarras-epiphone/sg-standard-cherry">
-          <img src="../../images/epiphone/epiphone-sg-standard-cherry-menu.jpg" alt="Epiphone SG Standard Cherry">
+          <img src="../../images/epiphone/epiphone-sg-standard-cherry-menu.jpg" alt="Epiphone SG Standard Cherry" width="65" height="200">
           <figcaption>Epiphone SG Standard Cherry</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 50%; padding: 5px;">
+        <a href="/guitarras-epiphone/aj220s">
+          <img src="../../images/epiphone/epiphone-aj220s-menu.png" alt="Epiphone AJ220s" width="89" height="200">
+          <figcaption>Epiphone AJ220s</figcaption>
         </a>
       </div>
 </div> 

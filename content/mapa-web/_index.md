@@ -20,11 +20,18 @@ type: "sitemap"
 
 ### Marcas
 
-* [Guitarras eléctricas Yamaha](/guitarras-yamaha/)
-* [Guitarras eléctricas ltd esp](/ltd/)
-* [Guitarras eléctricas Squier](/guitarras-squier/)
 * [Guitarras eléctricas Cort](/guitarras-cort/)
+* [Guitarras Epiphone](/guitarras-epiphone/)
+* [Guitarras eléctricas ltd esp](/ltd/)
+* [Guitarras eléctricas Yamaha](/guitarras-yamaha/)
+* [Guitarras eléctricas Squier](/guitarras-squier/)
 
+### Reviews de guitarra
+
+* [Cort CR100](/guitarras-cort/cr100)
+* [Cort CR250](/guitarras-cort/cr250)
+* [Cort x11](/guitarras-cort/x11)
+* [Epiphone AJ220s](/guitarras-epiphone/aj220s)
 
 ### Accesorios
 
