@@ -1,11 +1,11 @@
 ---
 title: "Pastillas para guitarra eléctrica"
-seoTitle: "Las mejores pastillas para guitarra eléctrica"
+seoTitle: "Las mejores pastillas para guitarra eléctrica [2021]"
 date: 2020-06-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra todo lo que necesitas saber sobre las pastillas para guitarra. Las mejores single coil y humbucker de marcas como DiMarzio, Seymour Duncan y EMG"
+description: "Aquí encontrarás información, características y reviews sobre las pastillas para guitarra eléctrica. Las mejores de DiMarzio, Seymour Duncan y EMG."
 
 # type
 type: "pastillas-para-guitarra"

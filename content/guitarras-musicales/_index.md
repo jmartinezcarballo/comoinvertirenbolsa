@@ -1,11 +1,11 @@
 ---
-title: "Guitarras musicales para niños y bebés"
-seoTitle: "Las mejores guitarras musicales de 2020"
+title: "Guitarras musicales de juguete para niños y bebés"
+seoTitle: "Las mejores guitarras musicales de juguete de 2021"
 date: 2020-09-04T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Las mejores guitarras musicales para niños y bebés en 2020. Selección de modelos por edades y dibujos animados. Guitarras de Spiderman, Peppa Pig, Pocoyo y muchos más"
+description: "Las mejores guitarras musicales de juguete para niños y bebés en 2021. Para todas las edades y de todo tipo las tienes aquí."
 
 # type
 type: "guitarras-musicales"

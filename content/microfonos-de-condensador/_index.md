@@ -1,6 +1,6 @@
 ---
-title: "Los mejores micrófonos de condensador de 2020"
-seoTitle: "Top de los mejores micrófonos de condensador de 2020"
+title: "Los mejores micrófonos de condensador de 2021"
+seoTitle: "Todo sobre los micrófonos de condensador. Top 5 de los mejores de 2021"
 date: 2020-09-10T10:07:47+06:00
 draft: false
 

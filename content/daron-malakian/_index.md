@@ -1,11 +1,11 @@
 ---
-title: "Daron Malakian, sus guitarras hasta 2020"
-seoTitle: "Todas las guitarras de Daron Malakian [2020]"
+title: "Daron Malakian, sus guitarras hasta 2021"
+seoTitle: "Todas las guitarras de Daron Malakian [2021]"
 date: 2020-08-10T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Las mejores guitarras de Daron Malakian hasta 2020 &#9989; conoce todo sobre las guitarras del guitarra de SOAD"
+description: "Las mejores guitarras de Daron Malakian hasta 2021 &#9989; conoce todo sobre las guitarras del guitarra de SOAD"
 
 # type
 type: "daron-malakian"
@@ -18,13 +18,13 @@ tomarse un descanso en su carrera.
 <div><img src="../../images/daron-malakian/daron-malakian.jpg" alt="Daron Malakian in concert" width="218" height="350"></div>
 
 Tras años dedicados a sus proyectos en solitario (Daron Malakian formó la banda **Scars on Broadway**), en 2011 anunciaron gira de varios conciertos, que se fueron alargando hasta 2015, pero no ha sido hasta
-este año 2020 que, tras 15 años sin saber de material nuevo de ellos, han decidido editar material nuevo.
+el año 2020 que, tras 15 años sin saber de material nuevo de ellos, han decidido editar material nuevo.
 
 Recientemente SOAD han compuesto y producido 2 temas nuevos calmando la sed de material nuevo de sus fans, si bien los motivos que los han llevado a crear este par de temas nuevos
 no son precisamente alegres.
 
 Tanto **Protect the Land** como **Genocidal Humanoidz** se centran en el conflicto entre la región autónoma de Nagorno-Karabaj (poblada mayoritariamente por armenios) y Azerbaijan que reclama el territorio como suyo.
-La guerra y los crueles actos producidos en este territorio han sido una temática constante en las letras de la banda durante su carrera, así como la cultura y raíces armenias, y este 2020 no podía ser menos.
+La guerra y los crueles actos producidos en este territorio han sido una temática constante en las letras de la banda durante su carrera, así como la cultura y raíces armenias, y el 2020 no podía ser menos.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08MR2LPCM&linkId=15dceab5de4920ec6478f5f17e3d439c"></iframe>
 

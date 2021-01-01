@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://www.comprarunaguitarra.com/"
 languageCode = "es"
-title = "Consejos y reviews sobre que guitarra comprar en 2020"
+title = "Consejos y reviews sobre que guitarra comprar en 2021"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -195,9 +195,9 @@ disqusShortname = ""
 logo = "images/comprar-una-guitarra.png"
 home = "Inicio"
 # Meta data
-description = "¿Quieres aprender a tocar la guitarra en 2020? Encuentra consejos, comparativas y ayuda para comprar una guitarra"
+description = "¿Quieres aprender a tocar la guitarra en 2021? Encuentra consejos, comparativas y ayuda para comprar una guitarra"
 author = "Comprar una Guitarra"
 # Google Analitycs
 googleAnalitycsID = "UA-167226734-1"
 # copyright
-copyright = "| copyright &copy; 2020 **Comprar una Guitarra** All Rights Reserved |"
+copyright = "| copyright &copy; 2021 **Comprar una Guitarra** All Rights Reserved |"

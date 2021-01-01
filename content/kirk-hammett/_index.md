@@ -1,11 +1,11 @@
 ---
-title: "Kirk Hammett, sus guitarras hasta 2020"
-seoTitle: "Todas las guitarras de Kirk Hammett [2020]"
+title: "Kirk Hammett, sus guitarras hasta 2021"
+seoTitle: "Todas las guitarras de Kirk Hammett [2021]"
 date: 2020-08-10T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Las mejores guitarras de Kirk Hammett hasta 2020 &#9989; conoce todo sobre las guitarras del solista de Metallica"
+description: "Las mejores guitarras de Kirk Hammett hasta 2021 &#9989; conoce todo sobre las guitarras del solista de Metallica"
 
 # type
 type: "kirk-hammett"

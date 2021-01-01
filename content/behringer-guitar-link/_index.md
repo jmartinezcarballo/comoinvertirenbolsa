@@ -1,11 +1,11 @@
 ---
 title: "Behringer Guitar Link"
-seoTitle: "Behringer Guitar Link ucg012 | Comprar una Guitarra"
-date: 2020-06-03T10:07:47+06:00
+seoTitle: "Behringer Guitar Link ucg012: review completa | Comprar una Guitarra"
+date: 2021-01-01T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Behringer Guitar Link ‎ucg102 &#9989; Si quieres comprar el guitar link aquí podrás encontrar una completa **review** del interfaz de sonido del 2020"
+description: "Completa review del Behringer Guitar Link ‎ucg102. Información, características e instalación del interfaz de sonido del 2021"
 
 # type
 type: "behringer-guitar-link"

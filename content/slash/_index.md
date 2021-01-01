@@ -1,11 +1,11 @@
 ---
-title: "Slash, sus guitarras hasta 2020"
-seoTitle: "Todas las guitarras de Slash [2020]"
+title: "Slash, sus guitarras hasta 2021"
+seoTitle: "Todas las guitarras de Slash [2021]"
 date: 2020-08-22T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Las mejores guitarras de Slash hasta 2020 &#9989; conoce todo sobre las guitarras del solista de Guns n Roses y Velvet Revolver"
+description: "Las mejores guitarras de Slash hasta 2021 &#9989; conoce todo sobre las guitarras del solista de Guns n Roses y Velvet Revolver"
 
 # type
 type: "slash"
