@@ -107,8 +107,6 @@ Si buscas una les paul barata, la Cort CR100 no te decepcionará.
 	<a href="https://amzn.to/2yjOWcd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
-Consulta a continuación las características principales de la **Cort CR100**.
-
 &nbsp;
 
 **¿Te ha gustado la review? consulta las reseñas de otros modelos de guitarra**
