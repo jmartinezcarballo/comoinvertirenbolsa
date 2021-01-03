@@ -1,5 +1,5 @@
 ---
-title: "Guitarra Cort CR100"
+title: "Review de la Cort CR100"
 seoTitle: "Cort CR100: review completa | Comprar una Guitarra"
 date: 2021-01-01T10:07:47+06:00
 draft: false
@@ -50,11 +50,11 @@ Los materiales con los que está fabricada la Cort CR100 son bastante habituales
 
 <img src="../../images/cort/cr100/cort-cr100-trasero.png" alt="Cort CR100 parte trasera" width="300" height="111"/>
 
-El mástil está fabricado con **arce canadiense** y está atornillado al cuerpo (bolt-on). Un punto a favor es que es satinado y esto favorece el deslizamiento de los dedos por el mástil y, por tanto, facilita el adquirir velocidad al tocar.
+El mástil está fabricado con arce canadiense y está atornillado al cuerpo (bolt-on). Un punto a favor es que es satinado y esto favorece el deslizamiento de los dedos por el mástil y, por tanto, facilita el adquirir velocidad al tocar.
 
 <img src="../../images/cort/cr100/cort-cr100-mastil-atornillado.png" alt="Cort CR100 con mástil atornillado" width="250" height="160"/>
 
-El diapasón no es de palorosa como suele ser habitual pero está construído con madera de **jatoba** que es una madera bastante similar y no notarás excesiva diferencia en cuanto a suavidad y tacto.
+El diapasón no es de palorosa como suele ser habitual pero está construido con madera de jatoba que es una madera bastante similar y no notarás excesiva diferencia en cuanto a suavidad y tacto.
 
 ## Sonido
 
