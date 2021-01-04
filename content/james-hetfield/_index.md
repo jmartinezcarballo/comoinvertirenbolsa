@@ -40,14 +40,14 @@ He seleccionado de entre toda su **colección de guitarras** aquellas que consid
 
 ### ELECTRA "GIBSON" FLYING V (1980-1984)
 
-Icónica flying V blanca con la que Hetfield grabó y se llevó de gira para el primer disco de Metallica, el **Kill 'em all** de 1983. He entrecomillado lo de Gibson ya que definitivamente la guitarra es una imitación de la **Gibson flying V** elaborada en Japón por Electra. Según el propio Hetfield reconoció, fue engañado por el vendedor que se la hizo pasar por una Gibson y, como novato que era por entonces, picó en el cebo costándole alrededor de 200 dolares de la época. Lo que sí tenía claro es que quería tener una **flying V blanca** como homenaje a **Michael Schenker**, lo tenía entre ceja y ceja, y lo consiguió.
+Icónica flying V blanca con la que Hetfield grabó y se llevó de gira para el primer disco de Metallica, el **Kill 'em all** de 1983. He entrecomillado lo de Gibson ya que definitivamente la guitarra es una imitación de la **Gibson flying V** elaborada en Japón por Electra. Según el propio Hetfield reconoció, fue engañado por el vendedor que se la hizo pasar por una Gibson y, como novato que era por entonces, picó en el cebo costándole alrededor de [200 dolares de la época](/guitarras-electricas-baratas). Lo que sí tenía claro es que quería tener una **flying V blanca** como homenaje a **Michael Schenker**, lo tenía entre ceja y ceja, y lo consiguió.
 
 <div><img src="../../images/james-hetfield/james-hetfield-flying-v-blanca.jpg" alt="james hetfield flying v kill em all" width="350" height="525"></div>
 <div><img src="../../images/james-hetfield/michael-schenker-flying-v.jpg" alt="michael schenker flying v" width="350" height="326"></div>
 
 Utilizada hasta 1984 cuando se rompió el mástil y decidió pasarse a la Gibson explorer, ésta flying V fue la tercera guitarra que tuvo en propiedad.
 
-Como dato curioso, fue restaurada hace unos años añadíendole unas pastillas EMG y fue una de las guitarras utilizadas en la grabación de **Death Magnetic** en 2008. La podéis oír, por ejemplo, en la intro de **Broken, Beat and Scarred**.
+Como dato curioso, fue restaurada hace unos años añadíendole unas [pastillas EMG](/pastillas-para-guitarra/#las-mejores-pastillas-humbucker) y fue una de las guitarras utilizadas en la grabación de **Death Magnetic** en 2008. La podéis oír, por ejemplo, en la intro de **Broken, Beat and Scarred**.
 
 #### Características de la Electra Gibson Flying V
 
@@ -90,7 +90,7 @@ De igual manera que con la flying V, para el Death Magnetic Hetfield quiso recup
 
 ### ESP MX 220 (1987-1990)
 
-En **1987**, después de que **Kirk Hammett** le descubriera las **ESP**, **James Hetfield** decidió también hacer el cambio dejando atrás las Gibson que había utilizado los últimos años por las guitarras ESP. Eso sí, no tenía intención de renunciar al icónico estilo explorer blanco que ya se había convertido en característico de su imagen. De esta manera llegaron las **ESP MX 220** a manos de Hetfield, cuyo diseño la marca nipona quiso hacer a imagen y semejanza de la **Gibson Explorer** original de **1958**.
+En **1987**, después de que **Kirk Hammett** le descubriera las **ESP**, **James Hetfield** decidió también hacer el cambio dejando atrás las Gibson que había utilizado los últimos años por las [guitarras ESP](/guitarras-ltd). Eso sí, no tenía intención de renunciar al icónico estilo explorer blanco que ya se había convertido en característico de su imagen. De esta manera llegaron las **ESP MX 220** a manos de Hetfield, cuyo diseño la marca nipona quiso hacer a imagen y semejanza de la **Gibson Explorer** original de **1958**.
 
 <div><img src="../../images/james-hetfield/james-hetfield-esp-mx-220-eet-fuk.jpg" alt="james hetfield esp mx 220 1987" width="335" height="390"></div>
 
@@ -381,12 +381,12 @@ Pero, un momento, esto es a lo que cuerpo se refiere. Supongo que también os gu
 
 De abajo a arriba los inlays se distribuyen de la siguiente manera:
 
-* 3 inlays que representan a **Kirk Hammett**, **Lars Ulrich** y **James Hetfield**
+* 3 inlays que representan a [Kirk Hammett](/kirk-hammett), Lars Ulrich y James Hetfield
 * 1 inlay, el del traste 12, que representa al recordado por todos **Cliff Burton** pidiendo a la banda mudarse a San Francisco como condición para entrar a la banda y éstos accediendo.
 * 3 inlays más que representan el puente de San Francisco y la muerte de Cliff Burton (dos cruces bajo la constelación de Orion)
 * 2 inlays en la parte superior del mástil que representan la casa y garaje donde vivieron esos años.
 
-Si os fijáis, los inlays forman una secuencia **3132**, que es precisamente el **número de la calle** donde estaba situada **El Cerrito** y representan asímismo el recuerdo imborrable tanto de aquellos años como de Cliff Burton, el fallecido **bajista de Metallica** en un accidente de autobús cuando la banda estaba de gira por Europa presentando el Master of Puppets en septiembre de 1986.
+Si os fijáis, los inlays forman una secuencia 3132, que es precisamente el número de la calle donde estaba situada **El Cerrito** y representan asímismo el recuerdo imborrable tanto de aquellos años como de Cliff Burton, el fallecido **bajista de Metallica** en un accidente de autobús cuando la banda estaba de gira por Europa presentando el Master of Puppets en septiembre de 1986.
 
 Sin duda, todo el interior del cuerpo estará hecho de la mejor caoba que exista, pero el componente nostálgico de conseguir recubrir por fuera el cuerpo con un recuerdo de aquellos años me parece una idea fabulosa.
 
