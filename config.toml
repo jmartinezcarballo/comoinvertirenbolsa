@@ -86,22 +86,28 @@ disqusShortname = ""
     weight = 2
     # main menu
     [[menu.main]]
+    name = "Guitarras Ibanez"
+    parent = "Marcas"
+    URL = "guitarras-ibanez/"
+    weight = 3
+    # main menu
+    [[menu.main]]
     name = "Guitarras LTD ESP"
     parent = "Marcas"
     URL = "guitarras-ltd/"
-    weight = 3
+    weight = 4
     # main menu
     [[menu.main]]
     name = "Guitarras Squier"
     parent = "Marcas"
     URL = "guitarras-squier/"
-    weight = 4
+    weight = 5
     # main menu
     [[menu.main]]
     name = "Guitarras Yamaha"
     parent = "Marcas"
     URL = "guitarras-yamaha/"
-    weight = 5
+    weight = 6
 
   # main menu
   [[menu.main]]

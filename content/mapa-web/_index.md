@@ -23,6 +23,7 @@ type: "sitemap"
 * [Guitarras eléctricas Cort](/guitarras-cort/)
 * [Guitarras Epiphone](/guitarras-epiphone/)
 * [Guitarras eléctricas ltd esp](/ltd/)
+* [Guitarras Ibanez](/guitarras-ibanez/)
 * [Guitarras eléctricas Yamaha](/guitarras-yamaha/)
 * [Guitarras eléctricas Squier](/guitarras-squier/)
 
@@ -32,6 +33,7 @@ type: "sitemap"
 * [Cort CR250](/guitarras-cort/cr250)
 * [Cort x11](/guitarras-cort/x11)
 * [Epiphone AJ220s](/guitarras-epiphone/aj220s)
+* [Ibanez grg121dx](/guitarras-ibanez/grg121dx)
 
 ### Accesorios
 
