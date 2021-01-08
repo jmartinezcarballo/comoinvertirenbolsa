@@ -79,8 +79,6 @@ Es un **juguete educativo** perfecto para que los más pequeños de la casa se d
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07D33412C&linkId=63ef9cdb22e1d307eed01a82360304c1"></iframe>
-
 ## Ammoon Ukelele de 24 pulgadas
 
 A diferencia del primer ukelele que estaba disponible en cuatro tamaños diferentes, este sólo está disponible en su versión de 24 pulgadas.
@@ -134,8 +132,6 @@ Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la elec
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07Z333N3D&linkId=5c49f133c093f737c3acec0b74b24646"></iframe>
-
 ## Nuobesty Mini Ukelele de juguete
 
 Para que los niños empiecen a desarrollar habilidades auditivas y musicales te traigo esta **guitarra pequeña de juguete** que simula ser un ukelele.
@@ -182,8 +178,6 @@ De nuevo volvemos con otro ukelele, en este caso otro de tipo soprano de 21 pulg
 <div>
 	<a href="https://amzn.to/30Gq4aC" rel="nofollow noopener noreferrer" class="btn" target="_blank">Consultar precio</a>
 </div>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0746HBYYS&linkId=d922f601f23018ac33a16e6bf3e3767f"></iframe>
 
 ## Diferencias entre una guitarra y un ukelele
 
