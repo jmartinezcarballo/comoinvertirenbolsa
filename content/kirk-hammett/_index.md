@@ -145,6 +145,30 @@ se puede encontrar fácilmente en las interpretaciones de la mayoría de baladas
 
 &nbsp;
 
+### ESP KH-3 Spider (desde 1991)
+
+En paralelo a la edición del Black Album, Kirk comenzó a utilizar una ESP Les Paul a la que se bautizaría como Spider por la pegatina del cuerpo y los inlays característicos. Fue utilizada durante toda la gira del Black Album hasta 1994 y posteriormente la siguió utilizando hasta finales de la década de los 90, aunque ya con menor protagonismo una vez aparecieron las KH-2 superstrato con diseños de películas de terror.
+
+<div><img src="../../images/kirk-hammett/kirk-hammett-esp-kh3-spider.jpg" alt="kirk hammett esp kh-3 spider" width="250" height="188"></div>
+
+Esta guitarra se puede ver en algunos de los momentos más notorios de la banda en vivo, como en el mítico concierto en el aeropuerto de Moscú en septiembre de 1991 o en el homenaje a Freddy Mercury en el viejo estadio de Wembley en 1992.
+
+ESP la convirtió en modelo signature para su comercialización en 1994 y la marca japonesa acaba de anunciar que en este 2021 la va a reeditar de nuevo.
+
+#### Características de la ESP KH-3 Spider
+
+* Cuerpo de aliso
+* Mástil de arce encolado
+* Diapasón de palorosa con inlays de arañas y calaveras
+* Escala 24.75
+* 2 pastillas humbucker activas EMG 60 y EMG 81
+* Puente Floyd Rose
+* Clavijeros Sperzel
+
+<a href="https://www.youtu.be/_W7wqQwa-TU" class="lazy-youtube-embed">Metallica - Enter Sandman (Monsters of Rock - Moscú 1991)</a>
+
+&nbsp;
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0846MRFMB&linkId=08c29b01723b8f4296a0777e6cc4dae2"></iframe>
 
 ### ESP KH-2 (The Mummy)
