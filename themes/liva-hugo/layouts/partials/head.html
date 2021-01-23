@@ -54,6 +54,8 @@
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
     ga('create', '{{ .Site.Params.googleAnalitycsID }}', 'auto');
     ga('send', 'pageview');
+    
+    setTimeout(ga('send','event','Ajuste de Tasa de Rebote','Mas de 100 segundos de permanencia'), 100000);
   </script>
   
   <script>
