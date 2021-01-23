@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Completa review del Behringer Guitar Link ‎ucg102. Información, características e instalación del interfaz de sonido del 2021"
+summary: "Completa review de esta interfaz de audio con la que podrás tocar en casa sin necesidad de amplificador."
 
 # type
-type: "behringer-guitar-link"
+type: "post"
+image: "images/behringer-guitar-link/behringer-guitar-link-section.jpg"
+
+# taxonomies
+categories: 
+  - "Accesorios"
+tags:
+  - "Behringer"
 ---
 
 Si hay una **review** que tenía ganas de hacer esa era la del **Behringer Guitar Link ‎ucg102** y es que, desde que lo descubrí, ya no he vuelto a recordar lo que es tener un amplificador en casa.
@@ -21,7 +29,7 @@ Básicamente es una **interfaz externa de audio**, que te permite "sustituir" tu
 
 <div><img src="../../images/post/behringer_guitar_link_opt.png" alt="behringer guitar link ucg102" width="200" height="268"></div>
 <div>
-	<a href="https://amzn.to/3e8gvEN" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar guitar link</a>
+	<a href="https://amzn.to/3e8gvEN" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar guitar link</a>
 </div>
 
 ## Configurar Guitar Link
@@ -38,4 +46,5 @@ Para empezar, el Guitar Link viene con algunos **presets** de serie, pero necesi
 
 {{< youtube T4XafHppNF8 >}}
 
-**Accede a comprar Guitar Link** <a href="https://amzn.to/3e8gvEN" rel="nofollow noopener noreferrer" target="_blank">**aquí**.</a>
+<a href="https://amzn.to/3e8gvEN" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>&nbsp;
+<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>

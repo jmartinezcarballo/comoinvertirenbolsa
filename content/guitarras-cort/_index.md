@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Encuentra una selección de las mejores guitarras Cort de 2021 &#9989;  Compara entre modelos exitosos como la Cort cr250 o la Cort x11"
+summary: "Aquí encontrarás reviews completas de algunos de los modelos de más éxito de Cort, como la x500, x11, CR100 o CR250."
 
 # type
-type: "guitarras-electricas-cort"
+type: "post-destacado"
+image: "images/cort/cort-cr250-section.jpg"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Cort"
 ---
 
 Sección dedicada a las **guitarras Cort**. Cort es un fabricante de guitarras surcoreano que suele destacar normalmente por lo ajustado de sus precios, ofreciendo siempre una calidad precio entre las mejores marcas.
@@ -16,7 +24,7 @@ Sección dedicada a las **guitarras Cort**. Cort es un fabricante de guitarras s
 Compara entre diferentes modelos de guitarras eléctricas para que puedas decidir aquella que más se adapte a ti.
 
 <div>
-	<a href="https://amzn.to/33ZUMgw" class="btn" rel="nofollow noopener noreferrer" target="_blank">Busca tu guitarra Cort</a>
+	<a href="https://amzn.to/33ZUMgw" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Busca tu guitarra Cort</a>
 </div>
 
 <div class="row">

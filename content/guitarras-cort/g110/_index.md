@@ -8,7 +8,15 @@ draft: false
 description: "Consulta nuestra review de la Cort g110. Descripciones, especificaciones y opiniones de los modelos más exitosos de Cort"
 
 # type
-type: "cort-g110"
+type: "post"
+image: "images/cort/cort-g110-section.png"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Guitarras"
+  - "Cort"
 ---
 
 La **Cort g110** es la stratocaster de Cort más asequible en cuanto a precio. Es ideal como primera **guitarra para principiantes** que se quieran
@@ -23,7 +31,7 @@ algo ideal para alguien que empieza.
 Si quieres una guitarra por **menos de 200 euros**, es una opción bastante recomendable.
 
 <div>
-	<a href="https://www.amazon.es/Cort-G1102T-G110-2T-Guitarra-el%C3%A9ctrica/dp/B00KGSO8HM/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00KGSO8HM&pd_rd_r=e14dc21e-cfcc-411f-a7de-e343c537556a&pd_rd_w=5jAqs&pd_rd_wg=83334&pf_rd_p=4221015a-01c7-4a3d-a84d-985d938e9995&pf_rd_r=VZ62DZX7M7ZT60PX8CH6&psc=1&refRID=VZ62DZX7M7ZT60PX8CH6&linkCode=ll1&tag=guitar0de-21&linkId=4a55fd87dd2830f95c4770d0b7b6f543&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://www.amazon.es/Cort-G1102T-G110-2T-Guitarra-el%C3%A9ctrica/dp/B00KGSO8HM/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00KGSO8HM&pd_rd_r=e14dc21e-cfcc-411f-a7de-e343c537556a&pd_rd_w=5jAqs&pd_rd_wg=83334&pf_rd_p=4221015a-01c7-4a3d-a84d-985d938e9995&pf_rd_r=VZ62DZX7M7ZT60PX8CH6&psc=1&refRID=VZ62DZX7M7ZT60PX8CH6&linkCode=ll1&tag=guitar0de-21&linkId=4a55fd87dd2830f95c4770d0b7b6f543&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 
@@ -40,7 +48,7 @@ Si quieres una guitarra por **menos de 200 euros**, es una opción bastante reco
 * Herrajes cromados
 
 <div>
-	<a href="https://www.amazon.es/Cort-G1102T-G110-2T-Guitarra-el%C3%A9ctrica/dp/B00KGSO8HM/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00KGSO8HM&pd_rd_r=e14dc21e-cfcc-411f-a7de-e343c537556a&pd_rd_w=5jAqs&pd_rd_wg=83334&pf_rd_p=4221015a-01c7-4a3d-a84d-985d938e9995&pf_rd_r=VZ62DZX7M7ZT60PX8CH6&psc=1&refRID=VZ62DZX7M7ZT60PX8CH6&linkCode=ll1&tag=guitar0de-21&linkId=4a55fd87dd2830f95c4770d0b7b6f543&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/Cort-G1102T-G110-2T-Guitarra-el%C3%A9ctrica/dp/B00KGSO8HM/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00KGSO8HM&pd_rd_r=e14dc21e-cfcc-411f-a7de-e343c537556a&pd_rd_w=5jAqs&pd_rd_wg=83334&pf_rd_p=4221015a-01c7-4a3d-a84d-985d938e9995&pf_rd_r=VZ62DZX7M7ZT60PX8CH6&psc=1&refRID=VZ62DZX7M7ZT60PX8CH6&linkCode=ll1&tag=guitar0de-21&linkId=4a55fd87dd2830f95c4770d0b7b6f543&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 &nbsp;
@@ -51,25 +59,5 @@ A continuación os dejo un video para que podáis comprobar por vosotros mismos 
 de pastillas:
 
 <a href="https://www.youtu.be/s6_huvaTEp4" class="lazy-youtube-embed">Cort g110 opiniones</a>
-
 &nbsp;
-
-**¿No es ésta la guitarra Cort que buscabas? quizá éstas te puedan interesar:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/x11/">
-          <figcaption>Cort x11</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr250/">
-          <figcaption>Cort cr250</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/g260/">
-          <figcaption>Cort g260</figcaption>
-        </a>
-      </div>
-</div>
+<a href="/guitarras-cort/" class="btn btn-outline-primary">Volver a guitarras Cort</a>

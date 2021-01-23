@@ -9,6 +9,14 @@ description: "Consulta nuestra review de la Cort cr250. Descripciones, especific
 
 # type
 type: "cort-cr250"
+image: "images/cort/cort-cr250-section.jpg"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Guitarras"
+  - "Cort"
 ---
 
 La **Cort CR250** es una guitarra tipo **les paul** dificilmente batible en calidad precio. Poco o nada tiene que envidiar a guitarras más caras, siendo de las Cort más exitosas y vendidas.
@@ -19,7 +27,7 @@ unas distorsiones más que aceptables, sin necesidad de tener que recurrir a una
 Dentro de su segmento de precio, una guitarra que no decepciona.
 
 <div>
-	<a href="https://amzn.to/3essWvn" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3essWvn" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ![cort cr250](../../images/cort/cort-cr250.jpg)
@@ -35,7 +43,7 @@ Dentro de su segmento de precio, una guitarra que no decepciona.
 * 2 pastillas Cort Classic Rocker II Humbucker
 
 <div>
-	<a href="https://amzn.to/3essWvn" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3essWvn" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 &nbsp;  
@@ -48,22 +56,4 @@ Os dejo a continuación una demostración de como suena la Cort cr250 en sus dif
 
 &nbsp;
 
-**¿No has encontrado la guitarra Cort que buscabas? quizá éstas te puedan interesar:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/g260/">
-          <figcaption>Cort g260</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/x11/">
-          <figcaption>Cort x11</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr100/">
-          <figcaption>Cort cr100</figcaption>
-        </a>
-      </div>
-</div>
+<a href="/guitarras-cort/" class="btn btn-outline-primary">Volver a guitarras Cort</a>

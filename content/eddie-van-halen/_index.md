@@ -6,9 +6,18 @@ draft: false
 
 # meta description
 description: "Las mejores guitarras de Eddie Van Halen hasta 2020 &#9989; conoce todo sobre las guitarras del líder y fundador de Van Halen"
+summary: "Las mejores guitarras de Eddie Van Halen hasta 2020."
 
 # type
-type: "eddie-van-halen"
+type: "post"
+image: "images/eddie-van-halen/eddie-van-halen-section.jpg"
+
+# taxonomies
+categories: 
+  - "Guitarristas"
+tags:
+  - "Eddie Van Halen"
+  - "Frankenstrat"
 ---
 
 Eddie Van Halen está considerado, por méritos propios, uno de los mejores y más influyentes guitarristas de la historia del **Rock**.
@@ -124,7 +133,7 @@ La primera Kramer fue la Kramer 5150 y fue construída por el propio Eddie en la
 
 ¿Te gustaría aprender el estilo de **Van Halen**, sus mejores **solos** y todo sobre su **técnica**? Te dejo un un link a su libro con las **mejores tabs**:
 
-<a href="https://amzn.to/3pdVzBU" class="btn">Jam With Van Halen</a>
+<a href="https://amzn.to/3pdVzBU" class="btn btn-outline-primary">Jam With Van Halen</a>
 
 ### IBANEZ DESTROYER "THE SHARK"
 
@@ -211,15 +220,6 @@ Os dejo con una **entrevista** donde EVH habla acerca de la serie Wolfgang de Pe
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00WM0TT8U&linkId=6651d924f59ab669000756e37b18352d"></iframe>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08JM81R9B&linkId=e7c431ce7f6d28246c88773e5c2d6962"></iframe>
 
-Y hasta aquí esta **biografía** que he querido hacer de **Eddie Van Halen a través de sus guitarras**.
-
-Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: Guitarscollector y Equipboard.
-
-Si te ha parecido interesante el artículo te recomiendo pasarte por las secciones dedicadas a otros grandes guitarristas. Espero con el tiempo poder ir añadiendo más
-artistas a esta sección:
-
 <div>
-  <a href="/james-hetfield" class="btn">Ir a las guitarras de James Hetfield</a>
-	<a href="/kirk-hammett" class="btn">Ir a las guitarras de Kirk Hammett</a>
-	<a href="/slash" class="btn">Ir a las guitarras de Slash</a>
+  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>
 </div>

@@ -1,169 +1,104 @@
 {{ define "main" }}
 
-<!-- Main page -->
-<section class="section-sm">
+<!-- featured post -->
+<section class="section-title">
+  <div class="container">
+    <div align="center" class="justify-content-center">
+      <h1>Comprar una Guitarra</h1>
+      <div align="justify" class="col-lg-8 mb-5 mb-lg-0">
+      	<blockquote>
+      		<p>Bienvenido/a a la web donde podrás encontrar toda la información acerca del mundo de la guitarra y otros accesorios musicales. 
+      		Visita nuestras secciones para encontrar las mejores reviews y recomendaciones y no te pierdas en nuestro blog las últimas noticias,
+      		artículos y tutoriales.</p>
+      	</blockquote>
+      </div>
+      &nbsp;
+      <div>
+      	<img src="../../images/home_image.jpg" alt="guitarra fender" align="center" width="183" height="250"/>
+	  </div>
+  	</div>
+  </div>
+</section>
+<!-- /featured post -->
+
+<!-- recent post -->
+<h2 align="center">Últimas entradas en el blog</h2>
+<br/><br/>
+<section>
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
-        <h1>Comprar una Guitarra</h1>
-        <br/>
-        <div class="content">
-          <p>Bienvenido a Comprar una Guitarra, la web donde podrás encontrar las mejores reviews de las guitarras más vendidas, información y comparativas de todo
-          tipo de accesorios musicales y una sección dedicada al equipamiento de los mejores guitarristas del mundo.
+      {{ range first 3 (where .Site.Pages "Type" "featured")}}
+      <div class="col-lg-4 small-post-border">
+        <article class="media">
+          {{ if .Params.Image }}
+          <div class="recent-post-thumb mr-3" style="background-image: url('{{ .Params.Image | absURL }}');"></div>
+          {{ end }}
+          <div class="media-body">
+            <div class="mb-3 post-meta">
+              <span>By {{ .Site.Params.Author }}</span>
+              {{ if not .Params.HideDate }}
+              <span class="border-bottom border-primary px-2 mx-1"></span>
+              <span>{{ .PublishDate.Format "02 Jan 2006" }}</span>
+              {{ end }}
+            </div>
+            <a href="{{ .Permalink }}" class="h5 d-block mb-3">{{ .Title | markdownify }}</a>
+            <a href="{{ .Permalink }}" class="btn btn-outline-primary">Leer más</a>
+          </div>
+        </article>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /recent post -->
 
-          <p><img src="../../images/post/fender_stratocaster.jpg" alt="guitarra fender">
-<img src="../../images/post/gibson-lespaul.jpg" alt="guitarra gibson"></p>
-
-&nbsp;
-
-<h2 id="consulta secciones">Nuestras secciones</h2>
-<div>Te presentamos las diferentes secciones que puedes encontrar en nuestra web.</div>
-&nbsp;
-	&nbsp;  
-	<h3>Las mejores marcas</h3>
-	<div class="column" style="float: left; width: 33.33%; padding: 5px;">
-      <a href="guitarras-cort/">
-        <img src="../../images/post/cort_cr_100_opt.png" alt="las mejores guitarras cort">
-        <figcaption>Guitarras Cort</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-      <a href="guitarras-epiphone/">
-        <img src="../../images/epiphone/epiphone-sg-standard-cherry-menu.jpg" alt="las mejores guitarras epiphone">
-        <figcaption>Guitarras Epiphone</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-      <a href="/ltd/">
-        <img src="../../images/post/ltd-ec-1000.png" alt="las mejores guitarras ltd">
-        <figcaption>Guitarras LTD</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 50%; padding: 5px;">
-      <a href="guitarras-squier/">
-        <img src="../../images/post/squier_affinity_stratocaster_opt.png" alt="las mejores guitarras squier">
-        <figcaption>Guitarras Squier</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 50%; padding: 5px;">
-      <a href="guitarras-yamaha/">
-        <img src="../../images/post/yamaha-pacifica-112v_opt.png" alt="las mejores guitarras yamaha">
-        <figcaption>Guitarras Yamaha</figcaption>
-      </a>
-    </div>
-</div>
-<div>
-	&nbsp;
-	<h3>Accesorios musicales</h3>
-	<div class="column" style="float: left; width: 33.33%; padding: 5px;">
-      <a href="behringer-guitar-link/">
-        <img src="../../images/post/behringer-guitar-link-menu.png" alt="Behringer Guitar Link ucg102">
-        <figcaption>Behringer Guitar Link ucg102</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-      <a href="inlays/guitarra/">
-        <img src="../../images/post/inlays-guitarra-menu.png" alt="los mejores inlays para guitarra">
-        <figcaption>Inlays para guitarra</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-      <a href="microfonos-de-condensador/">
-        <img src="../../images/post/microfonos-de-condensador-menu.png" alt="los mejores micrófonos de condensador">
-        <figcaption>Micrófonos de condensador</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 50%; padding: 5px;">
-      <a href="pastillas-para-guitarra/">
-        <img src="../../images/pastillas/pastilla-humbucker.jpg" alt="las mejores pastillas para guitarra">
-        <figcaption>Pastillas para guitarra</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 50%; padding: 5px;">
-      <a href="puas-guitarra/">
-        <img src="../../images/puas/puas-delrin.jpg" alt="las mejores puas de guitarra">
-        <figcaption>Púas de guitarra</figcaption>
-      </a>
-    </div>
-</div>
-<div>
-	&nbsp;  
-	<h3>Guitarristas</h3>
-	
-	<div class="column" style="float: left; width: 50%; padding: 5px;">
-      <a href="eddie-van-halen/">
-        <img src="../../images/post/eddie-van-halen-menu.jpg" alt="Eddie Van Halen guitarras">
-        <figcaption>Eddie Van Halen</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 50%; padding: 5px;">
-      <a href="james-hetfield/">
-        <img src="../../images/post/james-hetfield-menu.jpg" alt="James Hetfield guitarras">
-        <figcaption>James Hetfield</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 50%; padding: 5px;">
-      <a href="kirk-hammett/">
-        <img src="../../images/post/kirk-hammett-menu.jpg" alt="Kirk Hammett guitarras">
-        <figcaption>Kirk Hammett</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 50%; padding: 5px;">
-      <a href="slash/">
-        <img src="../../images/post/slash-menu.jpg" alt="Slash guitarras">
-        <figcaption>Slash</figcaption>
-      </a>
-    </div>
-    <div class="column" style="float: left; width: 100%; padding: 5px;">
-      <a href="daron-malakian//">
-        <img src="../../images/post/daron-malakian-menu.jpg" alt="Daron Malakian guitarras">
-        <figcaption>Daron Malakian</figcaption>
-      </a>
-    </div>
-</div>
-<div>
-	&nbsp;
-	<h3>Listas de éxitos</h3>
-	<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="guitarras-electricas-baratas/">
-          <img src="../../images/post/Ibanez_GRG_170dx_opt.png" alt="Guitarras electricas baratas. Comprar guitarra electrica por menos de 300 euros">
-          <figcaption>Guitarras Eléctricas Baratas</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="guitarras-para-ninos/">
-          <img src="../../images/post/guitarra-ninos-home.png" alt="Guitarras electricas para niños">
-          <figcaption>Guitarras Eléctricas para Niños</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="guitarras-en-miniatura/">
-          <img src="../../images/post/guitarras-en-miniatura-menu.png" alt="Guitarras en miniatura">
-          <figcaption>Guitarras en miniatura</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 50%; padding: 5px;">
-        <a href="guitarra-pequena-cuatro-cuerdas/">
-          <img src="../../images/post/guitarra-pequena-cuatro-cuerdas-menu.jpg" alt="Guitarras pequeñas de cuatro cuerdas">
-          <figcaption>Guitarras pequeñas de cuatro cuerdas</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 50%; padding: 5px;">
-        <a href="guitarras-musicales/">
-          <img src="../../images/post/guitarras-musicales-de-juguete-menu.png" alt="Guitarras musicales de juguete para niños y bebes">
-          <figcaption>Guitarras musicales de juguete</figcaption>
-        </a>
-      </div>
-    </div>
-</div>
-<div>
-    
-
+<!-- blog post -->
+<section class="section pb-0">
+  <h2 align="center">Secciones destacadas</h2>
+  &nbsp;
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mb-5 mb-lg-0">
+        <div class="row">
+          {{ $paginator := .Paginate (where .Site.Pages "Type" "post-destacado") }}
+          {{ range $paginator.Pages }}
+          <div class="col-md-6 mb-4">
+            <article class="card">
+              {{ if .Params.Image }}
+              <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+              {{ end }}
+              <div class="card-body px-0">
+                {{ range .Params.Categories }}
+                <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
+                  class="text-primary">{{ . | title | humanize }}</a>
+                {{ end }}
+                <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
+                <div class="mb-3 post-meta">
+                  <span>By {{ .Site.Params.Author }}</span>
+                  {{ if not .Params.HideDate }}
+                  <span class="border-bottom border-primary px-2 mx-1"></span>
+                  <span>{{ .PublishDate.Format "02 January 2006" }}</span>
+                  {{ end }}
+                </div>
+                <p class="card-text">{{ .Summary }}</p>
+                <a href="{{ .Permalink }}" class="btn btn-outline-primary">Leer más</a>
+              </div>
+            </article>
+          </div>
+          {{ end }}
         </div>
+      </div>
+      <!-- sidebar -->
+      {{ partial "sidebar.html" . }}
+      <!-- /sidebar -->
+
+      <!-- pagination -->
+      <div class="col-12 mt-5">
+        {{ template "_internal/pagination.html" . }}
       </div>
     </div>
   </div>
 </section>
-<!-- /main page-->
+<!-- /blog post -->
+
 {{ end }}

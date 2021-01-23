@@ -9,6 +9,14 @@ description: "Consulta nuestra review de la Cort x500. Características, especif
 
 # type
 type: "cort-x500"
+image: "images/cort/cort-x500-section.jpg"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Guitarras"
+  - "Cort"
 ---
 
 Desde que se renovó la **serie x** de Cort, la x500 ha pasado a ser uno de los modelos estrella de la marca, al igual que en su momento lo fue
@@ -19,7 +27,7 @@ Desde que se renovó la **serie x** de Cort, la x500 ha pasado a ser uno de los 
 Si quieres saberlo todo de esta bestia del metal, no dejes de leer la completa review que te presentamos a continuación.
 
 <div>
-	<a href="https://amzn.to/35qpfnJ" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/35qpfnJ" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07C7FVWFH&linkId=917721042b10ef32c925e7ad6f0ed5de"></iframe>
@@ -93,38 +101,21 @@ Como **puntos en contra** destacaríamos el puente Floyd Rose que podría haber 
 
 Para probar el sonido de la Cort x500 os traigo una versión del Hand of Blood de Bullet for My Valentine. !Que la disfrutéis!
 
-<a href="https://www.youtu.be/6wXy5hnRsVQ" class="lazy-youtube-embed">Bullet for My Valentine - Hand of Blood con una Cort x500</a>
-
-&nbsp;
+<div>
+	<a href="https://www.youtu.be/6wXy5hnRsVQ" class="lazy-youtube-embed">Bullet for My Valentine - Hand of Blood con una Cort x500</a>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Nuestro veredicto
 
 Estamos ante un guitarrón de los pies a la cabeza. Si te gusta el heavy, te gustan las **superstrato** y buscas un **precio** inferior a los 1000€, la Cort x500 sí o sí tiene que estar entre tus candidatas. Si la x11 ha sido una gran guitarra para Cort, la x500 es una dignísima sucesora de superior calidad y te hará disfrutar con tu banda.
 
 <div>
-	<a href="https://amzn.to/3bj26HE" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio Cort x500 opjb</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://amzn.to/35qpfnJ" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio Cort x500 optg</a>
+	<a href="https://amzn.to/3bj26HE" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio Cort x500 opjb</a>
+	<a href="https://amzn.to/35qpfnJ" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio Cort x500 optg</a>
+	<a href="/guitarras-cort/" class="btn btn-outline-primary">Volver a guitarras Cort</a>
 </div>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00BL70TZW&linkId=d87cf91cdb874a92743c6c36bb303a33"></iframe>
 
-**¿No has encontrado la guitarra Cort que buscabas? quizá éstas te puedan interesar:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr100/">
-          <figcaption>Cort CR100</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/x11/">
-          <figcaption>Cort x11</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr100/">
-          <figcaption>Cort cr100</figcaption>
-        </a>
-      </div>
-</div>
+&nbsp;

@@ -9,6 +9,14 @@ description: "¿Quieres emular a Angus Young? &#9989; la Epiphone SG Standard Ch
 
 # type
 type: "epiphone-sg-standard-cherry"
+image: "images/epiphone/epiphone-sg-standard-section.jpg"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Guitarras"
+  - "Epiphone"
 ---
 
 ¿Te gusta el rock? ¿Eres fan de AC/DC? ¿No puedes evitar transformarte cuando escuchas Highway to Hell? esta es la guitarra para ti.
@@ -22,7 +30,7 @@ Icónica guitarra, una de las Epiphone más emblemáticas y conocidas (y vendida
 </div>
 
 <div>
-	<a href="https://www.amazon.es/Epiphone-Standard-Cherry-Guitarra-el%C3%A9ctrica/dp/B084HJHRD3/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=epiphone&qid=1600893855&sr=8-6&linkCode=ll1&tag=guitar0de-21&linkId=b7d44b47e1597f2344b500a949c23977&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://www.amazon.es/Epiphone-Standard-Cherry-Guitarra-el%C3%A9ctrica/dp/B084HJHRD3/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=epiphone&qid=1600893855&sr=8-6&linkCode=ll1&tag=guitar0de-21&linkId=b7d44b47e1597f2344b500a949c23977&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ## Características de la Epiphone SG Standard
@@ -38,7 +46,7 @@ Te enumero a continuación las características de la Epiphone SG Standard en su
 * Puente Locktone ABR Tune-o-Matic
 
 <div>
-	<a href="https://www.amazon.es/Epiphone-Standard-Cherry-Guitarra-el%C3%A9ctrica/dp/B084HJHRD3/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=epiphone&qid=1600893855&sr=8-6&linkCode=ll1&tag=guitar0de-21&linkId=b7d44b47e1597f2344b500a949c23977&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/Epiphone-Standard-Cherry-Guitarra-el%C3%A9ctrica/dp/B084HJHRD3/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=epiphone&qid=1600893855&sr=8-6&linkCode=ll1&tag=guitar0de-21&linkId=b7d44b47e1597f2344b500a949c23977&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 ## Sound review de la Epiphone SG Standard
@@ -46,4 +54,6 @@ Te enumero a continuación las características de la Epiphone SG Standard en su
 Te dejo un video donde puedes comprobar la calidad de esta guitarra.
 
 <a href="https://youtu.be/xQWdaXDJ190" class="lazy-youtube-embed">Epiphone SG Standard review</a>
+
+<a href="/guitarras-epiphone/" class="btn btn-outline-primary">Volver a guitarras Epiphone</a>
 

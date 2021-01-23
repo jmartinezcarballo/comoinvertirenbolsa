@@ -9,6 +9,14 @@ description: "Consulta nuestra review de la Epiphone AJ220s. Características, e
 
 # type
 type: "epiphone-aj220s"
+image: "images/epiphone/epiphone-aj220s-section.jpg"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Guitarras"
+  - "Epiphone"
 ---
 
 La Epiphone AJ220s es una **guitarra acústica** fabricada en Indonesia por la filial de Gibson.
@@ -23,7 +31,7 @@ La Epiphone AJ220s es una **guitarra acústica** fabricada en Indonesia por la f
 En esta sección podrás encontrar una **completa review** de esta gran guitarra acústica tan bien valorada por el público y que es todo un referente dentro de las **guitarras acústicas baratas** o de gama media.
 
 <div>
-	<a href="https://amzn.to/2L9na8e" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2L9na8e" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ## Especificaciones generales
@@ -95,26 +103,6 @@ Tanto si buscas una primera o segunda guitarra acústica como si eres un guitarr
 Buena fabricación, buen sonido y muy cómoda, no te decepcionará.
 
 <div>
-	<a href="https://amzn.to/2L9na8e" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
-</div>
-
-
-**¿Te ha gustado la review? consulta las reseñas de otros modelos de guitarra**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr100/">
-          <figcaption>Cort CR100</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/x11/">
-          <figcaption>Cort x11</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr250/">
-          <figcaption>Cort CR250</figcaption>
-        </a>
-      </div>
+	<a href="https://amzn.to/2L9na8e" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>&nbsp;&nbsp;
+	<a href="/guitarras-epiphone/" class="btn btn-outline-primary">Volver a guitarras Epiphone</a>
 </div>

@@ -6,9 +6,18 @@ draft: false
 
 # meta description
 description: "Las mejores guitarras de Kirk Hammett hasta 2021 &#9989; conoce todo sobre las guitarras del solista de Metallica"
+summary: "Las mejores guitarras de Kirk Hammett hasta 2021."
 
 # type
-type: "kirk-hammett"
+type: "post"
+image: "images/kirk-hammett/kirk-hammett-section.jpg"
+
+# taxonomies
+categories: 
+  - "Guitarristas"
+tags:
+  - "Kirk Hammett"
+  - "Metallica"
 ---
 
 <a href="https://amzn.to/2DM2nUW" rel="nofollow noopener noreferrer" target="_blank">Kirk Hammett</a> es conocido por ser el guitarra solista de **Metallica**. Si bien se empezó a dar a conocer a principios de los 80 formando parte de los
@@ -203,19 +212,12 @@ hobby a plasmarlo en sus modelos signature.
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0846MTCSL&linkId=1d7e768ddfddc1094e70418cb7203ab6"></iframe>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01F5CJ6AM&linkId=c50be12232b16989c1e0ca286c174431"></iframe>
 
-Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: guitarscollector y groundguitar.
-
 &nbsp;
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B079X38XFR&linkId=785b538caaaa76fa844736fe217ef68a"></iframe>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01C2T8OOA&linkId=dca27909127fd9b0e14a5a0b2f146616"></iframe>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004U0JTDK&linkId=4d99e12257b3e603f43fd06a4a83c369"></iframe>
 
-Si te ha parecido interesante el artículo te recomiendo visitar la página dedicada a otros guitarristas, donde podrás encontrar
-un completísimo repaso a las carreras de los músicos desde el punto de vista de sus guitarras.
-
 <div>
-  <a href="/james-hetfield" class="btn">Ir a las guitarras de James Hetfield</a>
-	<a href="/slash" class="btn">Ir a las guitarras de Slash</a>
-	<a href="/daron-malakian" class="btn">Ir a las guitarras de Daron Malakian</a>
+  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>
 </div>

@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Encuentra los mejores inlays para guitarra de 2021. &#9989; Compra el Eddie de Iron Maiden, el rayo de AC/DC y muchos más"
+summary: "Encuentra todo tipo de inlays para montar en el diapasón de tu instrumento. Tienes decenas de diseños a elegir."
 
 # type
-type: "inlays-guitarra"
+type: "post-destacado"
+image: "images/inlays-guitarra/inlays-section.jpg"
+
+# taxonomies
+categories: 
+  - "Accesorios"
+tags:
+  - "Inlays"
 ---
 
 ¿Buscas los mejores **inlays adhesivos** para tu guitarra eléctrica? ¿Quieres cambiar el aspecto de tu mástil? lo cierto es 
@@ -17,7 +25,7 @@ que son muchos los guitarristas, amateurs y profesionales de la talla de <a href
 Entre los cambios estéticos más habituales se encuentran los inlays de la guitarra.
 
 <div>
-	<a href="https://www.amazon.es/Completo-pegatinas-guitarra-Stickers-Pegatinas/dp/B0831LKTLQ/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlays+iron+cross&qid=1597835273&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=5d8fddf397574d2c6f01406ad5b1fbf0&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Inlays Iron Cross de James Hetfield</a>
+	<a href="https://www.amazon.es/Completo-pegatinas-guitarra-Stickers-Pegatinas/dp/B0831LKTLQ/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=inlays+iron+cross&qid=1597835273&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=5d8fddf397574d2c6f01406ad5b1fbf0&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Inlays Iron Cross de James Hetfield</a>
 </div>
 
 &nbsp;
@@ -58,7 +66,7 @@ este tipo de cambios. Los típicos inlays que encontramos en las guitarras son l
 <div><img src="../../images/inlays-guitarra/inlays-punto.jpg" alt="inlay punto" width="300" height="159"></div>
 
 <div>
-	<a href="https://www.amazon.es/s/ref=as_li_ss_tl?k=inlays+guitarra&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1&linkCode=ll2&tag=guitar0de-21&linkId=6a5351ad8eedbe4e4d840c865aa28adf&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar Inlays</a>
+	<a href="https://www.amazon.es/s/ref=as_li_ss_tl?k=inlays+guitarra&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1&linkCode=ll2&tag=guitar0de-21&linkId=6a5351ad8eedbe4e4d840c865aa28adf&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar Inlays</a>
 </div>
 
 ## Inlays para guitarra eléctrica
@@ -195,22 +203,4 @@ Te dejo un video ejemplo de como cambiar en casa tus propios inlays de guitarra.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07HGG2Y99&linkId=c216010f738a6f2dc07f1db33a774a0d"></iframe>
 
-**¿Te ha gustado la sección? visita otras secciones de accesorios musicales:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/inlays-guitarra/">
-          <figcaption>Inlays para guitarra</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/puas-guitarra/">
-          <figcaption>Puas para guitarra</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/">
-          <figcaption>Pastillas para guitarra</figcaption>
-        </a>
-      </div>
-</div>
+<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>

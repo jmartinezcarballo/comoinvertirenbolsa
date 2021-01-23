@@ -9,6 +9,14 @@ description: "Consulta nuestra review de la Cort x11. Características, especifi
 
 # type
 type: "cort-x11"
+image: "images/cort/cort-x11-section.png"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Guitarras"
+  - "Cort"
 ---
 
 La Cort x11 es **la guitarra más vendida** de Cort, todo un éxito para la marca surcoreana de guitarras. 
@@ -22,7 +30,7 @@ La Cort x11 es **la guitarra más vendida** de Cort, todo un éxito para la marc
 En esta completa **review** de la guitarra analizaremos sus **espeficicaciones**, materiales, componentes y sonido para comprobar a que se debe la buena fama que ha adquirido con el paso de los años desde su lanzamiento.
 
 <div>
-	<a href="https://amzn.to/38TJFq1" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/38TJFq1" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ## Especificaciones generales
@@ -113,30 +121,11 @@ En esta ocasión, como demo en vivo para testear el sonido de la Cort x11 hemos 
 
 Si buscas una strato de gama media para dar caña y tu presupuesto es limitado, la Cort x11 es una gran elección. Tiene una relación calidad precio excelente, como la mayoría de las Cort, y tanto su sonido como su comodidad no te defraudarán.
 
-&nbsp;
-
 <div>
-	<a href="https://amzn.to/38TJFq1" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en negro</a>
+	<a href="https://amzn.to/38TJFq1" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en negro</a>
 	&nbsp;&nbsp;
-	<a href="https://amzn.to/2KVi000" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en rojo cereza</a>
+	<a href="https://amzn.to/2KVi000" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en rojo cereza</a>
 </div>
 
-**¿Te ha gustado la review? consulta las reseñas de otros modelos de guitarra**
-
-<div class="row">
-     <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr100/">
-          <figcaption>Cort CR100</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr250/">
-          <figcaption>Cort CR250</figcaption>
-        </a>
-      </div> 
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-epiphone/aj220s/">
-          <figcaption>Epiphone AJ220s</figcaption>
-        </a>
-      </div>
-</div>
+<a href="/guitarras-cort/" class="btn btn-outline-primary">Volver a guitarras Cort</a>
+&nbsp;

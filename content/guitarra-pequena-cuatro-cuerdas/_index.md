@@ -8,7 +8,15 @@ draft: false
 description: "Información, características, reviews y recomendaciones de guitarras pequeñas de cuatro cuerdas y ukeleles"
 
 # type
-type: "guitarras-ukelele"
+type: "post"
+image: "images/guitarra-pequena-cuatro-cuerdas/ukeleles-section.jpg"
+
+# taxonomies
+categories: 
+  - "Listas Top"
+tags:
+  - "Guitarra pequeña"
+  - "Ukelele"
 ---
 
 Cuando pensamos en una guitarra normalmente pensamos en un instrumento formado por seis cuerdas, pero lo cierto es que existen guitarras con un número diferente
@@ -18,7 +26,7 @@ En esta entrada encontrarás como es una **guitarra pequeñas de cuatro cuerdas*
 con los **ukeleles**, además te enseñaré algunos modelos interesantes por si estás buscando comprar uno de ellos.
 
 <div>
-	<a href="https://amzn.to/393G4WH" class="btn" rel="nofollow noopener noreferrer" target="_blank">Encuentra tu ukelele ideal</a>
+	<a href="https://amzn.to/393G4WH" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Encuentra tu ukelele ideal</a>
 </div>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07W6NQWFW&linkId=a1dfa2d35ffa28db41ebe6d720528f4c"></iframe>
@@ -46,7 +54,7 @@ A continuación te expongo las características principales del **Hricane Ukelel
 * Incluye bolsa de transporte
 
 <div>
-	<a href="https://amzn.to/2Yqp8Em" rel="nofollow noopener noreferrer" class="btn" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2Yqp8Em" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -74,7 +82,7 @@ Es un **juguete educativo** perfecto para que los más pequeños de la casa se d
 * Diferentes colores
 
 <div>
-	<a href="https://amzn.to/2MV9M5i" rel="nofollow noopener noreferrer" class="btn" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2MV9M5i" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -102,7 +110,7 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 * Dimensiones: 62 * 21 * 7,5 cm
 
 <div>
-	<a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" class="btn" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -127,7 +135,7 @@ Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la elec
 * Dimensiones: 55,4 x 21,8 x 11,2 cm
 
 <div>
-	<a href="https://amzn.to/2Az0Foj" rel="nofollow noopener noreferrer" class="btn" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2Az0Foj" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -152,7 +160,7 @@ Es más fácil de agarrar que un ukelele y se pueden afinar las cuerdas con prec
 * Dimensiones: 38 x 9.8 x 4.5cm
 
 <div>
-	<a href="https://amzn.to/2B5HuTf" rel="nofollow noopener noreferrer" class="btn" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2B5HuTf" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -176,7 +184,7 @@ De nuevo volvemos con otro ukelele, en este caso otro de tipo soprano de 21 pulg
 * Dimensiones: 57 x 22,5 x 10cm
 
 <div>
-	<a href="https://amzn.to/30Gq4aC" rel="nofollow noopener noreferrer" class="btn" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/30Gq4aC" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 ## Diferencias entre una guitarra y un ukelele

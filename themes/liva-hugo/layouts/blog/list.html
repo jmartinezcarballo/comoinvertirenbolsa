@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+<!-- blog post -->
+{{ if .Data.Pages }}
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mb-5 mb-lg-0">
+      	<h1 align="center">{{ .Title | markdownify }}</h1>
+      	&nbsp;
+        <div class="row">
+          {{ $paginator := .Paginate .Data.Pages }}
+          {{ range $paginator.Pages }}
+          {{ .Render "post" }}
+          {{ end }}
+        </div>
+      </div>
+      <!-- sidebar -->
+      {{ partial "sidebar.html" . }}
+      <!-- /sidebar -->
+
+      <!-- pagination -->
+      <div class="col-12 mt-5">
+        {{ template "_internal/pagination.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ if not .Data.Pages }}
+	<section class="section-sm">
+	  <div class="container">
+	    <div class="row">
+	      <div class="col-lg-8 mx-auto text-center">
+	        <h1>{{ .Title | markdownify }}</h1>
+	        <br/>
+	        <div class="content">
+	          {{ .Content }}
+	        </div>
+	      </div>
+	      <!-- sidebar -->
+	      {{ partial "sidebar.html" . }}
+	      <!-- /sidebar -->
+	    </div>
+	  </div>
+	</section>
+{{ end }}
+<!-- /blog post -->
+
+{{ end }}

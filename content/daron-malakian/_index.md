@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Las mejores guitarras de Daron Malakian hasta 2021 &#9989; conoce todo sobre las guitarras del guitarra de SOAD"
+summary: "Las mejores guitarras de Daron Malakian hasta 2021. Conoce todo sobre las guitarras de SOAD."
 
 # type
-type: "daron-malakian"
+type: "post"
+image: "images/daron-malakian/daron-malakian-section.jpg"
+
+# taxonomies
+categories: 
+  - "Guitarristas"
+tags:
+  - "Daron Malakian"
 ---
 
 <a href="https://amzn.to/3lG1NsM" rel="nofollow noopener noreferrer" target="_blank">Daron Malakian</a> es conocido por ser el guitarra, co-fundador y co-productor de **System of a Down (SOAD)**.
@@ -100,7 +108,7 @@ En el caso de Daron ha utilizado varios modelos de la Iceman, la IC100 y la IC30
 
 Eres o tienes a un luthier de confianza? te ofrezco a continuación un plano detallado de una Ibanez Iceman, dibujado mediante CAD
 
-<a href="https://www.amazon.es/Ibanez-guitarra-el%C3%A9ctrica-completa-impresi%C3%B3n/dp/B01905U4HE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=ibanez+iceman&qid=1605684448&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=0e74e5f7d5989b159973fed4a37bf0de&language=es_ES" rel="nofollow noopener noreferrer" target="_blank" class="btn">Ver el plano</a>
+<a href="https://www.amazon.es/Ibanez-guitarra-el%C3%A9ctrica-completa-impresi%C3%B3n/dp/B01905U4HE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=ibanez+iceman&qid=1605684448&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=0e74e5f7d5989b159973fed4a37bf0de&language=es_ES" rel="nofollow noopener noreferrer" target="_blank" class="btn btn-outline-primary">Ver el plano</a>
 
 
 ### Ibanez Iceman DMM1
@@ -157,11 +165,6 @@ Además han formado parte de algunos videoclips, como por ejemplo B.Y.O.B del á
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07TXWF8P6&linkId=2056db80f6299f7a315ce0766b14082b"></iframe>
 
-Si te ha parecido interesante el artículo te recomiendo visitar la página dedicada a otros guitarristas, donde podrás encontrar
-un completísimo repaso a las carreras de los músicos desde el punto de vista de sus guitarras.
-
 <div>
-  <a href="/james-hetfield" class="btn">Ir a las guitarras de James Hetfield</a>
-  <a href="/kirk-hammett" class="btn">Ir a las guitarras de Kirk Hammett</a>
-	<a href="/slash" class="btn">Ir a las guitarras de Slash</a>
+  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>
 </div>

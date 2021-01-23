@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Las mejores guitarras musicales de juguete para niños y bebés en 2021. Para todas las edades y de todo tipo las tienes aquí."
+summary: "Las mejores guitarras musicales de juguete para niños y bebés. Amplia selección de guitarras para que eligas la correcta."
 
 # type
-type: "guitarras-musicales"
+type: "post"
+image: "images/guitarras-infantiles/guitarra-juguete-section.jpg"
+
+# taxonomies
+categories: 
+  - "Listas Top"
+tags:
+  - "juguetes"
 ---
 
 Comprar una **guitarra de juguete** ofrece una serie de beneficios, sobretodo en una época donde existe un peligro a la **sobreexposición a los dispositivos electrónicos** como el móvil o la TV:
@@ -41,7 +49,7 @@ Lleva una pequeña bola roja que al tirar de ella emite una leve vibración que 
 
 Tiene unas medidas de 36x14x6cm y está fabricado en Europa
 
-<a href="https://www.amazon.es/Sigikid-41923-sonajero-Guitarra-Suave-Juguete/dp/B079YZMTKT/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599214622&sr=8-24&linkCode=ll1&tag=guitar0de-21&linkId=6318778faadcd4f7bd40af969ec96894&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
+<a href="https://www.amazon.es/Sigikid-41923-sonajero-Guitarra-Suave-Juguete/dp/B079YZMTKT/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599214622&sr=8-24&linkCode=ll1&tag=guitar0de-21&linkId=6318778faadcd4f7bd40af969ec96894&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
 
 ### Otras guitarras musicales para bebés
 
@@ -115,7 +123,7 @@ Guitarra de 4 cuerdas ideal para que a partir de los 3 años empiecen a desarrol
 
 Disponible en una variedad de colores no seleccionables. Tiene una valoración de 4,5 sobre 5 en Amazon.
 
-<a href="https://www.amazon.es/Peppa-Pig-Guitarra-de-Juguete/dp/B01EXDE6ZO/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599214622&sr=8-19&linkCode=ll1&tag=guitar0de-21&linkId=117c225702d3fb52fd3b9edaddc5790c&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
+<a href="https://www.amazon.es/Peppa-Pig-Guitarra-de-Juguete/dp/B01EXDE6ZO/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599214622&sr=8-19&linkCode=ll1&tag=guitar0de-21&linkId=117c225702d3fb52fd3b9edaddc5790c&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
 
 ##### Otras guitarras para niños a partir de 3 años
 
@@ -168,7 +176,7 @@ Con un añito más tenemos un par de opciones muy interesantes, La Patrulla Cani
 
 Es una guitarra con 6 cuerdas de nilon, sus medidas son 53x18x6cm e incluye una pequeña guía para aprender a tocar el instrumento.
 
-<a href="https://www.amazon.es/LEXIBOOK-k200-Pa-primera-guitarra-Patrol/dp/B075MTBZ99/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599215234&sr=8-91&linkCode=ll1&tag=guitar0de-21&linkId=d3a31afaf814b00edb15e47bf3101835&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
+<a href="https://www.amazon.es/LEXIBOOK-k200-Pa-primera-guitarra-Patrol/dp/B075MTBZ99/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599215234&sr=8-91&linkCode=ll1&tag=guitar0de-21&linkId=d3a31afaf814b00edb15e47bf3101835&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
 
 ##### Guitarra musical de Spiderman
 
@@ -182,7 +190,7 @@ A diferencia de la guitarra de la Patrulla Canina que es de cuerdas, la de Spide
 
 La guitarra incluye luces, melodias, efectos de sonido y las gafas llevan incorporado un micrófono. Funciona con pilas.
 
-<a href="https://www.amazon.es/Spiderman-Guitarra-electr%C3%B3nica-micr%C3%B3fono-Incorporado/dp/B00B5AY8H0/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599215234&sr=8-100&linkCode=ll1&tag=guitar0de-21&linkId=714ea6c2dbc0ef4f65a796c35ec67686&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
+<a href="https://www.amazon.es/Spiderman-Guitarra-electr%C3%B3nica-micr%C3%B3fono-Incorporado/dp/B00B5AY8H0/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599215234&sr=8-100&linkCode=ll1&tag=guitar0de-21&linkId=714ea6c2dbc0ef4f65a796c35ec67686&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
 
 
 #### A partir de 5 años
@@ -201,7 +209,7 @@ El ratón más conocido del mundo es una opción que nunca falla y un clásico p
 
 Guitarra electrónica con todo tipo de accesorios: musica, ritmos, melodías, palanca, micrófono e incluso con conexión a móvil y mp3.
 
-<a href="https://www.amazon.es/Mickey-Mouse-Guitarra-micr%C3%B3fono-Claudio/dp/B00KGZDZJ2/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599215795&sr=8-158&linkCode=ll1&tag=guitar0de-21&linkId=11d77a4bba63ac6eaf1a59604f9ca504&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
+<a href="https://www.amazon.es/Mickey-Mouse-Guitarra-micr%C3%B3fono-Claudio/dp/B00KGZDZJ2/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599215795&sr=8-158&linkCode=ll1&tag=guitar0de-21&linkId=11d77a4bba63ac6eaf1a59604f9ca504&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más características</a>
 
 ##### Otras guitarras para niños a partir de 5 años
 
@@ -231,5 +239,5 @@ Si prefieres otro personaje diferente de Mickey Mouse te dejo algunas alternativ
 ¿Buscas una **guitarra para niños** de mayor edad o más enfocada a aprender a tocar de verdad el instrumento? Pásate por nuestra sección dedicada a las <a href="/guitarras-para-ninos">guitarras eléctricas para niños</a>
 
 <div>
-  <a href="/guitarras-para-ninos/" class="btn">Guitarras eléctricas para niños</a>
+  <a href="/guitarras-para-ninos/" class="btn btn-outline-primary">Guitarras eléctricas para niños</a>
 </div>
