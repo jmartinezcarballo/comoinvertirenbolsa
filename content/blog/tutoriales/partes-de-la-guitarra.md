@@ -32,13 +32,11 @@ sucede con la guitarra clásica o española. Además los materiales utilizados s
 Por ello, vamos a dedicar una sección a cada modelo de guitarra y así podáis conocer esos detalles que las diferencian, algunos de los
 cuales son de gran importancia como veremos más adelante, así como los materiales más comunmente utilizados para su fabricación.
 
-## Partes de la guitarra eléctrica
-
-Te presento a continuación un diagrama con las principales partes de la guitarra eléctrica y posteriormente pasaré a darte una breve
+En esta entrada te presentaré las principales partes de la guitarra eléctrica y posteriormente pasaré a darte una breve
 explicación de cada una de ellas:
 
 <div>
-	<img src="/images/blog/tutoriales/partes-guitarra/partes-guitarra-electrica.png" alt="partes de la guitarra clasica" width="400" height="246"/>
+	<img src="/images/blog/tutoriales/partes-guitarra/partes-guitarra-electrica.png" alt="partes de la guitarra clasica" width="370" height="193"/>
 </div>
 
 ### 1. Cuerpo
@@ -47,6 +45,10 @@ El cuerpo de la guitarra es la parte que descansa sobre nosotros cuando tocamos 
 instrumento. Existen muchos tipos de cuerpos diferentes cuyas formas dan nombre a diferentes nomenclaturas de guitarras.
 
 Existen las guitarras Les Paul, las stratocaster, explorer, SG, flying V y algunas más, todas ellas con formas de cuerpo características.
+
+<div>
+	<img src="/images/blog/tutoriales/partes-guitarra/cuerpo-guitarra-electrica.jpg" alt="cuerpo de guitarra eléctrica stratocaster" width="300" height="300"/>
+</div>
 
 El cuerpo de la guitarra es importante no solo estéticamente, también hay cuerpos que pesan más que otros y el sonido de unos cuerpos
 es diferente al de otros.
