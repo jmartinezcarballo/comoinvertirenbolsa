@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Aquí encontrarás información, características y reviews sobre las pastillas para guitarra eléctrica. Las mejores de DiMarzio, Seymour Duncan y EMG."
+summary: "Información y consejos sobre los diferentes tipos de pastillas que puedes encontrar y recomendaciones de algunas de las mejores."
 
 # type
-type: "pastillas-para-guitarra"
+type: "post"
+image: "images/pastillas/pastillas-section.png"
+
+# taxonomies
+categories: 
+  - "Accesorios"
+tags:
+  - "Pastillas"
 ---
 
 ¿Estás cansado de tener una guitarra bonita pero que cada vez que tocas un riff con un poco de distorsión suena como si pisaras a tu gato? es posible que el 
@@ -62,7 +70,7 @@ Asimismo, el voltaje de las pastillas también influirá en la salida del sonido
 o menos voltaje.
 
 <div>
-	<a href="https://amzn.to/31EJnBu" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver pastillas Seymour Duncan</a>
+	<a href="https://amzn.to/31EJnBu" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver pastillas Seymour Duncan</a>
 </div>
 
 ## Tipos de pastillas para guitarra eléctrica
@@ -82,7 +90,7 @@ marcas como Fender y, en general, en muchos modelos Stratocaster y Telecaster.
 Como inconveniente, estas pastillas captan interferencias que como resultado producen ese famoso ruido de fondo que las acompaña.
 
 <div>
-  <a href="https://amzn.to/2ZI1zYn" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar pastillas single coil en Amazon</a>
+  <a href="https://amzn.to/2ZI1zYn" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar pastillas single coil en Amazon</a>
 </div>
 
 #### Las mejores pastillas Single Coil
@@ -121,7 +129,7 @@ Las **pastillas de bovina doble** son características de sonidos gruesos como e
 En muchos casos, los fabricantes incluyen en sus modelos de guitarras ámbos tipos de pastillas para así dotar a la guitarra de mayor versatilidad de sonidos.
 
 <div>
-  <a href="https://amzn.to/3ir3vgi" class="btn" rel="nofollow noopener noreferrer" target="_blank">Encuentra tus pastillas humbucker</a>
+  <a href="https://amzn.to/3ir3vgi" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Encuentra tus pastillas humbucker</a>
 </div>
 
 #### Las mejores pastillas Humbucker
@@ -172,7 +180,7 @@ Las pastillas p90 son una variante de la single coil introducidas por Gibson que
 <img src="../../images/pastillas/pastilla-p90.jpg" alt="pastilla p90">
 
 <div>
-  <a href="https://amzn.to/2C4ECqe" class="btn" rel="nofollow noopener noreferrer" target="_blank">Selección de pastillas p90</a>
+  <a href="https://amzn.to/2C4ECqe" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Selección de pastillas p90</a>
 </div>
 
 ## Las mejores pastillas EMG
@@ -208,4 +216,6 @@ indiscutible.
           <figcaption>EMG 81</figcaption>
         </a>
       </div>
-</div> 
+</div>
+
+<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>

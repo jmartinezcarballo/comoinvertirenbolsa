@@ -9,6 +9,14 @@ description: "Consulta nuestra review de la Ibanez grg121dx. Características, e
 
 # type
 type: "ibanez-grg121dx"
+image: "images/ibanez/ibanez-grg121dx-section.jpg"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Guitarras"
+  - "Ibanez"
 ---
 
 La **Ibanez grg121dx** es una guitarra eléctrica superstrato perteneciente a la **serie GIO** de Ibanez. La serie GIO es la serie más **barata** de todas las que ofrece Ibanez, también la de peor calidad, y está pensada para aquellos que quieren tener una Ibanez pero tampoco se quieren gastar mucho dinero.
@@ -22,7 +30,7 @@ La **Ibanez grg121dx** es una guitarra eléctrica superstrato perteneciente a la
 En esta **completa review** analizaremos en profundidad la Ibanez grg121dx, veremos sus componentes y características principales y al público al que idealmente va dirigida esta guitarra.
 
 <div>
-	<a href="https://amzn.to/3pT3tRd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3pT3tRd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ## Especificaciones generales
@@ -37,7 +45,7 @@ En esta **completa review** analizaremos en profundidad la Ibanez grg121dx, vere
 * Herrajes negros
 
 <div>
-	<a href="https://amzn.to/3pT3tRd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3pT3tRd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 
@@ -124,29 +132,11 @@ La Ibanez grg121dx es una guitarra competitiva dentro de las **guitarras de gama
 Si buscas una guitarra muy versátil, tus preferencias musicales son otras o bien no eres un principiante, seguramente hay opciones mejores en el mercado. Eso si, no deja de ser una Ibanez y eso siempre va a ser algo positivo.
 
 <div>
-	<a href="https://amzn.to/3pT3tRd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en color negro</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://amzn.to/3hWCsJZ" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en color marrón</a>
+	<a href="https://amzn.to/3pT3tRd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en color negro</a>&nbsp;
+	<a href="https://amzn.to/3hWCsJZ" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en color marrón</a>
 </div>
 
 &nbsp;
 
-**¿Te ha gustado la review? consulta las reseñas de otros modelos de guitarra**
-
-<div class="row">
-     <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/x11/">
-          <figcaption>Cort x11</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr100/">
-          <figcaption>Cort cr100</figcaption>
-        </a>
-      </div> 
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-epiphone/aj220s/">
-          <figcaption>Epiphone AJ220s</figcaption>
-        </a>
-      </div>
-</div>
+<a href="/guitarras-ibanez/" class="btn btn-outline-primary">Volver a guitarras Ibanez</a>&nbsp;
+<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>

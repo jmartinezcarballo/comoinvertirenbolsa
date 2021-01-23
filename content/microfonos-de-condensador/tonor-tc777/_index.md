@@ -9,6 +9,13 @@ description: "Review completa del Tonor TC 707. Especificaciones, accesorios y t
 
 # type
 type: "tonor-tc777"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Micrófonos"
+  - "Tonor"
 ---
 
 El Tonor TC-777 es un **micrófono de condensador cardioide** bastante popular. Su éxito viene de su gran relación **calidad precio** y es que por muy
@@ -23,7 +30,7 @@ poco dinero ofrece unas bastante buenas prestaciones.
 </div>
 
 <div>
-  <a href="https://amzn.to/3q43BNQ" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio Tonor TC-777</a>
+  <a href="https://amzn.to/3q43BNQ" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio Tonor TC-777</a>
 </div>
 
 ## Especificaciones del Tonor TC 777
@@ -100,29 +107,13 @@ Si buscas un micrófono para transmitir voz, ya sea jugar, streaming, o para vid
 Si quieres darle un uso más profesional o utilizarlo para grabar música este no es el micrófono más adecuado, creemos que deberías buscar otros, seguramente un modelo XLR como el [Tonor TC 20](/microfonos-de-condensador/tonor-tc20) u otro de gama superior.
 
 <div>
-  <a href="https://amzn.to/3q43BNQ" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio Tonor TC-777</a>
+  <a href="https://amzn.to/3q43BNQ" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio Tonor TC-777</a>
 </div>
 
 Si estás interesado en más micrófonos te recomiendo que visites nuestra sección dedicada a los [micrófonos de condensador](/microfonos-de-condensador). En ella podrás encontrar toda la información que necesitas saber a la hora de escoger un micrófono y también podrás ver otras **reviews y recomendaciones de micrófonos** con una buena relación **calidad precio** actualizado a 2021.
 
-
-**¿Estás interesado en una guitarra? no dejes de visitar otras secciones de nuestra web:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-electricas-baratas/">
-          <figcaption>Guitarras eléctricas baratas</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarra-pequena-cuatro-cuerdas/">
-          <figcaption>Guitarras de cuatro cuerdas</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/">
-          <figcaption>Guitarras Cort</figcaption>
-        </a>
-      </div>
+<div>
+  <a href="/tags/micrófonos" class="btn btn-outline-primary">Buscar otro micrófono</a>&nbsp;
+  <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
 </div>
 

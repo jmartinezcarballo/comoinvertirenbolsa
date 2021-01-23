@@ -5,10 +5,18 @@ date: 2020-09-10T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Todo sobre los micrófonos de condensador. Consejos y reviews de algunos de los mejores modelos calidad precio como los Tonor TC 20 y Tonor TC-777"
+description: "Todo sobre los micrófonos de condensador. Consejos de compra y reviews de algunos de los mejores modelos calidad precio."
+summary: "Información, reviews y consejos sobre los mejores micrófonos de condensador en relación calidad precio."
 
 # type
-type: "microfonos-de-condensador"
+type: "post-destacado"
+image: "images/microfonos-de-condensador/microfonos-condensador-section.png"
+
+# taxonomies
+categories: 
+  - "Accesorios"
+tags:
+  - "Micrófonos"
 ---
 
 Es probable que si preguntas a alguien sobre la primera profesión que le viene a la cabeza cuando piensa en un micrófono te contesté que cantante, o que
@@ -28,7 +36,7 @@ En esta sección te voy a explicar todo lo que necesitas saber para comprar un m
 Así pues empecemos!
 
 <div>
-  <a href="https://amzn.to/3hj4jnd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
+  <a href="https://amzn.to/3hj4jnd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
 </div>
 
 
@@ -93,7 +101,7 @@ Te enumero a continuación las características más importantes de este micróf
 * Cable de 1,5 metros
 
 <div>
-	<a href="https://www.amazon.es/TONOR-Condensador-Computadora-Podcasting-Transmisi%C3%B3n/dp/B07W6ZZZWK/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3L78IYAIL15RR&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600498671&sprefix=micr%C3%B3fonos+de+con,aps,163&sr=8-9&linkCode=ll1&tag=guitar0de-21&linkId=01e12711417a6b47b2de253c99662ab8&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/TONOR-Condensador-Computadora-Podcasting-Transmisi%C3%B3n/dp/B07W6ZZZWK/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3L78IYAIL15RR&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600498671&sprefix=micr%C3%B3fonos+de+con,aps,163&sr=8-9&linkCode=ll1&tag=guitar0de-21&linkId=01e12711417a6b47b2de253c99662ab8&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 ## Características de un micrófono de condensador
@@ -238,7 +246,7 @@ Al tener conectividad XLR necesitarás conectarlo a una fuente de alimentación 
 * SNR: 94dB
 
 <div>
-	<a href="https://www.amazon.es/Condensador-TONOR-Profesional-Amortiguador-TC20/dp/B089SX1DX2/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=b79f56f9791c594ed06ff7908ff6bfbb&language=es_ES" class="btn" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/Condensador-TONOR-Profesional-Amortiguador-TC20/dp/B089SX1DX2/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=b79f56f9791c594ed06ff7908ff6bfbb&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>
 
 &nbsp;
@@ -270,7 +278,7 @@ Repasa a continuación algunas de sus principales características.
 * Conexión de tipo XLR
 
 <div>
-	<a href="https://www.amazon.es/Audio-Technica-AT2035-Micr%C3%B3fono-20-20000-Al%C3%A1mbrico/dp/B002T45X1G/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-3&linkCode=ll1&tag=guitar0de-21&linkId=05141d1252b4dac170a7d9f208ce1e94&language=es_ES" class="btn" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/Audio-Technica-AT2035-Micr%C3%B3fono-20-20000-Al%C3%A1mbrico/dp/B002T45X1G/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-3&linkCode=ll1&tag=guitar0de-21&linkId=05141d1252b4dac170a7d9f208ce1e94&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>
 
 &nbsp;
@@ -297,7 +305,7 @@ compatibilidad con diferentes dispositivos, pudiéndolo conectar incluso a un iP
 * Conectividad por cable USB
 
 <div>
-	<a href="https://www.amazon.es/Rode-NT-USB-Micr%C3%B3fono-color-negro/dp/B00KQPGRRE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-9&linkCode=ll1&tag=guitar0de-21&linkId=e5b78fcc6145627a4ffaf0764506f6c5&language=es_ES" class="btn" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/Rode-NT-USB-Micr%C3%B3fono-color-negro/dp/B00KQPGRRE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-9&linkCode=ll1&tag=guitar0de-21&linkId=e5b78fcc6145627a4ffaf0764506f6c5&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>
 
 &nbsp;
@@ -324,7 +332,7 @@ Además del micrófono se incluye en el kit un soporte en trípode y otro soport
 * Conexión Plug and Play por USB con cable de 2,4m
 
 <div>
-	<a href="https://www.amazon.es/Jelly-Comb-Condensador-Profesional-Transmisi%C3%B3n/dp/B089D9FD5W/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-7&linkCode=ll1&tag=guitar0de-21&linkId=ba333ae95e9aa76d320585fad62d2015&language=es_ES" class="btn" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/Jelly-Comb-Condensador-Profesional-Transmisi%C3%B3n/dp/B089D9FD5W/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-7&linkCode=ll1&tag=guitar0de-21&linkId=ba333ae95e9aa76d320585fad62d2015&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>
 
 &nbsp;
@@ -350,28 +358,8 @@ y una excelente frecuencia de muestreo.
 * Conectividad Plug and Play por USB
 
 <div>
-	<a href="https://www.amazon.es/YOTTO-Micr%C3%B3fono-Condensador-profesional-Podcasting/dp/B08BG27566/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-2&linkCode=ll1&tag=guitar0de-21&linkId=7247682f0807ed50e1410ea71d515ae3&language=es_ES" class="btn" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/YOTTO-Micr%C3%B3fono-Condensador-profesional-Podcasting/dp/B08BG27566/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-2&linkCode=ll1&tag=guitar0de-21&linkId=7247682f0807ed50e1410ea71d515ae3&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>
-
-&nbsp;
-
-**¿Te ha gustado la sección? visita otras secciones de accesorios para guitarra:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/inlays-guitarra/">
-          <figcaption>Inlays para guitarra</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/puas-guitarra/">
-          <figcaption>Puas para guitarra</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/pastillas-para-guitarra/">
-          <figcaption>Pastillas para guitarra</figcaption>
-        </a>
-      </div>
-</div>
+<a href="/tags/micrófonos" class="btn btn-outline-primary">Buscar micrófono</a>&nbsp;
+<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
 

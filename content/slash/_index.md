@@ -6,9 +6,18 @@ draft: false
 
 # meta description
 description: "Las mejores guitarras de Slash hasta 2021 &#9989; conoce todo sobre las guitarras del solista de Guns n Roses y Velvet Revolver"
+summary: "Todo sobre las guitarras de Slash en 2021"
 
 # type
-type: "slash"
+type: "post"
+image: "images/slash/slash-section.jpg"
+
+# taxonomies
+categories: 
+  - "Guitarristas"
+tags:
+  - "Slash"
+  - "Les Paul"
 ---
 
 Pocos guitarristas hay en el mundo del rock más carismáticos que Slash. De nombre real **Saul Hudson** y nacido en las cercanías de Londres en 1965, 
@@ -23,7 +32,7 @@ sobre ellas, toma asiento y resérvate unos pocos minutos para continuar leyendo
 **¿Te gustaría tener una réplica de guitarra de Slash con pua dedicada de regalo? mira lo que tengo para ti!**
 
 <div>
-	<a href="https://www.amazon.es/SLASH-Guitarra-miniatura-guitarra-Gibson/dp/B07QX25CZS/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=gibson+les+paul&qid=1598078438&sr=8-36&linkCode=ll1&tag=guitar0de-21&linkId=a2dfe030eff5ac05bb868e7a7311965d&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://www.amazon.es/SLASH-Guitarra-miniatura-guitarra-Gibson/dp/B07QX25CZS/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=gibson+les+paul&qid=1598078438&sr=8-36&linkCode=ll1&tag=guitar0de-21&linkId=a2dfe030eff5ac05bb868e7a7311965d&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 ## Biografía de Slash a través de sus guitarras
@@ -239,17 +248,6 @@ Seymour Duncan Alnico Pro.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07RFRBXYH&linkId=fde5097d9aeae1f1b72b08862fb193fc"></iframe>
 
-&nbsp;
-
-Y hasta aquí esta **biografía** que he querido hacer de **Slash a través de sus guitarras**.
-
-Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: guitarscollector y groundguitar.
-
-Si te ha parecido interesante el artículo te recomiendo pasarte por las secciones dedicadas a otros grandes guitarristas. Espero con el tiempo poder ir añadiendo más
-artistas a esta sección:
-
 <div>
-  <a href="/james-hetfield" class="btn">Ir a las guitarras de James Hetfield</a>
-	<a href="/kirk-hammett" class="btn">Ir a las guitarras de Kirk Hammett</a>
-	<a href="/daron-malakian" class="btn">Ir a las guitarras de Daron Malakian</a>
+  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>
 </div>

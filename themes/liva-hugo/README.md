@@ -13,7 +13,7 @@
 * [Demo](#demo)
 * [Installation](#installation)
 * [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
+* [Technical Support or Questions](#technical-support-or-questions-(paid))
 * [Licensing](#licensing)
 * [More Hugo Themes](https://gethugothemes.com/shop/)
 
@@ -24,6 +24,8 @@
 ## Installation
 
 Navigate to your themes folder in your Hugo site and use the following commands:
+
+**Note : You must use `hugo-extended` version to compile SCSS**
 
 ```
   $ mkdir themes
@@ -37,23 +39,19 @@ We use GitHub Issues as the official bug tracker for the **Liva Theme.** Please 
 
 If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/liva-hugo/issues/new)
 
-## Technical Support or Questions
+## Technical Support or Questions (Paid)
 
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
 ## Licensing
+Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
 
-* Copyright 2020 Themefisher (https://themefisher.com/)
-* Licensed under MIT (https://github.com/themefisher/liva-hugo/blob/master/LICENSE)
+**Code License:** Released under the [MIT](https://github.com/themefisher/liva-hugo/blob/master/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
 
 ## Premium Themes
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![galaxy](https://gethugothemes.com/wp-content/uploads/edd/2020/04/galaxy.png)](https://gethugothemes.com/products/galaxy/) | [![logbook](https://gethugothemes.com/wp-content/uploads/edd/2020/03/logbook-hugo.jpg)](https://gethugothemes.com/products/logbook-hugo/) |
+| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![reader](https://gethugothemes.com/wp-content/uploads/edd/2020/09/Reader.jpg)](https://gethugothemes.com/products/reader/) | [![logbook](https://gethugothemes.com/wp-content/uploads/edd/2020/03/logbook-hugo.jpg)](https://gethugothemes.com/products/logbook-hugo/) |
 |:---:|:---:|:---:|
 | **Hugo Mega Bundle**  | **Galaxy**  | **LogBook**  |
-| [![gojournal](https://gethugothemes.com/wp-content/uploads/edd/2020/04/GoJournal-hugo.png)](https://gethugothemes.com/products/gojournal-hugo/) | [![gofolium](https://gethugothemes.com/wp-content/uploads/2020/03/gofolium.png)](https://gethugothemes.com/products/gofolium-hugo/) | [![biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/) |
-| **GoJournal** | **GoFolium** | **Biztrox** |
-| [![northendlab](https://gethugothemes.com/wp-content/uploads/2019/11/Blogplate-Blog-Template.png)](https://gethugothemes.com/products/northendlab/) | [![Parsa](https://gethugothemes.com/wp-content/uploads/edd/2019/07/parsa-768x576.jpg)](https://gethugothemes.com/products/parsa-hugo-theme/) | [![Kross](https://gethugothemes.com/wp-content/uploads/edd/2019/07/kross-portfolio-template.jpg)](https://gethugothemes.com/products/kross-hugo-theme/) |
-| **Northendlab** | **Parsa** | **Kross** |
-| [![revolve](https://gethugothemes.com/wp-content/uploads/edd/2019/11/revolve.jpg)](https://gethugothemes.com/products/revolve-hugo/) | [![Phantom](https://gethugothemes.com/wp-content/uploads/edd/2019/06/Phantom.jpg)](https://gethugothemes.com/products/phantom-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Revolve** | **Phantom** | **More Hugo Themes** |

@@ -26,6 +26,8 @@ body {
 img {
   vertical-align: middle;
   border: 0;
+  max-width: 100%;
+  height: auto;
 }
 
 a,
@@ -53,8 +55,12 @@ a:hover {
   color: $primary-color;
 }
 
+.slick-slide {
+  outline: 0;
+}
+
 .section {
-  padding-top: 150px;
+  padding-top: 80px;
   padding-bottom: 150px;
 
   &-sm {
@@ -63,7 +69,13 @@ a:hover {
   }
 
   &-title {
-    margin-bottom: 30px;
+  	margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  &-search {
+  	padding-top: 50px;
+  	padding-right: 200px;
   }
 }
 
@@ -198,18 +210,6 @@ textarea.form-control{
 
 a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover{
   background: $primary-color !important;
-}
-
-div.comparativa-item {
-    vertical-align: top;
-    display: inline-block;
-    text-align: center;
-    width: 100px;
-    height: 200px;
-}
-
-.caption {
-    display: block;
 }
 
 /* Table of Components ToC*/

@@ -21,49 +21,61 @@ disqusShortname = ""
   # CSS Plugins
   [[params.plugins.css]]
   URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
 
   # JS Plugins
   [[params.plugins.js]]
   URL = "plugins/jQuery/jquery.min.js"
   [[params.plugins.js]]
   URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
   
 ############################## navigation ###############################
 [menu]
-  
+
   # main menu
   [[menu.main]]
-  name = "Guitarras"
+  name = "Las mejores"
   hasChildren = true
   weight = 1
     # main menu
     [[menu.main]]
     name = "Guitarras eléctricas baratas"
-    parent = "Guitarras"
+    parent = "Las mejores"
     URL = "guitarras-electricas-baratas/"
     weight = 1
     # main menu
     [[menu.main]]
     name = "Guitarras eléctricas para niños"
-    parent = "Guitarras"
+    parent = "Las mejores"
     URL = "guitarras-para-ninos/"
     weight = 2
     # main menu
     [[menu.main]]
     name = "Guitarras en miniatura"
-    parent = "Guitarras"
+    parent = "Las mejores"
     URL = "guitarras-en-miniatura/"
     weight = 3
     # main menu
     [[menu.main]]
     name = "Guitarras pequeñas de cuatro cuerdas y ukeleles"
-    parent = "Guitarras"
+    parent = "Las mejores"
     URL = "guitarra-pequena-cuatro-cuerdas/"
     weight = 4
     # main menu
     [[menu.main]]
     name = "Guitarras musicales"
-    parent = "Guitarras"
+    parent = "Las mejores"
     URL = "guitarras-musicales/"
     weight = 5
 
@@ -108,8 +120,8 @@ disqusShortname = ""
     parent = "Marcas"
     URL = "guitarras-yamaha/"
     weight = 6
-
-  # main menu
+    
+   # main menu
   [[menu.main]]
   name = "Accesorios"
   hasChildren = true
@@ -149,42 +161,53 @@ disqusShortname = ""
     parent = "Accesorios"
     URL = "transmisores-inalambricos-guitarra/"
     weight = 6
-
-  # main menu
+    
+    # main menu
     [[menu.main]]
     name = "Guitarristas"
     hasChildren = true
     weight = 4
     # main menu
+    #[[menu.main]]
+    #name = "Carlos Santana"
+    #parent = "Guitarristas"
+    #URL = "carlos-santana/"
+    #weight = 1
+    # main menu
     [[menu.main]]
     name = "Daron Malakian"
     parent = "Guitarristas"
     URL = "daron-malakian/"
-    weight = 1
+    weight = 2
     # main menu
     [[menu.main]]
     name = "Eddie Van Halen"
     parent = "Guitarristas"
     URL = "eddie-van-halen/"
-    weight = 2
+    weight = 3
     # main menu
     [[menu.main]]
     name = "James Hetfield"
     parent = "Guitarristas"
     URL = "james-hetfield/"
-    weight = 3
+    weight = 4
     # main menu
     [[menu.main]]
     name = "Kirk Hammett"
     parent = "Guitarristas"
     URL = "kirk-hammett/"
-    weight = 4
+    weight = 5
     # main menu
     [[menu.main]]
     name = "Slash"
     parent = "Guitarristas"
     URL = "slash/"
-    weight = 5
+    weight = 6
+    
+    [[menu.main]]
+	  name = "Blog"
+	  URL = "blog"
+	  weight = 5
 
   # footer menu
   [[menu.footer]]
@@ -201,9 +224,37 @@ disqusShortname = ""
 logo = "images/comprar-una-guitarra.png"
 home = "Inicio"
 # Meta data
-description = "¿Quieres aprender a tocar la guitarra en 2021? Encuentra consejos, comparativas y ayuda para comprar una guitarra"
-author = "Comprar una Guitarra"
+description = "Aquí podrás encontrar reviews, comparativas, consejos, tutoriales y noticias acerca del mundo de la guitarra y otros accesorios relacionados con la música"
+author = "CuG"
 # Google Analitycs
 googleAnalitycsID = "UA-167226734-1"
 # copyright
-copyright = "| copyright &copy; 2021 **Comprar una Guitarra** All Rights Reserved |"
+copyright = "| Copyright (c) 2020 Themefisher |"
+
+# Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = true
+
+############################ news letter ########################
+[params.newsletter]
+enable = false
+title = "Join Our Newsletter"
+content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 60
+
+
+############################# social site ########################
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/ComprarUna"

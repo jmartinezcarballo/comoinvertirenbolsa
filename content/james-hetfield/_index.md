@@ -6,9 +6,18 @@ draft: false
 
 # meta description
 description: "Las mejores guitarras de James Hetfield hasta 2021 &#9989; conoce todo sobre las guitarras del líder de Metallica"
+summary: "Toda la información acerca de las guitarras que ha utilizado el líder de Metallica a lo largo de toda su trayectoria musical."
 
 # type
-type: "james-hetfield"
+type: "post-destacado"
+image: "images/james-hetfield/james-hetfield-section.jpg"
+
+# taxonomies
+categories: 
+  - "Guitarristas"
+tags:
+  - "James Hetfield"
+  - "Metallica"
 ---
 
 Hablar de <a href="https://amzn.to/3ixnzgl" rel="nofollow noopener noreferrer" target="_blank">James Hetfield</a> es hablar de una de las mayores leyendas vivas dentro del panorama musical mundial.
@@ -26,8 +35,7 @@ Como la historia de Metallica ya es conocida por todos, y siendo ésta una pági
 ¿Aún no tienes en casa el **S&M2** de Metallica con la **Orquesta Sinfónica de San Francisco**? ¿A qué esperas? aquí lo tienes en diferentes formatos:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B089J3LQN4&linkId=7e3fc812d5889347f460829cd12536d1"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08C9CZ47C&linkId=6b5361799f556c254e2700a77059eeff"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08CWD65YR&linkId=d4df911a664638f2decdd83190b10e3e"></iframe>
+&nbsp;&nbsp;
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08BDWYGMV&linkId=962378c74a80564205c77d9be329cedc"></iframe>
 
 &nbsp;
@@ -152,8 +160,8 @@ Os dejo con un video del concierto **homenaje a Freddy Mercury** donde podéis v
 Hasta aquí el repaso a los 15 primeros años de la carrera de Metallica en lo que a guitarras se refiere. ¿Te han gustado las **explorer de James Hetfield**?
 
 <div>
-	<a href="https://amzn.to/2BxUWzh" class="btn" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer blanca</a> &nbsp;
-	<a href="https://www.thomann.de/es/esp_ltd_ex_200_black.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer negra</a>
+	<a href="https://amzn.to/2BxUWzh" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer blanca</a> &nbsp;
+	<a href="https://www.thomann.de/es/esp_ltd_ex_200_black.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer negra</a>
 </div>
 
 ### Ken Lawrence Explorer (desde 1996)
@@ -291,8 +299,8 @@ Basada en la **Gibson Les Paul Custom** que utilizó durante la gira de St.Anger
 ¿Te gustaría tener una **ESP Iron Cross**?
 
 <div>
-	<a href="https://www.thomann.de/es/esp_ltd_iron_cross_sw_459164.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Iron Cross</a>&nbsp;
-	<a href="https://www.thomann.de/es/esp_iron_cross_sw.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Iron Cross</a>
+	<a href="https://www.thomann.de/es/esp_ltd_iron_cross_sw_459164.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Iron Cross</a>&nbsp;
+	<a href="https://www.thomann.de/es/esp_iron_cross_sw.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Iron Cross</a>
 </div>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07GBCJ5RQ&linkId=96a491ce6a8f77f0296506aba074afe7"></iframe>
@@ -324,8 +332,8 @@ Las especificaciones ofrecen pocas novedades respecto a modelos previos, con el 
 ¿Te gustaría tener una **ESP Snakebyte**?
 
 <div>
-	<a href="https://www.thomann.de/es/esp_ltd_snakebyte_sw_459205.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Snakebyte</a>&nbsp;
-	<a href="https://www.thomann.de/es/esp_snakebyte_sw_james_hetfield.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Snakebyte</a>
+	<a href="https://www.thomann.de/es/esp_ltd_snakebyte_sw_459205.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Snakebyte</a>&nbsp;
+	<a href="https://www.thomann.de/es/esp_snakebyte_sw_james_hetfield.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Snakebyte</a>
 </div>
 
 &nbsp;
@@ -357,8 +365,8 @@ La **ESP Vulture** es la última ESP signature creada para James Hetfield en 201
 ¿Te gustaría tener una **ESP Vulture**?
 
 <div>
-	<a href="https://www.thomann.de/es/esp_ltd_vulture_blks.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Vulture</a>&nbsp;
-	<a href="https://www.thomann.de/es/esp_vulture_bks_hetfield.htm?partner_id=87175" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Vulture</a>
+	<a href="https://www.thomann.de/es/esp_ltd_vulture_blks.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Vulture</a>&nbsp;
+	<a href="https://www.thomann.de/es/esp_vulture_bks_hetfield.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Vulture</a>
 </div>
 
 ### Kenneth Lawrence Explorer Garage Days "Carl" (2018)
@@ -394,20 +402,10 @@ Sin duda, todo el interior del cuerpo estará hecho de la mejor caoba que exista
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004UAH5HC&linkId=bef158b9b2b053d6f08a3e29f4591149"></iframe>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0845N5SZZ&linkId=39013565f2d720bafb4f9d5e929fb5fc"></iframe>
+&nbsp;&nbsp;
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004A91X8K&linkId=a5c7ad3ff8ca7fe546c59e159cc7ac5a"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0845TNRNM&linkId=d61a7b95218663ac0554f72b4502cae9"></iframe>
-
-Y hasta aquí esta **biografía** que he querido hacer de **James Hetfield a través de sus guitarras**. Me he dejado varios modelos interesantes por el camino pero en algún punto tenía que poner el corte, mi intención ha sido que todas las épocas y discos quedaran representados.
-
-Por último dejar constancia y agradecer a dos sitios web de los cuales he podido obtener parte de la información que desconocía para complementar la biografía: guitarscollector y groundguitar.
-
-Si te ha parecido interesante el artículo te recomiendo visitar la página dedicada a otros guitarristas, donde podrás encontrar
-un completísimo repaso a las carreras de los músicos desde el punto de vista de sus guitarras:
 
 <div>
-  <a href="/kirk-hammett" class="btn">Ir a las guitarras de Kirk Hammett</a>
-  <a href="/slash" class="btn">Ir a las guitarras de Slash</a>
-  <a href="/daron-malakian" class="btn">Ir a las guitarras de Daron Malakian</a>
+  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>
 </div>

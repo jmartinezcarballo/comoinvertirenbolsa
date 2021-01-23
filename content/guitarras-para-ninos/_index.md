@@ -6,9 +6,18 @@ draft: false
 
 # meta description
 description: "Selección de las mejores guitarras eléctricas para niños de 2021 &#9989; ideales para niños entre los 4 y los 12 años."
+summary: "Selección de guitarras de seis cuerdas para niños que quieren aprender a tocar. Guitarras de escala inferior a 4/4."
 
 # type
-type: "guitarras-electricas-niños"
+type: "post"
+image: "images/guitarras-infantiles/guitarra-ninos-section.jpg"
+
+# taxonomies
+categories: 
+  - "Listas Top"
+tags:
+  - "niños"
+  - "Escala corta"
 ---
 
 ¿A tus hijos les gusta tu **guitarra eléctrica** y quieren que les dejes tocar? si estás aquí seguramente sea porque te estás planteando comprar una guitarra eléctrica a tu hijo/a pero te surjan algunas dudas al respecto.

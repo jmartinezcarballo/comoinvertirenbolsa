@@ -9,6 +9,14 @@ description: "Consulta nuestra review de la Cort g260. Descripciones, especifica
 
 # type
 type: "cort-g260"
+image: "images/cort/cort-g260-section.jpg"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Guitarras"
+  - "Cort"
 ---
 
 Preciosa y versátil guitarra la que nos ofrece Cort con su modelo g260. Fabricada en Indonesia, sus pastillas con licencia **Seymour Duncan** aseguran un buen sonido, mientras que el push-pull 
@@ -19,7 +27,7 @@ Destaca sobretodo por su comodidad y su sonido limpio y brillante.
 Si buscas una strato por **menos de 500€** es una candidata a tener en cuenta.
 
 <div>
-	<a href="https://www.thomann.de/es/cort_g260_black_egitarre.htm" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://www.thomann.de/es/cort_g260_black_egitarre.htm" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 
@@ -36,7 +44,7 @@ Si buscas una strato por **menos de 500€** es una candidata a tener en cuenta.
 * Vibrato Wilkinson VS 50 II
 
 <div>
-	<a href="https://www.thomann.de/es/cort_g260_black_egitarre.htm" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://www.thomann.de/es/cort_g260_black_egitarre.htm" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 &nbsp;
@@ -50,22 +58,4 @@ de pastillas:
 
 &nbsp;
 
-**¿No es ésta la guitarra Cort que buscabas? quizá éstas te puedan interesar:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/x11/">
-          <figcaption>Cort x11</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr250/">
-          <figcaption>Cort cr250</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr100/">
-          <figcaption>Cort cr100</figcaption>
-        </a>
-      </div>
-</div>
+<a href="/guitarras-cort/" class="btn btn-outline-primary">Volver a guitarras Cort</a>

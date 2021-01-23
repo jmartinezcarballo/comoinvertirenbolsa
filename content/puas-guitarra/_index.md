@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "las mejores puas de guitarra de 2021. Encuentra todo tipo de diseños, materiales, puas personalizadas de distintos grosores"
+summary: "Encuentra puas con todo tipo de diseños, grosores y materiales, además de porta puas para tenerlas bien guardadas."
 
 # type
-type: "puas-para-guitarra"
+type: "post-destacado"
+image: "images/puas/puas-guitarra-section.jpg"
+
+# taxonomies
+categories: 
+  - "Accesorios"
+tags:
+  - "Puas"
 ---
 
 Tanto si quieres aprender a tocar la guitarra como si ya eres un experto de las 6 cuerdas, casi con toda seguridad vas a necesitar comprar en algún momento **puas de guitarra**.
@@ -26,7 +34,7 @@ relacionados con la guitarra más asequibles del mercado y accesibles a todo el 
 
 Para empezar te presento una selección de las **mejores púas de guitarra** de 2021 que puedes encontrar hoy en día.
 
-<a href="https://amzn.to/2ALUCgA" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar en Amazon</a>
+<a href="https://amzn.to/2ALUCgA" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar en Amazon</a>
 
 &nbsp;
 
@@ -74,7 +82,7 @@ Todas tienen un tamaño estándar y 0,71mm de grosor.
 Incluye una pequeña bolsa de terciopelo para guardarlas.
 
 <div>
-	<a href="https://amzn.to/3eFBBdV" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/3eFBBdV" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
 </div>
 
 ### Kit de 40 puas Rayzm
@@ -98,7 +106,7 @@ El kit incluye:
 * Incluye funda de tela resistente para su guardado
 
 <div>
-	<a href="https://amzn.to/37llUWG" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/37llUWG" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
 </div>
 
 ### Kit de 50 puas fabricadas con delrin
@@ -122,7 +130,7 @@ El kit incluye:
 * Incluye funda de tela para su guardado
 
 <div>
-	<a href="https://amzn.to/2XSU7bY" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/2XSU7bY" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
 </div>
 
 ### Kit de puas para guitarra eléctrica, acústica y bajo
@@ -140,7 +148,7 @@ El kit incluye:
 * Incluye caja metálica circular para su guardado
 
 <div>
-	<a href="https://amzn.to/2XrZPTi" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/2XrZPTi" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
 </div>
 
 ## Grosor de las púas de guitarra
@@ -271,22 +279,4 @@ Te presento algunas opciones recomendables tanto para un caso como el otro. Todo
       </div>
 </div>
 
-**¿Quieres cambiar de guitarra? quizá estas marcas te puedan interesar:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-yamaha/">
-          <figcaption>Guitarras Eléctricas Yamaha</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-ltd/">
-          <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/">
-          <figcaption>Guitarras Eléctricas Cort</figcaption>
-        </a>
-      </div>
-</div>
+<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>

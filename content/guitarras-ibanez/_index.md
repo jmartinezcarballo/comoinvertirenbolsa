@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Encuentra una selección de las mejores guitarras Ibanez de 2021 &#9989;  Compara entre modelos exitosos de la serie Ibanez GIO"
+summary: "Reviews de guitarras Ibanez"
 
 # type
-type: "guitarras-electricas-ibanez"
+type: "post"
+image: "images/ibanez/ibanez-grg121dx-section.jpg"
+
+# taxonomies
+categories: 
+  - "Guitarras"
+tags:
+  - "Ibanez"
 ---
 
 Sección dedicada a las **guitarras Ibanez**, una marca con una gran reputación dentro del mundo del rock duro y que se caracteriza por su calidad y por construir algunas de las guitarras más cómodas y ligeras del mercado.
@@ -16,7 +24,7 @@ Sección dedicada a las **guitarras Ibanez**, una marca con una gran reputación
 Compara entre diferentes modelos de guitarras eléctricas para que puedas decidir aquella que más se adapte a ti.
 
 <div>
-	<a href="https://amzn.to/3hODLe8" class="btn" rel="nofollow noopener noreferrer" target="_blank">Busca tu guitarra Ibanez</a>
+	<a href="https://amzn.to/3hODLe8" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Busca tu guitarra Ibanez</a>
 </div>
 
 <div class="row">

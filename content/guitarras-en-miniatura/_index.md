@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Encuentra todo tipo de miniguitarras de colección de los artistas y bandas más famosos. Si te gustan las guitarras en miniatura este es tu sitio."
+summary: "Todo sobre las guitarras en miniatura. Decenas de modelos para coleccionista de tus artistas preferidos"
 
 # type
-type: "guitarras-en-miniatura"
+type: "post"
+image: "images/guitarras-en-miniatura/guitarra-miniatura-section.jpg"
+
+# taxonomies
+categories: 
+  - "Listas Top"
+tags:
+  - "miniguitarras"
 ---
 
 Existen en el mundo miles de personas apasionadas del mundo del **coleccionismo**, llegando incluso a gastar cantidades abismales de dinero por ese tan preciado objeto para la colección.
@@ -26,7 +34,7 @@ En esta sección voy a dedicarme a enseñaros una selección de varias de las me
 de esto queráis empezar al menos a tener unas pocas guitarras de vuestro guitarrista preferido.
 
 
-<a href="https://amzn.to/3lMdzRr" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar guitarra en miniatura</a>
+<a href="https://amzn.to/3lMdzRr" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar guitarra en miniatura</a>
 
 &nbsp;
 
@@ -98,7 +106,7 @@ para saber más.
 
 ¿No has encontrado al guitarrista que buscabas? echa un vistazo aquí:
 
-<a href="https://amzn.to/2VT3ms2" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar guitarrista</a>
+<a href="https://amzn.to/2VT3ms2" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar guitarrista</a>
 
 ## Packs de miniguitarras de grupos musicales
 
@@ -170,7 +178,7 @@ Te presento a continuación algunos packs de bandas que incluyen varias miniguit
 
 Esta es solo una selección de algunas de las bandas que puedes encontrar. Para ver más clica a continuación:
 
-<a href="https://amzn.to/2VT3ms2" class="btn" rel="nofollow noopener noreferrer" target="_blank">Buscar packs de bandas</a>
+<a href="https://amzn.to/2VT3ms2" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar packs de bandas</a>
 
 ## Miniguitarras de adorno clasificadas por estilo musical
 
@@ -207,7 +215,7 @@ Si eres seguidor de [James Hetfield](/james-hetfield) y [Kirk Hammett](/kirk-ham
       </div>
 </div>
 
-<a href="https://amzn.to/3m5AYxH" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más miniguitarras de Metallica</a>
+<a href="https://amzn.to/3m5AYxH" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más miniguitarras de Metallica</a>
 
 ## Características principales de las miniguitarras de colección
 

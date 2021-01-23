@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <h1>{{ .Title | markdownify }}</h1>
+        <br/>
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </div>
+      <!-- sidebar -->
+      {{ partial "sidebar.html" . }}
+      <!-- /sidebar -->
+    </div>
+  </div>
+</section>
+{{ end }}
+
+
+
+

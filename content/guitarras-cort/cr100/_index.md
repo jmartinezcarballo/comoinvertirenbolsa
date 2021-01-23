@@ -9,6 +9,14 @@ description: "Consulta nuestra review de la Cort CR100. Características, especi
 
 # type
 type: "cort-cr100"
+image: "images/cort/cort-cr100-section.jpg"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Guitarras"
+  - "Cort"
 ---
 
 La Cort CR100 (Classic Rock 100) es una guitarra eléctrica de tipo Les Paul de gama media baja fabricada por la marca surcoreana Cort en sus instalaciones de Indonesia y China.
@@ -24,7 +32,7 @@ Dentro de la serie **Classic Rock**, la CR100 se situa como la segunda opción m
 En esta **completa review** analizaremos en profundidad la Cort CR100 y porque es una guitarra eléctrica muy bien valorada para guitarristas poco experimentados o que quieren aprender a tocar la guitarra.
 
 <div>
-	<a href="https://amzn.to/2yjOWcd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2yjOWcd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00838GSUC&linkId=0b1de6950fcad7180bd10f20b6e7a570"></iframe>
@@ -42,7 +50,7 @@ En esta **completa review** analizaremos en profundidad la Cort CR100 y porque e
 * Herrajes niquelados
 
 <div>
-	<a href="https://amzn.to/2yjOWcd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2yjOWcd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 
@@ -106,27 +114,8 @@ Si tienes un presupuesto limitado la **Cort CR100** es una de las mejores [guita
 Si buscas una les paul barata, la Cort CR100 no te decepcionará.
 
 <div>
-	<a href="https://amzn.to/2yjOWcd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2yjOWcd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a> &nbsp;&nbsp;
+	<a href="/guitarras-cort/" class="btn btn-outline-primary">Volver a guitarras Cort</a>
 </div>
 
 &nbsp;
-
-**¿Te ha gustado la review? consulta las reseñas de otros modelos de guitarra**
-
-<div class="row">
-     <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/x11/">
-          <figcaption>Cort x11</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/cr250/">
-          <figcaption>Cort cr250</figcaption>
-        </a>
-      </div> 
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-epiphone/aj220s/">
-          <figcaption>Epiphone AJ220s</figcaption>
-        </a>
-      </div>
-</div>

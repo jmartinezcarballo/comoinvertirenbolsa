@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Encuentra una selección de las mejores guitarras Epiphone de 2021 &#9989;"
+summary: "Reviews de guitarras de la marca Epiphone"
 
 # type
-type: "guitarras-epiphone"
+type: "post"
+image: "images/epiphone/epiphone-sg-standard-section.jpg"
+
+# taxonomies
+categories: 
+  - "Guitarras"
+tags:
+  - "Epiphone"
 ---
 
 Sección dedicada a las **guitarras Epiphone**. Epiphone es, sin duda, una de las marcas más vendidas, podríamos contar
@@ -20,7 +28,7 @@ Gibson como tal, las Epiphone vienen a ser la **"versión barata"** de la presti
 Te presento a continuación diferentes modelos de guitarras, entre los que no pueden faltar las **SG** y las **Les Paul**, para que puedas consultar y decidir aquella que más se adapte a ti.
 
 <div>
-	<a href="https://www.amazon.es/s/ref=as_li_ss_tl?k=epiphone&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1&linkCode=ll2&tag=guitar0de-21&linkId=45efaf21e2b5faa1ff58c649e5f062de&language=es_ES" class="btn" rel="nofollow noopener noreferrer" target="_blank">Busca tu guitarra Epiphone</a>
+	<a href="https://www.amazon.es/s/ref=as_li_ss_tl?k=epiphone&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1&linkCode=ll2&tag=guitar0de-21&linkId=45efaf21e2b5faa1ff58c649e5f062de&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Busca tu guitarra Epiphone</a>
 </div>
 
 <div class="row">

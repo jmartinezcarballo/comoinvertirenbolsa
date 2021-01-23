@@ -7,9 +7,18 @@ draft: false
  
 # meta description
 description: "Reviews y características de las mejores guitarras eléctricas baratas para principiantes del 2021. Las mejores en calidad precio."
+summary: "Nuestra selección de las 5 mejores guitarras baratas para principiantes que puedes encontrar en el mercado."
 
 # type
-type: "guitarras-electricas-baratas"
+type: "post-destacado"
+image: "images/guitarras-baratas/guitarras-baratas-section.png"
+
+# taxonomies
+categories: 
+  - "Listas Top"
+tags:
+  - "Baratas"
+  - "Principiantes"
 ---
 
 Si has llegado hasta aquí seguramente sea porque quieres **aprender a tocar la guitarra** y el primer paso para ello, evidentemente, es **comprar una guitarra eléctrica**, 
@@ -93,7 +102,7 @@ Normalmente la puedes encontrar en tienda por debajo de los 200€.
 * 2 pastillas single coil y 1 humbucker en el puente con selector de 5 posiciones
 
 <div>
-	<a href="https://amzn.to/3bLizRn" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3bLizRn" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>
 
 &nbsp;
@@ -130,7 +139,7 @@ el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 * 2 pastillas humbucker ESP Designed LH-100
 
 <div>
-	<a href="https://amzn.to/3bP0q5p" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3bP0q5p" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>		
 
 &nbsp;
@@ -161,7 +170,7 @@ Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar 
 * 3 pastillas single coil
 
 <div>
-	<a href="https://amzn.to/2zixUf9" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2zixUf9" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>
 
 &nbsp;
@@ -194,7 +203,7 @@ Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te 
 * 2 pastillas humbucker en cuello y puente y 1 pastilla single coil en la posición intermedia
 
 <div>
-	<a href="https://amzn.to/3bLQ0mL" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3bLQ0mL" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>		
 
 &nbsp;
@@ -226,7 +235,7 @@ Aun así, personalmente creo que es una de las mejores guitarras que vas a encon
 * 2 pastillas humbucker Powersound PSLP-1F y PSLP-1R
 
 <div>
-	<a href="https://amzn.to/2yjOWcd" class="btn" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2yjOWcd" class="btn btn-outline-primary" target="_blank">Ver más</a>
 </div>
 
 &nbsp;

@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Inalambrico de guitarra. transmisor inalambrico para guitarra. Encuentra tu transmisor inalambrico de marcas como muslady o ammoon."
+summary: "Información y comparativas sobre los transmisores inalámbricos para guitarra. Olvídate de los cables!"
 
 # type
-type: "transmisor-inalambrico"
+type: "post"
+image: "images/transmisores-inalambricos/transmisor-inalambrico-section.jpg"
+
+# taxonomies
+categories: 
+  - "Accesorios"
+tags:
+  - "Transmisor inalámbrico"
 ---
 
 Un **transmisor inalámbrico** es un dispositivo que, como su nombre indica, te permite **tocar la guitarra sin** la necesidad de tener un **cable enchufado al amplificador**. Viene con dos dispositivos, un **emisor** y un **receptor**, de manera que conectando un dispositivo a tu guitarra y el otro a la entrada del amplificador, linkando ambos aparatos puedes transmitir el sonido entre ambos sin necesidad de un cable.
@@ -31,3 +39,5 @@ A continuación te presento una comparativa de **transmisores inalámbricos bara
 | **Tipo de carga**	| usb | usb | usb
 | **Dimensiones**	| 13 x 3,8 x 1,2 cm | 13 x 3,8 x 1,3cm | 4 x 7,2 x 3,2cm
 | **Peso**	| 34g | 34g | 45g
+
+<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>

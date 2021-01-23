@@ -6,9 +6,17 @@ draft: false
 
 # meta description
 description: "Compara entre diferentes modelos de guitarras eléctricas Squier de Fender, como la Affinity o la Bullet. Encuentra aquella que más se adapte a ti."
+summary: "Reviews de las mejores guitarras Squier"
 
 # type
-type: "guitarras-electricas-squier"
+type: "post"
+#image: "images/squier/squier-bullet-section.png"
+
+# taxonomies
+categories: 
+  - "Guitarras"
+tags:
+  - "Squier"
 ---
 
 Sección dedicada a las **guitarras Fender Squier**. Te voy a proponer diferentes modelos de guitarras eléctricas para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.
@@ -54,22 +62,4 @@ Consulta a continuación las características principales de la **Squier Affinit
 
 &nbsp;
 
-**¿No has encontrado la guitarra Squier que buscabas? quizá éstas te puedan interesar:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-yamaha/">
-          <figcaption>Guitarras Eléctricas Yamaha</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-ltd/">
-          <figcaption>Guitarras Eléctricas ESP LTD</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/">
-          <figcaption>Guitarras Eléctricas Cort</figcaption>
-        </a>
-      </div>
-</div>
+<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>

@@ -9,6 +9,13 @@ description: "Review completa del Tonor TC20. Especificaciones, accesorios y tod
 
 # type
 type: "microfonos-de-condensador"
+
+# taxonomies
+categories: 
+  - "Reviews"
+tags:
+  - "Micrófonos"
+  - "Tonor"
 ---
 
 El Tonor TC20 es uno de los **micrófonos de condensador** baratos más vendidos del mercado. Si quieres saber donde está su secreto para tener tan buenas opiniones a continuación te explicaré en esta completa review todo lo que necesitas saber sobre uno de los micrófonos de gama media más vendidos.
@@ -20,7 +27,7 @@ El Tonor TC20 es uno de los **micrófonos de condensador** baratos más vendidos
 </div>
 
 <div>
-  <a href="https://amzn.to/3hj4jnd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
+  <a href="https://amzn.to/3hj4jnd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
 </div>
 
 ## Especificaciones del Tonor TC 20
@@ -63,8 +70,8 @@ El Tonor TC 20 viene con entrada **XLR** por lo que no vas a poderlo conectar di
 Si buscas una alternativa de calidad similar pero con conectividad plug and play por **USB** tienes dos **alternativas** igual de interesantes:
 
 <div>
-  <a href="https://amzn.to/3rFHuPl" class="btn" rel="nofollow noopener noreferrer" target="_blank">Tonor Q9</a> &nbsp;
-  <a href="https://amzn.to/2KCjc8x" class="btn" rel="nofollow noopener noreferrer" target="_blank">Tonor 2030</a>
+  <a href="https://amzn.to/3rFHuPl" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Tonor Q9</a> &nbsp;
+  <a href="https://amzn.to/2KCjc8x" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Tonor 2030</a>
 </div>
 
 ## Componentes incluídos en el Tonor TC 20
@@ -94,29 +101,14 @@ El **filtro antipop** cumple su función y el cable puede quedarse corto según 
 La verdad es que sorprende la calidad y robustez de los materiales teniendo en cuenta el **precio** y segmento del que en teoría estamos tratando, tiene poco que envidiar a modelos de gama superior y con la garantía de 2 años podemos quedarnos tranquilos ante cualquier imprevisto de fábrica.
 
 <div>
-  <a href="https://amzn.to/3hj4jnd" class="btn" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
+  <a href="https://amzn.to/3hj4jnd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
 </div>
 
 Si estás interesado en más micrófonos te recomiendo que visites nuestra sección dedicada a los [micrófonos de condensador](/microfonos-de-condensador). En ella podrás encontrar toda la información que necesitas saber a la hora de escoger un micrófono y también podrás ver otras **reviews y recomendaciones de micrófonos** con una buena relación **calidad precio** actualizado a 2021.
 
 
-**¿Estás interesado en una guitarra? no dejes de visitar otras secciones de nuestra web:**
-
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-electricas-baratas/">
-          <figcaption>Guitarras eléctricas baratas</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarra-pequena-cuatro-cuerdas/">
-          <figcaption>Guitarras de cuatro cuerdas</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/guitarras-cort/">
-          <figcaption>Guitarras Cort</figcaption>
-        </a>
-      </div>
+<div>
+  <a href="/tags/micrófonos" class="btn btn-outline-primary">Buscar otro micrófono</a>&nbsp;
+  <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
 </div>
 
