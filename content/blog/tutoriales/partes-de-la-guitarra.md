@@ -48,10 +48,6 @@ instrumento. Existen muchos tipos de cuerpos diferentes cuyas formas dan nombre 
 
 Existen las guitarras Les Paul, las stratocaster, explorer, SG, flying V y algunas más, todas ellas con formas de cuerpo características.
 
-<div>
-	<img src="/images/blog/tutoriales/partes-guitarra/cuerpo-guitarra-electrica.jpg" alt="cuerpo de guitarra eléctrica stratocaster" width="300" height="300"/>
-</div>
-
 El cuerpo de la guitarra es importante no solo estéticamente, también hay cuerpos que pesan más que otros y el sonido de unos cuerpos
 es diferente al de otros.
 
