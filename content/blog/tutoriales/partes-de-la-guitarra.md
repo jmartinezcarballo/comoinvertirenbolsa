@@ -23,7 +23,7 @@ type: "featured"
 image: "images/blog/tutoriales/partes-guitarra/partes-guitarra-electrica.jpg"
 ---
 
-Si somos nuevos en esto del mundo de la música y queremos aprender a tocar un instrumento, lo primero que tenemos que hacer es empezar a conocerlo un poco, así que la mejor manera de empezar nuestra carrera para ser un gran guitarrista es empezar por conocer todas las partes de la guitarra y entender el uso y la importancia que
+Si somos nuevos en esto del mundo de la música y queremos aprender a tocar un instrumento, lo primero que tenemos que hacer es empezar a conocerlo un poco, así que la mejor manera de empezar nuestra carrera para ser un gran guitarrista es empezar por conocer todas **las partes de la guitarra** y entender el uso y la importancia que
 tiene cada una para el funcionamiento del instrumento.
 
 Si bien la mayoría de partes son las mismas, hay partes de la guitarra eléctrica que no aparecen en la guitarra acústica y lo mismo
@@ -42,7 +42,7 @@ explicación de cada una de ellas:
 ### 1. Cuerpo
 
 El cuerpo de la guitarra es la parte que descansa sobre nosotros cuando tocamos sentados y donde se situa toda la electrónica del
-instrumento. Existen muchos tipos de cuerpos diferentes cuyas formas dan nombre a diferentes nomenclaturas de guitarras.
+instrumento. Existen muchos **tipos de cuerpos** diferentes cuyas formas dan nombre a diferentes nomenclaturas de guitarras.
 
 Existen las guitarras Les Paul, las stratocaster, explorer, SG, flying V y algunas más, todas ellas con formas de cuerpo características.
 
@@ -53,7 +53,7 @@ Existen las guitarras Les Paul, las stratocaster, explorer, SG, flying V y algun
 El cuerpo de la guitarra es importante no solo estéticamente, también hay cuerpos que pesan más que otros y el sonido de unos cuerpos
 es diferente al de otros.
 
-En guitarras eléctricas es habitual encontrarse con cuerpos sólidos, si bien también existen cuerpos semi huecos e incluso totalmente huecos.
+En guitarras eléctricas es habitual encontrarse con **cuerpos sólidos**, si bien también existen cuerpos semi huecos e incluso totalmente huecos.
 
 El cuerpo está fabricado con madera, siendo las más utilizadas la caoba, el aliso y el tilo.
 
@@ -65,20 +65,20 @@ El mástil de una guitarra es tan importante como el cuerpo. Comprende todo el "
 	<img src="/images/blog/tutoriales/partes-guitarra/mastil-guitarra-electrica.png" alt="mástil de guitarra eléctrica" width="300" height="274"/>
 </div>
 
-El mástil de una guitarra eléctrica va unido al cuerpo y generalmente lo podemos encontrar o bien atornillado (bolt-on) o encolado. Los mástiles de las guitarras eléctricas son más estrechos que los que encontramos en guitarras acústicas o clásicas, esto es así para favorecer técnicas como el binding.
+El mástil de una guitarra eléctrica va unido al cuerpo y generalmente lo podemos encontrar o bien atornillado (bolt-on) o encolado. Los **mástiles de las guitarras eléctricas** son más estrechos que los que encontramos en guitarras acústicas o clásicas, esto es así para favorecer técnicas como el binding.
 
 Las maderas generalmente más utilizadas para fabricar los mástiles de guitarra eléctrica son el arce y la caoba.
 
 ### 3. Diapasón
 
-El diapasón de la guitarra es la parte del mástil que lo recubre frontalmente. En el diapasón es donde van situados los trastes de la guitarra y donde apretamos con los dedos a lo largo de toda su longitud.
+El diapasón de la guitarra es la parte del mástil que lo recubre frontalmente. En el diapasón es donde van situados los **trastes** de la guitarra y donde apretamos con los dedos a lo largo de toda su longitud.
 
 <div>
 	<img src="/images/blog/tutoriales/partes-guitarra/diapason-guitarra-electrica.jpg" alt="diapasón de guitarra eléctrica" width="225" height="181"/>
 </div>
 
 Es la parte del mástil más cercana a las cuerdas y en las guitarras eléctricas generalmente no son planos sino que tienen una cierta
-curvatura, mayor o menor según el tipo de guitarra.
+**curvatura**, mayor o menor según el tipo de guitarra.
 
 ### 4. Traste
 
@@ -99,7 +99,7 @@ El clavijero de la guitarra es la parte final del mástil donde terminan las cue
 	<img src="/images/blog/tutoriales/partes-guitarra/clavijero-guitarra-electrica.jpg" alt="clavijero de guitarra eléctrica" width="225" height="151"/>
 </div>
 
-El clavijero está formado por tantas clavijas como cuerdas tiene la guitarra y cada una de las clavijas es la encargada de afinar una cuerda. Al girar las clavijas lo que haces es darle o quitarle tensión a su cuerda, según en que dirección gires, y de esta manera el sonido al pulsar sobre la cuerda va variando.
+El clavijero está formado por tantas clavijas como cuerdas tiene la guitarra y cada una de las clavijas es la encargada de afinar una cuerda. Al girar las clavijas lo que haces es darle o quitarle **tensión** a su cuerda, según en que dirección gires, y de esta manera el sonido al pulsar sobre la cuerda va variando.
 
 ### 6. Pastillas
 
@@ -109,8 +109,8 @@ Las pastillas de una guitarra eléctrica son la parte más importante de su elec
 	<img src="/images/blog/tutoriales/partes-guitarra/pastillas-guitarra-electrica.jpg" alt="pastillas de guitarra eléctrica" width="300" height="205"/>
 </div>
 
-No son más que imanes que se encargan de capturar las vibraciones generadas por las cuerdas al tocarlas, amplificándolas para generar
-el sonido que es envaado hacia el amplificador y que finalmente escuchamos por nuestro oido.
+No son más que **imanes** que se encargan de capturar las vibraciones generadas por las cuerdas al tocarlas, amplificándolas para generar
+el sonido que es enviado hacia el amplificador y que finalmente escuchamos por nuestro oido.
 
 <div>
 	<a href="https://amzn.to/3sO5uAt" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar pastillas</a>
@@ -118,17 +118,17 @@ el sonido que es envaado hacia el amplificador y que finalmente escuchamos por n
 
 ### 7. Puente
 
-El puente de la guitarra es la parte del cuerpo que sujeta a las cuerdas. Ayuda a transferir las vibraciones hacia el cuerpo para que las pastillas las puedan capturar.
+El puente de la guitarra es la parte del cuerpo que **sujeta las cuerdas**. Ayuda a transferir las vibraciones hacia el cuerpo para que las pastillas las puedan capturar.
 
 <div>
 	<img src="/images/blog/tutoriales/partes-guitarra/puente-guitarra-electrica.png" alt="puente de guitarra eléctrica" width="250" height="167"/>
 </div>
 
-Existen muchos tipos de puentes, pero básicamente los podemos diferenciar en dos grandes tipos, los puentes fijos y los puentes flotantes.
+Existen muchos tipos de puentes, pero básicamente los podemos diferenciar en dos grandes tipos, los **puentes fijos** y los **puentes flotantes**.
 
 Los puentes fijos normalmente tienen un mantenimiento más sencillo y son característicos de los cuerpos Les Paul, entre otros.
 
-Los puentes flotantes generalmente vienen con la palanca de trémolo, muy útil para según qué técnicas de solista al hacer vibrar y sostener las notas de una manera muy característica. Los puedes encontrar generalmente en cuerpos stratocaster.
+Los puentes flotantes generalmente vienen con la **palanca de trémolo**, muy útil para según qué técnicas de solista al hacer vibrar y sostener las notas de una manera muy característica. Los puedes encontrar generalmente en cuerpos stratocaster.
 
 ### 8. Golpeador
 
@@ -145,7 +145,7 @@ Muchos modelos no la incorporan ya que estéticamente no está muy bien vista.
 ### 9. Potenciómetros
 
 Los potenciómetros son los botones o controladores que nos encontramos en el cuerpo por debajo de las pastillas y que se encargan
-de configurar el volumen y el tono del sonido generado por las pastillas.
+de **configurar el volumen y el tono** del sonido generado por las pastillas.
 
 <div>
 	<img src="/images/blog/tutoriales/partes-guitarra/potenciometros-guitarra-electrica.png" alt="potenciómetros de guitarra eléctrica" width="200" height="176"/>
@@ -155,7 +155,7 @@ Existen modelos de guitarra con solo un control de volumen y otro de tono, y otr
 
 ### 10. Selector
 
-El selector de una guitarra eléctrica nos permite escoger con que pastilla queremos trabajar. Cuando tocamos la guitarra no usamos
+El selector de una guitarra eléctrica nos permite **escoger** con que **pastilla** queremos trabajar. Cuando tocamos la guitarra no usamos
 todas las pastillas a la vez sino que utilizamos una o dos de ellas. El selector nos permite escoger con cual queremos tocar, ya que
 cada pastilla tiene sus propias características y sonido.
 
