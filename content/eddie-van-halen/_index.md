@@ -188,10 +188,6 @@ y cambiar la Muic Man por la acabaría siendo la **EVH Wolfgang**.
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0865SHYST&linkId=a631654558f866255c2ac16a1bbec02b"></iframe>
-
-&nbsp;
-
 ### Peavey EVH Wolfgang (desde 1996)
 
 En 1995 Peavey y EVH comenzaron a trabajar en la elaboración de un nuevo modelo de guitarra que, según palabras del propio Eddie, reuniese todos los años de conocimiento y 
@@ -217,9 +213,11 @@ Os dejo con una **entrevista** donde EVH habla acerca de la serie Wolfgang de Pe
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00WM0TT8U&linkId=6651d924f59ab669000756e37b18352d"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08JM81R9B&linkId=e7c431ce7f6d28246c88773e5c2d6962"></iframe>
+¿Quieres tener una Frankenstrat de imitación? no te la pierdas!
+
+<a href="https://s.click.aliexpress.com/e/_98W5BH" target="_blank"><img src="https://ae01.alicdn.com/kf/H5937eccc287c40f6a5e752ca0d5b771f4.jpg_140x140.jpg" title="Comprar Frankenstrat" alt="Comprar Frankenstrat" /></a>
 
 <div>
-  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>
+  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>&nbsp;&nbsp;
+  <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
 </div>

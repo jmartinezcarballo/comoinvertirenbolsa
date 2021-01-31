@@ -37,6 +37,7 @@ type: "sitemap"
 
 ### Accesorios
 
+* [Afinadores de guitarra](/afinador-de-guitarra/)
 * [Behringer Guitar Link](/behringer-guitar-link/)
 * [Inlays para guitarra](/inlays-guitarra/)
 * [Micrófonos de condensador](/microfonos-de-condensador/)
