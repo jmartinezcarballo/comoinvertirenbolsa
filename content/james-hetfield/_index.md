@@ -5,8 +5,8 @@ date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Las mejores guitarras de James Hetfield hasta 2021 &#9989; conoce todo sobre las guitarras del líder de Metallica"
-summary: "Toda la información acerca de las guitarras que ha utilizado el líder de Metallica a lo largo de toda su trayectoria musical."
+description: "Las mejores guitarras de James Hetfield hasta 2021 &#9989; conoce todo sobre las guitarras del cantante de Metallica"
+summary: "Toda la información acerca de las guitarras que ha utilizado el cantante de Metallica a lo largo de toda su trayectoria musical."
 
 # type
 type: "post-destacado"
@@ -24,7 +24,7 @@ Hablar de <a href="https://amzn.to/3ixnzgl" rel="nofollow noopener noreferrer" t
 
 <div><img src="../../images/james-hetfield/james-hetfield-iron-cross.jpg" alt="james hetfield iron cross 30 aniversary" width="350" height="233"></div>
 
-Nacido en agosto de 1963, James Hetfield fundó en octubre de 1981 junto a Lars Ulrich la banda californiana **Metallica**, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
+Nacido en agosto de 1963, James Hetfield es el **cantante de Metallica**, banda que fundó en octubre de 1981 junto a Lars Ulrich, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072KL77LR&linkId=a9bec1961a275376c2727ecf4e02d927"></iframe>
 
