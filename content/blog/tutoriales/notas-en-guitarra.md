@@ -1,6 +1,6 @@
 ---
 title: "Las notas de la guitarra"
-seoTitle: "Las notas en una guitarra | Comprar una Guitarra"
+seoTitle: "[TUTORIAL]: Las notas en la guitarra"
 date: 2021-02-08T10:07:47+06:00
 draft: false
 
@@ -31,7 +31,7 @@ Para ello, es importante que además de practicar dediques unos minutos de tu ru
 conocimientos.
 
 Lo primero de todo que debes saber es a conocer **las notas de una guitarra** y algunos aspectos importantes sobre ellas que te permitirán
-empezar a familiarizarte con el mástil, así que en esta primera entrada que dedicamos a la teoría musical nos vamos a centrar en eso,
+empezar a familiarizarte con el mástil, así que en este primer tutorial que dedicamos a la teoría musical nos vamos a centrar en eso,
 en las notas y sus particularidades.
 
 Así pues empecemos!
@@ -133,7 +133,7 @@ a situarlas en el mástil.
 Las notas se cuentan de abajo hacia arriba de manera que la primera cuerda es la más fina de todas y la sexta cuerda es la que está más arriba que es la más gruesa.
 
 Al lado de cada cuerda puedes ver la nota que suena al tocarla al aire, es decir, sin poner el dedo sobre ningún traste. Te he especificado la nota en ámbas nomenclaturas para que te vayas familiarizando, pero a partir de ahora
-utilizaré solo las notas en inglés para referirme a ellas por ser la más comunmente utilizada.
+utilizaré solo las notas en inglés para referirme a ellas por ser la más utilizada.
 
 **E - A - D - G - B - E**
 
