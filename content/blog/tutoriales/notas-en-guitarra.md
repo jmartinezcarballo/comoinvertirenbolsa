@@ -1,6 +1,6 @@
 ---
 title: "Las notas de la guitarra"
-seoTitle: "[TUTORIAL]: Las notas en la guitarra"
+seoTitle: "Aprende las notas en la guitarra"
 date: 2021-02-08T10:07:47+06:00
 draft: false
 
