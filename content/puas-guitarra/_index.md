@@ -1,11 +1,11 @@
 ---
 title: "Las mejores puas de guitarra en 2021"
-seoTitle: "Top de las mejores puas de guitarra 2021 | Comprar una Guitarra"
+seoTitle: "Las mejores puas de guitarra | Comprar una Guitarra"
 date: 2020-06-10T10:07:47+06:00 
 draft: false
 
 # meta description
-description: "las mejores puas de guitarra de 2021. Encuentra todo tipo de diseños, materiales, puas personalizadas de distintos grosores"
+description: "Selección de las mejores puas de guitarra. Encuentra todo tipo de diseños, materiales, puas personalizadas de distintos grosores"
 summary: "Encuentra puas con todo tipo de diseños, grosores y materiales, además de porta puas para tenerlas bien guardadas."
 
 # type
