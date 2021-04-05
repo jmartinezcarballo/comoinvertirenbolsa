@@ -140,33 +140,39 @@ disqusShortname = ""
     weight = 2
     # main menu
     [[menu.main]]
+    name = "Fundas de guitarra"
+    parent = "Accesorios"
+    URL = "fundas-de-guitarra/"
+    weight = 3
+    # main menu
+    [[menu.main]]
     name = "Inlays para guitarra"
     parent = "Accesorios"
     URL = "inlays-guitarra/"
-    weight = 3
+    weight = 4
     # main menu
     [[menu.main]]
     name = "Micrófonos de condensador"
     parent = "Accesorios"
     URL = "microfonos-de-condensador"
-    weight = 4
+    weight = 5
     # main menu
     [[menu.main]]
     name = "Pastillas para guitarra"
     parent = "Accesorios"
     URL = "pastillas-para-guitarra/"
-    weight = 5
+    weight = 6
     [[menu.main]]
     name = "Puas de guitarra"
     parent = "Accesorios"
     URL = "puas-guitarra/"
-    weight = 6
+    weight = 7
     # main menu
     [[menu.main]]
     name = "Transmisores inalámbricos"
     parent = "Accesorios"
     URL = "transmisores-inalambricos-guitarra/"
-    weight = 7
+    weight = 8
     
     # main menu
     [[menu.main]]

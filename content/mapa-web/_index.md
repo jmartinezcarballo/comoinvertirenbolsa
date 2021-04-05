@@ -39,6 +39,7 @@ type: "sitemap"
 
 * [Afinadores de guitarra](/afinador-de-guitarra/)
 * [Behringer Guitar Link](/behringer-guitar-link/)
+* [Fundas de guitarra](/fundas-de-guitarra/)  
 * [Inlays para guitarra](/inlays-guitarra/)
 * [Micrófonos de condensador](/microfonos-de-condensador/)
 * [Pastillas para guitarra](/pastillas-para-guitarra/)
