@@ -1,5 +1,5 @@
 ---
-title: "Fundas y estuches de guitarra"
+title: "Las mejores fundas de guitarra"
 seoTitle: "Las mejores fundas de guitarra | Comprar una Guitarra"
 date: 2021-04-02T10:07:47+06:00 
 draft: false
