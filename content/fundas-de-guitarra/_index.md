@@ -1,5 +1,5 @@
 ---
-title: "Fundas de guitarra"
+title: "Fundas y estuches de guitarra"
 seoTitle: "Las mejores fundas de guitarra | Comprar una Guitarra"
 date: 2021-04-02T10:07:47+06:00 
 draft: false
@@ -54,12 +54,10 @@ Si tienes una guitarra eléctrica te presento algunos de los modelos más recome
 
 La Powerpad de Ibanez destaca por su precioso diseño y sus 15mm de acolchado inferior y lateral par proteger tu guitarra.
 
-<a href="https://amzn.to/39DVYIs" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
-        <img src="../../images/fundas-de-guitarra/funda-guitarra-Ibanez-powerpad.png" 
-            alt="funda de guitarra eléctrica Ibanez Powerpad" width="269" height="250">
-    </div>
-</a>
+<div>
+    <img src="../../images/fundas-de-guitarra/funda-guitarra-Ibanez-powerpad.png" 
+        alt="funda de guitarra eléctrica Ibanez Powerpad" width="269" height="250">
+</div>
 
 La funda incluye un cinturón interior para poder asegurar el cuello de la guitarra. Es compatible con la mayoría de modelos strato y telecaster. Sus medidas son 108 x 7.49 x 43 cm. 
 
@@ -75,12 +73,10 @@ Incluye cuatro bolsillos para tus diferentes accesorios.
 Hablar de **Mono Cases** es hablar de una marca top en la fabricación de fundas y estuches para instrumentos musicales. Si tienes un
 presupuesto elevado o tienes una guitarra de gama alta y que vayas a mover constantemente esta marca es para ti.
 
-<a href="https://amzn.to/3ui61L5" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
-        <img src="../../images/fundas-de-guitarra/funda-guitarra-mono-cases-m80.png" 
-            alt="funda de guitarra eléctrica Mono Cases M80" width="101" height="250">
-    </div>
-</a>
+<div>
+    <img src="../../images/fundas-de-guitarra/funda-guitarra-mono-cases-m80.png" 
+        alt="funda de guitarra eléctrica Mono Cases M80" width="101" height="250">
+</div>
 
 Esta funda de diseño sobrio está fabricada en nylon resistente al agua e incluye un sistema de absorción de golpes además de 20mm
 de acolchado, todo un seguro para tu guitarra frente a los golpes.
@@ -96,12 +92,11 @@ Tiene unas medidas de 116.84 x 48.26 x 10.16cm e incluye un gran bolsillo delant
 
 Al igual que Fender y otras marcas, Epiphone también piensa en los clientes de sus guitarras y disponemos de esta funda especialmente pensada para los dueños de una Epiphone o Les Paul Studio.
 
-<a href="https://amzn.to/39EUaPc" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/funda-para-guitarra-epiphone.png" 
             alt="funda de guitarra eléctrica Epiphone" width="119" height="300">
     </div>
-</a>
+
 
 Esta funda para guitarra tiene unas medidas de 104.14 x 43.18 x 10.16 cm y destaca por su ligereza frente al resto de modelos presentados.
 
@@ -118,12 +113,11 @@ Si tienes una guitarra acústica te presento una funda y un estuche para que esc
 
 Si buscas una **funda de guitarra acústica** esta es nuestra opción más recomendada.
 
-<a href="https://amzn.to/3sQPIok" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+<div>
         <img src="../../images/fundas-de-guitarra/funda-guitarra-acustica-cahaya.png" 
             alt="Cahaya funda de guitarra acústica" width="224" height="250">
     </div>
-</a>
+
 Esta funda de Cahaya es la más vendida de su segmento gracias a sus buenas prestaciones a un precio muy ajustado.
 
 Tiene unas medidas de 110.5 x 13.5 x 45cm que permiten usarla con todo tipo de guitarras acústicas, españolas y también
@@ -145,12 +139,11 @@ mediante correa acolchada en el hombro, con un mango de silicona y con las asas 
 
 En el caso de los estuches, por relación calidad precio nos quedamos con el estuche de Doubleblack.
 
-<a href="https://amzn.to/3fFKKXF" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/estuche-para-guitarra-acustica-doubleblack.png" 
             alt="Cahaya funda de guitarra acústica" width="300" height="192">
     </div>
-</a>
+
 
 Perfecta para guitarras de 41 pulgadas tiene unas medidas aproximadas de 111 x 16 x 6,3cm. El interior es de terciopelo e incluye
 compartimento para pequeños accesorios. Si buscas algo robusto para proteger a tu acústica de los golpes y la humedad a buen precio esta
@@ -175,12 +168,11 @@ incluídos **viajes en avión**.
 
 Si buscas un estuche rígido para tu guitarra clásica Rocktile dispone de un modelo de una calidad precio más que buena.
 
-<a href="https://amzn.to/3sQPIok" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/estuche-guitarra-rocktile.png" 
             alt="estuche para guitarra clásica Rocktile" width="300" height="101">
     </div>
-</a>
+
 
 El estuche pesa unos 4kg y tiene unas dimensiones interiores de 102,5 x 38 x 12 cm.
 
@@ -194,12 +186,10 @@ El estuche pesa unos 4kg y tiene unas dimensiones interiores de 102,5 x 38 x 12 
 Si eres un usuario exigente y buscas algo de la mayor calidad o tienes un mayor presupuesto Gator dispone de modelos top con los que
 tendrás de lo mejor del mercado en cuanto a protección para tu guitarra.
 
-<a href="https://amzn.to/31N4joM" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/estuche-guitarra-clasica-gator.png" 
             alt="estuche para guitarra clásica Gator" width="300" height="193">
     </div>
-</a>
 
 El estuche tiene un recubrimiento exterior de polietileno y el estuche es a prueba de todo tipo de golpes.
 
@@ -224,12 +214,11 @@ A continuación podrás encontrar una selección de fundas de Fender de buena ca
 
 Si buscas una funda para tu Fender o Squier stratocaster o telecaster este es uno de los modelos con un precio más asequible.
 
-<a href="https://amzn.to/2OkOXEX" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/funda-guitarra-fender-fe610.png" 
             alt="funda para guitarra eléctrica Fender FE610" width="129" height="300">
     </div>
-</a>
+
 
 La FE610 está hecha de poliester y destaca por tener un acolchado de 20mm con forro de microfibra suave al tacto para proteger tu
 instrumento.
@@ -247,12 +236,10 @@ Sus medidas son de 106.68 x 40.01 x 6.35cm que encajan perfectamente con algunos
 
 Fabricada con poliester de 600 <a href="https://es.wikipedia.org/wiki/Denier_(unidad)" rel="nofollow noopener noreferrer" target="_blank">deniers</a> para una mayor pretección, la FET610 de Fender también destaca por incluir un acolchado de 10mm y un revestimiento de tweed en un bonito interior de color rojo que dota a la funda de mayor comodidad y calidez.
 
-<a href="https://amzn.to/3mlHJx4" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/funda-guitarra-fender-fet610-tweed.png" 
             alt="funda para guitarra eléctrica Fender FET610 tweed" width="126" height="300">
     </div>
-</a>
 
 Incluye asa lateral y correas traseras para su transporte así como un bolsillo delantero para guardar lo que necesites.
  
@@ -265,12 +252,10 @@ Incluye asa lateral y correas traseras para su transporte así como un bolsillo 
 
 El más sencillo y asequible de los tres modelos presentados es esta Fender FE405 que incorpora un acolchado de 5mm.
 
-<a href="https://amzn.to/3sOVZk1" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/funda-guitarra-fender-fe405.png" 
             alt="funda para guitarra eléctrica Fender FET610 tweed" width="126" height="300">
     </div>
-</a>
 
 Contiene un forro de terciopelo agradable al tacto y una cremallera resistente al agua. Las correas son ergonómicas e incluyen hebillas
 de bloqueo para su correcto ajuste a la espalda.
@@ -285,19 +270,16 @@ Tiene unas medidas de 106.7 x 40 x 6.3 cm e incluye cremallera frontal.
 ## Estuches para guitarra Gator
 
 Gator es una marca de referencia en la creación de accesorios de transporte de instrumentos. Sus fundas, estuches y maletas suelen
-ser de una calidad indiscutible para los usuarios más exigentes. En esta sección te presento algunos de sus estuches rígidos 
-más recomendados que puedes encontrar para guardar y transportar tu guitarra.
+ser de una calidad indiscutible para los usuarios más exigentes y están entre los mejores del mercado. En esta sección te presento algunos de sus estuches rígidos más recomendados que puedes encontrar para guardar y transportar tu guitarra.
 
 ### Gator GC
 
 Los estuches rígidos de la serie GC de Gator son auténticos superventas por su excelente relación calidad precio.
 
-<a href="https://amzn.to/3cQFWgo" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/estuche-guitarra-gator-gc.png" 
             alt="estuche para guitarra Gator GC" width="300" height="192">
     </div>
-</a>
 
 Tienes a tu disposición diferentes modelos que se ajustan a diferentes tipos de guitarra: stratocaster, Les Paul, SG, acústicas, 
 12 cuerdas, e incluso para otros instrumentos. Solo tienes que escoger el modelo que se adapte a tu instrumento.
@@ -313,12 +295,10 @@ Los estuches están forrados de felpa e incluyen espuma EPS.
 
 A diferencia de los GC, la serie GL de Gator se caracteriza por incluir modelos híbridos entre un estuche rígido y una funda acolchada.
 
-<a href="https://amzn.to/3sSEn6T" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/estuche-guitarra-gator-gl.png" 
             alt="estuche para guitarra Gator GC" width="300" height="169">
     </div>
-</a>
 
 Tienes también disponibles diferentes modelos que se ajustan a tu guitarra, en el caso de la imagen superior para modelos strato o
 telecaster.
@@ -340,12 +320,10 @@ Al no ser una funda 100% rígida su peso es inferior a la serie GC.
 Por último, si te gusta la calidad de la marca pero lo que prefieres es tener una funda acolchada, Gator tiene a tu disposición la
 serie GT, más ligera que sus series hermanas y no por ser acolchada de peor calidad.
 
-<a href="https://amzn.to/3mnvy2O" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/funda-acolchada-gator-gt.png" 
             alt="funda acolchada para guitarra Gator GT" width="300" height="203">
     </div>
-</a>
 
 La serie **Gator Transit** estaba pensada sobretodo para modelos strato y telecaster y presenta un interior rígido para dar a la guitarra 
 una protección similar a la de un estuche. Incorpora una banda de goma gruesa en la parte inferior de la bolsa.
@@ -372,12 +350,10 @@ seguramente cubran con creces las necesidades de muchos de vosotros.
 
 Este es el modelo **más vendido** en lo que a fundas de guitarra baratas se refiere.
 
-<a href="https://amzn.to/3sQrcn9" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/funda-de-guitarra-rayzm.png" 
             alt="funda para guitarra Rayzm" width="192" height="250">
     </div>
-</a>
 
 Hecha de nylon de 600 **deniers**, está pensada principalmente para guitarras stratocaster, telecaster aunque también se puede utilizar con
 algunas guitarras acústicas.
@@ -401,12 +377,10 @@ A este precio poco más se le puede pedir a una funda.
 
 Otra funda de bastante éxito es esta funda de Cahaya, con un bonito diseño y de tamaño similar a la Rayzm.
 
-<a href="https://amzn.to/39FiGjq" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/funda-de-guitarra-barata-cahaya.png" 
             alt="funda para guitarra Rayzm" width="232" height="250">
     </div>
-</a>
 
 En etse caso tenemos un acolchado interno de 9mm con cinta para agarrar el mástil. Correas de hombro bastante cómodas y doble cremallera con bolsillo exterior.
 
@@ -421,12 +395,10 @@ Tiene un tamaño aproximado de 106 x 39 x 7cm y es válida para la mayoría de m
 
 Si tienes una guitarra acústica o una eléctrica tipo Les Paul esta es la funda que mejor se adapta a ti.
 
-<a href="https://amzn.to/3cM2rTr" rel="nofollow noopener noreferrer" target="_blank">
-    <div>
+   <div>
         <img src="../../images/fundas-de-guitarra/funda-de-guitarra-acustica-cahaya.png" 
             alt="funda para guitarra Rayzm" width="250" height="250">
     </div>
-</a>
 
 Esta funda es de superior calidad que las anteriores y su precio también es un poco más elevado. Presenta un acolchado de 18mm de espuma
 de alta densidad. El forro es suave y la tela es resistente a los arañazos. Incluye además 5 bolsillos.
