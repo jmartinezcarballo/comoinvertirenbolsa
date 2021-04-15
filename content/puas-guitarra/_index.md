@@ -73,7 +73,10 @@ Para empezar te presento una selección de las **mejores púas de guitarra** de 
 
 Te presento un kit de 12 **puas de guitarra personalizadas** con diseños de 24 de los más exitosos discos de la historia de la música. Podrás encontrar grandes portadas de discos de artistas como Beatles, Queen, Metallica, David Bowie, Pink Floyd, Green Day o Guns n Roses.
 
-![image](../../images/puas/puas-guitarra-portadas-discos.png)
+<div>
+    <img src="../../images/puas/puas-guitarra-portadas-discos.png" 
+        alt="puas de discos" title="set de puas de guitarra de discos" width="300" height="236">
+</div>
 
 Cada pua incluye dos portadas diferentes, una por cada lado.
 
@@ -82,7 +85,7 @@ Todas tienen un tamaño estándar y 0,71mm de grosor.
 Incluye una pequeña bolsa de terciopelo para guardarlas.
 
 <div>
-	<a href="https://amzn.to/3eFBBdV" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/3eFBBdV" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ### Kit de 40 puas Rayzm
@@ -91,7 +94,10 @@ Kit variado de 40 puas de guitarra de **celuloide ecológico** fabricadas por Ra
 
 Incluyen 6 diferentes grosores para adaptarse a diferentes estilos y guitarras, así como una caja protectora para guardarlas. También son compatibles para tocar el bajo.
 
-![image](../../images/puas/puas-rayzm.jpg)
+<div>
+    <img src="../../images/puas/puas-rayzm.jpg" 
+        alt="puas de celuloide ecológico" title="set de puas de guitarra de celuloide con funda" width="300" height="218">
+</div>
 
 El kit incluye:
 
@@ -106,7 +112,7 @@ El kit incluye:
 * Incluye funda de tela resistente para su guardado
 
 <div>
-	<a href="https://amzn.to/37llUWG" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/37llUWG" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ### Kit de 50 puas fabricadas con delrin
@@ -115,7 +121,10 @@ Te presento un amplio y variado kit de puas para guitarra y bajo fabricadas en d
 
 El delrin es un material termoplástico semicristalino de gran **dureza** y resistencia.
 
-![image](../../images/puas/kit-50-puas-delrin.png)
+<div>
+    <img src="../../images/puas/kit-50-puas-delrin.png" 
+        alt="Kit de puas delrin" title="set de 50 puas de guitarra delrin" width="300" height="197">
+</div>
 
 El kit incluye:
 
@@ -130,7 +139,7 @@ El kit incluye:
 * Incluye funda de tela para su guardado
 
 <div>
-	<a href="https://amzn.to/2XSU7bY" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/2XSU7bY" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ### Kit de puas para guitarra eléctrica, acústica y bajo
