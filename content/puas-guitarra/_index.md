@@ -146,7 +146,10 @@ El kit incluye:
 
 Kit variado de diferentes diseños y grosores que podrás utilizar para diferentes instrumentos en función del grosor que necesites en cada situación
 
-![image](../../images/puas/kit-puas-cuatro-grosores.png)
+<div>
+    <img src="../../images/puas/kit-puas-cuatro-grosores.png" 
+        alt="conjunto de puas de diferente grosor" title="kit de puas de guitarra de diferente grosor" width="300" height="208">
+</div>
 
 El kit incluye:
 
@@ -157,7 +160,7 @@ El kit incluye:
 * Incluye caja metálica circular para su guardado
 
 <div>
-	<a href="https://amzn.to/2XrZPTi" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver Producto</a>
+	<a href="https://amzn.to/2XrZPTi" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ## Grosor de las púas de guitarra
@@ -188,17 +191,17 @@ Prácticamente todas las púas están hechas de **plástico**, pero dentro de es
 en función del tipo de plástico utilizado. De esta manera podemos clasificar las púas según los siguientes materiales:
 
 * **Celuloide**: material bastante habitual, si bien con los años ha ido dando paso a otras variantes, quedándose más especializado en estilos vintage.
-* **Delrin**: **duraderas** y fáciles de agarrar pero con una superficie que contiene texturas que puede no gustar siempre. 
+* **Delrin**: duraderas y fáciles de agarrar pero con una superficie que contiene texturas que puede no gustar siempre. 
 No son las más recomendables para rasgueos.
 * **Lexan**: son púas dificiles de curvar así que se suele utilizar para fabricar las púas de mayor grosor. Su superficie es brillante.
 * **Nylon**: con el nailon se suelen hacer las púas más finas ya que es suave, flexible y desliza bien. Por contra son menos duraderas.
-* **Tortex**: las de la tortuga. ¿Quien no ha visto alguna vez una **tortuga** dibujada en una pua? muy habitual en muchos fabricantes como Dunlop.
+* **Tortex**: las de la tortuga. ¿Quien no ha visto alguna vez una tortuga dibujada en una pua? muy habitual en muchos fabricantes como Dunlop.
 Son suaves y poco resbaladizas.
 
-Hay que destacar que unos materiales son más duros que otros por lo que cogiendo dos púas de idéntico **grosor**, según el material con el
+Hay que destacar que unos materiales son más duros que otros por lo que cogiendo dos púas de idéntico grosor, según el material con el
 que estén fabricadas, serán más o menos flexibles.
 
-Si buscas **flexibilidad**, los materiales más recomendables son el nylon y el delrin, mientras que si buscas **rigidez** te aconsejo que optes
+Si buscas flexibilidad, los materiales más recomendables son el nylon y el delrin, mientras que si buscas rigidez te aconsejo que optes
 por el lexan o sino por las tortex.
 
 Mencionar finalmente que, además de estos materiales que son los más comunes, también existen otros materiales con los que también se fabrican.
@@ -214,37 +217,37 @@ de las más vendidas en su segmento.
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/2V5ejGR" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/puas-de-nylon.jpg" alt="puas de nylon dunlop con estuche">
+          <img src="../../images/puas/puas-de-nylon.jpg" alt="puas de nylon dunlop" title="puas de nylon dunlop con estuche" width="219" height="200">
           <figcaption>Puas de nylon Dunlop</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://www.amazon.es/Dunlop-Delrin-p%C3%BAas-guitarra-arritmog%C3%A9nico/dp/B00CN7ZYUE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+delrin+Dunlop&qid=1599656836&s=musical-instruments&sr=1-1&linkCode=ll1&tag=guitar0de-21&linkId=81ad86d24be924f545679e025a3aa19d&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/puas-delrin.jpg" alt="puas de delrin dunlop con estuche">
+          <img src="../../images/puas/puas-delrin.jpg" alt="puas de delrin dunlop" title="puas de delrin dunlop con estuche" width="219" height="200">
           <figcaption>Puas de delrin Dunlop</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://www.amazon.es/Dunlop-474R20-Stubby-jazz-2-0mm/dp/B000EELAGA/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+lexan+Dunlop&qid=1599656906&s=musical-instruments&sr=1-2&linkCode=ll1&tag=guitar0de-21&linkId=5f6f587c1466d6d5007ad4739c2c8b13&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/puas-dunlop-stubby-2mm.jpg" alt="puas de lexan Dunlop Stubby">
+          <img src="../../images/puas/puas-dunlop-stubby-2mm.jpg" alt="puas de lexan Dunlop Stubby" title="puas lexan marca dunlop" width="170" height="200">
           <figcaption>puas de lexan Dunlop Stubby</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://www.amazon.es/Jim-Dunlop-pvp102-Variedad-reproductor-guitarra/dp/B0055VBYWC/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+tortex+Dunlop&qid=1599656940&s=musical-instruments&sr=1-2&linkCode=ll1&tag=guitar0de-21&linkId=0e1453f3b976bd87c3eb4c3df2ea51f8&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/dunlop-tortex.jpg" alt="puas de tortex Dunlop">
+          <img src="../../images/puas/dunlop-tortex.jpg" alt="puas de tortex Dunlop" title="puas tortex marca dunlop" width="263" height="200">
           <figcaption>puas de tortex Dunlop</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://www.amazon.es/Dunlop-PVP106-GENUINE-CELLULOID-Variety/dp/B01MQDULSR/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+celuloide+Dunlop&qid=1599656989&s=musical-instruments&sr=1-27&linkCode=ll1&tag=guitar0de-21&linkId=3aa89a824227934b307c33f67d26ba1c&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/dunlop-celuloide.jpg" alt="puas de celuloide Dunlop">
+          <img src="../../images/puas/dunlop-celuloide.jpg" alt="puas de celuloide Dunlop" title="puas de celuloide marca dunlop" width="113" height="200">
           <figcaption>puas de celuloide Dunlop</figcaption>
         </a>
       </div>
 </div>
 
-## Porta puas de guitarra
+## Porta puas para guitarra
 
 Es muy aconsejable mantener guardadas tus púas en algún tipo de **guarda puas de guitarra**. No creo que exista un solo
 guitarrista en el mundo que alguna vez no haya perdido alguna púa, te sorpenderías con la facilidad con que se suelen perder.
@@ -258,34 +261,37 @@ Te presento algunas opciones recomendables tanto para un caso como el otro. Todo
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/2NgL3sr" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/portapuas-cuero-llavero.jpg" alt="portapuas llavero de cuero">
+          <img src="../../images/puas/portapuas-cuero-llavero.jpg" alt="portapuas llavero de cuero" title="porta puas para guitarra de cuero con llavero" width="227" height="200">
           <figcaption>Portapuas y llavero de cuero</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/311occn" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/portapuas-rayzm-cuero.jpg" alt="portapuas Rayzm de cuero">
+          <img src="../../images/puas/portapuas-rayzm-cuero.jpg" alt="portapuas Rayzm de cuero" title="porta puas de guitarra con puas de regalo" width="217" height="200">
           <figcaption>Portapuas Rayzm de cuero</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/3dndqzE" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/portapuas-shanna.jpg" alt="porta puas Shanna de cuero sintético">
+          <img src="../../images/puas/portapuas-shanna.jpg" alt="porta puas Shanna de cuero sintético" title="porta puas Shanna de cuero sintético" width="207" height="200">
           <figcaption>Portapuas Shanna</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/2V5ejGR" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/soporte-para-puas-fretfunk.jpg" alt="soporte para puas fretfunk">
+          <img src="../../images/puas/soporte-para-puas-fretfunk.jpg" alt="soporte para puas fretfunk" title="soporte para puas para tocar en directo" width="204" height="200">
           <figcaption>Soporte para puas Fretfunk</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/3dntIc3" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/puas/soporte-para-puas-konig-meyer.jpg" alt="soporte para puas Konig Meyer">
+          <img src="../../images/puas/soporte-para-puas-konig-meyer.jpg" alt="soporte para puas Konig Meyer" title="soporte para puas de guitarra en concierto" width="399" height="196">
           <figcaption>Soporte para puas Konig Meyer</figcaption>
         </a>
       </div>
 </div>
 
+<div>
+<a href="/categories/accesorios" class="btn btn-outline-primary">Volver al menú de accesorios</a>&nbsp;&nbsp;
 <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
+</div>
