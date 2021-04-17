@@ -8,7 +8,7 @@ draft: false
 
 
 # meta description
-description: "Conoce en esta entrada todas las partes de la guitarra eléctrica, con imágenes y explicaciones detalladas."
+description: "Conoce todas las partes de la guitarra eléctrica, con imágenes y explicaciones detalladas. Encuentra cuerpo y mástil para fabricarte tu instrumento."
 summary: "Conoce todas las partes de la guitarra eléctrica, con imágenes y todo tipo de detalles."
 
 # taxonomies
