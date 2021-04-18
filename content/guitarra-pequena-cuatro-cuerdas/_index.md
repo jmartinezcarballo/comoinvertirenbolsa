@@ -81,7 +81,7 @@ Además es la elección ideal para un niño y sus todavía pequeñas manos.
 
 #### Ukelele concierto
 
-El ukelele de tipo concierto se empezó a construír varias décadas después. 
+El ukelele de tipo concierto se empezó a construir varias décadas después. 
 
 Tiene una longitud de 58cm y 23 pulgadas y su afinación más habitual es G-C-E-A. Su caja de resonancia es mayor que la del ukelele soprano pero menor que los tenor y barítono. 
 
@@ -101,7 +101,7 @@ El ukelele barítono es el tipo de ukelele más grande que existe y es el más p
 Suelen tener una longitud de unos 76cm y 30 pulgadas y su caja de resonancia es la que produce un sonido más grueso y envolvente de todos. 
 
 Su afinación habitual es D-G-B-E que precisamente coincide con la afinación de las cuatro primeras
-cuerdas de la guitarra, de ahi también su similitud.
+cuerdas de la guitarra, de ahí también su similitud.
 
 No es el tipo de ukelele más recomendado para alguien que quiera comprarse su primer ukelele, si bien si se sabe tocar la guitarra o se piensa hacerlo en un futuro, seguramente
 con este tipo de ukelele la transición entre instrumentos sea mucho más sencilla todavía.
