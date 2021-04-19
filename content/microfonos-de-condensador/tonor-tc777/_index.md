@@ -113,7 +113,7 @@ Si quieres darle un uso más profesional o utilizarlo para grabar música este n
 Si estás interesado en más micrófonos te recomiendo que visites nuestra sección dedicada a los [micrófonos de condensador](/microfonos-de-condensador). En ella podrás encontrar toda la información que necesitas saber a la hora de escoger un micrófono y también podrás ver otras **reviews y recomendaciones de micrófonos** con una buena relación **calidad precio** actualizado a 2021.
 
 <div>
-  <a href="/tags/micrófonos" class="btn btn-outline-primary">Buscar otro micrófono</a>&nbsp;
+  <a href="/categories/accesorios" class="btn btn-outline-primary">Buscar otros accesorios</a>&nbsp;
   <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
 </div>
 
