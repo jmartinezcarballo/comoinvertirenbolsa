@@ -5,7 +5,7 @@ date: 2020-09-10T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Review completa del Tonor TC 707. Especificaciones, accesorios y todo lo que necesitas saber de este micrófono de condensador."
+description: "Review completa del Tonor TC 777. Especificaciones, accesorios y todo lo que necesitas saber de este micrófono de condensador."
 
 # type
 type: "tonor-tc777"
