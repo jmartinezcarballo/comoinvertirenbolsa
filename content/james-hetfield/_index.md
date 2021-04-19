@@ -55,7 +55,7 @@ Icónica flying V blanca con la que Hetfield grabó y se llevó de gira para el 
 
 Utilizada hasta 1984 cuando se rompió el mástil y decidió pasarse a la Gibson explorer, ésta flying V fue la tercera guitarra que tuvo en propiedad.
 
-Como dato curioso, fue restaurada hace unos años añadíendole unas [pastillas EMG](/pastillas-para-guitarra/#las-mejores-pastillas-humbucker) y fue una de las guitarras utilizadas en la grabación de **Death Magnetic** en 2008. La podéis oír, por ejemplo, en la intro de **Broken, Beat and Scarred**.
+Como dato curioso, fue restaurada hace unos años añadíendole unas pastillas EMG y fue una de las guitarras utilizadas en la grabación de **Death Magnetic** en 2008. La podéis oír, por ejemplo, en la intro de **Broken, Beat and Scarred**.
 
 #### Características de la Electra Gibson Flying V
 
@@ -98,7 +98,7 @@ De igual manera que con la flying V, para el Death Magnetic Hetfield quiso recup
 
 ### ESP MX 220 (1987-1990)
 
-En **1987**, después de que **Kirk Hammett** le descubriera las **ESP**, **James Hetfield** decidió también hacer el cambio dejando atrás las Gibson que había utilizado los últimos años por las [guitarras ESP](/guitarras-ltd). Eso sí, no tenía intención de renunciar al icónico estilo explorer blanco que ya se había convertido en característico de su imagen. De esta manera llegaron las **ESP MX 220** a manos de Hetfield, cuyo diseño la marca nipona quiso hacer a imagen y semejanza de la **Gibson Explorer** original de **1958**.
+En **1987**, después de que **Kirk Hammett** le descubriera las **ESP**, **James Hetfield** decidió también hacer el cambio dejando atrás las Gibson que había utilizado los últimos años por las guitarras ESP. Eso sí, no tenía intención de renunciar al icónico estilo explorer blanco que ya se había convertido en característico de su imagen. De esta manera llegaron las **ESP MX 220** a manos de Hetfield, cuyo diseño la marca nipona quiso hacer a imagen y semejanza de la **Gibson Explorer** original de **1958**.
 
 <div><img src="../../images/james-hetfield/james-hetfield-esp-mx-220-eet-fuk.jpg" alt="james hetfield esp mx 220 1987" width="335" height="390"></div>
 
@@ -407,5 +407,6 @@ Sin duda, todo el interior del cuerpo estará hecho de la mejor caoba que exista
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004A91X8K&linkId=a5c7ad3ff8ca7fe546c59e159cc7ac5a"></iframe>
 
 <div>
-  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>
+  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar guitarrista</a>&nbsp;&nbsp;
+  <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>  
 </div>
