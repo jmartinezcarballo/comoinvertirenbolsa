@@ -34,7 +34,7 @@ relacionados con la guitarra más asequibles del mercado y accesibles a todo el 
 
 Para empezar te presento una selección de las **mejores púas de guitarra** de 2021 que puedes encontrar hoy en día.
 
-<a href="https://amzn.to/2ALUCgA" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar en Amazon</a>
+<a href="https://amzn.to/3n4mOP8" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar en Amazon</a>
 
 &nbsp;
 
@@ -85,7 +85,7 @@ Todas tienen un tamaño estándar y 0,71mm de grosor.
 Incluye una pequeña bolsa de terciopelo para guardarlas.
 
 <div>
-	<a href="https://amzn.to/3eFBBdV" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/32Dq6iV" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ### Kit de 40 puas Rayzm
@@ -112,7 +112,7 @@ El kit incluye:
 * Incluye funda de tela resistente para su guardado
 
 <div>
-	<a href="https://amzn.to/37llUWG" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3dA0B8P" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ### Kit de 50 puas fabricadas con delrin
@@ -139,7 +139,7 @@ El kit incluye:
 * Incluye funda de tela para su guardado
 
 <div>
-	<a href="https://amzn.to/2XSU7bY" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3tFcekq" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ### Kit de puas para guitarra eléctrica, acústica y bajo
@@ -160,7 +160,7 @@ El kit incluye:
 * Incluye caja metálica circular para su guardado
 
 <div>
-	<a href="https://amzn.to/2XrZPTi" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3tFcfF0" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ## Grosor de las púas de guitarra
@@ -216,31 +216,31 @@ de las más vendidas en su segmento.
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2V5ejGR" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/2PaiXno" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/puas-de-nylon.jpg" alt="puas de nylon dunlop" title="puas de nylon dunlop con estuche" width="219" height="200">
           <figcaption>Puas de nylon Dunlop</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://www.amazon.es/Dunlop-Delrin-p%C3%BAas-guitarra-arritmog%C3%A9nico/dp/B00CN7ZYUE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+delrin+Dunlop&qid=1599656836&s=musical-instruments&sr=1-1&linkCode=ll1&tag=guitar0de-21&linkId=81ad86d24be924f545679e025a3aa19d&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3tCoUZg" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/puas-delrin.jpg" alt="puas de delrin dunlop" title="puas de delrin dunlop con estuche" width="219" height="200">
           <figcaption>Puas de delrin Dunlop</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://www.amazon.es/Dunlop-474R20-Stubby-jazz-2-0mm/dp/B000EELAGA/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+lexan+Dunlop&qid=1599656906&s=musical-instruments&sr=1-2&linkCode=ll1&tag=guitar0de-21&linkId=5f6f587c1466d6d5007ad4739c2c8b13&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/2RLf7ln" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/puas-dunlop-stubby-2mm.jpg" alt="puas de lexan Dunlop Stubby" title="puas lexan marca dunlop" width="170" height="200">
           <figcaption>puas de lexan Dunlop Stubby</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://www.amazon.es/Jim-Dunlop-pvp102-Variedad-reproductor-guitarra/dp/B0055VBYWC/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+tortex+Dunlop&qid=1599656940&s=musical-instruments&sr=1-2&linkCode=ll1&tag=guitar0de-21&linkId=0e1453f3b976bd87c3eb4c3df2ea51f8&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3n8ZGPB" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/dunlop-tortex.jpg" alt="puas de tortex Dunlop" title="puas tortex marca dunlop" width="263" height="200">
           <figcaption>puas de tortex Dunlop</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://www.amazon.es/Dunlop-PVP106-GENUINE-CELLULOID-Variety/dp/B01MQDULSR/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Puas+de+celuloide+Dunlop&qid=1599656989&s=musical-instruments&sr=1-27&linkCode=ll1&tag=guitar0de-21&linkId=3aa89a824227934b307c33f67d26ba1c&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3gljE8y" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/dunlop-celuloide.jpg" alt="puas de celuloide Dunlop" title="puas de celuloide marca dunlop" width="113" height="200">
           <figcaption>puas de celuloide Dunlop</figcaption>
         </a>
@@ -260,31 +260,31 @@ Te presento algunas opciones recomendables tanto para un caso como el otro. Todo
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2NgL3sr" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3tAGfBD" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/portapuas-cuero-llavero.jpg" alt="portapuas llavero de cuero" title="porta puas para guitarra de cuero con llavero" width="227" height="200">
           <figcaption>Portapuas y llavero de cuero</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/311occn" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/2P6yRz7" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/portapuas-rayzm-cuero.jpg" alt="portapuas Rayzm de cuero" title="porta puas de guitarra con puas de regalo" width="217" height="200">
           <figcaption>Portapuas Rayzm de cuero</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3dndqzE" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/2P6yRz7" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/portapuas-shanna.jpg" alt="porta puas Shanna de cuero sintético" title="porta puas Shanna de cuero sintético" width="207" height="200">
           <figcaption>Portapuas Shanna</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2V5ejGR" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3dBVapy" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/soporte-para-puas-fretfunk.jpg" alt="soporte para puas fretfunk" title="soporte para puas para tocar en directo" width="204" height="200">
           <figcaption>Soporte para puas Fretfunk</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3dntIc3" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3egkMaV" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/puas/soporte-para-puas-konig-meyer.jpg" alt="soporte para puas Konig Meyer" title="soporte para puas de guitarra en concierto" width="399" height="196">
           <figcaption>Soporte para puas Konig Meyer</figcaption>
         </a>
@@ -292,6 +292,6 @@ Te presento algunas opciones recomendables tanto para un caso como el otro. Todo
 </div>
 
 <div>
-<a href="/categories/accesorios" class="btn btn-outline-primary">Volver al menú de accesorios</a>&nbsp;&nbsp;
+<a href="/categories/accesorios" class="btn btn-outline-primary">Buscar otros accesorios</a>&nbsp;&nbsp;
 <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
 </div>

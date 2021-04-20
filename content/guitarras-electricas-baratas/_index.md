@@ -35,7 +35,7 @@ sobre el que la hagas sonar. Sin un amplificador decente cualquier guitarra te s
 empiezan los problemas y algunas frustraciones al no poder usar un amplificador en casa.
 
 ¿Qué puedes hacer si no tienes amplificador en casa? tranquilo hay soluciones para todo! como alternativa casera existen 
-las <a href="/behringer-guitar-link">interfaces de sonido usb</a> que funcionan como tarjetas de sonido externas a tu ordenador.
+las <a href="/behringer-guitar-link" rel="nofollow noopener noreferrer">interfaces de sonido usb</a> que funcionan como tarjetas de sonido externas a tu ordenador.
 
 Pero no nos desviemos del tema y volvamos a las seis cuerdas. ¿Quieres encontrar una guitarra económica? voy a mostrarte las mejores.
 
@@ -78,7 +78,7 @@ Pero no nos desviemos del tema y volvamos a las seis cuerdas. ¿Quieres encontra
 
 > Las Yamaha Pacífica son la referencia número 1 en guitarras de calidad/precio para principantes
 
-Las <a href="/guitarras-yamaha/">guitarras yamaha</a> son reconocidas por hacer productos **fiables** y de una muy buena **calidad precio**. 
+Las <a href="/guitarras-yamaha/" rel="nofollow noopener noreferrer">guitarras yamaha</a> son reconocidas por hacer productos **fiables** y de una muy buena **calidad precio**. 
 
 La Yamaha Pacifica es un clásico y una referencia entre las guitarras de gama media/baja y suele aparecer entre las 
 recomendaciones para principiantes. 
@@ -90,7 +90,7 @@ o incluso el metal, por tanto es ideal para alguien que quiere aprender a tocar.
 Normalmente la puedes encontrar en tienda por debajo de los 200€.
 
 <p>
-<a href="https://amzn.to/3bLizRn" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/yamaha-pacifica-012.jpg" alt="yamaha pacifica 012"></a>
+<a href="https://amzn.to/3gpiWao" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/yamaha-pacifica-012.jpg" alt="yamaha pacifica 012"></a>
 </p>
 
 #### Características de la Yamaha Pacifica 012
@@ -102,7 +102,7 @@ Normalmente la puedes encontrar en tienda por debajo de los 200€.
 * 2 pastillas single coil y 1 humbucker en el puente con selector de 5 posiciones
 
 <div>
-	<a href="https://amzn.to/3bLizRn" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3gpiWao" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -118,7 +118,8 @@ Cuando hablamos de segundas marcas inevitablemente tenemos que tener en cuenta q
 de la marca matriz, y mucho menos cuando hablamos, como es este caso, del modelo de la gama más baja de las LTD, la serie 10,
 así como tampoco el país de fabricación de la guitarra.
 
-Dicho esto, hablar de <a href="/ltd">ltd</a> es hablar de fiabilidad y buena calidad, eso si, tienes que tener claro para qué quieres la guitarra. 
+Dicho esto, hablar de <a href="/ltd" rel="nofollow noopener noreferrer">ltd</a> es hablar de fiabilidad y buena calidad, eso si, 
+tienes que tener claro para qué quieres la guitarra. 
 
 Si lo que quieres son sonidos limpios, tocar pop, etc. seguramente hayan mejores opciones, sin embargo, si lo que te gusta 
 es el **rock y el metal**, son guitarras muy a tener en cuenta. 
@@ -126,7 +127,7 @@ es el **rock y el metal**, son guitarras muy a tener en cuenta.
 La **serie 10 de ltd** cuenta con diferentes modelos en función del diseño de la guitarra, de esta manera te puedes encontrar
 el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 
-<p><a href="https://amzn.to/3bP0q5p" rel="nofollow noopener noreferrer" target="_blank">
+<p><a href="https://amzn.to/3dvDNXt" rel="nofollow noopener noreferrer" target="_blank">
 <img src="../../images/guitarras-baratas/ltd-ec-10.jpg" alt="ltd ec 10"></a></p>
 
 #### Características de la LTD EC 10
@@ -139,7 +140,7 @@ el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 * 2 pastillas humbucker ESP Designed LH-100
 
 <div>
-	<a href="https://amzn.to/3bP0q5p" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3dvDNXt" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>		
 
 &nbsp;
@@ -157,7 +158,7 @@ qué estilos te gustaría tocar para decantarte entre ámbos modelos.
 
 Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar a la versatilidad que ofrecen las Yamaha.
 
-<p><a href="https://amzn.to/2zixUf9" rel="nofollow noopener noreferrer" target="_blank">
+<p><a href="https://amzn.to/3n3gW99" rel="nofollow noopener noreferrer" target="_blank">
 <img src="../../images/guitarras-baratas/squier-affinity.jpg" alt="squier affinity stratocaster"></a></p>
 
 #### Características de la Squier Affinity
@@ -170,7 +171,7 @@ Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar 
 * 3 pastillas single coil
 
 <div>
-	<a href="https://amzn.to/2zixUf9" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3n3gW99" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -179,10 +180,10 @@ Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar 
 
 > Comprar Ibanez es comprar calidad y comodidad. Una de las marcas más fiables que existen.
 
-<p><a href="https://amzn.to/3bLQ0mL" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/ibanez-grg170dx.jpg" alt="ibanez grg170dx"></a></p>
+<p><a href="https://amzn.to/3v1CRQE" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/ibanez-grg170dx.jpg" alt="ibanez grg170dx"></a></p>
 
-Guitarra super interesante la que nos ofrece Ibanez en este rango de precios. Vas a poder dar caña con sus dos **pastillas 
-Humbucker**, pero además dispone de una pastilla simple, por lo que vas a tener todavía más versatilidad.
+Guitarra super interesante la que nos ofrece Ibanez en este rango de precios. Vas a poder dar caña con sus dos pastillas 
+Humbucker, pero además dispone de una pastilla simple, por lo que vas a tener todavía más versatilidad.
 
 Ibanez es un fabricante con una gran prestigio y de referencia por crear modelos muy cómodos, punto muy importante para
 todo principiante. 
@@ -203,7 +204,7 @@ Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te 
 * 2 pastillas humbucker en cuello y puente y 1 pastilla single coil en la posición intermedia
 
 <div>
-	<a href="https://amzn.to/3bLQ0mL" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3v1CRQE" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>		
 
 &nbsp;
@@ -212,7 +213,7 @@ Esto en sí no es ningún problema, pero en guitarras de gama baja puede que te 
 
 > Las Cort no tienen nada que envidiar a marcas más conocidas. Su calidad precio te sorprenderá!
 
-Hablar de <a href="/guitarras-cort">Cort</a> es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
+Hablar de <a href="/guitarras-cort" rel="nofollow noopener noreferrer">Cort</a> es hablar de una marca contrastada con uno de los baremos **calidad/precio** mejores del mercado. 
 
 Buen material, buenos acabados y buen sonido, una todoterreno.
 
@@ -223,9 +224,12 @@ los últimos trastes por su diseño curvo.
 
 Aun así, personalmente creo que es una de las mejores guitarras que vas a encontrar en su segmento.
 
-<p><a href="https://amzn.to/2yjOWcd" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/cort-cr100.jpg" alt="guitarra cort cr 100"></a></p>
+<p><a href="https://amzn.to/2P4If6n" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/cort-cr100.jpg" alt="guitarra cort cr 100"></a></p>
 
 #### Características de la Cort CR 100
+
+Si estás interesado en esta guitarra te recomiendo que visites nuestra completa <a href="/guitarras-cort/cr100" rel="nofollow noopener noreferrer">review de la Cort CR100</a> para saberlo todo acerca de esta guitarra. 
+Aquí tienes un avance:
 
 * Cuerpo de caoba
 * Diapason de palorosa
@@ -235,7 +239,7 @@ Aun así, personalmente creo que es una de las mejores guitarras que vas a encon
 * 2 pastillas humbucker Powersound PSLP-1F y PSLP-1R
 
 <div>
-	<a href="https://amzn.to/2yjOWcd" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2P4If6n" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -338,7 +342,7 @@ Sus modelos **Pacifica 112v** y **Pacifica 012** son líderes de ventas en el se
 muy ajustada para la buena calidad que ofrecen. Son un claro ejemplo de que no es 
 necesario pagar más por una marca de renombre cuando puedes tener una guitarra de igual o mejor calidad a un mejor precio.
 
-* **Rocktile**: <a href="https://amzn.to/2V1iuDB" rel="nofollow noopener noreferrer" target="_blank">para los presupuestos más ajustados</a>. 
+* **Rocktile**: <a href="https://amzn.to/3tAr1gb" rel="nofollow noopener noreferrer" target="_blank">para los presupuestos más ajustados</a>. 
 Están un poco por debajo de las anteriores marcas en cuanto a calidad, si bien sus precios son más económicos y puede ser 
 una elección ideal para aquellos principiantes que busquen su primera guitarra sin querer gastarse mucho y prefieran esperar a dominar el instrumento 
 para comprarse una guitarra de gama superior. 
@@ -348,21 +352,8 @@ para comprarse una guitarra de gama superior.
 Y hasta aquí la sección de guitarras baratas. Tal vez ya hayas encontrado esa primera guitarra eléctrica que buscabas. 
 En tal caso, **tal vez te interesen estos accesorios para complementar tu compra:**
 
-<div class="row">
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/behringer-guitar-link/">
-          <figcaption>Behringer Guitar Link</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/puas-guitarra/">
-          <figcaption>Puas de Guitarra</figcaption>
-        </a>
-      </div>
-      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="/inlays-guitarra/">
-          <figcaption>Inlays para Guitarra</figcaption>
-        </a>
-      </div>
+<div>
+<a href="/categories/listas-top" class="btn btn-outline-primary">Repasa otra lista top</a>&nbsp&nbsp
+<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
 </div>
 

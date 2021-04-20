@@ -28,10 +28,10 @@ En esta entrada haremos un pequeño repaso a esta familia de instrumentos y nos 
 guitarra pequeña de 4 cuerdas que cada vez se está volviendo más popular entre la gente, el **ukelele**.
 
 <div>
-	<a href="https://amzn.to/393G4WH" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar ukelele</a>
+	<a href="https://amzn.to/2QJUx4h" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar ukelele</a>
 </div>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001LU1SFO&linkId=7aaed3671466a5defc065f9128a21ef4"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001LU1SFO&linkId=fe4e5e1b7846f922813f41a493e6ffa7"></iframe>
 
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
@@ -57,7 +57,7 @@ Teniendo en cuenta esta definición,
 entrarían dentro de esta familia de instrumentos no solo la guitarra o el ukelele, sino instrumentos tan diversos 
 como el violín, la mandolina, el violonchelo, el arpa o incluso el piano.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07W6NQWFW&linkId=a1dfa2d35ffa28db41ebe6d720528f4c"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07W6NQWFW&linkId=0bc465ca4e6dcdae5f90daa60eb833d1"></iframe>
 
 ## El ukelele
 
@@ -83,7 +83,7 @@ que mantiene más fielmente el sonido original del instrumento.
 
 Además es la elección ideal para un niño y sus todavía pequeñas manos.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07YK9Y6ZY&linkId=982760d55f85ff42c9352399e95ca749"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07YK9Y6ZY&linkId=465b117ddcf379ac8655c9ad32a30e45"></iframe>
 
 #### Ukelele concierto
 
@@ -95,14 +95,14 @@ Si quieres aprender a tocar el ukelele pero tus manos y dedos son un poco grande
 que el ukelele concierto se adapte mejor que el soprano al ser un poco más grande la diferencia de anchura en los trastes, algo importante a tener en cuenta sobretodo si vas a
 aprender.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B06WWL4FN6&linkId=d54908d7401c545021dc4b0101e24d6a"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B06WWL4FN6&linkId=42e1639e8e0252d4fceecfc22d7a1fda"></iframe>
 
 #### Ukelele tenor
 
 El ukelele de tipo tenor tiene una longitud aproximada de 66cm y 26 pulgadas y su afinación habitual es la misma que los ukeleles soprano y concierto, G-C-E-A, aunque también 
 se pueden encontrar en D-G-B-E.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07FCG7BRZ&linkId=8d22cf744bb4d675b1e46593c6a1dbf3"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07FCG7BRZ&linkId=6ae939c10b4b012278076eb709ef329b"></iframe>
 
 #### Ukelele barítono
 
@@ -116,7 +116,7 @@ cuerdas de la guitarra, de ahí también su similitud.
 No es el tipo de ukelele más recomendado para alguien que quiera comprarse su primer ukelele, si bien si se sabe tocar la guitarra o se piensa hacerlo en un futuro, seguramente
 con este tipo de ukelele la transición entre instrumentos sea mucho más sencilla todavía.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00YTT4RM0&linkId=0530b91793df7b0b9b50d315850a4a4b"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00YTT4RM0&linkId=dc9d023f2ae0c03bd1f1d457c2b64294"></iframe>
 
 ### Qué ukelele comprar
 
@@ -138,7 +138,7 @@ Respecto a las cuerdas, puedes encontrarlas de distintos tipos, dependiendo tamb
 aprender y acostumbrar los dedos a la presión. Por contra, las de acero típicas de los ukeleles barítonos y las guitarras acústicas son mucho más duras y puedes sufrir más.
 Sin duda, las más reconocidas son las **cuerdas de ukelele Aquila**.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B003UYY05O&linkId=30436eaaedee81eff23c0b631e3897ae"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B003UYY05O&linkId=b4cef5b077316a8b3511eae47ac61fe8"></iframe>
 
 ### Mejores marcas de ukelele
 
@@ -159,19 +159,19 @@ que encaje mejor con lo que buscas.
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3sw7MCW" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3dAEij3" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-soprano-kala-KA15S.png" alt="ukelele soprano Kala KA15S" title="ukelele soprano Kala KA15S" width="97" height="250">
           <figcaption>Kala KA15S soprano</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3grCTNw" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3amzonZ" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-kala-KA-S.png" alt="ukelele soprano Kala KA-S" title="ukelele soprano Kala KA-S" width="94" height="250">
           <figcaption>Kala KA-S soprano</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3szuU3K" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/2PbYa2Q" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-concierto-kala-MKC.png" alt="ukelele concierto Kala MKC" title="ukelele concierto Kala MKC" width="100" height="250">
           <figcaption>Kala MKC concierto</figcaption>
         </a>
@@ -189,19 +189,19 @@ A continuación puedes consultar aquel que más te interese.
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3al36JS" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3sxGJqV" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-soprano-enya-EUS-25D.png" alt="ukelele soprano Enya EUS 25D" title="ukelele soprano Enya EUS 25D" width="223" height="250">
           <figcaption>pack Enya EUS-25D soprano</figcaption>
         </a>
       </div>
         <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3e56gCw" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/2RLgosF" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-concierto-enya-nova-U23.png" alt="Enya Nova U23 concierto" title="Enya Nova U23 concierto" width="238" height="250">
           <figcaption>pack Enya Nova U23 concierto</figcaption>
         </a>
       </div>
     <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3uWXYUg" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3ed5Fio" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-concierto-enya-euc-mad-bu-23.png" alt="Enya EUC MAD BU 23 con funda concierto" title="ukelele concierto Enya EUC MAD BU 23" width="200" height="250">
           <figcaption>Enya EUC MAD BU 23 con funda concierto</figcaption>
         </a>
@@ -225,7 +225,7 @@ Hricane es una marca reconocida que ofrece buenos productos calidad/precio. Buen
 A continuación te expongo las características principales del **Hricane Ukelele**.
 
 <div>
-  <a href="https://amzn.to/2Yqp8Em" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/2RUjs69" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-hricane.jpg" alt="ukelele hricane"/>
   </a>
 </div>
@@ -239,12 +239,12 @@ A continuación te expongo las características principales del **Hricane Ukelel
 * Incluye bolsa de transporte
 
 <div>
-	<a href="https://amzn.to/2Yqp8Em" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2RUjs69" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JMJ6L2L&linkId=e215aadda0171bb8c44247428dfa18f0"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JMJ6L2L&linkId=0eb2da210f225f3ddfbf95f6333c7712"></iframe>
 
 #### Ammoon Ukelele de 24 pulgadas
 
@@ -253,7 +253,7 @@ A diferencia del primer ukelele que estaba disponible en cuatro tamaños diferen
 Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora **electrónica**. Dispone de un ecualizador que permite ajustar volumen, graves, medios y agudos e incluye una batería y una entrada que lo permite enchufar tanto a un altavoz como a un PC.
 
 <div>
-  <a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3dzlXD6" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-24-pulgadas.jpg" alt="ammonn ukelele de 24 pulgadas"/>
   </a>
 </div>
@@ -269,7 +269,7 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 * Dimensiones: 62 * 21 * 7,5 cm
 
 <div>
-	<a href="https://amzn.to/30Bqzm1" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3dzlXD6" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -279,7 +279,7 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la electrónica del modelo anterior. Este modelo soprano, ideal para principiantes, ofrece un buen sonido con sus 4 cuerdas de nylon sobre un diapasón hecho de palorosa y cuerpo de picea.
 
 <div>
-  <a href="https://amzn.to/2Az0Foj" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3ng6LhD" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-21-pulgadas.jpg" alt="ammonn ukelele de 21 pulgadas"/>
   </a>
 </div>
@@ -294,7 +294,7 @@ Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la elec
 * Dimensiones: 55,4 x 21,8 x 11,2 cm
 
 <div>
-	<a href="https://amzn.to/2Az0Foj" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3ng6LhD" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -304,7 +304,7 @@ Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la elec
 De nuevo volvemos con otro ukelele, en este caso otro de tipo soprano de 21 pulgadas con la particularidad de que este tiene el cuerpo hecho de caoba, lo cual le da una mayor calidad de acabados. En este caso las cuerdas son de Aquila, marca de referencia que se caracteriza por fabricar cuerdas duraderas en el tiempo y suaves.
 
 <div>
-  <a href="https://amzn.to/30Gq4aC" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/2QaWbwh" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/guitarra-pequena-cuatro-cuerdas/andoer-ukelele-soprano.jpg" alt="andoer ukelele soprano"/>
   </a>
 </div>
@@ -318,7 +318,7 @@ De nuevo volvemos con otro ukelele, en este caso otro de tipo soprano de 21 pulg
 * Dimensiones: 57 x 22,5 x 10cm
 
 <div>
-	<a href="https://amzn.to/30Gq4aC" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2QaWbwh" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 #### Nuobesty Mini Ukelele de juguete
@@ -328,7 +328,7 @@ Para que los niños empiecen a desarrollar habilidades auditivas y musicales te 
 Es más fácil de agarrar que un ukelele y se pueden afinar las cuerdas con precisión. Las cuerdas son de nylon y de tacto agradable y suave.
 
 <div>
-  <a href="https://amzn.to/2B5HuTf" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3ek0qNL" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/guitarra-pequena-cuatro-cuerdas/nuobesty-guitarra-pequena-juguete.jpg" alt="nuobesty guitarra pequeña juguete"/>
   </a>
 </div>
@@ -341,7 +341,7 @@ Es más fácil de agarrar que un ukelele y se pueden afinar las cuerdas con prec
 * Dimensiones: 38 x 9.8 x 4.5cm
 
 <div>
-	<a href="https://amzn.to/2B5HuTf" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3ek0qNL" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -353,7 +353,7 @@ A continuación te traigo una **guitarra pequeña de cuatro cuerdas** que simula
 Es un **juguete educativo** perfecto para que los más pequeños de la casa se diviertan a la vez que se introducen en el mundo de la música, ligero y a un precio muy asequible.
 
 <div>
-  <a href="https://amzn.to/2MV9M5i" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/32Kh1oV" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/guitarra-pequena-cuatro-cuerdas/guitarra-cuatro-cuerdas-juguete.jpg" alt="guitarra de cuatro cuerdas de juguete"/>
   </a>
 </div>
@@ -367,7 +367,7 @@ Es un **juguete educativo** perfecto para que los más pequeños de la casa se d
 * Diferentes colores
 
 <div>
-	<a href="https://amzn.to/2MV9M5i" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/32Kh1oV" rel="nofollow noopener noreferrer" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;

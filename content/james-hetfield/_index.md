@@ -20,13 +20,13 @@ tags:
   - "Metallica"
 ---
 
-Hablar de <a href="https://amzn.to/3ixnzgl" rel="nofollow noopener noreferrer" target="_blank">James Hetfield</a> es hablar de una de las mayores leyendas vivas dentro del panorama musical mundial.
+Hablar de <a href="https://amzn.to/32wRwHu" rel="nofollow noopener noreferrer" target="_blank">James Hetfield</a> es hablar de una de las mayores leyendas vivas dentro del panorama musical mundial.
 
 <div><img src="../../images/james-hetfield/james-hetfield-iron-cross.jpg" alt="james hetfield iron cross 30 aniversary" width="350" height="233"></div>
 
 Nacido en agosto de 1963, James Hetfield es el **cantante de Metallica**, banda que fundó en octubre de 1981 junto a Lars Ulrich, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072KL77LR&linkId=a9bec1961a275376c2727ecf4e02d927"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072KL77LR&linkId=a0e66c9f2415ca920a6ae8178a906502"></iframe>
 
 Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus guitarras, así que si quieres saber **que guitarra usa James Hetfield** estás en el sitio adecuado.
 
@@ -34,9 +34,7 @@ Como la historia de Metallica ya es conocida por todos, y siendo ésta una pági
 
 ¿Aún no tienes en casa el **S&M2** de Metallica con la **Orquesta Sinfónica de San Francisco**? ¿A qué esperas? aquí lo tienes en diferentes formatos:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B089J3LQN4&linkId=7e3fc812d5889347f460829cd12536d1"></iframe>
-&nbsp;&nbsp;
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0757JMQG8&linkId=411277ff981e3024a09af95bdc860b72"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0757JMQG8&linkId=b28536789264e582eec1c1af5728a372"></iframe>
 
 &nbsp;
 
@@ -48,14 +46,14 @@ He seleccionado de entre toda su **colección de guitarras** aquellas que consid
 
 ### ELECTRA "GIBSON" FLYING V (1980-1984)
 
-Icónica flying V blanca con la que Hetfield grabó y se llevó de gira para el primer disco de Metallica, el **Kill 'em all** de 1983. He entrecomillado lo de Gibson ya que definitivamente la guitarra es una imitación de la **Gibson flying V** elaborada en Japón por Electra. Según el propio Hetfield reconoció, fue engañado por el vendedor que se la hizo pasar por una Gibson y, como novato que era por entonces, picó en el cebo costándole alrededor de [200 dolares de la época](/guitarras-electricas-baratas). Lo que sí tenía claro es que quería tener una **flying V blanca** como homenaje a **Michael Schenker**, lo tenía entre ceja y ceja, y lo consiguió.
+Icónica flying V blanca con la que Hetfield grabó y se llevó de gira para el primer disco de Metallica, el **Kill 'em all** de 1983. He entrecomillado lo de Gibson ya que definitivamente la guitarra es una imitación de la **Gibson flying V** elaborada en Japón por Electra. Según el propio Hetfield reconoció, fue engañado por el vendedor que se la hizo pasar por una Gibson y, como novato que era por entonces, picó en el cebo costándole alrededor de 200 dolares de la época. Lo que sí tenía claro es que quería tener una **flying V blanca** como homenaje a **Michael Schenker**, lo tenía entre ceja y ceja, y lo consiguió.
 
 <div><img src="../../images/james-hetfield/james-hetfield-flying-v-blanca.jpg" alt="james hetfield flying v kill em all" width="350" height="525"></div>
 <div><img src="../../images/james-hetfield/michael-schenker-flying-v.jpg" alt="michael schenker flying v" width="350" height="326"></div>
 
 Utilizada hasta 1984 cuando se rompió el mástil y decidió pasarse a la Gibson explorer, ésta flying V fue la tercera guitarra que tuvo en propiedad.
 
-Como dato curioso, fue restaurada hace unos años añadíendole unas pastillas EMG y fue una de las guitarras utilizadas en la grabación de **Death Magnetic** en 2008. La podéis oír, por ejemplo, en la intro de **Broken, Beat and Scarred**.
+Como dato curioso, fue restaurada hace unos años añadíendole unas pastillas EMG y fue una de las guitarras utilizadas en la grabación de Death Magnetic en 2008. La podéis oír, por ejemplo, en la intro de Broken, Beat and Scarred.
 
 #### Características de la Electra Gibson Flying V
 
@@ -124,7 +122,7 @@ Os dejo una grabación de uno de los mejores conciertos de la carrera de la band
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B073B7NZM1&linkId=76b8e4281e021fdae61df47ca878445c"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B073B7NZM1&linkId=8a2c059e3630efb6af2d8fd1549eff89"></iframe>
 
 &nbsp;
 
@@ -160,7 +158,7 @@ Os dejo con un video del concierto **homenaje a Freddy Mercury** donde podéis v
 Hasta aquí el repaso a los 15 primeros años de la carrera de Metallica en lo que a guitarras se refiere. ¿Te han gustado las **explorer de James Hetfield**?
 
 <div>
-	<a href="https://amzn.to/2BxUWzh" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer blanca</a> &nbsp;
+	<a href="https://amzn.to/3sAuDNC" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer blanca</a>&nbsp;&nbsp; &nbsp;
 	<a href="https://www.thomann.de/es/esp_ltd_ex_200_black.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer negra</a>
 </div>
 
@@ -242,7 +240,7 @@ En 2003 se construyeron apenas 300 unidades de la fácilmente reconocible viper 
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01EALU6XK&linkId=ab2407a9473af63b05cb537e073434c3"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01EALU6XK&linkId=76fd9adcfbe3b17fa1f88043d6f1b5a7"></iframe>
 
 &nbsp;
 
@@ -258,7 +256,7 @@ La ESP Truckster fue la primera guitarra en incorporar las **pastillas EMG** sig
 
 ¿Quieres que tu guitarra tenga las EMG JH? pues las tienes a la venta!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00GXNMJDO&linkId=12c1792fb2579aeb90cd3142585b1f52"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00GXNMJDO&linkId=c1e3472ce5b622225760a2a5e8676d7a"></iframe>
 
 #### Características de la ESP Truckster
 
@@ -275,7 +273,7 @@ La ESP Truckster fue la primera guitarra en incorporar las **pastillas EMG** sig
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B019GXD7HY&linkId=5f47842c59126bcd1efcfe84c4cbea4e"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B019GXD7HY&linkId=858fb9dfc321e57522bacbf90703ce67"></iframe>
 
 ### ESP IRON CROSS (desde 2008)
 
@@ -303,8 +301,7 @@ Basada en la **Gibson Les Paul Custom** que utilizó durante la gira de St.Anger
 	<a href="https://www.thomann.de/es/esp_iron_cross_sw.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Iron Cross</a>
 </div>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07GBCJ5RQ&linkId=96a491ce6a8f77f0296506aba074afe7"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00MBIDMCW&linkId=7290a0dc83ada0521b40239c0eed9bfd"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00MBIDMCW&linkId=8ee14b141f3f0793a8de560b31b1a842"></iframe>
 
 ### ESP SNAKEBYTE (desde 2011)
 
@@ -338,7 +335,7 @@ Las especificaciones ofrecen pocas novedades respecto a modelos previos, con el 
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QPXGBJR&linkId=7d62a8d47fe612670a55b9d16943b44f"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QPXGBJR&linkId=3144e0344c3847de8f378a9c3f0457ca"></iframe>
 
 &nbsp;
 
@@ -402,9 +399,7 @@ Sin duda, todo el interior del cuerpo estará hecho de la mejor caoba que exista
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0845N5SZZ&linkId=39013565f2d720bafb4f9d5e929fb5fc"></iframe>
-&nbsp;&nbsp;
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004A91X8K&linkId=a5c7ad3ff8ca7fe546c59e159cc7ac5a"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0845N5SZZ&linkId=2b134d338772a782674439c81ead40aa"></iframe>
 
 <div>
   <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar guitarrista</a>&nbsp;&nbsp;

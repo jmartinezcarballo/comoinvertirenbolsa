@@ -33,7 +33,7 @@ afinadores de guitarra que te facilitan el trabajo y te dicen en todo momento qu
 En esta sección vas a poder saberlo todo sobre los **afinadores de guitarra eléctrica, acústica y española** y podrás encontrar
 reviews de varios modelos y entender **como usar un afinador de guitarra**.
 
-<a href="https://amzn.to/3iQwIll" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar afinador de guitarra</a>
+<a href="https://amzn.to/3sIKVV7" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar afinador de guitarra</a>
 
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
@@ -110,7 +110,7 @@ afinador para guitarra cromático. Es la opción menos fiable, pero hay muchas a
 
 Si buscas un afinador de clip, en esta sección encontrarás una selección en base a su calidad y precio. Si quieres un **afinador de guitarra española o acústica** cualquiera de estas opciones te dará muy buen resultado.
 
-<a href="https://amzn.to/3pDNYx4" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">buscar afinadores de clip</a>
+<a href="https://amzn.to/3gmzNKZ" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">buscar afinadores de clip</a>
 
 ### Planet Waves NS
 
@@ -125,7 +125,7 @@ Ofrece afinación cromática y afinación por **rango de frecuencias** entre 430
 
 Su pequeño tamaño te permite poder dejarlo colocado con la guitarra en su estuche e incluye función de autoapagado.
 
-<a href="https://amzn.to/2NG33jk" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
+<a href="https://amzn.to/2P3zCc4" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
 
 ### Afinador de clip Ammonn
 
@@ -139,7 +139,7 @@ Este afinador de clip de Ammonn viene con diferentes **modos de afinación** par
 * Modos para afinar guitarra, bajo, ukelele y violín
 * Incluye afinación cromática
 
-<a href="https://amzn.to/3j4Zr6o" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
+<a href="https://amzn.to/3ar50J4" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
 
 ### Korg Pitchclip
 
@@ -152,13 +152,13 @@ Si buscas un afinador de clip de una marca de prestigio te presento el modelo Pi
 * Rotación de 360º para colocarlo como prefieras
 * Rápida detección de la nota
 
-<a href="https://amzn.to/39yQXkL" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
+<a href="https://amzn.to/3sv3j3D" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
 
 ## Top de afinadores cromáticos
 
 Si lo que te interesa es un afinador cromático para tu guitarra te presento a continuación dos afinadores de Korg de calidad más que contrastada.
 
-<a href="https://amzn.to/3coeuqk" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">buscar afinadores cromáticos</a>
+<a href="https://amzn.to/32vGemJ" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">buscar afinadores cromáticos</a>
 
 ### Korg CA-50
 
@@ -175,7 +175,7 @@ Su medición cromática con aguja ofrece una gran precisión y tiene un amplio r
 
 Además incluye marcas para detectar intervalos de mayor pura y de tercera menor (puedes ver en la imagen las marcas de bemol y sostenido con su led asociado) y función de calibración.
 
-<a href="https://amzn.to/3ctBYu6" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
+<a href="https://amzn.to/3tC5eET" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
 
 ### Korg TM-60
 
@@ -187,7 +187,7 @@ La función de afinador es prácticamente idéntica al Korg CA-50 dando un resul
 
 La función de afinación y la de metrónomo se pueden utilizar de manera simultanea.
 
-<a href="https://amzn.to/36rjw1E" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
+<a href="https://amzn.to/3x9M3Ey" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
 
 
 ## Características de un afinador de guitarra
@@ -251,5 +251,7 @@ Una vez tengas la sexta cuerda afinada, para las demás utilizas el sistema trad
 
 Con esto ya tendrás tu guitarra afinada en re.
 
-<a href="/categories/accesorios" class="btn btn-outline-primary">Volver al menú de accesorios</a>&nbsp;&nbsp;
+<div>
+<a href="/categories/accesorios" class="btn btn-outline-primary">Buscar otros accesorios</a>&nbsp;&nbsp;
 <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
+</div>

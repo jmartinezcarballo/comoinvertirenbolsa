@@ -37,7 +37,11 @@ A continuación te presento algunos modelos seleccionados de guitarras eléctric
 
 A continuación te expongo las características principales de la **Fender Squier Mini Stratocaster Torino**.
 
-![fender squier mini stratocaster](../../images/guitarras-infantiles/fender-squier-mini-stratocaster.jpg)
+<div>
+  <a href="https://amzn.to/3tBt2Zn" rel="nofollow noopener noreferrer" target="_blank">
+    <img src="../../images/guitarras-infantiles/fender-squier-mini-stratocaster.jpg" alt="squier mini stratocaster"/>
+  </a>
+</div>
 
 #### Características de la Fender Squier Mini Stratocaster
 
@@ -49,17 +53,20 @@ A continuación te expongo las características principales de la **Fender Squie
 * Dimensiones: 113 x 38,1 x 10,2 cm
 * 3 pastillas single coil
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Fender Squier Mini Stratocaster | rojo torino | 4,5 sobre 5 | <a href="https://amzn.to/2XYlvWb" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
-
+<div>
+	<a href="https://amzn.to/3tBt2Zn" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+</div>
 &nbsp;
 
 ### Rocktile L-50B
 
 A continuación te expongo las características principales de la **Rocktile L-50B**.
 
-![rocktile L50B junior](../../images/guitarras-infantiles/rocktile-l50b-junior.jpg)
+<div>
+  <a href="https://amzn.to/3n3c9nX" rel="nofollow noopener noreferrer" target="_blank">
+    <img src="../../images/guitarras-infantiles/rocktile-l50b-junior.jpg" alt="Rocktile L-50B Junior 3 4"/>
+  </a>
+</div>
 
 #### Características de la Rocktile L-50B
 
@@ -73,17 +80,20 @@ A continuación te expongo las características principales de la **Rocktile L-5
 * 1 pastilla humbucker
 * Peso: 2,7kg
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Rocktile L-50B | negro | 5 sobre 5 | <a href="https://amzn.to/3ceVvL3" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
-
+<div>
+	<a href="https://amzn.to/3n3c9nX" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+</div>
 &nbsp;
 
 ### Ibanez GRGM21-WHGIO Mikro
 
 A continuación te expongo las características principales de la **Ibanez GRGM21-WHGIO Mikro**.
 
-![Ibanez GRGM21 mikro](../../images/guitarras-infantiles/ibanez-grgm21-whgio-mikro.jpg)
+<div>
+  <a href="https://amzn.to/3n0m3a3" rel="nofollow noopener noreferrer" target="_blank">
+    <img src="../../images/guitarras-infantiles/ibanez-grgm21-whgio-mikro.jpg" alt="Ibanez GRGM21-WHGIO Mikro"/>
+  </a>
+</div>
 
 #### Características Ibanez GRGM21-WHGIO Mikro
 
@@ -95,17 +105,21 @@ A continuación te expongo las características principales de la **Ibanez GRGM2
 * Dimensiones: 96,6 x 39 x 8,6 cm
 * 2 pastillas humbucker Ibanez Infinity
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Ibanez GRGM21-WHGIO Mikro | blanco | 5 sobre 5 | <a href="https://amzn.to/2XJMNz9" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/3n0m3a3" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+</div>
 
 &nbsp;
 
 ### Stagg S300
 
-A continuación te expongo las características principales de la **Stagg S300**.
+A continuación te expongo las características principales de la Stagg S300.
 
-![stagg s300 escala 3/4](../../images/guitarras-infantiles/stagg-s300.jpg)
+<div>
+  <a href="https://amzn.to/3dzCQxs" rel="nofollow noopener noreferrer" target="_blank">
+    <img src="../../images/guitarras-infantiles/stagg-s300.jpg" alt="Stagg S300"/>
+  </a>
+</div>
 
 #### Características de la Stagg S300
 
@@ -117,9 +131,9 @@ A continuación te expongo las características principales de la **Stagg S300**
 * Dimensiones: 94 x 38,1 x 12,7 cm
 * 3 pastillas single coil
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Stagg S300 | negro | 4 sobre 5 | <a href="https://amzn.to/36LEGGy" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
+<div>
+	<a href="https://amzn.to/3dzCQxs" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+</div>
 
 &nbsp;
 
@@ -127,7 +141,11 @@ A continuación te expongo las características principales de la **Stagg S300**
 
 A continuación te expongo las características principales de la **Rocktile Sphere**.
 
-![guitarra electrica para niños rocktile sphere escala 3/4](../../images/guitarras-infantiles/rocktile-sphere.jpg)
+<div>
+  <a href="https://amzn.to/3xcVLpx" rel="nofollow noopener noreferrer" target="_blank">
+    <img src="../../images/guitarras-infantiles/rocktile-sphere.jpg" alt="rocktile sphere 3/4"/>
+  </a>
+</div>
 
 #### Características de la Rocktile Sphere
 
@@ -141,10 +159,9 @@ A continuación te expongo las características principales de la **Rocktile Sph
 * 1 pastilla humbucker y 1 pastilla single coil
 * Incluye funda
 
-| Modelo        | Color    | Valoraciones | Precio |      
-| ------------- |:-------------|:-------------|:-------------
-| Rocktile Sphere | azul o negro | 3,4 sobre 5 | <a href="https://amzn.to/2XAkljg" rel="nofollow noopener noreferrer" target="_blank">Ver producto</a>
-
+<div>
+	<a href="https://amzn.to/3xcVLpx" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+</div>
 &nbsp;
 
 ## Klangbeisser Startup escala 1/2

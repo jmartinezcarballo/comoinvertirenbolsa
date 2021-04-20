@@ -19,7 +19,7 @@ tags:
   - "Daron Malakian"
 ---
 
-<a href="https://amzn.to/3lG1NsM" rel="nofollow noopener noreferrer" target="_blank">Daron Malakian</a> es conocido por ser el guitarra, co-fundador y co-productor de **System of a Down (SOAD)**.
+<a href="https://amzn.to/32snS6a" rel="nofollow noopener noreferrer" target="_blank">Daron Malakian</a> es conocido por ser el guitarra, co-fundador y co-productor de **System of a Down (SOAD)**.
 La banda Californiana de raíces armenias fue fundada a mitad de los años 90 y explotó a finales de la decada con su álbum **Toxicity** que los catapultó a la fama hasta 2006 en que la banda decidió
 tomarse un descanso en su carrera.
 
@@ -34,14 +34,14 @@ no son precisamente alegres.
 Tanto **Protect the Land** como **Genocidal Humanoidz** se centran en el conflicto entre la región autónoma de Nagorno-Karabaj (poblada mayoritariamente por armenios) y Azerbaijan que reclama el territorio como suyo.
 La guerra y los crueles actos producidos en este territorio han sido una temática constante en las letras de la banda durante su carrera, así como la cultura y raíces armenias, y el 2020 no podía ser menos.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08MR2LPCM&linkId=15dceab5de4920ec6478f5f17e3d439c"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08MR2LPCM&linkId=20cc4260f7d820caa749738d9d860497"></iframe>
 
 ¿Aún no tienes en casa la discografía de **SOAD**? ¿A qué esperas? aquí tienes todos sus discos:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002MXNOAQ&linkId=269841175bbf5177e14f2a32ae2feaf7"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00005N648&linkId=0585bb670027a8591ea224959af2f0dd"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000683IMI&linkId=22348823482598520fa62018ec4d5d67"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000BPCCZ0&linkId=9fd542705a6fd605ba985ff01789bacf"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002MXNOAQ&linkId=d7c97088095e01202d907b71b8089061"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00005N648&linkId=8e7eb635ad9d9e333dababa5b4d30785"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000683IMI&linkId=3252feeff9eb75b5707ca0df0df42c31"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000BPCCZ0&linkId=c783164e3ceaa6c9b1d82b6abf2a96fb"></iframe>
 
 &nbsp;
 
@@ -78,7 +78,7 @@ Aquí podéis ver a SOAD interpretando Sugar en 1997 con Daron y su Fender dando
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01DDEXXMQ&linkId=402170d1327222e133aefedabcf5fe26"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01DDEXXMQ&linkId=d613617f4832ed2f5a50d63a2fc2ac01"></iframe>
 
 &nbsp;
 
@@ -108,7 +108,7 @@ En el caso de Daron ha utilizado varios modelos de la Iceman, la IC100 y la IC30
 
 Eres o tienes a un luthier de confianza? te ofrezco a continuación un plano detallado de una Ibanez Iceman, dibujado mediante CAD
 
-<a href="https://www.amazon.es/Ibanez-guitarra-el%C3%A9ctrica-completa-impresi%C3%B3n/dp/B01905U4HE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=ibanez+iceman&qid=1605684448&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=0e74e5f7d5989b159973fed4a37bf0de&language=es_ES" rel="nofollow noopener noreferrer" target="_blank" class="btn btn-outline-primary">Ver el plano</a>
+<a href="https://amzn.to/3aqvMRW" rel="nofollow noopener noreferrer" target="_blank" class="btn btn-outline-primary">Ver el plano</a>
 
 
 ### Ibanez Iceman DMM1
@@ -134,7 +134,7 @@ en la propia guitarra debajo del número de serie.
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JNSVSQZ&linkId=e6a6e58f1f3f672d23fbf13d593c6711"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JNSVSQZ&linkId=f64bedc1b03d28111f24b8b14cefbad4"></iframe>
 
 &nbsp;
 
@@ -163,8 +163,7 @@ Además han formado parte de algunos videoclips, como por ejemplo B.Y.O.B del á
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07TXWF8P6&linkId=2056db80f6299f7a315ce0766b14082b"></iframe>
-
 <div>
-  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>
+  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a> &nbsp&nbsp;
+  <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
 </div>

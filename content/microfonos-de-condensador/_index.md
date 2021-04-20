@@ -36,7 +36,7 @@ En esta sección te voy a explicar todo lo que necesitas saber para comprar un m
 Así pues empecemos!
 
 <div>
-  <a href="https://amzn.to/3hj4jnd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
+  <a href="https://amzn.to/3sxSf5x" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
 </div>
 
 
@@ -101,7 +101,7 @@ Te enumero a continuación las características más importantes de este micróf
 * Cable de 1,5 metros
 
 <div>
-	<a href="https://www.amazon.es/TONOR-Condensador-Computadora-Podcasting-Transmisi%C3%B3n/dp/B07W6ZZZWK/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3L78IYAIL15RR&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600498671&sprefix=micr%C3%B3fonos+de+con,aps,163&sr=8-9&linkCode=ll1&tag=guitar0de-21&linkId=01e12711417a6b47b2de253c99662ab8&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3grcbF8" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ## Características de un micrófono de condensador
@@ -229,7 +229,7 @@ tengas donde elegir en función de tu presupuesto.
 Si el Tonor que destacaba al principio del artículo tiene conectividad por USB, ahora he querido seleccionar otro modelo, en este caso el [Tonor TC20](/microfonos-de-condensador/tonor-tc20), con conectividad XLR.
 
 <div>
-  <a href="https://www.amazon.es/Condensador-TONOR-Profesional-Amortiguador-TC20/dp/B089SX1DX2/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=b79f56f9791c594ed06ff7908ff6bfbb&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/2P86wbG" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/microfonos-de-condensador/tonor-tc20.jpg" alt="Tonor TC 20" width="207" height="338">
   </a>  
 </div>
@@ -246,7 +246,7 @@ Al tener conectividad XLR necesitarás conectarlo a una fuente de alimentación 
 * SNR: 94dB
 
 <div>
-	<a href="https://www.amazon.es/Condensador-TONOR-Profesional-Amortiguador-TC20/dp/B089SX1DX2/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=b79f56f9791c594ed06ff7908ff6bfbb&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2P86wbG" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -257,7 +257,7 @@ Hablar de Audio-Technica es hablar de una de las marcas de referencia en la fabr
 que gastarte un poco más de dinero en el micrófono, eso si, tienes asegurado un micrófono de alta calidad para años.
 
 <div>
-  <a href="https://www.amazon.es/Audio-Technica-AT2035-Micr%C3%B3fono-20-20000-Al%C3%A1mbrico/dp/B002T45X1G/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-3&linkCode=ll1&tag=guitar0de-21&linkId=05141d1252b4dac170a7d9f208ce1e94&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3sEPC1P" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/microfonos-de-condensador/audio-technica-at2035.jpg" alt="Audio-Technica AT2035" width="300" height="456">
   </a>  
 </div>
@@ -278,7 +278,7 @@ Repasa a continuación algunas de sus principales características.
 * Conexión de tipo XLR
 
 <div>
-	<a href="https://www.amazon.es/Audio-Technica-AT2035-Micr%C3%B3fono-20-20000-Al%C3%A1mbrico/dp/B002T45X1G/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-3&linkCode=ll1&tag=guitar0de-21&linkId=05141d1252b4dac170a7d9f208ce1e94&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3sEPC1P" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -289,7 +289,7 @@ Al igual que Audio-Technica, Rode es otra marca Top en la fabricación de micró
 seleccionar es el NT-USB.
 
 <div>
-  <a href="https://www.amazon.es/Rode-NT-USB-Micr%C3%B3fono-color-negro/dp/B00KQPGRRE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-9&linkCode=ll1&tag=guitar0de-21&linkId=e5b78fcc6145627a4ffaf0764506f6c5&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/2QDo7sk" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/microfonos-de-condensador/rode-nt-usb.jpg" alt="Rode NT-USB" width="221" height="350">
   </a>  
 </div>
@@ -305,7 +305,7 @@ compatibilidad con diferentes dispositivos, pudiéndolo conectar incluso a un iP
 * Conectividad por cable USB
 
 <div>
-	<a href="https://www.amazon.es/Rode-NT-USB-Micr%C3%B3fono-color-negro/dp/B00KQPGRRE/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-9&linkCode=ll1&tag=guitar0de-21&linkId=e5b78fcc6145627a4ffaf0764506f6c5&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2QDo7sk" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -316,7 +316,7 @@ A continuación te traigo un Kit de micrófono de la marca Jelly Comb. Aquí ya 
 esta marca al ser un modelo con buenas carcterísticas y que viene con bastantes accesorios extras y está muy bien valorado.
 
 <div>
-  <a href="https://www.amazon.es/Jelly-Comb-Condensador-Profesional-Transmisi%C3%B3n/dp/B089D9FD5W/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-7&linkCode=ll1&tag=guitar0de-21&linkId=ba333ae95e9aa76d320585fad62d2015&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/32wVbVG" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/microfonos-de-condensador/jelly-comb-microfono.jpg" alt="micrófono Jelly Comb" width="350" height="342">
   </a>  
 </div>
@@ -332,7 +332,7 @@ Además del micrófono se incluye en el kit un soporte en trípode y otro soport
 * Conexión Plug and Play por USB con cable de 2,4m
 
 <div>
-	<a href="https://www.amazon.es/Jelly-Comb-Condensador-Profesional-Transmisi%C3%B3n/dp/B089D9FD5W/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-7&linkCode=ll1&tag=guitar0de-21&linkId=ba333ae95e9aa76d320585fad62d2015&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/32wVbVG" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -342,7 +342,7 @@ Además del micrófono se incluye en el kit un soporte en trípode y otro soport
 Una de las opciones más asequibles en cuanto a calidad precio. 
 
 <div>
-  <a href="https://www.amazon.es/YOTTO-Micr%C3%B3fono-Condensador-profesional-Podcasting/dp/B08BG27566/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-2&linkCode=ll1&tag=guitar0de-21&linkId=7247682f0807ed50e1410ea71d515ae3&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3v9kCbV" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/microfonos-de-condensador/yotto-microfono-usb.jpg" alt="YOTTO Micrófono USB" width="300" height="328">
   </a>  
 </div>
@@ -358,8 +358,11 @@ y una excelente frecuencia de muestreo.
 * Conectividad Plug and Play por USB
 
 <div>
-	<a href="https://www.amazon.es/YOTTO-Micr%C3%B3fono-Condensador-profesional-Podcasting/dp/B08BG27566/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-2&linkCode=ll1&tag=guitar0de-21&linkId=7247682f0807ed50e1410ea71d515ae3&language=es_ES" class="btn btn-outline-primary" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3v9kCbV" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
-<a href="/tags/micrófonos" class="btn btn-outline-primary">Buscar micrófono</a>&nbsp;
+&nbsp;
+<div>
+<a href="/categories/accesorios" class="btn btn-outline-primary">Buscar otros accesorios</a>&nbsp;&nbsp;
 <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
+</div>
 

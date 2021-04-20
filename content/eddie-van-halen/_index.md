@@ -28,24 +28,26 @@ de riffs, solos, composiciones y colaboraciones de todo tipo, tanto en su banda 
 El **tapping**, técnica cuyo nombre acuñó y popularizó, es ya una lección obligatoria
 para todo aprendiz de guitarra solista que se precie y un reflejo de su influencia en guitarristas de todo el mundo.
 
- 
-
 <div><img src="../../images/eddie-van-halen/eddie-van-halen.jpg" alt="Slash Gibson Les Paul" width="300" height="200"></div>
 
 A continuación repasaremos todo sobre las guitarras y el sonido de Eddie Van Halen a lo largo de su carrera. Así que si quieres saber **qué guitarras usaba Eddie Van Halen** y todo
 sobre ellas, toma asiento y resérvate unos pocos minutos para continuar leyendo. ¿Preparado?
 
-**¿Te gustaría tocar como Van Halen? compra su método de guitarra con sus mejores licks. Imprescindible!**
+**¿Te gustaría tocar como Van Halen? consigue su método de guitarra con sus mejores licks. Imprescindible!**
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1476874379&linkId=ba5b0f1c0f9f92e2abcf003446c29afe"></iframe>
+<div>
+	<a href="https://amzn.to/3tzE01H" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Lo quiero!</a>
+</div>
 
 ## Biografía de Eddie Van Halen a través de sus guitarras
 
 He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones **signature**, de manera que cronológicamente pasemos por todas sus etapas sin excepción.
 
-Si quieres leer la **biografía completa de Van Halen** te recomiendo adquirir alguna biografía de la banda, como por ejemplo ésta.
+Si te interesa conocer la **biografía completa de Van Halen** te recomiendo leer el siguiente libro:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1770412638&linkId=9fef9e1c09bf38f4987bd1fce39349d9"></iframe>
+<div>
+	<a href="https://amzn.to/3x9Amxy" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Biografía de Van Halen</a>
+</div>
 
 &nbsp;
  
@@ -68,7 +70,7 @@ portada del disco).
 
 ¿Obra de arte? ¿construcción cutre? lo cierto es que demostró que con muy poco presupuesto ni calidad de construcción se podía llegar a sonar bien, pero que muy bien. 
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=chollos_guau-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01JRHCDII&linkId=00318bab3ba9e67893008a5cc2a14c24"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_vanhalen-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01JRHCDII&linkId=dcd49cac198056dd415964629bba96ce"></iframe>
 
 #### FRANKENSTRAT BUMBLEBEE ( hasta 1979)
 
@@ -82,7 +84,7 @@ de **Pantera**, y fue enterrada junto al cuerpo del ya también legendario guita
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08KHFTTFW&linkId=f891bee5a897b798100e0d4cc0a8a54a"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_vanhalen-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08KHFTTFW&linkId=e622e742d8a1bc341e66cdeea3bae041"></iframe>
 
 &nbsp;
 
@@ -97,7 +99,7 @@ y en los que predominaba ese rojo.
 Para los acabados de la guitarra no se le ocurrió otra cosa que hacer lo típico que solemos hacer todos con nuestras guitarras, añadirle unas luces de camión por detrás, unas cuantas
 quemaduras de cigarrillo y la moneda de 25 centavos, vamos lo típico que nosotros tenemos en mente para mantener a nuestra guitarra perfectamente cuidada.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07K2JD57C&linkId=9e4e167decb70975e27a1bb0ed366bf1"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_vanhalen-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07K2JD57C&linkId=9069e1c6c652c45ac27af1aa40e10d3b"></iframe>
 
 &nbsp;
 
@@ -133,7 +135,7 @@ La primera Kramer fue la Kramer 5150 y fue construída por el propio Eddie en la
 
 ¿Te gustaría aprender el estilo de **Van Halen**, sus mejores **solos** y todo sobre su **técnica**? Te dejo un un link a su libro con las **mejores tabs**:
 
-<a href="https://amzn.to/3pdVzBU" class="btn btn-outline-primary">Jam With Van Halen</a>
+<a href="https://amzn.to/3v9bqnV" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Jam With Van Halen</a>
 
 ### IBANEZ DESTROYER "THE SHARK"
 
@@ -218,6 +220,6 @@ Os dejo con una **entrevista** donde EVH habla acerca de la serie Wolfgang de Pe
 <a href="https://s.click.aliexpress.com/e/_98W5BH" target="_blank"><img src="https://ae01.alicdn.com/kf/H5937eccc287c40f6a5e752ca0d5b771f4.jpg_140x140.jpg" title="Comprar Frankenstrat" alt="Comprar Frankenstrat" /></a>
 
 <div>
-  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>&nbsp;&nbsp;
+  <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a> &nbsp&nbsp;
   <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
 </div>

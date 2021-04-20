@@ -27,7 +27,9 @@ Es muy común, sobretodo en guitarras de gama media/baja, tener componentes de b
 Es evidente que no va a sonar igual una guitarra de 1000 euros que una que cuesta 200, pero no es menos cierto que esa diferencia la puedes
 reducir sensiblemente cambiando algunos elementos de tu guitarra, y posiblemente el más importante de todos ellos son las pastillas.
 
-
+<div>
+	<a href="https://amzn.to/2P754X5" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar pastillas para guitarra</a>
+</div>
 
 &nbsp;
 
@@ -69,10 +71,6 @@ donde el cobre irá enrollado.
 Asimismo, el voltaje de las pastillas también influirá en la salida del sonido hacia nuestros oídos, variando en función de si son de más
 o menos voltaje.
 
-<div>
-	<a href="https://amzn.to/31EJnBu" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver pastillas Seymour Duncan</a>
-</div>
-
 ## Tipos de pastillas para guitarra eléctrica
 
 Podemos decir que existen principalmente tres tipos de pastillas de guitarra, las single coil, las humbucker y las p90.
@@ -90,26 +88,26 @@ marcas como Fender y, en general, en muchos modelos Stratocaster y Telecaster.
 Como inconveniente, estas pastillas captan interferencias que como resultado producen ese famoso ruido de fondo que las acompaña.
 
 <div>
-  <a href="https://amzn.to/2ZI1zYn" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar pastillas single coil en Amazon</a>
+  <a href="https://amzn.to/3x8TKe5" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar pastillas single coil en Amazon</a>
 </div>
 
 #### Las mejores pastillas Single Coil
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2YinNiK" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3x88N7Q" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/DiMarzio-DP172C.jpg" alt="DiMarzio DP172C">
           <figcaption>DiMarzio DP172C</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3h4MjfX" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3sC48rp" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/Seymour-Duncan-Hot-Rails.jpg" alt="Seymour Duncan Hot Rails">
           <figcaption>Seymour Duncan Hot Rails</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2Y8wxIk" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/2QIfgFX" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/DiMarzio-DP384BK.jpg" alt="DiMarzio DP384BK">
           <figcaption>DiMarzio DP384BK</figcaption>
         </a>
@@ -129,26 +127,26 @@ Las **pastillas de bovina doble** son características de sonidos gruesos como e
 En muchos casos, los fabricantes incluyen en sus modelos de guitarras ámbos tipos de pastillas para así dotar a la guitarra de mayor versatilidad de sonidos.
 
 <div>
-  <a href="https://amzn.to/3ir3vgi" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Encuentra tus pastillas humbucker</a>
+  <a href="https://amzn.to/32v9ud8" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Encuentra tus pastillas humbucker</a>
 </div>
 
 #### Las mejores pastillas Humbucker
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2YinNiK" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/32Dpl9z" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/DiMarzio-DP159BK-evolution.jpg" alt="DiMarzio DP159bk evolution">
           <figcaption>DiMarzio DP159BK Evolution</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3h4MjfX" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3sxDPCx" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/Seymour-Duncan-JB-Trembucker.jpg" alt="Seymour Duncan JB Trembucker">
           <figcaption>Seymour Duncan JB Trembucker</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2Y8wxIk" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3n1LFDq" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/EMG-EM920120.jpg" alt="EMG EM920120">
           <figcaption>EMG EM920120</figcaption>
         </a>
@@ -180,7 +178,7 @@ Las pastillas p90 son una variante de la single coil introducidas por Gibson que
 <img src="../../images/pastillas/pastilla-p90.jpg" alt="pastilla p90">
 
 <div>
-  <a href="https://amzn.to/2C4ECqe" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Selección de pastillas p90</a>
+  <a href="https://amzn.to/32xvLas" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Selección de pastillas p90</a>
 </div>
 
 ## Las mejores pastillas EMG
@@ -193,29 +191,32 @@ indiscutible.
 
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3iMTrP6" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3xaj8Ae" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/EMG-Zack-Wylde-signature.jpg" alt="EMG Zack Wylde signature">
           <figcaption>EMG 85/81 Zack Wylde signature</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/38ImcI7" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3uZFVwC" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/EMG-85.jpg" alt="EMG 85">
           <figcaption>EMG 85</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/3eef2fQ" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/2QIxXt6" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/EMG-89.jpg" alt="EMG 89">
           <figcaption>EMG 89</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/2BLml1q" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3tBRaLz" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pastillas/EMG-81.jpg" alt="EMG 81">
           <figcaption>EMG 81</figcaption>
         </a>
       </div>
 </div>
 
+<div>
+<a href="/categories/accesorios" class="btn btn-outline-primary">Buscar otros accesorios</a>&nbsp;&nbsp;
 <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
+</div>

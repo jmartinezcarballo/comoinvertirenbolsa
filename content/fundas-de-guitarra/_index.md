@@ -26,7 +26,7 @@ un buen lugar para guardarla puede jugar un papel importante en ello.
 
 En esta entrada te presento diferentes secciones donde podrás encontrar una selección de **fundas para guitarra** de buena calidad para todo tipo de modelos y presupuestos para que puedas encontrar aquella que se adapte más a tus necesidades.
 
-<a href="https://amzn.to/3cIgZU8" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar fundas</a>
+<a href="https://amzn.to/32tAI47" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar fundas</a>
 
 &nbsp;
 
@@ -64,7 +64,7 @@ La funda incluye un cinturón interior para poder asegurar el cuello de la guita
 Incluye cuatro bolsillos para tus diferentes accesorios.
 
 <div>
-	<a href="https://amzn.to/39DVYIs" class="btn btn-outline-primary"
+	<a href="https://amzn.to/32vIMRP" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -84,7 +84,7 @@ de acolchado, todo un seguro para tu guitarra frente a los golpes.
 Tiene unas medidas de 116.84 x 48.26 x 10.16cm e incluye un gran bolsillo delantero.
 
 <div>
-	<a href="https://amzn.to/3ui61L5" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3syZ6vL" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -101,7 +101,7 @@ Al igual que Fender y otras marcas, Epiphone también piensa en los clientes de 
 Esta funda para guitarra tiene unas medidas de 104.14 x 43.18 x 10.16 cm y destaca por su ligereza frente al resto de modelos presentados.
 
 <div>
-	<a href="https://amzn.to/39EUaPc" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3dz5aQF" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -131,7 +131,7 @@ La funda permite transportar tu guitarra de cuatro maneras diferentes para que t
 mediante correa acolchada en el hombro, con un mango de silicona y con las asas lateral y posterior.
 
 <div>
-	<a href="https://amzn.to/3sQPIok" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3v63S5z" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -150,7 +150,7 @@ compartimento para pequeños accesorios. Si buscas algo robusto para proteger a 
 está pensada para ti.
 
 <div>
-	<a href="https://amzn.to/3fFKKXF" class="btn btn-outline-primary"
+	<a href="https://amzn.to/2PbhFZm" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -177,7 +177,7 @@ Si buscas un estuche rígido para tu guitarra clásica Rocktile dispone de un mo
 El estuche pesa unos 4kg y tiene unas dimensiones interiores de 102,5 x 38 x 12 cm.
 
 <div>
-	<a href="https://amzn.to/3sQPIok" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3x6fffL" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -199,7 +199,7 @@ manera posible el instrumento, además de un revestimiento de terciopelo.
 Por si fuera poco, su peso es inferior a los 4kg.
 
 <div>
-	<a href="https://amzn.to/31N4joM" class="btn btn-outline-primary"
+	<a href="https://amzn.to/2RQVzMH" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -228,7 +228,7 @@ Dispone de cuello y parachoques como refuerzo ante golpes y un asa ergonómica l
 Sus medidas son de 106.68 x 40.01 x 6.35cm que encajan perfectamente con algunos modelos de Fender. Si te interesa esta funda para otra strato que no sea de Fender asegúrate de medirla antes, especialmente si son de escala mayor, para tener la certeza de que encaje bien.
 
 <div>
-	<a href="https://amzn.to/2OkOXEX" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3tvo5Bn" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -244,7 +244,7 @@ Fabricada con poliester de 600 <a href="https://es.wikipedia.org/wiki/Denier_(un
 Incluye asa lateral y correas traseras para su transporte así como un bolsillo delantero para guardar lo que necesites.
  
 <div>
-	<a href="https://amzn.to/3mlHJx4" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3n3uYaA" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -263,7 +263,7 @@ de bloqueo para su correcto ajuste a la espalda.
 Tiene unas medidas de 106.7 x 40 x 6.3 cm e incluye cremallera frontal.
 
 <div>
-	<a href="https://amzn.to/3sOVZk1" class="btn btn-outline-primary"
+	<a href="https://amzn.to/2QHBJmx" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -287,7 +287,7 @@ Tienes a tu disposición diferentes modelos que se ajustan a diferentes tipos de
 Los estuches están forrados de felpa e incluyen espuma EPS.
 
 <div>
-	<a href="https://amzn.to/3cQFWgo" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3ef0iPS" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar modelos disponibles</a>
 </div>
 
@@ -311,7 +311,7 @@ En este caso el estuche viene con una correa muy cómoda para su transporte.
 Al no ser una funda 100% rígida su peso es inferior a la serie GC. 
 
 <div>
-	<a href="https://amzn.to/3sSEn6T" class="btn btn-outline-primary"
+	<a href="https://amzn.to/32uwlWe" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar modelos disponibles</a>
 </div>
 
@@ -331,7 +331,7 @@ una protección similar a la de un estuche. Incorpora una banda de goma gruesa e
 Pesa alrededor de 2kg y sus dimensiones son de 107.95 x 15.24 x 38.1 cm aproximadamente.
 
 <div>
-	<a href="https://amzn.to/3mnvy2O" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3xlz4Qi" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -369,7 +369,7 @@ exterior incorpora un amplio bolsillo donde guardar tus accesorios.
 A este precio poco más se le puede pedir a una funda.
 
 <div>
-	<a href="https://amzn.to/3sQrcn9" class="btn btn-outline-primary"
+	<a href="https://amzn.to/2Q9soE9" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -387,7 +387,7 @@ En etse caso tenemos un acolchado interno de 9mm con cinta para agarrar el mást
 Tiene un tamaño aproximado de 106 x 39 x 7cm y es válida para la mayoría de modelos de guitarra. 
 
 <div>
-	<a href="https://amzn.to/39FiGjq" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3tvoSCl" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
@@ -406,7 +406,7 @@ de alta densidad. El forro es suave y la tela es resistente a los arañazos. Inc
 El diseño realmente es bonito y sobrio. Tiene unas medidas aproximadas de 108 x 47 x 12.5cm.
 
 <div>
-	<a href="https://amzn.to/3cM2rTr" class="btn btn-outline-primary"
+	<a href="https://amzn.to/3n5SKCJ" class="btn btn-outline-primary"
         rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 

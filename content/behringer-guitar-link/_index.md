@@ -29,7 +29,7 @@ Básicamente es una **interfaz externa de audio**, que te permite "sustituir" tu
 
 <div><img src="../../images/post/behringer_guitar_link_opt.png" alt="behringer guitar link ucg102" width="200" height="268"></div>
 <div>
-	<a href="https://amzn.to/3e8gvEN" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar guitar link</a>
+	<a href="https://amzn.to/3n8iQ8f" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ## Configurar Guitar Link
@@ -38,13 +38,17 @@ Como ya te he comentado, el guitar link funciona como una **tarjeta de sonido ex
 
 Una vez conectado y seleccionado como salida de audio, el guitar link tomará el control del sonido de tu PC y deberás escuchar el sonido por la salida de audio que trae incorporada. Aquí puedes conectar tus auriculares, unos altavoces, etc.
 
-Sobre la instalación de los **drivers**, el guitar link trae los drivers de **ASIO** que puedes encontrar también en la web de **Behringer**. Aun así, y sobretodo si dispones de Windows 10, te recomiendo que no los utilices y que te descargues los drivers <a href="http://www.asio4all.org/" rel="nofollow" target="_blank">**ASIO4All**</a>, más actualizados y totalmente **compatibles con Windows 10**. Yo tengo instalados éstos últimos en mi PC y ningún problema desde el primer día, además trae un software incorporado que, de manera muy fácil, puedes cambiar con un clic desde el escritorio la salida de audio, para cambiar de PC a guitar link cuantas veces necesites.
+Sobre la instalación de los **drivers**, el guitar link trae los drivers de **ASIO** que puedes encontrar también en la web de **Behringer**. Aun así, y sobretodo si dispones de Windows 10, te recomiendo que no los utilices y que te descargues los drivers <a href="http://www.asio4all.org/" rel="nofollow noopener noreferrer" target="_blank">**ASIO4All**</a>, más actualizados y totalmente **compatibles con Windows 10**. Yo tengo instalados éstos últimos en mi PC y ningún problema desde el primer día, además trae un software incorporado que, de manera muy fácil, puedes cambiar con un clic desde el escritorio la salida de audio, para cambiar de PC a guitar link cuantas veces necesites.
+
+<a href="https://amzn.to/3n8iQ8f" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 
 ## Si no tengo amplificador como simulo un sonido concreto
 
-Para empezar, el Guitar Link viene con algunos **presets** de serie, pero necesitarás de algún software que procese el sonido que Guitar Link está haciendo llegar a tu ordenador. Si utilizas MAC puedes usar el <a href="https://www.apple.com/mac/garageband/" rel="nofollow" target="_blank">Garage Band</a>. En el caso de Windows tienes muchas alternativas. Yo utilizo <a href="https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-5-pro/" rel="nofollow" target="_blank">Guitar Rig 5</a> (es de pago pero dispone de una versión demo). Pero tienes muchas más opciones como **Reaper** o **Audacity** (incluído con los drivers, por poner sólo dos ejemplos.
+Para empezar, el Guitar Link viene con algunos **presets** de serie, pero necesitarás de algún software que procese el sonido que Guitar Link está haciendo llegar a tu ordenador. Si utilizas MAC puedes usar el <a href="https://www.apple.com/mac/garageband/" rel="nofollow noopener noreferrer" target="_blank">Garage Band</a>. En el caso de Windows tienes muchas alternativas. Yo utilizo <a href="https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-5-pro/" rel="nofollow" target="_blank">Guitar Rig 5</a> (es de pago pero dispone de una versión demo). Pero tienes muchas más opciones como **Reaper** o **Audacity** (incluído con los drivers, por poner sólo dos ejemplos.
 
 {{< youtube T4XafHppNF8 >}}
 
-<a href="https://amzn.to/3e8gvEN" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>&nbsp;
+<div>
+<a href="/categories/accesorios" class="btn btn-outline-primary">Buscar otros accesorios</a>&nbsp;&nbsp;
 <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
+</div>
