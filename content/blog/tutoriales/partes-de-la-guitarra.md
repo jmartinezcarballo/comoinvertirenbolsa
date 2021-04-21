@@ -42,7 +42,7 @@ explicación de cada una de ellas:
 ### 1. Cuerpo
 
 El cuerpo de la guitarra es la parte que descansa sobre nosotros cuando tocamos sentados y donde se situa toda la electrónica del
-instrumento. Existen muchos **tipos de cuerpos** diferentes cuyas formas dan nombre a diferentes nomenclaturas de guitarras.
+instrumento. Existen muchos **tipos de cuerpo de guitarra** diferentes cuyas formas dan nombre a diferentes nomenclaturas de guitarras.
 
 Existen las guitarras Les Paul, las stratocaster, explorer, SG, flying V y algunas más, todas ellas con formas de cuerpo características.
 
