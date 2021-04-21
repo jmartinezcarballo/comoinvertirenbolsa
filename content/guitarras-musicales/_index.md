@@ -170,7 +170,7 @@ Con un añito más tenemos un par de opciones muy interesantes, La Patrulla Cani
 
 <div>
   <a href="https://www.amazon.es/LEXIBOOK-k200-Pa-primera-guitarra-Patrol/dp/B075MTBZ99/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=guitarra+juguete&qid=1599215234&sr=8-91&linkCode=ll1&tag=guitar0de-21&linkId=d3a31afaf814b00edb15e47bf3101835&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
-    <img src="../../images/guitarras-musicales/guitarra-patrulla-canina.jpg" alt="guitarra de la patrulla canina" width="145" height="300"/>
+    <img src="../../images/guitarras-musicales/guitarra-patrulla-canina.jpg" alt="guitarra de la patrulla canina" title="guitarra infantil de la patrulla canina" width="145" height="300"/>
   </a>
 </div>
 

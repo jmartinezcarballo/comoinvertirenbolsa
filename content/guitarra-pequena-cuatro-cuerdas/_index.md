@@ -150,7 +150,7 @@ calidad a buenos precios y marcas que, por más de dinero, ofrecen productos de 
 
 Algunos ejemplos de marcas que ofrecen ukeleles buenos y baratos son Hricane, Donner, Martin Smith o Rayzm.
 
-Si buscas ukeleles uno o dos escalones por encima sin importarte gastarte un poco más, marcas muy a tener en cuenta son los ukeleles de Kala, Enya y Luna.
+Si lo que buscas son **marcas de ukeleles reconocidas** sin importarte gastarte un poco más, marcas muy a tener en cuenta son los ukeleles de Kala, Enya y Luna.
 
 #### Ukeleles Kala
 
@@ -160,7 +160,7 @@ que encaje mejor con lo que buscas.
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/3dAEij3" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-soprano-kala-KA15S.png" alt="ukelele soprano Kala KA15S" title="ukelele soprano Kala KA15S" width="97" height="250">
+          <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-soprano-kala-KA15S.png" alt="ukelele soprano Kala KA15S" title="ukelele recomendado para principiantes" width="97" height="250">
           <figcaption>Kala KA15S soprano</figcaption>
         </a>
       </div>

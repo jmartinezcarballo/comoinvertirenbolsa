@@ -128,7 +128,7 @@ Como ves, las notas en inglés van de la A a la G empezando por LA y terminando 
 Una vez que ya conocemos la teoría básica sobre las notas musicales es hora de ver las **notas en la guitarra** y empezar a aprender
 a situarlas en el mástil.
 
-<div><img src="/images/blog/tutoriales/notas-guitarra/diapason.png" alt="notas al aire en la guitarra" width="500" height="281"></div>
+<div><img src="/images/blog/tutoriales/notas-guitarra/diapason.png" alt="notas al aire en la guitarra" title="como se cuentan las cuerdas de la guitarra" width="500" height="281"></div>
 
 Las notas se cuentan de abajo hacia arriba de manera que la primera cuerda es la más fina de todas y la sexta cuerda es la que está más arriba que es la más gruesa.
 

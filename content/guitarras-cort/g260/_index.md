@@ -27,11 +27,13 @@ Destaca sobretodo por su comodidad y su sonido limpio y brillante.
 Si buscas una strato por **menos de 500€** es una candidata a tener en cuenta.
 
 <div>
-	<a href="https://www.thomann.de/es/cort_g260_black_egitarre.htm" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3v3i9zZ" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
-
-![cort g260](../../images/cort/cort-g260.png)
+<div>
+    <img src="../../images/cort/cort-g260.png" 
+        alt="cort g260 opn review" title="cort g260 opn review y opiniones" width="200" height="409">
+</div>
 
 ### Características de la Cort g260
 

@@ -56,7 +56,7 @@ La Powerpad de Ibanez destaca por su precioso diseño y sus 15mm de acolchado in
 
 <div>
     <img src="../../images/fundas-de-guitarra/funda-guitarra-Ibanez-powerpad.png" 
-        alt="funda de guitarra eléctrica Ibanez Powerpad" width="269" height="250">
+        alt="funda de guitarra eléctrica Ibanez Powerpad" title="funda para guitarra ibanez" width="269" height="250">
 </div>
 
 La funda incluye un cinturón interior para poder asegurar el cuello de la guitarra. Es compatible con la mayoría de modelos strato y telecaster. Sus medidas son 108 x 7.49 x 43 cm. 
