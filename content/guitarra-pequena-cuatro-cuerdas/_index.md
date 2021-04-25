@@ -381,8 +381,7 @@ Evidentemente estamos hablando de dos instrumentos de cuerda diferentes entre s�
 - Existen guitarras de 7 cuerdas y barítonas, mientras que existen cuatro tipos de ukelele en función de su tamaño y afinación (barítono, concierto, soprano y tenor)
 - El ukelele suele estar más asociado a ciertos estilos de música tradicional o folklorica, mientras que la guitarra pertenece más a la cultura popular.
 
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01A80S85K&linkId=04030c1aa47677b96457a4ca3050336e"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01A80S85K&linkId=b1451da9e6bf38269973d58d693fb85f"></iframe>
 
 <div>
 <a href="/afinador-de-guitarra" class="btn btn-outline-primary">Afinadores para ukelele</a>&nbsp&nbsp

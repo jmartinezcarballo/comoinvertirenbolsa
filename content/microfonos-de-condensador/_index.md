@@ -80,7 +80,7 @@ Así pues empecemos!
 Ideal para grabación de todo tipo, ya sea audio o video, el [Tonor TC-777](/microfonos-de-condensador/tonor-tc777) es líder de ventas indiscutible en su segmento debido a sus características y su precio ajustado.
 
 <div>
-  <a href="https://www.amazon.es/TONOR-Condensador-Computadora-Podcasting-Transmisi%C3%B3n/dp/B07W6ZZZWK/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3L78IYAIL15RR&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600498671&sprefix=micr%C3%B3fonos+de+con,aps,163&sr=8-9&linkCode=ll1&tag=guitar0de-21&linkId=01e12711417a6b47b2de253c99662ab8&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3emHvlC" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/microfonos-de-condensador/tonor-tc777.jpg" alt="microfono de condensador" width="300" height="352">
   </a>  
 </div>

@@ -31,7 +31,7 @@ algo ideal para alguien que empieza.
 Si quieres una guitarra por **menos de 200 euros**, es una opción bastante recomendable.
 
 <div>
-	<a href="https://www.amazon.es/Cort-G1102T-G110-2T-Guitarra-el%C3%A9ctrica/dp/B00KGSO8HM/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00KGSO8HM&pd_rd_r=e14dc21e-cfcc-411f-a7de-e343c537556a&pd_rd_w=5jAqs&pd_rd_wg=83334&pf_rd_p=4221015a-01c7-4a3d-a84d-985d938e9995&pf_rd_r=VZ62DZX7M7ZT60PX8CH6&psc=1&refRID=VZ62DZX7M7ZT60PX8CH6&linkCode=ll1&tag=guitar0de-21&linkId=4a55fd87dd2830f95c4770d0b7b6f543&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/2Pj17yq" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 
@@ -48,7 +48,7 @@ Si quieres una guitarra por **menos de 200 euros**, es una opción bastante reco
 * Herrajes cromados
 
 <div>
-	<a href="https://www.amazon.es/Cort-G1102T-G110-2T-Guitarra-el%C3%A9ctrica/dp/B00KGSO8HM/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00KGSO8HM&pd_rd_r=e14dc21e-cfcc-411f-a7de-e343c537556a&pd_rd_w=5jAqs&pd_rd_wg=83334&pf_rd_p=4221015a-01c7-4a3d-a84d-985d938e9995&pf_rd_r=VZ62DZX7M7ZT60PX8CH6&psc=1&refRID=VZ62DZX7M7ZT60PX8CH6&linkCode=ll1&tag=guitar0de-21&linkId=4a55fd87dd2830f95c4770d0b7b6f543&language=es_ES" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://amzn.to/2Pj17yq" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 &nbsp;

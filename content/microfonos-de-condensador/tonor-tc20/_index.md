@@ -18,10 +18,10 @@ tags:
   - "Tonor"
 ---
 
-El Tonor TC20 es uno de los **micrófonos de condensador** baratos más vendidos del mercado. Si quieres saber donde está su secreto para tener tan buenas opiniones a continuación te explicaré en esta completa review todo lo que necesitas saber sobre uno de los micrófonos de gama media más vendidos.
+El Tonor TC20 es uno de los **micrófonos de condensador baratos** más vendidos del mercado. Si quieres saber donde está su secreto para tener tan buenas opiniones a continuación te explicaré en esta completa review todo lo que necesitas saber sobre uno de los micrófonos de gama media más vendidos.
 
 <div>
-  <a href="https://www.amazon.es/Condensador-TONOR-Profesional-Amortiguador-TC20/dp/B089SX1DX2/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=b79f56f9791c594ed06ff7908ff6bfbb&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3sMogqI" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/microfonos-de-condensador/tonor-tc20.jpg" alt="Tonor TC 20" width="207" height="338">
   </a>  
 </div>
@@ -87,7 +87,7 @@ El Tonor TC20 viene con los siguientes componentes:
 * Garantía de 2 años del fabricante
 
 <div>
-  <a href="https://www.amazon.es/Condensador-TONOR-Profesional-Amortiguador-TC20/dp/B089SX1DX2/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=micr%C3%B3fono+de+condensador&qid=1600621245&sr=8-1&linkCode=ll1&tag=guitar0de-21&linkId=b79f56f9791c594ed06ff7908ff6bfbb&language=es_ES" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3sMogqI" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/microfonos-de-condensador/tonor-tc20/tonor-tc20-componentes.png" alt="Tonor TC20 componentes" width="200" height="205">
   </a>  
 </div>

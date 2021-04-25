@@ -138,7 +138,7 @@ si bien no hace mención alguna a la réplica, sin duda por temas legales con Gi
 
 ¿Te gustan los Funkos? no te pierdas el de Slash!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01G5Y4W8U&linkId=0dcc9d9b2faadaef82faaa5827ec8e2e"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01G5Y4W8U&linkId=5cf2da88e505cbea11785b49f05476a5"></iframe>
 
 ### Gibson EDS-1275 Doubleneck
 
