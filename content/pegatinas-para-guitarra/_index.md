@@ -279,7 +279,7 @@ se adaptan mejor a una parte de la guitarra.
         </a>
       </div>
         <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-        <a href="https://amzn.to/32MAJ36" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://amzn.to/3sJDFrS" rel="nofollow noopener noreferrer" target="_blank">
           <img src="../../images/pegatinas-para-guitarra/antorcha-perla-ocre.png" 
             alt="pegatinas para guitarra antorcha" title="pegatinas para guitarra antorcha perla" width="182" height="200">
           <figcaption>Antorcha perla y ocre</figcaption>
