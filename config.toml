@@ -162,17 +162,23 @@ disqusShortname = ""
     parent = "Accesorios"
     URL = "pastillas-para-guitarra/"
     weight = 6
+    # main menu
+    [[menu.main]]
+    name = "Pegatinas para guitarra"
+    parent = "Accesorios"
+    URL = "pegatinas-para-guitarra/"
+    weight = 7
     [[menu.main]]
     name = "Puas de guitarra"
     parent = "Accesorios"
     URL = "puas-guitarra/"
-    weight = 7
+    weight = 8
     # main menu
     [[menu.main]]
     name = "Transmisores inalámbricos"
     parent = "Accesorios"
     URL = "transmisores-inalambricos-guitarra/"
-    weight = 8
+    weight = 9
     
     # main menu
     [[menu.main]]
