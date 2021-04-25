@@ -23,7 +23,7 @@ tags:
 personal con esa pegatina o sticker que nos llama la atención por decir algo de nuestra personalidad, por reflejar algo que nos
 gusta, o simplemente porque le da a la guitarra ese toque diferente que buscamos.
 
-En esta sección encontrarás todo tipo de stickers para guitarra, no te los pierdas.
+En esta sección encontrarás todo tipo de **stickers para guitarra**, no te los pierdas.
 
 <a href="https://amzn.to/3sEXJvD" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar stickers</a>
 
