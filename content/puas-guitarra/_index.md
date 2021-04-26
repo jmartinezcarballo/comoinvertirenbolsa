@@ -1,12 +1,12 @@
 ---
 title: "Las mejores puas de guitarra en 2021"
 seoTitle: "Las mejores puas de guitarra | Comprar una Guitarra"
-date: 2020-06-10T10:07:47+06:00 
+date: 2021-04-26T10:07:47+06:00 
 draft: false
 
 # meta description
-description: "Selección de las mejores puas de guitarra. Encuentra todo tipo de diseños, materiales, puas personalizadas de distintos grosores"
-summary: "Encuentra puas con todo tipo de diseños, grosores y materiales, además de porta puas para tenerlas bien guardadas."
+description: "Selección de las mejores puas de guitarra, porta puas y corta puas de guitarra. Encuentra todo tipo de diseños, materiales o fabrica tus propias puas personalizadas."
+summary: "Encuentra puas con todo tipo de diseños, grosores y materiales, además de porta puas para tenerlas bien guardadas y corta puas para fabricarlas tu mismo."
 
 # type
 type: "post-destacado"
@@ -59,6 +59,9 @@ Para empezar te presento una selección de las **mejores púas de guitarra** de 
     <li><a href="#selección-de-las-mejores-puas-dunlop-según-su-material"><span class="toc_number toc_depth_2">3.1</span> Selección de las mejores puas Dunlop según su material</a></li>
     <li>
       <a href="#porta-puas-de-guitarra"><span class="toc_number toc_depth_1">4</span> Porta puas de guitarra</a>
+    </li>
+    <li>
+      <a href="#corta-puas-de-guitarra"><span class="toc_number toc_depth_1">5</span> Corta puas de guitarra</a>
     </li>
   </ul>
 </div>
@@ -290,6 +293,36 @@ Te presento algunas opciones recomendables tanto para un caso como el otro. Todo
         </a>
       </div>
 </div>
+
+## Corta puas de guitarra
+
+Si eres de los que les gusta fabricarse sus propias **puas de guitarra personalizadas** hoy en día no lo puedes tener más fácil. Sólo necesitarás comprar el material
+con el que quieras hacer la pua y un corta puas para realizar el corte. 
+
+Olvídate de comprar un molde, de dibujar, cortar, etc. Construir tus propias puas será tan
+sencillo como hacer agujeros a una hoja de papel para una carpeta de anillas.
+
+Algunos modelos incluyen, además del corta puas, papel de lija para que puedas pulir posibles puntas que te puedan haber quedado en el corte y además algunas tiras de
+materiales como celuloide para que puedas fabricar tus primeras puas.
+
+Te presento algunos modelos de corta puas para que ya no tengas excusa por no ser un manitas.
+
+<div class="row">
+      <div class="column" style="float: left; width: 50%; padding: 5px;">
+        <a href="https://amzn.to/32NqawJ" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/puas/corta-puas-asmuse.png" alt="corta puas para guitarras asmuse" title="corta puas para guitarra asmuse" width="233" height="200">
+          <figcaption>Corta puas Asmuse</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 50%; padding: 5px;">
+        <a href="https://amzn.to/32O7eOE" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/puas/corta-puas-de-guitarra.png" alt="corta puas de guitarra" title="corta puas de guitarra" width="201" height="200">
+          <figcaption>Corta puas de guitarra</figcaption>
+        </a>
+      </div>
+</div>
+
+
 
 <div>
 <a href="/categories/accesorios" class="btn btn-outline-primary">Buscar otros accesorios</a>&nbsp;&nbsp;
