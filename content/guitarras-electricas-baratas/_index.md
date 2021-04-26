@@ -1,6 +1,6 @@
 ---
 title: "Las mejores guitarras eléctricas baratas de 2021"
-seoTitle: "Las 5 mejores guitarras eléctricas baratas de 2020"
+seoTitle: "Las 5 mejores guitarras eléctricas baratas de 2021"
 pageLabel: "guitarras-electricas-baratas"
 date: 2020-05-24T10:07:47+06:00
 draft: false
