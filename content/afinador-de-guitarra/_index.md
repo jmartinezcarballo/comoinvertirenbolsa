@@ -116,7 +116,7 @@ Si buscas un afinador de clip, en esta sección encontrarás una selección en b
 
 Planet Waves es la marca de accesorios que proporciona la prestigiosa **d'Addario**, todo un seguro de calidad de una de las marcas referentes en fabricación de cuerdas de guitarra.
 
-<div><img src="../../images/afinador-guitarra/afinador-planet-waves-ns.png" alt="afinador d'addario planet waves ns" width="250" height="213">&nbsp;&nbsp;&nbsp;<img src="../../images/afinador-guitarra/afinador-planet-waves-ns-montado.png" alt="afinador d'addario planet waves ns montado" width="195" height="213"></div>
+<div><img src="../../images/afinador-guitarra/afinador-planet-waves-ns.png" alt="afinador d'addario planet waves ns" title="afinador d'addario planet waves ns" width="250" height="213">&nbsp;&nbsp;&nbsp;<img src="../../images/afinador-guitarra/afinador-planet-waves-ns-montado.png" alt="afinador d'addario planet waves ns montado" width="195" height="213"></div>
 
 Como podéis apreciar en la imagen es un afinador muy compacto que podrás esconder fácilmente detrás del clavijero. El soporte permite poder girarlo 360º para colocarlo de la manera que te vaya mejor y la pantalla LED multicolor te ayudará a visualizar con facilidad
 el punto de afinación aunque sea de pequeño tamaño.
@@ -131,7 +131,7 @@ Su pequeño tamaño te permite poder dejarlo colocado con la guitarra en su estu
 
 Este afinador de clip de Ammonn viene con diferentes **modos de afinación** para detectar más fácilmente tu instrumento.
 
-<div><img src="../../images/afinador-guitarra/afinador-clip-ammonn.png" alt="afinador de clip ammonn" width="200" height="255"></div>
+<div><img src="../../images/afinador-guitarra/afinador-clip-ammonn.png" alt="afinador de clip ammonn" title="afinador de clip ammonn" width="200" height="255"></div>
 
 * Tamaño compacto con pantalla LCD con la nota en primer plano
 * Rango de sintonización 0A-8C con precisión de un cent
@@ -145,7 +145,7 @@ Este afinador de clip de Ammonn viene con diferentes **modos de afinación** par
 
 Si buscas un afinador de clip de una marca de prestigio te presento el modelo Pitchclip de **Korg** que, de buen seguro, te dará muy buen resultado.
 
-<div><img src="../../images/afinador-guitarra/afinador-clip-korg.png" alt="afinador korg pitchclip" width="200" height="258"></div>
+<div><img src="../../images/afinador-guitarra/afinador-clip-korg.png" alt="afinador korg pitchclip" title="afinador korg pitchclip" width="200" height="258"></div>
 
 * Afinación cromática
 * Rango de sintonización 0A-8C con precisión de un cent
@@ -167,7 +167,7 @@ afinadores.
 
 El Korg CA-50 es un afinador cromático especialmente pensado para todo tipo de instrumentos musicales, ya sean de cuerda o viento.
 
-<div><img src="../../images/afinador-guitarra/afinador-korg-ca50.png" alt="afinador korg ca-50" width="250" height="164"></div>
+<div><img src="../../images/afinador-guitarra/afinador-korg-ca50.png" alt="afinador korg ca-50" title="afinador korg ca-50" width="250" height="164"></div>
 
 Su tamaño de bolsillo lo hace fácilmente portable a cualquier parte y con el micrófono incorporado no tendrás necesidad de enchufar tu instrumento, aunque incluye entrada jack para que puedas afinar tu guitarra eléctrica con el cable.
 
@@ -181,7 +181,7 @@ Además incluye marcas para detectar intervalos de mayor pura y de tercera menor
 
 El Korg TM-60 va un paso más allá del Korg anterior e incluye también un metrónomo además del afinador.
 
-<div><img src="../../images/afinador-guitarra/afinador-korg-tm60.png" alt="afinador korg tm-60" width="250" height="161"></div>
+<div><img src="../../images/afinador-guitarra/afinador-korg-tm60.png" alt="afinador korg tm-60" title="afinador korg tm-60" width="250" height="161"></div>
 
 La función de afinador es prácticamente idéntica al Korg CA-50 dando un resultado más que bueno, mientras que el metrónomo permite configurar el tempo entre 30 y 252 tiempos por minuto. Además incluye 15 tipos diferentes de compás.
 
