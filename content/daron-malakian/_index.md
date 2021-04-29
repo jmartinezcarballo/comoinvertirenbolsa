@@ -23,7 +23,7 @@ tags:
 La banda Californiana de raíces armenias fue fundada a mitad de los años 90 y explotó a finales de la decada con su álbum **Toxicity** que los catapultó a la fama hasta 2006 en que la banda decidió
 tomarse un descanso en su carrera.
 
-<div><img src="../../images/daron-malakian/daron-malakian.jpg" alt="Daron Malakian in concert" width="218" height="350"></div>
+<div><img src="../../images/daron-malakian/daron-malakian.jpg" alt="malakian" title="Daron Malakian in concert" width="218" height="350"></div>
 
 Tras años dedicados a sus proyectos en solitario (Daron Malakian formó la banda **Scars on Broadway**), en 2011 anunciaron gira de varios conciertos, que se fueron alargando hasta 2015, pero no ha sido hasta
 el año 2020 que, tras 15 años sin saber de material nuevo de ellos, han decidido editar material nuevo.
@@ -58,7 +58,8 @@ A continuación te presento las guitarras que Daron Malakian ha utilizado más h
 
 No, no es ninguna errata. Daron Malakian en sus inicios utilizaba una Fender Stratocaster y sí, demostró que se puede tocar metal y además de mucha calidad.
 
-<div><img src="../../images/daron-malakian/daron-malakian-fender-stratocaster.jpg" alt="Daron Malakian Fender Stratocaster" width="252" height="337"></div>
+<div><img src="../../images/daron-malakian/daron-malakian-fender-stratocaster.jpg" 
+    alt="Daron Malakian Fender Stratocaster" title="Daron Malakian Fender Stratocaster" width="252" height="337"></div>
 
 Muchos se piensan que para poder tocar metal se necesitan unas buenas Humbucker y modelos Single Cut, Explorer o Flying V hechos de buena caoba, pero lo cierto es que no son más que prejuicios.
 Si alguien duda de ello no tiene más que escuchar a Iron Maiden, Dave Murray y Adrian Smith son dos buenos ejemplos de ello con sus modelos strat.
@@ -86,7 +87,7 @@ Aquí podéis ver a SOAD interpretando Sugar en 1997 con Daron y su Fender dando
 
 La histórica serie Iceman de Ibanez ha sido parte fundamental de la carrera de Daron Malakian desde que SOAD se dieron a conocer.
 
-<div><img src="../../images/daron-malakian/daron-malakian-ibanez-iceman.jpg" alt="Daron Malakian Ibanez Iceman" width="300" height="190"></div>
+<div><img src="../../images/daron-malakian/daron-malakian-ibanez-iceman.jpg" alt="Ibanez Iceman" title="Daron Malakian Ibanez Iceman" width="300" height="190"></div>
 
 Esta serie ha tenido multitud de ediciones a lo largo de los años. Empezó a fabricarse en 1975 y alcanzó gran fama gracias sobretodo a los modelos utilizados por
 **Paul Stanley (Kiss)** y **Steve Miller**. Siendo Kiss uno de los grupos que empezó escuchando Daron de chaval parecía inevitable que Stanley no ejerciera algún tipo de influencia 
@@ -116,7 +117,8 @@ Eres o tienes a un luthier de confianza? te ofrezco a continuación un plano det
 Basándose en las mencionadas anteriormente Ibanez Iceman, Daron Malakian tiene su propia serie custom de Ibanez Iceman llamada **DMM1**.
 Existen varios modelos de ella, todos ellos con diseños diferentes pintados por su padre.
 
-<div><img src="../../images/daron-malakian/daron-malakian-ibanez-iceman-dmm1.jpg" alt="Daron Malakian Ibanez Iceman DMM1" width="209" height="300"></div>
+<div><img src="../../images/daron-malakian/daron-malakian-ibanez-iceman-dmm1.jpg" 
+    alt="Ibanez Iceman DMM1" title="Daron Malakian Ibanez Iceman DMM1" width="209" height="300"></div>
 
 A pesar de basarse en los modelos ICX de Ibanez, existen algunas diferencias en las especificaciones de la guitarra, de la cual **solo existen 300 modelos en todo el mundo**, numerados
 en la propia guitarra debajo del número de serie.
@@ -143,7 +145,8 @@ en la propia guitarra debajo del número de serie.
 ¿Qué se puede decir acerca de esta guitarra? creo que es uno de esos modelos que no necesitan ningún tipo de presentación. Uno de los modelos emblemáticos de Gibson y santo y seña
 de **Angus Young** de AC/DC entre otros.
 
-<div><img src="../../images/daron-malakian/daron-malakian-gibson-sg-standard.jpg" alt="Daron Malakian Gibson SG Standard" width="198" height="300"></div>
+<div><img src="../../images/daron-malakian/daron-malakian-gibson-sg-standard.jpg" 
+    alt="Gibson SG Standard" title="Daron Malakian Gibson SG Standard" width="198" height="300"></div>
 
 Las características de esta guitarra son conocidas por todos. A pesar de sentir predilección por sus Ibanez bastante a menudo hemos podido ver a Daron con algunas SG diferentes sobre el escenario,
 tanto con SOAD como, sobretodo, con Scars on Broadway.

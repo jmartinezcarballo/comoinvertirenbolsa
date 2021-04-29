@@ -28,7 +28,7 @@ de riffs, solos, composiciones y colaboraciones de todo tipo, tanto en su banda 
 El **tapping**, técnica cuyo nombre acuñó y popularizó, es ya una lección obligatoria
 para todo aprendiz de guitarra solista que se precie y un reflejo de su influencia en guitarristas de todo el mundo.
 
-<div><img src="../../images/eddie-van-halen/eddie-van-halen.jpg" alt="Slash Gibson Les Paul" width="300" height="200"></div>
+<div><img src="../../images/eddie-van-halen/eddie-van-halen.jpg" alt="guitarra van halen" title="guitarra eddie van halen" width="300" height="200"></div>
 
 A continuación repasaremos todo sobre las guitarras y el sonido de Eddie Van Halen a lo largo de su carrera. Así que si quieres saber **qué guitarras usaba Eddie Van Halen** y todo
 sobre ellas, toma asiento y resérvate unos pocos minutos para continuar leyendo. ¿Preparado?
@@ -58,7 +58,7 @@ Primera guitarra eléctrica conocida de Eddie Van Halen y la más mítica de tod
 Con los años se hicieron muchas réplicas y variaciones de ella pero la original data aproximadamente de 1974. Eddie pretendía comprar una guitarra que mezclara una **Fender Stratocaster** y una **Gibson** en una sola guitarra pero
 como no existía decidió fabricársela él mismo con su bajo presupuesto
 
-<div><img src="../../images/eddie-van-halen/frankenstrat.jpg" alt="Eddie Van Halen Frankenstrat" width="300" height="169"></div>
+<div><img src="../../images/eddie-van-halen/frankenstrat.jpg" alt="guitarra frankenstrat" title="Eddie Van Halen frankenstrat" width="300" height="169"></div>
 
 Edward le compró el cuerpo de fresno y el mástil de arce al no tan conocido por aquel entonces **Wayne Charvel** por poco más de 100 dolares al ser piezas defectuosas. 
 Como pastillas instaló una single coil y una **Gibson PAF** sacada de una **Gibson ES-335** y las intentó conectar sin tener muchos conocimientos del tema. 
@@ -77,7 +77,7 @@ portada del disco).
 Para el segundo disco de la banda, **Van Halen II de 1979**, Eddie quiso rediseñar parte de su guitarra y a nivel estético modificó todo el cuerpo para colorearla de **negro y amarillo**,
 motivo por el que se acuñaría con el nombre de **BumbleBee** (abejorro).
 
-<div><img src="../../images/eddie-van-halen/bumblebee.jpg" alt="Eddie Van Halen BumbleBee" width="200" height="231"></div>
+<div><img src="../../images/eddie-van-halen/bumblebee.jpg" alt="frankenstrat BumbleBee" title="Eddie Van Halen frankenstrat BumbleBee" width="200" height="231"></div>
 
 Esa guitarra creada en 1979 sería regalada a los padres de **Dimebag Darrell** en 2004 tras el asesinato del guitarrista
 de **Pantera**, y fue enterrada junto al cuerpo del ya también legendario guitarrista de metal.
@@ -94,7 +94,8 @@ Finalmente en 1979 tras publicarse Van Halen II Edward decide volver a cambiar e
 con los colores **rojo, blanco y negro** a base de tiras de cinta. El motivo que le llevó a este cambio fue por las **bicicletas Schwinn**, modelos de mucho éxito en aquellos años 
 y en los que predominaba ese rojo.
 
-<div><img src="../../images/eddie-van-halen/frankenstrat-schwinn.jpg" alt="Eddie Van Halen Frankenstrat Schwinn" width="300" height="169"></div>
+<div><img src="../../images/eddie-van-halen/frankenstrat-schwinn.jpg" 
+    alt="frankenstrat Schwinn" title="Eddie Van Halen frankenstrat Schwinn" width="300" height="169"></div>
 
 Para los acabados de la guitarra no se le ocurrió otra cosa que hacer lo típico que solemos hacer todos con nuestras guitarras, añadirle unas luces de camión por detrás, unas cuantas
 quemaduras de cigarrillo y la moneda de 25 centavos, vamos lo típico que nosotros tenemos en mente para mantener a nuestra guitarra perfectamente cuidada.
@@ -114,7 +115,8 @@ Os dejo con la entrevista que **Guitar World** realizó a Eddie Van Halen en nov
 En 1981 Edward conoció a **Dennis Berardi**, ejecutivo de Kramer, con el que desde entonces mantuvo contacto hasta que en 1983 se fraguó la alianza que llevó a **EVH** a comercializar
 por primera vez sus guitarras bajo la marca **Kramer**.
 
-<div><img src="../../images/eddie-van-halen/kramer-frankenstrat.jpg" alt="Eddie Van Halen Kramer Frankenstrat" width="200" height="213"></div>
+<div><img src="../../images/eddie-van-halen/kramer-frankenstrat.jpg" 
+    alt="kramer frankenstrat" title="Eddie Van Halen guitarra Kramer Frankenstrat" width="200" height="213"></div>
 
 Los diseños de Kramer se basaban en la Frankenstrat original pero con piezas Kramer de mayor calidad y una pastilla single coil esta vez totalmente funcional y no simplemente
 como adorno, aunque antes de esta serie el propio EVH construiría la **Kramer 5150**.
@@ -142,14 +144,14 @@ La primera Kramer fue la Kramer 5150 y fue construída por el propio Eddie en la
 Además de su Frankenstrat, EVH utilizó en sus primeros años con la banda una **Ibanez Destroyer** a la que después de unos años rediseñaría y apodaría como **The Shark**, ya que buscaba poder variar en determinados
 momentos el sonido de la strato y para ello escogió el modelo explorer de Ibanez.
 
-<div><img src="../../images/eddie-van-halen/ibanez-destroyer.jpg" alt="EVH Ibanez Destroyer" width="200" height="267"></div>
+<div><img src="../../images/eddie-van-halen/ibanez-destroyer.jpg" alt="Ibanez Destroyer" title="EVH guitarra Ibanez Destroyer" width="200" height="267"></div>
 
 Aquella explorer fue fabricada con madera de Sen, un árbol de origen japonés de la familia de la Hiedra de color ceniza, con el mástil de arce y el diapasón de palorosa.
 
 Originalmente la guitarra era blanca, si bien con los años, como ya he comentado fue rediseñada de forma y estética con la míticas cintas rojas, negras y blancas copiando la estética
 de la Frankenstrat.
 
-<div><img src="../../images/eddie-van-halen/ibanez-destroyer-shark.jpg" alt="EVH Ibanez Destroyer The Shark" width="200" height="282"></div>
+<div><img src="../../images/eddie-van-halen/ibanez-destroyer-shark.jpg" alt="Ibanez Destroyer The Shark" alt="guitarra Ibanez Destroyer The Shark" width="200" height="282"></div>
 
 #### Características de la Ibanez Destroyer DT 520
 
@@ -170,7 +172,7 @@ Os dejo a continuación las características generales que podéis encontrar en 
 
 Tras varios problemas con Kramer Eddie Van Halen rompe con la marca y firma con **Ernie Ball** para construir la que sería la **Music Man EVH**.
 
-<div><img src="../../images/eddie-van-halen/ernie-ball-music-man-evh.jpg" alt="EVH Ibanez Destroyer The Shark" width="200" height="277"></div>
+<div><img src="../../images/eddie-van-halen/ernie-ball-music-man-evh.jpg" alt="Ernie Ball music man" title="guitarra Ernie Ball music man" width="200" height="277"></div>
 
 Podemos ver como EVH abandona el estilo super strato tradicional de la guitarra para adoptar un estilo con formas más curvas y menos agresivas que lo representaría durante años, 
 tanto con Music Man como posteriormente con Peavey.
@@ -195,7 +197,7 @@ y cambiar la Muic Man por la acabaría siendo la **EVH Wolfgang**.
 En 1995 Peavey y EVH comenzaron a trabajar en la elaboración de un nuevo modelo de guitarra que, según palabras del propio Eddie, reuniese todos los años de conocimiento y 
 experimentación que había tenido en lo que a construcción de guitarras se refiere. De esta colaboración y trabajo surgió la **Peavey EVH Wolfgang**.
 
-<div><img src="../../images/eddie-van-halen/peavey-evh-wolfgang.jpg" alt="Peavey EVH Wolfgang" width="300" height="220"></div>
+<div><img src="../../images/eddie-van-halen/peavey-evh-wolfgang.jpg" alt="Peavey Wolfgang" alt="guitarra Peavey Wolfgang" width="300" height="220"></div>
 
 El **nombre** de esta guitarra proviene del propio **hijo** de Edward, **Wolfgang Van Halen**, nacido en 1991 y su diseño se basó, como ya se ha comentado antes, en el modelo de Ernie Ball Music Man.
 

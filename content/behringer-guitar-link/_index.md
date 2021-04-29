@@ -27,7 +27,7 @@ Evidentemente, si vas a tocar en una banda o con amigos vas a necesitar un ampli
 
 Básicamente es una **interfaz externa de audio**, que te permite "sustituir" tu tarjeta de sonido integrada en tu PC por este aparato, de manera que la entrada y salida de sonido pasa a depender de este hardware en lugar de la de tu PC. Viene con un **puerto USB** que conectas directamente a tu PC y los drivers necesarios para su configuración. Simplemente debes conectar el cable de tu guitarra a la entrada de audio del Guitar Link y una salida de audio en la salida correspondiente (auriculares, altavoces, etc.), y lo mejor de todo es que la **latencia es muy baja**, uno de los puntos más fuertes que tiene.
 
-<div><img src="../../images/post/behringer_guitar_link_opt.png" alt="behringer guitar link ucg102" width="200" height="268"></div>
+<div><img src="../../images/post/behringer_guitar_link_opt.png" alt="behringer guitar link ucg102" title="behringer guitar link ucg102" width="200" height="268"></div>
 <div>
 	<a href="https://amzn.to/3n8iQ8f" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
