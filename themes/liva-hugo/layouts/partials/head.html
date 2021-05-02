@@ -20,24 +20,19 @@
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .URL | absURL }} ">
+  <link rel="stylesheet" href="{{ .URL | absURL }} " lazyload>
   {{ end }}
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" lazyload>
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
   
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookie-consent-box@2.3.1/dist/cookie-consent-box.min.css" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/logico/lazy-youtube-embed/dist/lazy-youtube-embed.css" />
-  
   <script>CookieBoxConfig = { url: '/uso-de-cookies', content: {title: 'Política de Cookies', content: 'Este sitio web utiliza cookies analíticas de terceros para analizar el uso de la web y asegurar una correcta experiencia de usuario durante las visitas. Al clicar en el botón de aceptación se acepta nuestra política de cookies', accept: 'Aceptar', learnMore: 'Leer más'} }</script>
-  <script defer src="https://cdn.jsdelivr.net/npm/cookie-consent-box@2.3.1/dist/cookie-consent-box.min.js"></script>
   <!--  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?tracking=1&top=1&noConfirm=1&hideDetailsBtn=1&showPolicyLink=1&blocking=1&remember=365&privacyPage=%2Fuso-de-cookies"></script> -->
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazy-youtube-embed@1.0.0/dist/lazy-youtube-embed.js" defer></script>
 
   {{ "<!-- google analitycs -->" | safeHTML }}
   <script>

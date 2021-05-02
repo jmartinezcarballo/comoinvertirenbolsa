@@ -22,19 +22,17 @@ tags:
 
 Hablar de <a href="https://amzn.to/32wRwHu" rel="nofollow noopener noreferrer" target="_blank">James Hetfield</a> es hablar de una de las mayores leyendas vivas dentro del panorama musical mundial.
 
-<div><img src="../../images/james-hetfield/james-hetfield-iron-cross.jpg" alt="james hetfield iron cross 30 aniversary" width="350" height="233"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-iron-cross.jpg" alt="james hetfield iron cross 30 aniversary" loading="lazy" width="350" height="233"></div>
 
 Nacido en agosto de 1963, James Hetfield es el **cantante de Metallica**, banda que fundó en octubre de 1981 junto a Lars Ulrich, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072KL77LR&linkId=a0e66c9f2415ca920a6ae8178a906502"></iframe>
+<iframe loading="lazy" title="james hetfield funko" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072KL77LR&linkId=a0e66c9f2415ca920a6ae8178a906502"></iframe>
 
 Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus guitarras, así que si quieres saber **que guitarra usa James Hetfield** estás en el sitio adecuado.
 
 &nbsp;
 
-¿Aún no tienes en casa el **S&M2** de Metallica con la **Orquesta Sinfónica de San Francisco**? ¿A qué esperas? aquí lo tienes en diferentes formatos:
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0757JMQG8&linkId=b28536789264e582eec1c1af5728a372"></iframe>
+<iframe loading="lazy" title="master of puppets remastered" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0757JMQG8&linkId=b28536789264e582eec1c1af5728a372"></iframe>
 
 &nbsp;
 
@@ -48,8 +46,8 @@ He seleccionado de entre toda su **colección de guitarras** aquellas que consid
 
 Icónica flying V blanca con la que Hetfield grabó y se llevó de gira para el primer disco de Metallica, el **Kill 'em all** de 1983. He entrecomillado lo de Gibson ya que definitivamente la guitarra es una imitación de la **Gibson flying V** elaborada en Japón por Electra. Según el propio Hetfield reconoció, fue engañado por el vendedor que se la hizo pasar por una Gibson y, como novato que era por entonces, picó en el cebo costándole alrededor de 200 dolares de la época. Lo que sí tenía claro es que quería tener una **flying V blanca** como homenaje a **Michael Schenker**, lo tenía entre ceja y ceja, y lo consiguió.
 
-<div><img src="../../images/james-hetfield/james-hetfield-flying-v-blanca.jpg" alt="james hetfield flying v kill em all" width="350" height="525"></div>
-<div><img src="../../images/james-hetfield/michael-schenker-flying-v.jpg" alt="michael schenker flying v" width="350" height="326"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-flying-v-blanca.jpg" alt="james hetfield flying v kill em all" loading="lazy" width="350" height="525"></div>
+<div><img src="../../images/james-hetfield/michael-schenker-flying-v.jpg" alt="michael schenker flying v" loading="lazy" width="350" height="326"></div>
 
 Utilizada hasta 1984 cuando se rompió el mástil y decidió pasarse a la Gibson explorer, ésta flying V fue la tercera guitarra que tuvo en propiedad.
 
@@ -73,7 +71,7 @@ Como dato curioso, fue restaurada hace unos años añadíendole unas pastillas E
 
 En **1984**, aparcada definitivamente la flying V, la **Gibson explorer** que hasta ese momento había sido su guitarra de reserva pasó a ser la guitarra principal de **James Hetfield**. Con ella se grabaron ni más ni menos que el **Ride the Lightning** y el aclamado **Master of Puppets**, considerados por muchos como dos de los mejores discos de **thrash metal** de la historia y, al igual que en el caso de la flying V, también fue utilizada para las giras de ámbos álbumes.
 
-<div><img src="../../images/james-hetfield/james-hetfield-gibson-explorer.jpg" alt="james hetfield gibson explorer 1984" width="350" height="525"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-gibson-explorer.jpg" alt="james hetfield gibson explorer 1984" loading="lazy" width="350" height="525"></div>
 
 Cabe decir, que existían dos modelos totalmente idénticos de la Gibson Explorer, que se diferenciaban únicamente en las pegatinas que Hetfield tenía puestas en el cuerpo. La habitual, conocida como la **So What** y la de reserva, con la etiqueta de **More Beer** (más cerveza).
 
@@ -98,7 +96,7 @@ De igual manera que con la flying V, para el Death Magnetic Hetfield quiso recup
 
 En **1987**, después de que **Kirk Hammett** le descubriera las **ESP**, **James Hetfield** decidió también hacer el cambio dejando atrás las Gibson que había utilizado los últimos años por las guitarras ESP. Eso sí, no tenía intención de renunciar al icónico estilo explorer blanco que ya se había convertido en característico de su imagen. De esta manera llegaron las **ESP MX 220** a manos de Hetfield, cuyo diseño la marca nipona quiso hacer a imagen y semejanza de la **Gibson Explorer** original de **1958**.
 
-<div><img src="../../images/james-hetfield/james-hetfield-esp-mx-220-eet-fuk.jpg" alt="james hetfield esp mx 220 1987" width="335" height="390"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-esp-mx-220-eet-fuk.jpg" alt="james hetfield esp mx 220 1987" loading="lazy" width="335" height="390"></div>
 
 ESP hizo para Hetfield varios modelos de la ESP MX 220, cada una con sus pequeñas particularidades que las diferenciaban de las demás, siendo la famosa **Eet Fuk** blanca la que llevaría como primera guitarra para la extensa gira del **...and Justice for All**.
 
@@ -122,7 +120,7 @@ Os dejo una grabación de uno de los mejores conciertos de la carrera de la band
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B073B7NZM1&linkId=8a2c059e3630efb6af2d8fd1549eff89"></iframe>
+<iframe loading="lazy" title="james hetfield replica esp mx220 eet fuk" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B073B7NZM1&linkId=8a2c059e3630efb6af2d8fd1549eff89"></iframe>
 
 &nbsp;
 
@@ -130,7 +128,7 @@ Os dejo una grabación de uno de los mejores conciertos de la carrera de la band
 
 Entramos en la década de los 90 y lo hacemos con el modelo de guitarra más utilizado por **James Hetfield** a lo largo de toda su carrera, la **ESP MX 250**. Este modelo explorer de ESP básicamente es una evolución de la ESP MX 220 con unas pequeñas diferencias. Aparte de que el cuerpo es ligeramente más grande que su predecesora, por un lado los bordes del cuerpo no son tan redondeados como los de la MX 220, sino que son más puntiagudos, y por otro lado el diapasón pasó de ser de palorosa a ser de ébano.
 
-<div><img src="../../images/james-hetfield/james-hetfield-mx-250-man-to-wolf.jpg" alt="james hetfield esp mx 250 man to wolf" width="350" height="422"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-mx-250-man-to-wolf.jpg" alt="james hetfield esp mx 250 man to wolf" loading="lazy" width="350" height="422"></div>
 
 Así como la ESP MX 220 está basada en la Gibson Explorer original de 1958, la MX250 está basada en la reedición de la **Gibson explorer de 1976**.
 
@@ -170,7 +168,7 @@ He de decir que una de sus primeras elecciones no pudo ser más acertada, estamo
 
 La guitarra fue creada por el prestigioso **luthier Ken Lawrence** que, a pesar de estar especializado en bajos, ha construido varias guitarras para Hetfield.
 
-<div><img src="../../images/james-hetfield/james-hetfield-ken-lawrence-explorer.jpg" alt="james hetfield ken lawrence explorer" width="300" height="400"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-ken-lawrence-explorer.jpg" alt="james hetfield ken lawrence explorer" loading="lazy" width="300" height="400"></div>
 
 Junto a la MX 250 es de las guitarras más utilizadas por Hetfield en su carrera. Seguramente es la guitarra que mejores **sonidos limpios** le da, por eso suele ser la guitarra que siempre usa en canciones como **Nothing else Matters, One, Sanitarium o Enter Sandman** por su intro.
 
@@ -200,7 +198,7 @@ Una última curiosidad de esta guitarra, inapreciable en imágenes y videos: en 
 
 Guitarra elaborada por **ESP** en 1996. Si bien este modelo solo fue utilizado en la época de **Load y Reload** y, puntualmente desde entonces para alguna canción suelta de algunos conciertos, he querido añadir esta guitarra en la biografía, no solo porque era la primera **flying V** que Hetfield utilizaba desde su blanca del Kill 'em all, sino también por ser la primera signature que ESP construía específicamente para él, de ahí el nombre de **ESP JH-1**. Le sucedieron los modelos **JH-2** y **JH-3**, siendo la JH-2 un modelo de tipo explorer con detalles de diamante negro en la capa externa del cuerpo y la JH-3 de tipo single cut (forma les paul) clásico.
 
-<div><img src="../../images/james-hetfield/james-hetfield-jh-1-flying-v.jpg" alt="james hetfield esp jh-1 flying v" width="350" height="280"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-jh-1-flying-v.jpg" alt="james hetfield esp jh-1 flying v" loading="lazy" width="350" height="280"></div>
 
 Existen dos modelos idénticos de esta guitarra, siendo una de ellas el diseño de llamas de color verde, mientras que en la otra las llamas son de color rojo.
 
@@ -223,7 +221,7 @@ Existen dos modelos idénticos de esta guitarra, siendo una de ellas el diseño 
 
 En 2003 se construyeron apenas 300 unidades de la fácilmente reconocible viper **LTD Grynch**. Es de las pocas LTD en la carrera de **James Hetfield** y poco también ha sido su uso. Al ser una guitarra con **escala barítona** se adaptaba a la afinación más grave de lo habitual que el grupo utilizó en la grabación de **St.Anger** en 2003.
 
-<div><img src="../../images/james-hetfield/james-hetfield-ltd-grynch.jpg" alt="james hetfield esp jh-1 flying v" width="350" height="622"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-ltd-grynch.jpg" alt="james hetfield esp jh-1 flying v" loading="lazy" width="350" height="622"></div>
 
 #### Características de la LTD Grynch
 
@@ -240,7 +238,7 @@ En 2003 se construyeron apenas 300 unidades de la fácilmente reconocible viper 
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01EALU6XK&linkId=76fd9adcfbe3b17fa1f88043d6f1b5a7"></iframe>
+<iframe loading="lazy" title="james hetfield replica ltd viper grynch"style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01EALU6XK&linkId=76fd9adcfbe3b17fa1f88043d6f1b5a7"></iframe>
 
 &nbsp;
 
@@ -250,13 +248,13 @@ A partir de 2003 empezó a ser más habitual ver a **James Hetfield** utilizar m
 
 En 2008 **ESP** construyó para Hetfield el modelo signature **Truckster**, del que existen varios modelos y colores diferentes.
 
-<div><img src="../../images/james-hetfield/james-hetfield-esp-truckster.webp" alt="james hetfield esp truckster" width="266" height="400"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-esp-truckster.webp" alt="james hetfield esp truckster" loading="lazy" width="266" height="400"></div>
 
 La ESP Truckster fue la primera guitarra en incorporar las **pastillas EMG** signature creadas bajo la supervisión de James Hetfield, basadas en las habituales **EMG 81/60**, las JH bridge y neck (**JH-B** y **JH-N**)
 
 ¿Quieres que tu guitarra tenga las EMG JH? pues las tienes a la venta!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00GXNMJDO&linkId=c1e3472ce5b622225760a2a5e8676d7a"></iframe>
+<iframe loading="lazy" title="pastillas EMG JH signature"style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00GXNMJDO&linkId=c1e3472ce5b622225760a2a5e8676d7a"></iframe>
 
 #### Características de la ESP Truckster
 
@@ -273,13 +271,13 @@ La ESP Truckster fue la primera guitarra en incorporar las **pastillas EMG** sig
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B019GXD7HY&linkId=858fb9dfc321e57522bacbf90703ce67"></iframe>
+<iframe loading="lazy" title="pegatinas guitarra esp truckster"style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B019GXD7HY&linkId=858fb9dfc321e57522bacbf90703ce67"></iframe>
 
 ### ESP IRON CROSS (desde 2008)
 
 Basada en la **Gibson Les Paul Custom** que utilizó durante la gira de St.Anger, en 2008 ESP construyó para **James Hetfield** la **ESP Iron Cross** de color negro, modelo que pasaría a ser de los más habituales en directo a partir de entonces, en especial la diseñada en blanco que apareció en 2011 y que aquí abajo podéis ver en acción en una de las últimas apariciones de **Metallica en Barcelona**.
 
-<div><img src="../../images/james-hetfield/james-hetfield-esp-iron-cross.jpg" alt="james hetfield esp iron cross" width="350" height="233"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-esp-iron-cross.jpg" alt="james hetfield esp iron cross" loading="lazy" width="350" height="233"></div>
 
 #### Características de la ESP Iron Cross
 
@@ -301,13 +299,13 @@ Basada en la **Gibson Les Paul Custom** que utilizó durante la gira de St.Anger
 	<a href="https://www.thomann.de/es/esp_iron_cross_sw.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar ESP Iron Cross</a>
 </div>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00MBIDMCW&linkId=8ee14b141f3f0793a8de560b31b1a842"></iframe>
+<iframe loading="lazy" title="james hetfield replica esp iron cross blanca" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00MBIDMCW&linkId=8ee14b141f3f0793a8de560b31b1a842"></iframe>
 
 ### ESP SNAKEBYTE (desde 2011)
 
 La **ESP Snakebyte** es el modelo signature más reciente de **explorer** creado por ESP para **James Hetfield**. Parece que el cantante sentía nostalgia por las explorer blancas y quiso volver a llevar una como guitarra principal para las giras. Está basada en los antiguos modelos de explorer con los que Hetfield comenzó, si bien la forma y el clavijero han tenido que ser modificados para no infringir patentes de Gibson.
 
-<div><img src="../../images/james-hetfield/james-hetfield-esp-snakebyte.jpg" alt="james hetfield esp snakebyte" width="350" height="484"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-esp-snakebyte.jpg" alt="james hetfield esp snakebyte" loading="lazy" width="350" height="484"></div>
 
 Las especificaciones ofrecen pocas novedades respecto a modelos previos, con el set de **pastillas JH** ya habitual en los últimos años
 
@@ -335,7 +333,7 @@ Las especificaciones ofrecen pocas novedades respecto a modelos previos, con el 
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QPXGBJR&linkId=3144e0344c3847de8f378a9c3f0457ca"></iframe>
+<iframe loading="lazy" title="james hetfield replica esp snakebyte con marco" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QPXGBJR&linkId=3144e0344c3847de8f378a9c3f0457ca"></iframe>
 
 &nbsp;
 
@@ -343,7 +341,7 @@ Las especificaciones ofrecen pocas novedades respecto a modelos previos, con el 
 
 La **ESP Vulture** es la última ESP signature creada para James Hetfield en 2016. De la misma manera que con la explorer, la ESP Vulture se rediseñó respecto a previas **flying V**.
 
-<div><img src="../../images/james-hetfield/james-hetfield-esp-vulture.jpg" alt="james hetfield esp vulture" width="281" height="281"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-esp-vulture.jpg" alt="james hetfield esp vulture" loading="lazy" width="281" height="281"></div>
 
 #### Características de la ESP Vulture
 
@@ -370,7 +368,7 @@ La **ESP Vulture** es la última ESP signature creada para James Hetfield en 201
 
 He dejado para el final la guitarra con mayor valor sentimental (ahora os explicaré porqué), además de ser la última creada por Ken Lawrence para James Hetfield, una reedición de la **Ken Lawrence Explorer** de 1996 a la que Hetfield bautizó como **Carl** (en referencia a **Carlson Boulevard**, calle donde se sitúa la casa donde la banda vivió en **San Francisco** a mitad de los años 80, conocida como **El Cerrito**).
 
-<div><img src="../../images/james-hetfield/james-hetfield-ken-lawrence-explorer-carl.jpg" alt="james hetfield ken lawrence explorer carl garage days" width="350" height="350"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-ken-lawrence-explorer-carl.jpg" alt="james hetfield ken lawrence explorer carl garage days" loading="lazy" width="350" height="350"></div>
 
 Me diréis, "¿pero si el cuerpo tiene golpes y huecos por todas partes, donde está la gracia?" 
 
@@ -380,7 +378,7 @@ Pero circunstancias de la vida, en una fiesta que la banda realizó allí se ent
 
 Así que, efectivamente, la capa externa golpeada y llena de huecos que se ve en la guitarra se ha hecho a partir de aquellos tablones que un día fueron testigos de parte de la historia de la música, el lugar donde se ensayaron y se crearon el **Ride the Lightning** y el **Master of Puppets** (y probablemente alguna que otra fiesta y algo más), casi nada.
 
-<div><img src="../../images/james-hetfield/metallica-el-cerrito.jpg" alt="metallica el cerrito 3132 san francisco" width="350" height="263"></div>
+<div><img src="../../images/james-hetfield/metallica-el-cerrito.jpg" alt="metallica el cerrito 3132 san francisco" loading="lazy" width="350" height="263"></div>
 
 Pero, un momento, esto es a lo que cuerpo se refiere. Supongo que también os gustaría saber qué son todos esos inlays que se aprecian en la imagen. Bien, aquí viene la segunda parte de la historia.
 
@@ -399,7 +397,7 @@ Sin duda, todo el interior del cuerpo estará hecho de la mejor caoba que exista
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0845N5SZZ&linkId=2b134d338772a782674439c81ead40aa"></iframe>
+<iframe loading="lazy" title="james hetfield set de puas dunlop signature" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0845N5SZZ&linkId=2b134d338772a782674439c81ead40aa"></iframe>
 
 <div>
   <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar guitarrista</a>&nbsp;&nbsp;
