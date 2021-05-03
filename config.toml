@@ -24,6 +24,8 @@ disqusShortname = ""
   [[params.plugins.css]]
   URL = "plugins/slick/slick.css"
   [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
   URL = "plugins/cookie-consent-box/cookie-consent-box.min.css"
   [[params.plugins.css]]
   URL = "plugins/lazy-youtube-embed/lazy-youtube-embed.css"
