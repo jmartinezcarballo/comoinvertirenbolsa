@@ -13,7 +13,7 @@ type: "post"
 image: "images/epiphone/epiphone-sg-standard-section.jpg"
 
 # taxonomies
-categories: 
+categories:
   - "Guitarras"
 tags:
   - "Epiphone"

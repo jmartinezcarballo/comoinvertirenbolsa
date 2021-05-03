@@ -22,7 +22,7 @@ tags:
 
 Hablar de <a href="https://amzn.to/32wRwHu" rel="nofollow noopener noreferrer" target="_blank">James Hetfield</a> es hablar de una de las mayores leyendas vivas dentro del panorama musical mundial.
 
-<div><img src="../../images/james-hetfield/james-hetfield-iron-cross.jpg" alt="james hetfield iron cross 30 aniversary" loading="lazy" width="350" height="233"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-iron-cross.jpg" alt="james hetfield iron cross 30 aniversary" width="350" height="233"></div>
 
 Nacido en agosto de 1963, James Hetfield es el **cantante de Metallica**, banda que fundó en octubre de 1981 junto a Lars Ulrich, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
 

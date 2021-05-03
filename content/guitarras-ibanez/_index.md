@@ -13,8 +13,8 @@ type: "post"
 image: "images/ibanez/ibanez-grg121dx-section.jpg"
 
 # taxonomies
-categories: 
-  - "Guitarras"
+categories:
+  - "Reviews"
 tags:
   - "Ibanez"
 ---

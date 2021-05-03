@@ -16,7 +16,7 @@ type: "post"
 categories: 
   - "Guitarras"
 tags:
-  - "Squier"
+- "Squier"
 ---
 
 Sección dedicada a las **guitarras Fender Squier**. Te voy a proponer diferentes modelos de guitarras eléctricas para que puedas comparar entre ellos y poder comprar aquella que más se adapte a ti.

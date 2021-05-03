@@ -16,7 +16,7 @@ image: "images/cort/cort-cr250-section.jpg"
 categories: 
   - "Reviews"
 tags:
-  - "Cort"
+- "Cort"
 ---
 
 Sección dedicada a las **guitarras Cort**. Cort es un fabricante de guitarras surcoreano que suele destacar normalmente por lo ajustado de sus precios, ofreciendo siempre una calidad precio entre las mejores marcas.

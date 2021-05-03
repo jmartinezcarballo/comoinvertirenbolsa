@@ -53,186 +53,31 @@ disqusShortname = ""
   # main menu
   [[menu.main]]
   name = "Las mejores"
-  hasChildren = true
+  URL = "/categories/listas-top"
   weight = 1
-    # main menu
-    [[menu.main]]
-    name = "Guitarras eléctricas baratas"
-    parent = "Las mejores"
-    URL = "guitarras-electricas-baratas/"
-    weight = 1
-    # main menu
-    [[menu.main]]
-    name = "Guitarras eléctricas para niños"
-    parent = "Las mejores"
-    URL = "guitarras-para-ninos/"
-    weight = 2
-    # main menu
-    [[menu.main]]
-    name = "Guitarras en miniatura"
-    parent = "Las mejores"
-    URL = "guitarras-en-miniatura/"
-    weight = 3
-    # main menu
-    [[menu.main]]
-    name = "Guitarras pequeñas de cuatro cuerdas y ukeleles"
-    parent = "Las mejores"
-    URL = "guitarra-pequena-cuatro-cuerdas/"
-    weight = 4
-    # main menu
-    [[menu.main]]
-    name = "Guitarras musicales"
-    parent = "Las mejores"
-    URL = "guitarras-musicales/"
-    weight = 5
 
   # main menu
   [[menu.main]]
   name = "Marcas"
-  hasChildren = true
+  URL = "/categories/reviews"
   weight = 2
-    # main menu
-    [[menu.main]]
-    name = "Guitarras Cort"
-    parent = "Marcas"
-    URL = "guitarras-cort/"
-    weight = 1
-    # main menu
-    [[menu.main]]
-    name = "Guitarras Epiphone"
-    parent = "Marcas"
-    URL = "guitarras-epiphone/"
-    weight = 2
-    # main menu
-    [[menu.main]]
-    name = "Guitarras Ibanez"
-    parent = "Marcas"
-    URL = "guitarras-ibanez/"
-    weight = 3
-    # main menu
-    [[menu.main]]
-    name = "Guitarras LTD ESP"
-    parent = "Marcas"
-    URL = "guitarras-ltd/"
-    weight = 4
-    # main menu
-    [[menu.main]]
-    name = "Guitarras Squier"
-    parent = "Marcas"
-    URL = "guitarras-squier/"
-    weight = 5
-    # main menu
-    [[menu.main]]
-    name = "Guitarras Yamaha"
-    parent = "Marcas"
-    URL = "guitarras-yamaha/"
-    weight = 6
     
    # main menu
   [[menu.main]]
   name = "Accesorios"
-  hasChildren = true
+  URL = "/categories/accesorios"
   weight = 3
-    # main menu
-    [[menu.main]]
-    name = "Afinador de guitarra"
-    parent = "Accesorios"
-    URL = "afinador-de-guitarra/"
-    weight = 1
-    # main menu
-    [[menu.main]]
-    name = "Behringer Guitar Link"
-    parent = "Accesorios"
-    URL = "behringer-guitar-link/"
-    weight = 2
-    # main menu
-    [[menu.main]]
-    name = "Fundas de guitarra"
-    parent = "Accesorios"
-    URL = "fundas-de-guitarra/"
-    weight = 3
-    # main menu
-    [[menu.main]]
-    name = "Inlays para guitarra"
-    parent = "Accesorios"
-    URL = "inlays-guitarra/"
-    weight = 4
-    # main menu
-    [[menu.main]]
-    name = "Micrófonos de condensador"
-    parent = "Accesorios"
-    URL = "microfonos-de-condensador"
-    weight = 5
-    # main menu
-    [[menu.main]]
-    name = "Pastillas para guitarra"
-    parent = "Accesorios"
-    URL = "pastillas-para-guitarra/"
-    weight = 6
-    # main menu
-    [[menu.main]]
-    name = "Pegatinas para guitarra"
-    parent = "Accesorios"
-    URL = "pegatinas-para-guitarra/"
-    weight = 7
-    [[menu.main]]
-    name = "Puas de guitarra"
-    parent = "Accesorios"
-    URL = "puas-guitarra/"
-    weight = 8
-    # main menu
-    [[menu.main]]
-    name = "Transmisores inalámbricos"
-    parent = "Accesorios"
-    URL = "transmisores-inalambricos-guitarra/"
-    weight = 9
     
-    # main menu
-    [[menu.main]]
-    name = "Guitarristas"
-    hasChildren = true
-    weight = 4
-    # main menu
-    #[[menu.main]]
-    #name = "Carlos Santana"
-    #parent = "Guitarristas"
-    #URL = "carlos-santana/"
-    #weight = 1
-    # main menu
-    [[menu.main]]
-    name = "Daron Malakian"
-    parent = "Guitarristas"
-    URL = "daron-malakian/"
-    weight = 2
-    # main menu
-    [[menu.main]]
-    name = "Eddie Van Halen"
-    parent = "Guitarristas"
-    URL = "eddie-van-halen/"
-    weight = 3
-    # main menu
-    [[menu.main]]
-    name = "James Hetfield"
-    parent = "Guitarristas"
-    URL = "james-hetfield/"
-    weight = 4
-    # main menu
-    [[menu.main]]
-    name = "Kirk Hammett"
-    parent = "Guitarristas"
-    URL = "kirk-hammett/"
-    weight = 5
-    # main menu
-    [[menu.main]]
-    name = "Slash"
-    parent = "Guitarristas"
-    URL = "slash/"
-    weight = 6
-    
-    [[menu.main]]
-	  name = "Blog"
-	  URL = "blog"
-	  weight = 5
+  # main menu
+  [[menu.main]]
+  name = "Guitarristas"
+  URL = "/categories/guitarristas"
+  weight = 4
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "/blog"
+  weight = 5
 
   # footer menu
   [[menu.footer]]
