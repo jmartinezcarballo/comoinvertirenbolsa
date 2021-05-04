@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}es-ES{{ end }}">
+    {{- partial "head.html" . -}}
+    <body>
+        <link rel="stylesheet" href="/plugins/themify-icons/themify-icons.css" media="screen">
+        {{- partial "preloader.html" . -}}
+        {{- partial "header.html" . -}}
+        {{- block "main" . }}{{- end }}
+        {{- partial "footer.html" . -}}
+    </body>
+</html>

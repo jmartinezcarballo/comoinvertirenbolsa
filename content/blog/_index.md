@@ -8,4 +8,8 @@ description: "this is meta description"
 
 # type
 type : "blog"
+
+# taxonomies
+tags:
+  - "Blog"
 ---

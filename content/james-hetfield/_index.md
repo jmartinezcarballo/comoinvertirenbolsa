@@ -32,10 +32,6 @@ Como la historia de Metallica ya es conocida por todos, y siendo ésta una pági
 
 &nbsp;
 
-<iframe loading="lazy" title="master of puppets remastered" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0757JMQG8&linkId=b28536789264e582eec1c1af5728a372"></iframe>
-
-&nbsp;
-
 ## Biografía de James Hetfield a través de sus guitarras
 
 He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones signature, de manera que cronológicamente pasemos por todas sus etapas sin excepción.
@@ -235,10 +231,6 @@ En 2003 se construyeron apenas 300 unidades de la fácilmente reconocible viper 
 * 2 pastillas activas EMG 81/60
 
 <a href="https://www.youtu.be/GudYotg4dgI" class="lazy-youtube-embed">Metallica - St.Anger (2003)</a>
-
-&nbsp;
-
-<iframe loading="lazy" title="james hetfield replica ltd viper grynch"style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01EALU6XK&linkId=76fd9adcfbe3b17fa1f88043d6f1b5a7"></iframe>
 
 &nbsp;
 
