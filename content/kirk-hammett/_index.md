@@ -31,7 +31,7 @@ composición de los temas. Es cierto que la mayoría de los riffs son creación 
 compuestos por Hetfield sino por Hammett, como por ejemplo el riff del puente en Creeping Death (donde la gente corea "die die!") y, el más sorprendente todavía, el riff principal de Enter Sandman, seguramente el riff
 más conocido de la banda.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hammett-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0026XB9H2&linkId=7590acfada426a078680133fce54ec32"></iframe>
+<iframe loading="lazy" title="dunlop pedal wah wah crybaby" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hammett-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0026XB9H2&linkId=7590acfada426a078680133fce54ec32"></iframe>
 
 &nbsp;
 
@@ -122,7 +122,7 @@ verano del 86 para la gira del Monsters of Rock hasta la gira del ...and Justice
 
 ¿Quieres tener <a href="/puas-guitarra">puas de guitarra</a> personalizadas oficiales de Kirk Hammett? mira esta selección que tengo para ti!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hammett-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004U0JTDK&linkId=51a09484bb7f4fc12c9b8d0908f467d6"></iframe>
+<iframe loading="lazy" title="puas de guitarra de kirk hammett" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hammett-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004U0JTDK&linkId=51a09484bb7f4fc12c9b8d0908f467d6"></iframe>
 
 &nbsp;
 
@@ -149,9 +149,9 @@ se puede encontrar fácilmente en las interpretaciones de la mayoría de baladas
 
 &nbsp;
 
-**¿Te gustaría tener una réplica en miniatura de The Mummy?**
+**¿Te gustaría tener una réplica en miniatura de la KH-2 Ouija?**
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hammett-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0846MTCSL&linkId=08688df4efa108cab6c64f1fd34659fe"></iframe>
+<iframe loading="lazy" title="esp kh-2 ouija replica" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hammett-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0846MTCSL&linkId=08688df4efa108cab6c64f1fd34659fe"></iframe>
 
 &nbsp;
 
@@ -179,7 +179,7 @@ ESP la convirtió en modelo signature para su comercialización en 1994 y la mar
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hammett-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0846MRFMB&linkId=efaebeece861891a11d6bae02dd6393b"></iframe>
+<iframe loading="lazy" title="esp kh-3 les paul spider replica" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hammett-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0846MRFMB&linkId=efaebeece861891a11d6bae02dd6393b"></iframe>
 
 ### ESP KH-2 (The Mummy)
 

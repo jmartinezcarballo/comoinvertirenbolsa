@@ -41,7 +41,7 @@ He seleccionado de entre toda su **colección de guitarras** aquellas que consid
 
 Si quieres leer la **biografía completa de Slash** te recomiendo adquirir su biografía oficial.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8493686433&linkId=59d0e9f0245acd3635fe74c6c77fe7ed"></iframe>
+<iframe loading="lazy" title="biografia de slash" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8493686433&linkId=59d0e9f0245acd3635fe74c6c77fe7ed"></iframe>
  
 ### MEMPHIS LES PAUL (1980)
 
@@ -58,7 +58,7 @@ Con una construcción de arce y caoba, Slash de dio cuenta rápidamente que la g
 
 ¿Quieres que tu primera guitarra eléctrica sea como la de Slash?
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00IQCRJ8K&linkId=19669034b6ac38ca182ebbba949f93b7"></iframe>
+<iframe loading="lazy" title="slash afd les paul special II" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00IQCRJ8K&linkId=19669034b6ac38ca182ebbba949f93b7"></iframe>
 
 ### B.C. RICH MOCKINGBIRD (1982)
 
@@ -96,7 +96,7 @@ momento de la grabación del disco.
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01MSTXYK8&linkId=d4fc47c0ddd2a07e57a86cad9498cb59"></iframe>
+<iframe loading="lazy" title="replicas de las guitarras de slash" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01MSTXYK8&linkId=d4fc47c0ddd2a07e57a86cad9498cb59"></iframe>
 
 &nbsp;
 
@@ -138,7 +138,7 @@ si bien no hace mención alguna a la réplica, sin duda por temas legales con Gi
 
 ¿Te gustan los Funkos? no te pierdas el de Slash!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01G5Y4W8U&linkId=5cf2da88e505cbea11785b49f05476a5"></iframe>
+<iframe loading="lazy" title="slash funko" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01G5Y4W8U&linkId=5cf2da88e505cbea11785b49f05476a5"></iframe>
 
 ### Gibson EDS-1275 Doubleneck
 
@@ -163,7 +163,7 @@ Esta guitarra es utilizada frecuentemente en directo para tocar canciones como *
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0164D897W&linkId=a05cc10ebc18085168f3b34063c5073f"></iframe>
+<iframe loading="lazy" title="sombrero de copa de slash" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0164D897W&linkId=a05cc10ebc18085168f3b34063c5073f"></iframe>
 
 &nbsp;
 
@@ -244,7 +244,7 @@ Seymour Duncan Alnico Pro.
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002TMNQXU&linkId=b5c0b1af85917ed5103ecbb766724663"></iframe>
+<iframe loading="lazy" title="rocktile l-200 ohb" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002TMNQXU&linkId=b5c0b1af85917ed5103ecbb766724663"></iframe>
 
 <div>
   <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>&nbsp;&nbsp;
