@@ -31,7 +31,7 @@ guitarra pequeña de 4 cuerdas que cada vez se está volviendo más popular entr
 	<a href="https://amzn.to/2QJUx4h" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar ukelele</a>
 </div>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001LU1SFO&linkId=fe4e5e1b7846f922813f41a493e6ffa7"></iframe>
+<iframe loading="lazy" title="ukelele kala ka15s" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001LU1SFO&linkId=fe4e5e1b7846f922813f41a493e6ffa7"></iframe>
 
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
@@ -57,7 +57,7 @@ Teniendo en cuenta esta definición,
 entrarían dentro de esta familia de instrumentos no solo la guitarra o el ukelele, sino instrumentos tan diversos 
 como el violín, la mandolina, el violonchelo, el arpa o incluso el piano.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07W6NQWFW&linkId=0bc465ca4e6dcdae5f90daa60eb833d1"></iframe>
+<iframe loading="lazy" title="ukelele martisan soprano" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07W6NQWFW&linkId=0bc465ca4e6dcdae5f90daa60eb833d1"></iframe>
 
 ## El ukelele
 
@@ -83,7 +83,7 @@ que mantiene más fielmente el sonido original del instrumento.
 
 Además es la elección ideal para un niño y sus todavía pequeñas manos.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07YK9Y6ZY&linkId=465b117ddcf379ac8655c9ad32a30e45"></iframe>
+<iframe loading="lazy" title="winzz ukelele soprano" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07YK9Y6ZY&linkId=465b117ddcf379ac8655c9ad32a30e45"></iframe>
 
 #### Ukelele concierto
 
@@ -95,14 +95,14 @@ Si quieres aprender a tocar el ukelele pero tus manos y dedos son un poco grande
 que el ukelele concierto se adapte mejor que el soprano al ser un poco más grande la diferencia de anchura en los trastes, algo importante a tener en cuenta sobretodo si vas a
 aprender.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B06WWL4FN6&linkId=42e1639e8e0252d4fceecfc22d7a1fda"></iframe>
+<iframe loading="lazy" title="donner ukelele concierto" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B06WWL4FN6&linkId=42e1639e8e0252d4fceecfc22d7a1fda"></iframe>
 
 #### Ukelele tenor
 
 El ukelele de tipo tenor tiene una longitud aproximada de 66cm y 26 pulgadas y su afinación habitual es la misma que los ukeleles soprano y concierto, G-C-E-A, aunque también 
 se pueden encontrar en D-G-B-E.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07FCG7BRZ&linkId=6ae939c10b4b012278076eb709ef329b"></iframe>
+<iframe loading="lazy" title="paisen ukelele tenor" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07FCG7BRZ&linkId=6ae939c10b4b012278076eb709ef329b"></iframe>
 
 #### Ukelele barítono
 
@@ -116,7 +116,7 @@ cuerdas de la guitarra, de ahí también su similitud.
 No es el tipo de ukelele más recomendado para alguien que quiera comprarse su primer ukelele, si bien si se sabe tocar la guitarra o se piensa hacerlo en un futuro, seguramente
 con este tipo de ukelele la transición entre instrumentos sea mucho más sencilla todavía.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00YTT4RM0&linkId=dc9d023f2ae0c03bd1f1d457c2b64294"></iframe>
+<iframe loading="lazy" title="ortega ukelele baritono" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00YTT4RM0&linkId=dc9d023f2ae0c03bd1f1d457c2b64294"></iframe>
 
 ### Qué ukelele comprar
 
@@ -138,7 +138,7 @@ Respecto a las cuerdas, puedes encontrarlas de distintos tipos, dependiendo tamb
 aprender y acostumbrar los dedos a la presión. Por contra, las de acero típicas de los ukeleles barítonos y las guitarras acústicas son mucho más duras y puedes sufrir más.
 Sin duda, las más reconocidas son las **cuerdas de ukelele Aquila**.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B003UYY05O&linkId=b4cef5b077316a8b3511eae47ac61fe8"></iframe>
+<iframe loading="lazy" title="juego de cuerdas para ukelele aquila" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B003UYY05O&linkId=b4cef5b077316a8b3511eae47ac61fe8"></iframe>
 
 ### Mejores marcas de ukelele
 
@@ -244,7 +244,7 @@ A continuación te expongo las características principales del **Hricane Ukelel
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JMJ6L2L&linkId=0eb2da210f225f3ddfbf95f6333c7712"></iframe>
+<iframe loading="lazy" title="rayzm ukelele concierto" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JMJ6L2L&linkId=0eb2da210f225f3ddfbf95f6333c7712"></iframe>
 
 #### Ammoon Ukelele de 24 pulgadas
 
@@ -381,7 +381,7 @@ Evidentemente estamos hablando de dos instrumentos de cuerda diferentes entre s�
 - Existen guitarras de 7 cuerdas y barítonas, mientras que existen cuatro tipos de ukelele en función de su tamaño y afinación (barítono, concierto, soprano y tenor)
 - El ukelele suele estar más asociado a ciertos estilos de música tradicional o folklorica, mientras que la guitarra pertenece más a la cultura popular.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01A80S85K&linkId=b1451da9e6bf38269973d58d693fb85f"></iframe>
+<iframe loading="lazy" title="ammonn ukelele con cutaway" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarukeleles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01A80S85K&linkId=b1451da9e6bf38269973d58d693fb85f"></iframe>
 
 <div>
 <a href="/afinador-de-guitarra" class="btn btn-outline-primary">Afinadores para ukelele</a>&nbsp&nbsp

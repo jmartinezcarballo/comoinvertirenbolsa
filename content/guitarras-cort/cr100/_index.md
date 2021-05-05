@@ -35,7 +35,7 @@ En esta **completa review** analizaremos en profundidad la Cort CR100 y porque e
 	<a href="https://amzn.to/2yjOWcd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=cortcr250-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00838GSUC&linkId=089d9eaf3d347ce10cb3503bcbb31ee4"></iframe>
+<iframe loading="lazy" title="cort cr250" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=cortcr250-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00838GSUC&linkId=089d9eaf3d347ce10cb3503bcbb31ee4"></iframe>
 
 ## Especificaciones generales
 

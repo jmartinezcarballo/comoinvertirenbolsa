@@ -70,7 +70,7 @@ portada del disco).
 
 ¿Obra de arte? ¿construcción cutre? lo cierto es que demostró que con muy poco presupuesto ni calidad de construcción se podía llegar a sonar bien, pero que muy bien. 
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_vanhalen-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01JRHCDII&linkId=dcd49cac198056dd415964629bba96ce"></iframe>
+<iframe loading="lazy" title="guitarra frankenstrat en miniatura" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_vanhalen-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01JRHCDII&linkId=dcd49cac198056dd415964629bba96ce"></iframe>
 
 #### FRANKENSTRAT BUMBLEBEE ( hasta 1979)
 
@@ -84,7 +84,7 @@ de **Pantera**, y fue enterrada junto al cuerpo del ya también legendario guita
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_vanhalen-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08KHFTTFW&linkId=e622e742d8a1bc341e66cdeea3bae041"></iframe>
+<iframe loading="lazy" title="taza de eddie van halen" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_vanhalen-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08KHFTTFW&linkId=e622e742d8a1bc341e66cdeea3bae041"></iframe>
 
 &nbsp;
 
@@ -100,7 +100,7 @@ y en los que predominaba ese rojo.
 Para los acabados de la guitarra no se le ocurrió otra cosa que hacer lo típico que solemos hacer todos con nuestras guitarras, añadirle unas luces de camión por detrás, unas cuantas
 quemaduras de cigarrillo y la moneda de 25 centavos, vamos lo típico que nosotros tenemos en mente para mantener a nuestra guitarra perfectamente cuidada.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_vanhalen-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07K2JD57C&linkId=9069e1c6c652c45ac27af1aa40e10d3b"></iframe>
+<iframe loading="lazy" title="set de replicas de guitarras frankenstrat" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_vanhalen-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07K2JD57C&linkId=9069e1c6c652c45ac27af1aa40e10d3b"></iframe>
 
 &nbsp;
 
@@ -219,7 +219,7 @@ Os dejo con una **entrevista** donde EVH habla acerca de la serie Wolfgang de Pe
 
 ¿Quieres tener una Frankenstrat de imitación? no te la pierdas!
 
-<a href="https://s.click.aliexpress.com/e/_98W5BH" target="_blank"><img src="https://ae01.alicdn.com/kf/H5937eccc287c40f6a5e752ca0d5b771f4.jpg_140x140.jpg" title="Comprar Frankenstrat" alt="Comprar Frankenstrat" /></a>
+<a href="https://s.click.aliexpress.com/e/_98W5BH" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ae01.alicdn.com/kf/H5937eccc287c40f6a5e752ca0d5b771f4.jpg_140x140.jpg" title="Comprar Frankenstrat" alt="Comprar Frankenstrat" /></a>
 
 <div>
   <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a> &nbsp&nbsp;

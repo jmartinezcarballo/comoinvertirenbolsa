@@ -32,7 +32,7 @@ de **Marty Friedman** dentro de su gama **Pro Series**.
 
 Como puedes apreciar la guitarra es todo un espectáculo a la vista que llama la atención con solo encontrártela de frente, aunque de buen seguro que sus especificaciones también nos llamarán la atención, vamos a repasarlas.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1540069176&linkId=3f9b76c055f667335449dabb7edbac61"></iframe>
+<iframe loading="lazy" title="marty friedman exotic metal" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1540069176&linkId=3f9b76c055f667335449dabb7edbac61"></iframe>
 
 &nbsp;
 

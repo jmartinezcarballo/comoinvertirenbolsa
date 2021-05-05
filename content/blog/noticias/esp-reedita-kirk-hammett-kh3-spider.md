@@ -55,7 +55,7 @@ La guitarra incluye las siguientes características:
 
 Como podemos ver los materiales utilizados son de gama alta, eso si, como muchos modelos signature preparar la billetera porque la guitarra lo que se dice barata no parece que lo vaya a ser.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07HJ9TTMJ&linkId=26c75b5270b4e0be2f4119555768fbd6"></iframe>
+<iframe loading="lazy" title="pegatina para guitarra spider skull kirk hammett" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07HJ9TTMJ&linkId=26c75b5270b4e0be2f4119555768fbd6"></iframe>
 
 Si quereis saber más sobre ésta y otras guitarras del solista de Metallica no podéis dejar de visitar nuestra sección dedicada a las [guitarras de Kirk Hammett](/kirk-hammett).
 

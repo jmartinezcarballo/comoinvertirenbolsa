@@ -36,7 +36,7 @@ en las notas y sus particularidades.
 
 Así pues empecemos!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432903965&linkId=a23f6db153557130390916bfa35acdf3"></iframe>
+<iframe loading="lazy" title="libro teoria musical para dummies" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432903965&linkId=a23f6db153557130390916bfa35acdf3"></iframe>
 
 ## Las notas musicales
 
@@ -75,7 +75,7 @@ distancia y entre un MI y un LA dos tonos y medio, etc.
 
 *Truco: te será más fácil recordar esta norma si piensas que **las notas que acaban en "i" tienen medio tono de distancia con la siguiente nota**, todas las demás son de un tono.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789330025&linkId=86d330d388e0f27d31a8838b7f7b0297"></iframe>
+<iframe loading="lazy" title="libro los 100 primeros acordes" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789330025&linkId=86d330d388e0f27d31a8838b7f7b0297"></iframe>
 
 ### La octava
 
@@ -149,7 +149,7 @@ Una vez colocadas las notas naturales ya podemos acabar de rellenar el resto de 
 
 <div><img src="/images/blog/tutoriales/notas-guitarra/diapason-notas-5-trastes.png" alt="todas las notas en los cinco primeros trastes" width="588" height="339"></div>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1545221642&linkId=fe90ca3b8e3bee31e8b6b1be729c089c"></iframe>
+<iframe loading="lazy" title="curso completo de guitarra" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1545221642&linkId=fe90ca3b8e3bee31e8b6b1be729c089c"></iframe>
 
 ### Algunos trucos para memorizar las notas de la guitarra
 
@@ -181,7 +181,7 @@ De esta manera para aprenderte las notas en el mástil del traste 12 en adelante
 
 <div><img src="/images/blog/tutoriales/notas-guitarra/notas-traste-doce.png" alt="relación de las notas de la segunda y quinta cuerdas iguales" width="500" height="294"></div>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432903957&linkId=b03033188349ea6d60c9e65b2c0af525"></iframe>
+<iframe loading="lazy" title="libro guitarra para dummies" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432903957&linkId=b03033188349ea6d60c9e65b2c0af525"></iframe>
 
 <div>
 	<a href="/blog" class="btn btn-outline-primary">Volver al blog</a> &nbsp;&nbsp;

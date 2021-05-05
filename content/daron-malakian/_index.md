@@ -34,14 +34,14 @@ no son precisamente alegres.
 Tanto **Protect the Land** como **Genocidal Humanoidz** se centran en el conflicto entre la región autónoma de Nagorno-Karabaj (poblada mayoritariamente por armenios) y Azerbaijan que reclama el territorio como suyo.
 La guerra y los crueles actos producidos en este territorio han sido una temática constante en las letras de la banda durante su carrera, así como la cultura y raíces armenias, y el 2020 no podía ser menos.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08MR2LPCM&linkId=20cc4260f7d820caa749738d9d860497"></iframe>
+<iframe loading="lazy" title="soad protect the land" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08MR2LPCM&linkId=20cc4260f7d820caa749738d9d860497"></iframe>
 
 ¿Aún no tienes en casa la discografía de **SOAD**? ¿A qué esperas? aquí tienes todos sus discos:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002MXNOAQ&linkId=d7c97088095e01202d907b71b8089061"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00005N648&linkId=8e7eb635ad9d9e333dababa5b4d30785"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000683IMI&linkId=3252feeff9eb75b5707ca0df0df42c31"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000BPCCZ0&linkId=c783164e3ceaa6c9b1d82b6abf2a96fb"></iframe>
+<iframe loading="lazy" title="soad system of a down disco" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002MXNOAQ&linkId=d7c97088095e01202d907b71b8089061"></iframe>
+<iframe loading="lazy" title="soad toxicity disco cd" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00005N648&linkId=8e7eb635ad9d9e333dababa5b4d30785"></iframe>
+<iframe loading="lazy" title="soad mezmerize disco cd" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000683IMI&linkId=3252feeff9eb75b5707ca0df0df42c31"></iframe>
+<iframe loading="lazy" title="soad hypnotize disco cd" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000BPCCZ0&linkId=c783164e3ceaa6c9b1d82b6abf2a96fb"></iframe>
 
 &nbsp;
 
@@ -79,7 +79,7 @@ Aquí podéis ver a SOAD interpretando Sugar en 1997 con Daron y su Fender dando
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01DDEXXMQ&linkId=d613617f4832ed2f5a50d63a2fc2ac01"></iframe>
+<iframe loading="lazy" title="camiseta de system of a down" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01DDEXXMQ&linkId=d613617f4832ed2f5a50d63a2fc2ac01"></iframe>
 
 &nbsp;
 
@@ -136,7 +136,7 @@ en la propia guitarra debajo del número de serie.
 
 &nbsp;
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JNSVSQZ&linkId=f64bedc1b03d28111f24b8b14cefbad4"></iframe>
+<iframe loading="lazy" title="camiseta de soad de manga corta" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=malakian-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JNSVSQZ&linkId=f64bedc1b03d28111f24b8b14cefbad4"></iframe>
 
 &nbsp;
 

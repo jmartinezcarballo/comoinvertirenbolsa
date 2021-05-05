@@ -57,7 +57,7 @@ En guitarras eléctricas es habitual encontrarse con **cuerpos sólidos**, si bi
 
 El cuerpo está fabricado con madera, siendo las más utilizadas la caoba, el aliso y el tilo.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QDHX3M6&linkId=3af8b74ced2cd726efb9f9e1b0079b28"></iframe>
+<iframe loading="lazy" title="comprar cuerpo de guitarra stratocaster" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QDHX3M6&linkId=3af8b74ced2cd726efb9f9e1b0079b28"></iframe>
 
 ### 2. Mástil
 
@@ -71,7 +71,7 @@ El mástil de una guitarra eléctrica va unido al cuerpo y generalmente lo podem
 
 Las maderas generalmente más utilizadas para fabricar los mástiles de guitarra eléctrica son el arce y la caoba.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0791FNXBC&linkId=be91c0c89f9c3d56be49054c777f6c67"></iframe>
+<iframe loading="lazy" title="comprar mastil de guitarra" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0791FNXBC&linkId=be91c0c89f9c3d56be49054c777f6c67"></iframe>
 
 ### 3. Diapasón
 
@@ -93,7 +93,7 @@ entre 21 y 24 trastes.
 
 Para ayudar al guitarrista a moverse y saber en todo momento en que trastes tiene situados los dedos, la mayoría de guitarras están adornadas con lo que conocemos como [inlays o incrustaciones](/inlays-guitarra) que se situan siempre en los mismos trastes.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0002M6CVC&linkId=9a3e20d58dff7e4393fc8618c188e468"></iframe>
+<iframe loading="lazy" title="cuerdas para guitarra ernie ball slinky 2221" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0002M6CVC&linkId=9a3e20d58dff7e4393fc8618c188e468"></iframe>
 
 ### 5. Clavijero
 
@@ -105,7 +105,7 @@ El clavijero de la guitarra es la parte final del mástil donde terminan las cue
 
 El clavijero está formado por tantas clavijas como cuerdas tiene la guitarra y cada una de las clavijas es la encargada de afinar una cuerda. Al girar las clavijas lo que haces es darle o quitarle **tensión** a su cuerda, según en que dirección gires, y de esta manera el sonido al pulsar sobre la cuerda va variando.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B019RJJWI0&linkId=895852fd341d94b147e66501463ce6d1"></iframe>
+<iframe loading="lazy" title="recambios piezas de clavijero de guitarra" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B019RJJWI0&linkId=895852fd341d94b147e66501463ce6d1"></iframe>
 
 ### 6. Pastillas
 
