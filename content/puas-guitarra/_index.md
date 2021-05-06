@@ -43,11 +43,12 @@ Para empezar te presento una selección de las **mejores púas de guitarra** de 
     <span class="toc_toggle">[<a id="toggle-link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
   </p>
   <ul id="toc-list" class="toc_list" style="display: none;">
-    <li><a href="#las-mejores-púas-de-guitarra-eléctrica"><span class="toc_number toc_depth_1">1</span> Las mejores púas de guitarra eléctrica</a></li>
-    <li><a href="#puas-de-discos-famosos"><span class="toc_number toc_depth_2">1.1</span> Puas de discos famosos</a></li>
-    <li><a href="#kit-de-40-puas-rayzm"><span class="toc_number toc_depth_2">1.2</span> Kit de 40 puas Rayzm</a></li>
-    <li><a href="#kit-de-50-puas-fabricadas-con-delrin"><span class="toc_number toc_depth_2">1.3</span> Kit de 50 puas fabricadas con delrin</a></li>
-    <li><a href="#kit-de-puas-para-guitarra-eléctrica-acústica-y-bajo"><span class="toc_number toc_depth_2">1.4</span> Kit de puas para guitarra eléctrica, acústica y bajo</a></li>
+    <li><a href="#las-mejores-púas-de-guitarra-eléctrica-y-acústica"><span class="toc_number toc_depth_1">1</span> Las mejores púas de guitarra eléctrica y acústica</a></li>
+    <li><a href="#los-kits-de-puas-de-guitarra-más-vendidos"><span class="toc_number toc_depth_2">1.1</span> Los kits de puas de guitarra más vendidos</a></li>
+    <li><a href="#puas-de-discos-famosos"><span class="toc_number toc_depth_2">1.2</span> Puas de discos famosos</a></li>
+    <li><a href="#kit-de-40-puas-rayzm"><span class="toc_number toc_depth_2">1.3</span> Kit de 40 puas Rayzm</a></li>
+    <li><a href="#kit-de-50-puas-fabricadas-con-delrin"><span class="toc_number toc_depth_2">1.4</span> Kit de 50 puas fabricadas con delrin</a></li>
+    <li><a href="#kit-de-puas-para-guitarra-eléctrica-acústica-y-bajo"><span class="toc_number toc_depth_2">1.5</span> Kit de puas para guitarra eléctrica, acústica y bajo</a></li>
     <li>
       <a href="#grosor-de-las-púas-de-guitarra">
         <span class="toc_number toc_depth_1">2</span> Grosor de las púas de guitarra
@@ -68,9 +69,60 @@ Para empezar te presento una selección de las **mejores púas de guitarra** de 
 
 &nbsp;
 
-## Las mejores púas de guitarra eléctrica
+## Las mejores púas de guitarra eléctrica y acústica
 
 &nbsp;
+
+### Los kits de puas de guitarra más vendidos
+
+Te presento los kits de **puas más vendidos en Amazon**. Diferentes cantidades y grosores, algunos con su caja para 
+almacenarlas de forma segura.
+
+<div class="row">
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/2PUncDN" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/puas/geek-16-puas-guitarra-delrin.png" alt="kit 16 puas delrin con estuche" 
+            title="kit 16 puas delrin con estuche" width="304" height="200">
+          <figcaption>Kit 16 puas tortex de 4 grosores con estuche</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/3tqA826" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/puas/planet-waves-10-puas-celuloide-finas.png" alt="kit de 10 puas finas de celuloide" 
+            title="kit de 10 puas finas de celuloide" width="299" height="200">
+          <figcaption>Kit de 10 puas D'Addario de celuloide fino</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/3eXdyc4" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/puas/tiger-10-puas-celuloide-grosores.png" alt="kit de 10 puas de celuloide de varios grosores" 
+            title="kit de 10 puas tiger de varios grosores de celuloide" width="225" height="200">
+          <figcaption>Kit de 10 puas de varios grosores</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/3epuxVl" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/puas/12-puas-dunlop-tortex-088.png" alt="kit de 12 puas dunlop tortex de 0.88mm" 
+            title="kit de 12 puas dunlop tortex de 0.88mm color verde" width="123" height="200">
+          <figcaption>Kit de 12 puas Dunlop tortex de 0.88mm</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/3eZsEhd" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/puas/fender-12-puas-guitarra-nylon-046mm.png" alt="12 puas de guitarra fender de nylon 0.46mm" 
+            title="12 puas de guitarra fender de nylon 0.46mm" width="128" height="200">
+          <figcaption>Kit de 12 puas Fender de nylon de 0.46mm</figcaption>
+        </a>
+      </div>
+      <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+        <a href="https://amzn.to/3eo54LT" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="../../images/puas/pack-20-puas-estuche-porta-puas.png" 
+            alt="pack de 20 puas de varios grosores con estuche y 2 porta puas" 
+            title="pack de 20 puas de varios grosores con estuche y 2 porta puas" width="210" height="200">
+          <figcaption>Pack de 20 puas de varios grosores con estuche y 2 porta puas</figcaption>
+        </a>
+      </div>
+</div>
 
 ### Puas de discos famosos
 
