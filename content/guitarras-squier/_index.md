@@ -10,7 +10,7 @@ summary: "Reviews de las mejores guitarras Squier"
 
 # type
 type: "post"
-#image: "images/squier/squier-bullet-section.png"
+image: "images/fender-squier/squier-section.jpg"
 
 # taxonomies
 categories: 
