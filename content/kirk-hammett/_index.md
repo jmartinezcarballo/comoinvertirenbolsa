@@ -20,29 +20,39 @@ tags:
   - "Metallica"
 ---
 
-<a href="https://amzn.to/3v3SeYJ" rel="nofollow noopener noreferrer" target="_blank">Kirk Hammett</a> es conocido por ser el guitarra solista de **Metallica**. Si bien se empezó a dar a conocer a principios de los 80 formando parte de los
-inicios de **Exodus**, desde 1983 forma parte inseparable de Metallica desde que se unió al grupo sustituyendo a Dave Mustaine, a quien echaron de la banda
-pocos días antes.
+<strong><a href="https://amzn.to/3v3SeYJ" rel="nofollow noopener noreferrer" target="_blank">Kirk Hammett</a></strong>
+es conocido por ser el **guitarra solista de Metallica**. Si bien se empezó a dar a conocer a principios de los 80 
+formando parte de los inicios de 
+<strong><a href="https://amzn.to/3wVjmKx" rel="nofollow noopener noreferrer" target="_blank">Exodus</a></strong>, 
+desde 1983 forma parte inseparable de Metallica desde que se unió al grupo sustituyendo a Dave Mustaine, 
+a quien echaron de la banda pocos días antes.
 
 <div><img src="../../images/kirk-hammett/kirk-hammett-mummy.jpg" alt="kirk hammett the mummy" width="350" height="263"></div>
 
-Pensar en Kirk Hammett es pensar en los solos de temas tan emblemáticos como One o Master of Puppets, sin embargo Kirk también forma parte indispensable en la 
-composición de los temas. Es cierto que la mayoría de los riffs son creación de James Hetfield, pero te sorprenderías si supieras algunos de los riffs que no han sido
-compuestos por Hetfield sino por Hammett, como por ejemplo el riff del puente en Creeping Death (donde la gente corea "die die!") y, el más sorprendente todavía, el riff principal de Enter Sandman, seguramente el riff
-más conocido de la banda.
+Pensar en Kirk Hammett es pensar por un lado en los solos de temas tan emblemáticos como One o Master of Puppets
+y por otro lado en el uso del 
+<strong><a href="https://amzn.to/3uOO9ay" rel="nofollow noopener noreferrer" target="_blank">pedal de Wah-Wah</a></strong>,
+sin embargo Kirk también forma parte indispensable en la composición de los temas. 
 
-<iframe loading="lazy" title="dunlop pedal wah wah crybaby" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hammett-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0026XB9H2&linkId=7590acfada426a078680133fce54ec32"></iframe>
+Es cierto que la mayoría de los riffs son creación de James Hetfield, pero te sorprenderías si supieras algunos 
+de los riffs que no han sido compuestos por Hetfield sino por Hammett, como por ejemplo el riff del puente en 
+Creeping Death (donde la gente corea "die die!") y, el más sorprendente todavía, el riff principal de Enter Sandman, 
+seguramente el riff más conocido de la banda.
 
 &nbsp;
 
 ## Biografía de Kirk Hammett a través de sus guitarras
 
-He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones **signature**, de manera que cronológicamente pasemos por todas sus etapas sin excepción.
+He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, 
+así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones signature, 
+de manera que cronológicamente pasemos por todas sus etapas sin excepción.
 
 ### Gibson Flying V (1979-1989)
 
 Primera Gibson de Kirk Hammett. A diferencia de la de su compañero de banda esta sí es una auténtica **Gibson** y no una imitación. Fue usada durante su etapa en Exodus y durante los primeros
-cuatro álbumes de Metallica, principalmente el Kill 'em All y el Ride the Lightning.
+cuatro álbumes de Metallica, principalmente el 
+<strong><a href="https://amzn.to/3uLfYjT" rel="nofollow noopener noreferrer" target="_blank">Kill 'em All</a></strong> 
+y el <strong><a href="https://amzn.to/3uIWPzf" rel="nofollow noopener noreferrer" target="_blank">Ride the Lightning</a></strong>.
 
 <div><img src="../../images/kirk-hammett/kirk-hammett-gibson-flying-v.jpg" alt="kirk hammett gibson flying v" width="250" height="328"></div>
 
@@ -81,8 +91,9 @@ De los modelos que a día de hoy sigue utilizando Kirk, esta Jackson es el más 
 
 <div><img src="../../images/kirk-hammett/kirk-hammett-jackson-randy-rhoads.jpg" alt="kirk hammett jackson randy rhoads" width="350" height="438"></div>
 
-Esta Jackson la empezó a utilizar por 1985 y fue la guitarra utilizada para la grabación del Master of Puppets. A día de hoy la sigue utilizando
-en las giras para medios tiempos en baja afinación, por ejemplo en Sad But True.
+Esta Jackson la empezó a utilizar por 1985 y fue la guitarra utilizada para la grabación del 
+<strong><a href="https://amzn.to/34KJmfO" rel="nofollow noopener noreferrer" target="_blank">Master of Puppets</a></strong>
+. A día de hoy la sigue utilizando en las giras para medios tiempos en baja afinación, por ejemplo en Sad But True.
 
 #### Características de la Jackson Randy Rhaods
 
@@ -128,7 +139,8 @@ verano del 86 para la gira del Monsters of Rock hasta la gira del ...and Justice
 
 ### Gibson Les Paul Custom (desde 1989)
 
-Una de las guitarras más conocidas y utilizadas por Hammett a lo largo de los años es la Gibson Les Paul Custom que entró a formar
+Una de las guitarras más conocidas y utilizadas por Hammett a lo largo de los años es la 
+<strong><a href="https://amzn.to/3wUHlcW" rel="nofollow noopener noreferrer" target="_blank">Gibson Les Paul Custom</a></strong> que entró a formar
 parte de su colección en 1989. Cambiado el hardware dorado por negro para dotar a la guitarra de una estética totalmente oscura, esta guitarra
 se puede encontrar fácilmente en las interpretaciones de la mayoría de baladas y power ballads de la banda, especialmente en la década de los 90. 
 
