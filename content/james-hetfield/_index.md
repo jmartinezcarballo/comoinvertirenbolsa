@@ -153,7 +153,7 @@ Os dejo una grabación de uno de los mejores conciertos de la carrera de la band
 
 ### ESP MX 250 (desde 1990)
 
-Entramos en la década de los 90 y lo hacemos con el modelo de guitarra más utilizado por **James Hetfield** a lo largo de toda su carrera, la **ESP MX 250**. Este modelo explorer de ESP básicamente es una evolución de la ESP MX 220 con unas pequeñas diferencias. Aparte de que el cuerpo es ligeramente más grande que su predecesora, por un lado los bordes del cuerpo no son tan redondeados como los de la MX 220, sino que son más puntiagudos, y por otro lado el diapasón pasó de ser de palorosa a ser de ébano.
+Entramos en la década de los 90 y lo hacemos con el modelo de guitarra más utilizado por James Hetfield a lo largo de toda su carrera, la ESP MX 250. Este modelo explorer de ESP básicamente es una evolución de la ESP MX 220 con unas pequeñas diferencias. Aparte de que el cuerpo es ligeramente más grande que su predecesora, por un lado los bordes del cuerpo no son tan redondeados como los de la MX 220, sino que son más puntiagudos, y por otro lado el diapasón pasó de ser de palorosa a ser de ébano.
 
 <div><img src="../../images/james-hetfield/james-hetfield-mx-250-man-to-wolf.jpg" alt="james hetfield esp mx 250 man to wolf" loading="lazy" width="350" height="422"></div>
 
@@ -174,7 +174,8 @@ Lo que sí pasó a ser un elemento común de estas ESP, y acorde a la estética 
 * Afinadores Gotoh
 * 2 pastillas activas EMG 81/60
 
-Os dejo con un video del concierto **homenaje a Freddy Mercury** donde podéis ver en acción la MX250 original totalmente negra con los clásicos inlays de punto.
+Os dejo con un video del <strong><a href="https://amzn.to/3vLD8YJ" rel="nofollow noopener noreferrer" target="_blank">concierto homenaje a Freddy Mercury</a></strong>
+donde podéis ver en acción la MX250 original totalmente negra con los clásicos inlays de punto.
 
 <a href="https://www.youtu.be/Xube4aKrfiU" class="lazy-youtube-embed">Metallica - Freddy Mercury tributo (1992)</a>
 
@@ -189,19 +190,31 @@ Hasta aquí el repaso a los 15 primeros años de la carrera de Metallica en lo q
 
 ### Ken Lawrence Explorer (desde 1996)
 
-A partir de la segunda mitad de los 90, y de la misma manera que a estética personal se refiere, James Hetfield abandona los diseños digamos que estándar y empieza a incorporar diseños estéticamente mucho más customizados y llamativos que se diferencian notablemente de los modelos de serie habituales.
+A partir de la segunda mitad de los 90, y de la misma manera que a estética personal se refiere, 
+James Hetfield abandona los diseños digamos que estándar y empieza a incorporar diseños estéticamente mucho más 
+customizados y llamativos que se diferencian notablemente de los modelos de serie habituales.
 
-He de decir que una de sus primeras elecciones no pudo ser más acertada, estamos hablando de su icónica **Ken Lawrence Explorer**, personalmente mi guitarra preferida de **James Hetfield**.
+He de decir que una de sus primeras elecciones no pudo ser más acertada, estamos hablando de su icónica **Ken Lawrence Explorer**, 
+personalmente mi guitarra preferida de **James Hetfield**.
 
-La guitarra fue creada por el prestigioso **luthier Ken Lawrence** que, a pesar de estar especializado en bajos, ha construido varias guitarras para Hetfield.
+La guitarra fue creada por el prestigioso luthier Ken Lawrence que, a pesar de estar especializado en bajos, 
+ha construido varias guitarras para Hetfield.
 
-<div><img src="../../images/james-hetfield/james-hetfield-ken-lawrence-explorer.jpg" alt="james hetfield ken lawrence explorer" loading="lazy" width="300" height="400"></div>
+<div><img src="../../images/james-hetfield/james-hetfield-ken-lawrence-explorer.jpg" 
+    alt="james hetfield ken lawrence explorer" loading="lazy" width="300" height="400"></div>
 
-Junto a la MX 250 es de las guitarras más utilizadas por Hetfield en su carrera. Seguramente es la guitarra que mejores **sonidos limpios** le da, por eso suele ser la guitarra que siempre usa en canciones como **Nothing else Matters, One, Sanitarium o Enter Sandman** por su intro.
+Junto a la MX 250 es de las guitarras más utilizadas por Hetfield en su carrera. 
+Seguramente es la guitarra que mejores sonidos limpios le da, por eso suele ser la guitarra que siempre usa en 
+canciones como **Nothing else Matters, One, Sanitarium o Enter Sandman** por su intro.
 
-Hetfield tiene, al menos, tres versiones de este modelo. Dos de ellas diferenciadas por los inlays y una tercera de doble mástil siendo uno de ellos **barítono**. Por cierto, para quien no sepa qué son exactamente los inlays que lleva en la primera que se fabricó, vienen a representar una escena de caza azteca.
+Hetfield tiene, al menos, tres versiones de este modelo. Dos de ellas diferenciadas por los inlays 
+y una tercera de doble mástil siendo uno de ellos barítono. Por cierto, para quien no sepa qué son exactamente 
+los inlays que lleva en la primera que se fabricó, vienen a representar una escena de caza azteca.
 
-En cuanto a las características de la guitarra que aquí te presento, viene a ser muy similar a la MX250 con diferente clavijero y algunos detalles más. Con el paso de los años, eso sí, las pastillas EMG de serie fueron cambiadas por las **pastillas JH** signature, que vienen a ser unas EMGs customizadas por el propio Hetfield.
+En cuanto a las características de la guitarra que aquí te presento, viene a ser muy similar a la MX250 con diferente clavijero y algunos detalles más. 
+Con el paso de los años, eso sí, las pastillas EMG de serie fueron cambiadas por las 
+<strong><a href="https://amzn.to/3ii7sGm" rel="nofollow noopener noreferrer" target="_blank">pastillas JH signature</a></strong>, 
+que vienen a ser unas EMGs customizadas por el propio Hetfield.
 
 Una última curiosidad de esta guitarra, inapreciable en imágenes y videos: en el lateral superior del mástil dispone de unos **leds rojos** que marcan la situación de los trastes, como si de unos inlays se tratase.
 
@@ -223,7 +236,13 @@ Una última curiosidad de esta guitarra, inapreciable en imágenes y videos: en 
 
 ### ESP JH-1 Flying V (1996-1999)
 
-Guitarra elaborada por **ESP** en 1996. Si bien este modelo solo fue utilizado en la época de **Load y Reload** y, puntualmente desde entonces para alguna canción suelta de algunos conciertos, he querido añadir esta guitarra en la biografía, no solo porque era la primera **flying V** que Hetfield utilizaba desde su blanca del Kill 'em all, sino también por ser la primera signature que ESP construía específicamente para él, de ahí el nombre de **ESP JH-1**. Le sucedieron los modelos **JH-2** y **JH-3**, siendo la JH-2 un modelo de tipo explorer con detalles de diamante negro en la capa externa del cuerpo y la JH-3 de tipo single cut (forma les paul) clásico.
+Guitarra elaborada por ESP en 1996. Si bien este modelo solo fue utilizado en la época de 
+<strong><a href="https://amzn.to/3vQsBeL" rel="nofollow noopener noreferrer" target="_blank">Load</a></strong> y, puntualmente desde entonces para alguna canción suelta de algunos conciertos, 
+he querido añadir esta guitarra en la biografía, no solo porque era la primera **flying V** que Hetfield utilizaba 
+desde su blanca del Kill 'em all, sino también por ser la primera signature que ESP construía específicamente para él, 
+de ahí el nombre de **ESP JH-1**. Le sucedieron los modelos **JH-2** y **JH-3**, 
+siendo la JH-2 un modelo de tipo explorer con detalles de diamante negro en la capa externa del cuerpo 
+y la JH-3 de tipo single cut (forma les paul) clásico.
 
 <div><img src="../../images/james-hetfield/james-hetfield-jh-1-flying-v.jpg" alt="james hetfield esp jh-1 flying v" loading="lazy" width="350" height="280"></div>
 
@@ -246,7 +265,8 @@ Existen dos modelos idénticos de esta guitarra, siendo una de ellas el diseño 
 
 ### LTD VIPER "THE GRYNCH" (2003)
 
-En 2003 se construyeron apenas 300 unidades de la fácilmente reconocible viper **LTD Grynch**. Es de las pocas LTD en la carrera de **James Hetfield** y poco también ha sido su uso. Al ser una guitarra con **escala barítona** se adaptaba a la afinación más grave de lo habitual que el grupo utilizó en la grabación de **St.Anger** en 2003.
+En 2003 se construyeron apenas 300 unidades de la fácilmente reconocible viper **LTD Grynch**. 
+Es de las pocas LTD en la carrera de James Hetfield y poco también ha sido su uso. Al ser una guitarra con **escala barítona** se adaptaba a la afinación más grave de lo habitual que el grupo utilizó en la grabación de **St.Anger** en 2003.
 
 <div><img src="../../images/james-hetfield/james-hetfield-ltd-grynch.jpg" alt="james hetfield esp jh-1 flying v" loading="lazy" width="350" height="622"></div>
 
@@ -276,6 +296,10 @@ En 2008 **ESP** construyó para Hetfield el modelo signature **Truckster**, del 
 La ESP Truckster fue la primera guitarra en incorporar las **pastillas EMG** signature creadas bajo la supervisión de James Hetfield, basadas en las habituales **EMG 81/60**, las JH bridge y neck (**JH-B** y **JH-N**)
 
 ¿Quieres que tu guitarra tenga las EMG JH? pues las tienes a la venta!
+
+<div>
+	<a href="https://amzn.to/3ii7sGm" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar LTD Iron Cross</a>&nbsp;
+</div>
 
 <iframe loading="lazy" title="pastillas EMG JH signature"style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00GXNMJDO&linkId=c1e3472ce5b622225760a2a5e8676d7a"></iframe>
 
