@@ -20,8 +20,10 @@ tags:
   - "Les Paul"
 ---
 
-Pocos guitarristas hay en el mundo del rock más carismáticos que Slash. De nombre real **Saul Hudson** y nacido en las cercanías de Londres en 1965, 
-tanto su sonido como su imagen con **sombrero de copa** y gafas de sol se han convertido hace ya
+Pocos guitarristas hay en el mundo del rock más carismáticos que 
+<strong><a href="https://amzn.to/3pkpcT8" rel="nofollow noopener noreferrer" target="_blank">Slash</a></strong>. 
+De nombre real Saul Hudson y nacido en las cercanías de Londres en 1965, 
+tanto su sonido como su imagen con sombrero de copa y gafas de sol se han convertido hace ya
 muchos años en todo un símbolo dentro del panorama del hard rock.
 
 <div><img src="../../images/slash/slash-title.jpg" alt="Slash Gibson Les Paul" width="350" height="233"></div>
@@ -39,7 +41,8 @@ sobre ellas, toma asiento y resérvate unos pocos minutos para continuar leyendo
 
 He seleccionado de entre toda su **colección de guitarras** aquellas que considero que han marcado más su carrera, así como aquellas más conocidas e incluso aquellas que hoy día se pueden comprar en sus versiones **signature**, de manera que cronológicamente pasemos por todas sus etapas sin excepción.
 
-Si quieres leer la **biografía completa de Slash** te recomiendo adquirir su biografía oficial.
+Si quieres conocer la <strong><a href="https://amzn.to/3uN1zUx" rel="nofollow noopener noreferrer" target="_blank">biografía de Slash</a></strong> 
+te recomiendo adquirir su biografía oficial.
 
 <iframe loading="lazy" title="biografia de slash" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitarra_slash-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8493686433&linkId=59d0e9f0245acd3635fe74c6c77fe7ed"></iframe>
  
@@ -66,9 +69,11 @@ Segunda guitarra eléctrica de Slash que tampoco le duraría mucho tiempo. Fue u
 
 <div><img src="../../images/slash/slash-tidus-sloan.jpg" alt="slash tidus sloan" width="342" height="200"></div>
 
-Querías ver a Slash de joven y sin gafas? sí, el de la foto es Slash tocando con la banda Tidus Sloan, parece que aun no había descubierto el sombrero de copa.
+Sí, el de la foto es Slash tocando con la banda Tidus Sloan, parece que aun no había descubierto el sombrero de copa.
 
-Sobre la guitarra cabe destacar que llevaba unas Humbucker Di Marzio, bastante mejores que las anteriores pastillas.
+Sobre la guitarra cabe destacar que llevaba unas 
+<strong><a href="https://amzn.to/3pm1HJm" rel="nofollow noopener noreferrer" target="_blank">Di Marzio Humbucker</a></strong>, 
+bastante mejores que las anteriores pastillas.
 
 <a href="https://www.youtu.be/J6FmtYz2kWk" class="lazy-youtube-embed">Slash Tidus Sloan improvisation</a>
 
@@ -81,8 +86,9 @@ Segunda B.C. Rich de Slash y primera ya formando parte de Guns n Roses.
 <div><img src="../../images/slash/slash-bc-rich-warlock.jpg" alt="slash B.C. Rich warlock" width="350" height="197"></div>
 
 Esta guitarra fue la que acompañó a Slash durante los primeros bolos de **Guns n Roses** hasta que el grupo entró al estudio a grabar el que sería su álbum de debut y quiso 
-cambiar de sonido para la grabación. Vendió la guitarra durante la grabación del Appetite for Destruction sin saberse exactamente si la guitarra fue utilizada en algún 
-momento de la grabación del disco. 
+cambiar de sonido para la grabación. Vendió la guitarra durante la grabación del
+<strong><a href="https://amzn.to/3pjmmhi" rel="nofollow noopener noreferrer" target="_blank">Appetite for Destruction</a></strong>
+sin saberse exactamente si la guitarra fue utilizada en algún momento de la grabación del disco. 
 
 #### Características de la B.C. RICH WARLOCK
 
@@ -102,9 +108,9 @@ momento de la grabación del disco.
 
 ### 1959 Gibson Les Paul Standard Replica (1986)
 
-Entrando ya de lleno en la grabación del **Appetite for Destruction**, publicado en 1987, Slash no estaba satisfecho con el sonido que estaba consiguiendo con las guitarras de las que disponía y
-buscaba algo más clásico. Su manager le consiguió una réplica de una Gibson Les Paul Custom de 1959 hecha por el luthier **Kris Derrig**, a la que le fueron puestas unas
-pastillas **Seymour Duncan Alnico II Pro**.
+Entrando ya de lleno en la grabación del Appetite for Destruction, publicado en 1987, Slash no estaba satisfecho con el sonido que estaba consiguiendo con las guitarras de las que disponía y
+buscaba algo más clásico. Su manager le consiguió una réplica de una Gibson Les Paul Custom de 1959 hecha por el luthier Kris Derrig, a la que le fueron puestas unas
+pastillas <strong><a href="https://amzn.to/2Sc53Cv" rel="nofollow noopener noreferrer" target="_blank">Seymour Duncan Alnico II Pro</a></strong>.
 
 <div><img src="../../images/slash/slash-les-paul-custom-replica.jpg" alt="slash les paul custom replica by kris derrig" width="350" height="469"></div>
 
@@ -183,7 +189,8 @@ una sorpresa por su cumpleaños. Os podéis imaginar cuál fue la sorpresa...
 
 <div><img src="../../images/slash/slash-gibson-les-paul-standard-tobacco-sunburst.jpg" alt="slash gibson les paul standard tobacco sunburst" width="300" height="450"></div>
 
-Esta guitarra es conocida, entre otras cosas, por ser la que aparece en el **videoclip de November Rain** y también por haber sido utilizada en la grabación de **Use Your Illusion** I y II
+Esta guitarra es conocida, entre otras cosas, por ser la que aparece en el **videoclip de November Rain** y también por haber sido utilizada en la grabación de
+<strong><a href="https://amzn.to/2RlZMIa" rel="nofollow noopener noreferrer" target="_blank">Use Your Illusion I y II</a></strong>
 
 Las características de la guitarra son las comunes en las Gibson Les Paul Standard.
 
