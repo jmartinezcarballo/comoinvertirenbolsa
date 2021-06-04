@@ -22,7 +22,7 @@ tags:
 La **Ibanez grg121dx** es una guitarra eléctrica superstrato perteneciente a la **serie GIO** de Ibanez. La serie GIO es la serie más **barata** de todas las que ofrece Ibanez, también la de peor calidad, y está pensada para aquellos que quieren tener una Ibanez pero tampoco se quieren gastar mucho dinero.
 
 <div>
-  <a href="https://amzn.to/3pT3tRd" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3ihtXv6" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/ibanez/grg121dx/ibanez-grg121dx.png" alt="Ibanez grg121dx" width="110" height="300"/>
   </a>
 </div>
@@ -30,7 +30,7 @@ La **Ibanez grg121dx** es una guitarra eléctrica superstrato perteneciente a la
 En esta **completa review** analizaremos en profundidad la Ibanez grg121dx, veremos sus componentes y características principales y al público al que idealmente va dirigida esta guitarra.
 
 <div>
-	<a href="https://amzn.to/3pT3tRd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
+	<a href="https://amzn.to/3ihtXv6" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
 ## Especificaciones generales
@@ -45,7 +45,7 @@ En esta **completa review** analizaremos en profundidad la Ibanez grg121dx, vere
 * Herrajes negros
 
 <div>
-	<a href="https://amzn.to/3pT3tRd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
+	<a href="https://amzn.to/3ihtXv6" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver más</a>
 </div>
 
 
@@ -90,11 +90,11 @@ La Ibanez grg121dx está fabricada en China y tiene un diseño realmente bonito 
 Existen dos versiones de esta guitarra, La **Ibanez grg121dx-bkf** con un acabado en negro mate precioso y la **Ibanez grg121dx-wnf** que tiene el cuerpo acabado en madera de okoume.
 
 <div>
-  <a href="https://amzn.to/3pT3tRd" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3ihtXv6" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/ibanez/grg121dx/ibanez-grg121dx.png" alt="Ibanez grg121dx-bkf" width="110" height="300"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://amzn.to/3hWCsJZ" rel="nofollow noopener noreferrer" target="_blank">
+  <a href="https://amzn.to/3ga6ZDK" rel="nofollow noopener noreferrer" target="_blank">
     <img src="../../images/ibanez/grg121dx/ibanez-grg121dx-wnf.png" alt="Ibanez grg121dx-wnf" width="119" height="300"/>
   </a>
 </div>
@@ -115,11 +115,14 @@ Como **puntos en contra** diríamos que la calidad de su sonido y su electrónic
 
 ## Demo en vivo
 
-Para ver como suena la Ibanez grg121dx volvemos a traer a Pantera igual que hicimos con la [review de la Cort CR100](/guitarras-cort/cr100). En esta ocasión vamos a ver una cover del Walk.
+Para ver como suena la Ibanez grg121dx volvemos a traer a Pantera igual que hicimos con la <strong><a href="/guitarras-cort/cr100">review de la Cort CR100</a></strong>. 
+En esta ocasión vamos a ver una cover del Walk.
 
 Quiero destacar de esta versión la configuración de software que utiliza ya que es la misma que uso yo en casa para ensayar y realmente me funciona de maravilla.
 
-Como plugins utiliza el <a href="https://www.native-instruments.com/es/products/komplete/guitar/guitar-rig-6-pro/" rel="nofollow noopener noreferrer" target="_blank">Guitar Rig 5</a> (aunque ahora ya ha salido la versión 6) y como interfaz de audio el [Behringer Guitar Link ucg102](/behringer-guitar-link) que apenas da nada de latencia a la hora de tocar.
+Como plugins utiliza el <a href="https://www.native-instruments.com/es/products/komplete/guitar/guitar-rig-6-pro/" rel="nofollow noopener noreferrer" target="_blank">Guitar Rig 5</a> 
+(aunque ahora ya ha salido la versión 6) y como interfaz de audio el <strong><a href="/behringer-guitar-link">Behringer Guitar Link ucg102</a></strong>
+que apenas da nada de latencia a la hora de tocar.
 
 <a href="https://www.youtu.be/glcFkNb-atc" class="lazy-youtube-embed">Pantera - Walk con una Ibanez grg121dx</a>
 
@@ -132,8 +135,8 @@ La Ibanez grg121dx es una guitarra competitiva dentro de las **guitarras de gama
 Si buscas una guitarra muy versátil, tus preferencias musicales son otras o bien no eres un principiante, seguramente hay opciones mejores en el mercado. Eso si, no deja de ser una Ibanez y eso siempre va a ser algo positivo.
 
 <div>
-	<a href="https://amzn.to/3pT3tRd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en color negro</a>&nbsp;
-	<a href="https://amzn.to/3hWCsJZ" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en color marrón</a>
+	<a href="https://amzn.to/3ihtXv6" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en color negro</a>&nbsp;
+	<a href="https://amzn.to/3ga6ZDK" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en color marrón</a>
 </div>
 
 &nbsp;
