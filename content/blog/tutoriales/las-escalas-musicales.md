@@ -1,6 +1,6 @@
 ---
 title: "Introducción a las escalas musicales"
-seoTitle: "Introducción a las escalas musicales | Comprar una Guitarra"
+seoTitle: "Qué es una escala musical | Comprar una Guitarra"
 date: 2021-06-29T10:07:47+06:00
 draft: false
 
@@ -26,7 +26,7 @@ image: "images/blog/tutoriales/escalas-musicales/escalas-musicales-section.png"
 En esta entrada introduciremos a nivel teórico el concepto de escala musical. 
 
 Una vez que ya conoces las notas musicales, algunas de sus particularidades y los conceptos de intervalo, tono y semitono 
-es interesante que conozcas qué es una escala musical, qué tipos hay y qué particularidades tienen.
+es interesante que conozcas **qué es una escala musical**, qué tipos hay y qué particularidades tienen.
 
 Es recomendable que antes de empezar a practicar sobre una escala tengas claros algunos conceptos teóricos que te 
 facilitarán posteriormente su aprendizaje.
