@@ -192,7 +192,7 @@ y cambiar la Muic Man por la acabaría siendo la **EVH Wolfgang**.
 
 &nbsp;
 
-### Peavey EVH Wolfgang (desde 1996)
+### Peavey EVH Wolfgang (1996-2001)
 
 En 1995 Peavey y EVH comenzaron a trabajar en la elaboración de un nuevo modelo de guitarra que, según palabras del propio Eddie, reuniese todos los años de conocimiento y 
 experimentación que había tenido en lo que a construcción de guitarras se refiere. De esta colaboración y trabajo surgió la **Peavey EVH Wolfgang**.
@@ -214,6 +214,42 @@ El **nombre** de esta guitarra proviene del propio **hijo** de Edward, **Wolfgan
 Os dejo con una **entrevista** donde EVH habla acerca de la serie Wolfgang de Peavey:
 
 <a href="https://www.youtu.be/yXS4Qjj8yK0" class="lazy-youtube-embed">EVH - Peavey Wolfgang interview</a> 
+
+&nbsp;
+
+### EVH Brand (desde 2001)
+
+En 2001, tras unos años trabajando con Peavey, Eddie Van Halen decidió crear su propia marca de distribución de guitarras,
+amplificadores y pantallas, EVH, a la cual puedes acceder desde <strong><a href="https://www.evhgear.com/" rel="nofollow noopener noreferrer" target="_blank">aquí</a></strong>.
+
+La nueva marca de EVH firmó un acuerdo con Fender para la fabricación de las guitarras y ha destacado todos estos años
+por traer al gran público las reediciones de las series Wolfgang, Wolfgang Special, 5150 y, como no, la Frankenstrat en sus
+diferentes ediciones.
+
+#### Wolfgang Special Sassafras
+
+En julio de 2020, pocos meses antes de su fallecimiento, EVH anunció la distribución de una nueva Wolfgang en edición
+limitada que, a la postre, sería la última guitarra fabricada bajo las directrices de Eddie, la Wolfgang Special Sassafras.
+
+<div><img src="../../images/eddie-van-halen/evh-wolfgang-special.jpg" alt="Wolfgang Special Sassafras" alt="Wolfgang Special Sassafras" width="350" height="263"></div>
+
+Esta nueva Wolfgang sigue la estela de las anteriores Specials y destaca sobretodo por tener construido el cuerpo con
+madera de <strong><a href="https://es.wikipedia.org/wiki/Sassafras" rel="nofollow noopener noreferrer" target="_blank">sassafras</a></strong>
+y por disponer en el cuerpo de un botón que te permite afinar en RE la sexta cuerda y así con un solo golpe de botón
+cambiar la afinación de la guitarra a Drop D, una auténtica maravilla.
+
+El cuerpo de sassafras presenta la parte superior arqueada y es más suave que la caoba, aunque con un sonido similar.
+
+#### Características de la Wolfgang Special Sassafras
+
+* Cuerpo de sassafras con acabado en negro
+* Mástil de arce atornillado
+* Diapasón de arce tostado
+* Binding de color crema  
+* 22 trastes Jumbo
+* 2 pastillas Humbucker Wolfgang Alnico II
+* Puente Floyd Rose con bloqueo
+* Botón D-Tune
 
 &nbsp;
 
