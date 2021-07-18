@@ -6,7 +6,6 @@ draft: false
 
 # post thumb
 
-
 # meta description
 description: "Conoce en este tutorial las notas de una guitarra. Como encontrarlas, situarlas, diferenciarlas a lo largo del mástil"
 summary: "Conoce y aprende a situar todas las notas musicales en tu guitarra a lo largo de todo el mástil."
@@ -180,6 +179,9 @@ Si tenemos en cuenta esto y que la cuerda al aire es una nota, podemos llegar a 
 De esta manera para aprenderte las notas en el mástil del traste 12 en adelante lo tendrás muy fácil, no tendrás mas que replicar exactamente lo mismo que has aprendido para los primeros trastes.
 
 <div><img src="/images/blog/tutoriales/notas-guitarra/notas-traste-doce.png" alt="relación de las notas de la segunda y quinta cuerdas iguales" width="500" height="294"></div>
+
+Si ya has conseguido ir adquiriendo estos conocimientos teóricos e incluso ya te has aprendido tus primeros acordes o estás en ello, que
+mejor manera de poner todo esto en práctica que aprendiéndote algunas <strong><a href="/blog/tutoriales/canciones-faciles-guitarra/">canciones fáciles de guitarra</a></strong> de tus grupos preferidos.
 
 <iframe loading="lazy" title="libro guitarra para dummies" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar0de-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432903957&linkId=b03033188349ea6d60c9e65b2c0af525"></iframe>
 
