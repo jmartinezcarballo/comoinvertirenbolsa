@@ -7,7 +7,7 @@ draft: false
 # post thumb
 
 # meta description
-description: "Visita nuestra selección de 100 canciones fáciles de guitarra. Canciones con tabs y acordes de todos los estilos"
+description: "Selección de 100 canciones fáciles de guitarra eléctrica y acústica. Canciones con tabs y acordes sencillos de todos los estilos y épocas"
 summary: "Visita nuestra selección de 100 canciones fáciles de guitarra. Canciones con tabs y acordes de todos los estilos"
 
 # taxonomies
