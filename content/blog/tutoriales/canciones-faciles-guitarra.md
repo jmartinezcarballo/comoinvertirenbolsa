@@ -122,13 +122,13 @@ Disfruta de nuestro top 10 de canciones sencillas para guitarra, tanto partitura
 <td>Ben E. King</td>
 <td style="text-align: center !important"><strong>Stand by Me</strong></td>
 <td style="text-align: center !important"><strong><a href="https://tabs.ultimate-guitar.com/tab/ben-e-king/stand-by-me-chords-73005" rel="nofollow noopener noreferrer" target="_blank">acordes</a></strong></td>
-<td style="text-align: center !important"><strong><a href="" rel="nofollow noopener noreferrer" target="_blank">ver video</a></strong></td>
+<td style="text-align: center !important"><strong><a href="https://www.youtube.com/watch?v=A6lizikhW2Y" rel="nofollow noopener noreferrer" target="_blank">ver video</a></strong></td>
 </tr>
 <tr>
 <td>R.E.M</td>
 <td style="text-align: center !important"><strong>Losing my Religion</strong></td>
 <td style="text-align: center !important"><strong><a href="https://tabs.ultimate-guitar.com/tab/r-e-m-/losing-my-religion-chords-114345" rel="nofollow noopener noreferrer" target="_blank">acordes</a></strong></td>
-<td style="text-align: center !important"><strong><a href="" rel="nofollow noopener noreferrer" target="_blank">ver video</a></strong></td>
+<td style="text-align: center !important"><strong><a href="https://www.youtube.com/watch?v=8SL-5ddzKJM" rel="nofollow noopener noreferrer" target="_blank">ver video</a></strong></td>
 </tr>
 <tr>
 <td>Green Day</td>
@@ -144,6 +144,10 @@ Disfruta de nuestro top 10 de canciones sencillas para guitarra, tanto partitura
 </tr>
 </tbody>
 </table>
+
+&nbsp;
+
+<a href="https://www.youtu.be/jjTCFnIRkZM" class="lazy-youtube-embed">Bruno Mars The Lazy Song acordes para guitarra</a>
 
 ## Canciones de guitarra para principiantes
 
@@ -228,6 +232,10 @@ interiorizas las posiciones de los dedos y los cambios entre acordes. Al fin y a
 </tbody>
 </table>
 
+&nbsp;
+
+<a href="https://www.youtu.be/ojJ7HwM4jXM" class="lazy-youtube-embed">Linkin Park in the end acordes para guitarra</a>
+
 ## Canciones de guitarra con acordes
 
 ¿Quieres emocionar a tus amigos la próxima vez que os veais y te pregunten por tu nueva guitarra?
@@ -310,6 +318,10 @@ las últimas décadas. Pondría la mano en el fuego a que todo guitarrista apren
 </tr>
 </tbody>
 </table>
+
+&nbsp;
+
+<a href="https://www.youtu.be/k224eW1P6W0" class="lazy-youtube-embed">Goo Goo Dolls Iris acordes para guitarra</a>
 
 ## Canciones de guitarra en español
 
@@ -394,6 +406,10 @@ cada persona pudiese encontrar alguna canción que le pudiera interesar aprender
 </tbody>
 </table>
 
+&nbsp;
+
+<a href="https://www.youtu.be/VdrH-MuO8as" class="lazy-youtube-embed">Jarabe de Palo la flaca acordes para guitarra</a>
+
 ## Canciones para guitarra eléctrica
 
 Si lo tuyo son los decibelios y los riffs potentes esta es tu sección. Verás que no hace falta llevar años tocando la guitarra para ser capaz de tocar algunos temas muy emblemáticos.
@@ -475,6 +491,10 @@ alternativas para que puedas rockear en casa o en un local de ensayo con tus ami
 </tr>
 </tbody>
 </table>
+
+&nbsp;
+
+<a href="https://www.youtu.be/uGLsasgwub4" class="lazy-youtube-embed">Nirvana Smells Like teen Spirit acordes para guitarra</a>
 
 ## Canciones de música clásica para guitarra
 
@@ -558,6 +578,9 @@ parte de la historia de la música por méritos propios.
 </tbody>
 </table>
 
+&nbsp;
+
+<a href="https://www.youtu.be/2LMPK_QRcEg" class="lazy-youtube-embed">Beethoven Fur Elise acordes para guitarra</a>
 
 ## Canciones navideñas para guitarra
 
@@ -629,6 +652,10 @@ Disfruta estas navidades con nuestro top 10 de canciones navideñas para guitarr
 </tr>
 </tbody>
 </table>
+
+&nbsp;
+
+<a href="https://www.youtu.be/uzzDp89gtBw" class="lazy-youtube-embed">Navidad Jingle Bells acordes para guitarra</a>
 
 ## Canciones románticas para guitarra
 
@@ -712,6 +739,10 @@ faltar dentro de nuestras 100 canciones fáciles para guitarra.
 </tbody>
 </table>
 
+&nbsp;
+
+<a href="https://www.youtu.be/BKDYWqfF5Z8" class="lazy-youtube-embed">Ed Sheeran Perfect acordes para guitarra</a>
+
 ## Canciones infantiles para guitarra
 
 Si alguno de tus hijos toca la guitarra o bien les quieres tocar esa canción que tanto les gusta y están hartos de cantar (y tu de escuchar...) aquí tienes una buena selección de canciones infantiles para que los pequeños de la casa puedan disfrutar de la misma manera
@@ -780,6 +811,10 @@ que tu disfrutas tocando canciones de The Beatles o The Rolling Stones.
 </tr>
 </tbody>
 </table>
+
+&nbsp;
+
+<a href="https://www.youtu.be/9MUA3oxEl3I" class="lazy-youtube-embed">Baby Shark dance acordes para guitarra</a>
 
 ## Canciones fáciles de pop para guitarra
 
@@ -861,6 +896,10 @@ Nuestro top 10 de canciones pop para guitarra incluye, en su mayoría, algunos d
 </tr>
 </tbody>
 </table>
+
+&nbsp;
+
+<a href="https://www.youtu.be/yOOOvy7JqrY" class="lazy-youtube-embed">Luis Fonsi Despacito acordes para guitarra</a>
 
 &nbsp;
 
