@@ -43,6 +43,7 @@ type: "sitemap"
 * [Inlays para guitarra](/inlays-guitarra/)
 * [Micrófonos de condensador](/microfonos-de-condensador/)
 * [Pastillas para guitarra](/pastillas-para-guitarra/)
+* [Pedaleras para guitarra](/pedaleras-para-guitarra/)
 * [Pegatinas para guitarra](/pegatinas-para-guitarra/)
 * [Púas de Guitarra](/puas-guitarra/)
 * [Transmisores Inalámbricos](/transmisores-inalambricos-guitarra/)
