@@ -10,7 +10,7 @@ summary: "Consulta nuestra guía de compra de pedaleras para guitarra. Comparati
 
 # type
 type: "post-destacado"
-image: "images/pedaleras-guitarra/pedaleras-guitarra-section.jpg"
+image: "images/pedaleras-para-guitarra/pedaleras-para-guitarra-section.png"
 
 # taxonomies
 categories:
@@ -68,9 +68,9 @@ o sesiones de grabación.
 <thead>
 <tr>
 <th></th>
-<th width="33%" align="center"><a href="https://amzn.to/3xBhrM7" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-guitarra/headrush-pedalboard.png" alt="Headrush Pedalboard" title="Headrush Pedalboard" width="150" height="70"></a></th>
-<th width="33%" align="center"><a href="https://amzn.to/3wzGuO0" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-guitarra/boss-gt1000.png" alt="boss gt1000" title="boss gt-1000" width="150" height="76"></a></th>
-<th width="33%" align="center"><a href="https://redir.love/thoprod/366537?partner_id=43743" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-guitarra/line6-helix.png" alt="Line6 Helix" title="Line6 Helix" width="150" height="101"></a></th>
+<th width="33%" align="center"><a href="https://amzn.to/3xBhrM7" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-para-guitarra/headrush-pedalboard.png" alt="Headrush Pedalboard" title="Headrush Pedalboard" width="150" height="70"></a></th>
+<th width="33%" align="center"><a href="https://amzn.to/3wzGuO0" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-para-guitarra/boss-gt1000.png" alt="boss gt1000" title="boss gt-1000" width="150" height="76"></a></th>
+<th width="33%" align="center"><a href="https://redir.love/thoprod/366537?partner_id=43743" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-para-guitarra/line6-helix.png" alt="Line6 Helix" title="Line6 Helix" width="150" height="101"></a></th>
 </tr>
 </thead>
 <tbody>
@@ -139,7 +139,7 @@ cuales cada vez se han ido añadiendo nuevos efectos, amplificadores y cabinas. 
 
 <div>
     <strong><a href="https://amzn.to/3xBhrM7" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="../../images/pedaleras-guitarra/pedalera-headrush-pedalboard.png" alt="pedalera para guitarra Headrush Pedalboard" title="headrush pedalboard" width="350" height="164">
+        <img src="../../images/pedaleras-para-guitarra/pedalera-headrush-pedalboard.png" alt="pedalera para guitarra Headrush Pedalboard" title="headrush pedalboard" width="350" height="164">
     </a></strong>
 </div>
 
@@ -166,7 +166,7 @@ no es ninguna excepción, obtendrás un sonido profesional y una calidad y robus
 
 <div>
     <strong><a href="https://amzn.to/3wzGuO0" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="../../images/pedaleras-guitarra/pedalera-boss-gt1000.png" alt="pedalera para guitarra Boss gt-1000" title="Boss gt1000" width="350" height="178">
+        <img src="../../images/pedaleras-para-guitarra/pedalera-boss-gt1000.png" alt="pedalera para guitarra Boss gt-1000" title="Boss gt1000" width="350" height="178">
     </a></strong>
 </div>
 
@@ -183,12 +183,12 @@ poniendo a tu disposición un listado de efectos enorme, como ya hemos dicho cre
 
 ### Line6 Helix
 
-Viendo las características de cada una de ellas, salta a la vista que la Line6 Helix es una auténtica joya en cuanto a opciones
+Viendo las características de cada una de ellas, salta a la vista que la <strong><a href="/pedaleras-guitarra/line-6-helix/">Line 6 Helix</a></strong> es una auténtica joya en cuanto a opciones
 y customización se refiere, además de ofrecer un sonido muy profesional. 
 
 <div>
     <strong><a href="https://redir.love/thoprod/366537?partner_id=43743" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="../../images/pedaleras-guitarra/pedalera-line6-helix.png" alt="pedalera para guitarra Line6 Helix" title="Line6 Helix" width="350" height="186">
+        <img src="../../images/pedaleras-para-guitarra/pedalera-line6-helix.png" alt="pedalera para guitarra Line6 Helix" title="Line6 Helix" width="350" height="186">
     </a></strong>
 </div>
 
@@ -220,9 +220,9 @@ En caso que no te compense la diferencia de precio respecto a las otras dos tend
 <thead>
 <tr>
 <th></th>
-<th width="33%" align="center"><a href="https://amzn.to/2TTaUhe" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-guitarra/line6-pod-go.png" alt="Line6 POD GO" title="Line6 POD go" width="150" height="91"></a></th>
-<th width="33%" align="center"><a href="https://amzn.to/2Ta4VUQ" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-guitarra/mooer-ge300.png" alt="Mooer GE300" title="Mooer GE300" width="150" height="73"></a></th>
-<th width="33%" align="center"><a href="https://amzn.to/3i0ywbB" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-guitarra/headrush-gigboard.png" alt="Headrush Gigboard" title="Headrush Gigboard" width="150" height="80"></a></th>
+<th width="33%" align="center"><a href="https://amzn.to/2TTaUhe" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-para-guitarra/line6-pod-go.png" alt="Line6 POD GO" title="Line6 POD go" width="150" height="91"></a></th>
+<th width="33%" align="center"><a href="https://amzn.to/2Ta4VUQ" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-para-guitarra/mooer-ge300.png" alt="Mooer GE300" title="Mooer GE300" width="150" height="73"></a></th>
+<th width="33%" align="center"><a href="https://amzn.to/3i0ywbB" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-para-guitarra/headrush-gigboard.png" alt="Headrush Gigboard" title="Headrush Gigboard" width="150" height="80"></a></th>
 </tr>
 </thead>
 <tbody>
@@ -289,7 +289,7 @@ Calidad Line6 a un precio mucho más reducido que la Line6 Helix. Esta pedalera 
 
 <div>
     <strong><a href="https://amzn.to/2TTaUhe" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="../../images/pedaleras-guitarra/pedalera-line6-pod-go.png" alt="pedalera para guitarra Line6 POD GO" title="Line6 Pod Go" width="350" height="221">
+        <img src="../../images/pedaleras-para-guitarra/pedalera-line6-pod-go.png" alt="pedalera para guitarra Line6 POD GO" title="Line6 Pod Go" width="350" height="221">
     </a></strong>
 </div>
 
@@ -308,7 +308,7 @@ Al igual que sucede con Joyo y sus pedales, Mooer viene pegando fuerte estos úl
 
 <div>
     <strong><a href="https://amzn.to/2Ta4VUQ" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="../../images/pedaleras-guitarra/pedalera-mooer-ge300.png" alt="pedalera para guitarra Mooer GE300" title="Mooer ge300" width="350" height="170">
+        <img src="../../images/pedaleras-para-guitarra/pedalera-mooer-ge300.png" alt="pedalera para guitarra Mooer GE300" title="Mooer ge300" width="350" height="170">
     </a></strong>
 </div>
 
@@ -333,7 +333,7 @@ Finalmente, para cerrar el segmento de menos de 600€ traemos la versión reduc
 
 <div>
     <strong><a href="https://amzn.to/3i0ywbB" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="../../images/pedaleras-guitarra/pedalera-headrush-gigboard.png" alt="pedalera para guitarra Headrush Gigboard" title="Headrush Gigboard" width="350" height="238">
+        <img src="../../images/pedaleras-para-guitarra/pedalera-headrush-gigboard.png" alt="pedalera para guitarra Headrush Gigboard" title="Headrush Gigboard" width="350" height="238">
     </a></strong>
 </div>
 
@@ -356,9 +356,9 @@ las delicias de los guitarristas más geeks.
 <thead>
 <tr>
 <th></th>
-<th width="33%" align="center"><a href="https://amzn.to/3ixYofk" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-guitarra/boss-gt100.png" alt="boss gt100" title="boss gt-100" width="150" height="71"></a></th>
-<th width="33%" align="center"><a href="https://amzn.to/3wXfYhG" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-guitarra/zoom-g5n.png" alt="Zoom G5N" title="Zoom G5N" width="150" height="72"></a></th>
-<th width="33%" align="center"><a href="https://amzn.to/2W1ZKXT" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-guitarra/mooer-ge200.png" alt="Mooer GE200" title="Mooer GE 200" width="150" height="70"></a></th>
+<th width="33%" align="center"><a href="https://amzn.to/3ixYofk" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-para-guitarra/boss-gt100.png" alt="boss gt100" title="boss gt-100" width="150" height="71"></a></th>
+<th width="33%" align="center"><a href="https://amzn.to/3wXfYhG" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-para-guitarra/zoom-g5n.png" alt="Zoom G5N" title="Zoom G5N" width="150" height="72"></a></th>
+<th width="33%" align="center"><a href="https://amzn.to/2W1ZKXT" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/pedaleras-para-guitarra/mooer-ge200.png" alt="Mooer GE200" title="Mooer GE 200" width="150" height="70"></a></th>
 </tr>
 </thead>
 <tbody>
@@ -426,7 +426,7 @@ un lugar de honor entre las pedaleras más exitosas del mercado, algo a lo que B
 
 <div>
     <strong><a href="https://amzn.to/3ixYofk" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="../../images/pedaleras-guitarra/pedalera-boss-gt100.png" alt="pedalera para guitarra Boss gt100" title="Boss GT-100" width="350" height="170">
+        <img src="../../images/pedaleras-para-guitarra/pedalera-boss-gt100.png" alt="pedalera para guitarra Boss gt100" title="Boss GT-100" width="350" height="170">
     </a></strong>
 </div>
 
@@ -448,7 +448,7 @@ relación calidad precio.
 
 <div>
     <strong><a href="https://amzn.to/3wXfYhG" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="../../images/pedaleras-guitarra/pedalera-zoom-g5n.png" alt="pedalera para guitarra Zoom G5N" title="Zoom G5N" width="350" height="170">
+        <img src="../../images/pedaleras-para-guitarra/pedalera-zoom-g5n.png" alt="pedalera para guitarra Zoom G5N" title="Zoom G5N" width="350" height="170">
     </a></strong>
 </div>
 
@@ -468,7 +468,7 @@ La Mooer GE200 no llega al nivel de su hermana mayor, la Mooer GE300, pero creo 
 
 <div>
     <strong><a href="https://amzn.to/2W1ZKXT" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="../../images/pedaleras-guitarra/pedalera-mooer-ge200.png" alt="pedalera para guitarra Mooer GE200" title="Mooer GE200" width="350" height="164">
+        <img src="../../images/pedaleras-para-guitarra/pedalera-mooer-ge200.png" alt="pedalera para guitarra Mooer GE200" title="Mooer GE200" width="350" height="164">
     </a></strong>
 </div>
 
