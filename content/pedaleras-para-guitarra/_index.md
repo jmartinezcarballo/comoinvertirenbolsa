@@ -371,44 +371,44 @@ las delicias de los guitarristas más geeks.
 <tr>
 <td>Presets</td>
 <td style="text-align: center !important">200 de fábrica y 200 de usuario</td>
-<td style="text-align: center !important">1024</td>
-<td style="text-align: center !important">2200 presets de fábrica y 1024 de usuario</td>
+<td style="text-align: center !important">100 de fábrica y 100 de usuario, todos editables</td>
+<td style="text-align: center !important">200 presets editables</td>
 </tr>
 <tr>
 <td>Interfaz USB</td>
 <td style="text-align: center !important">Sí</td>
-<td style="text-align: center !important">8x8</td>
-<td style="text-align: center !important">4x4</td>
+<td style="text-align: center !important">Sí</td>
+<td style="text-align: center !important">No</td>
 </tr>
 <tr>
 <td>Efectos</td>
-<td style="text-align: center !important">116 efectos además de amplificadores, capacidad para 16 IR</td>
-<td style="text-align: center !important">104 efectos, más de 50 amplificadores, 37 cabinas e importación de IR</td>
-<td style="text-align: center !important">Más de 265 amplificadores y toda la colección de IR del exitoso Axe-FX III</td>
+<td style="text-align: center !important">Multitud de efectos además de simulación de amplificadores y cabinas</td>
+<td style="text-align: center !important">68 efectos y simulación de amplificadores y cabinas</td>
+<td style="text-align: center !important">70 efectos, 55 amplificadores y 26 simulaciones IR</td>
 </tr>
 <tr>
 <td>Footswitches</td>
-<td style="text-align: center !important">10</td>
-<td style="text-align: center !important">12</td>
+<td style="text-align: center !important">4</td>
+<td style="text-align: center !important">4</td>
 <td style="text-align: center !important">3</td>
 </tr>
 <tr>
 <td>Pedal de expresión</td>
 <td style="text-align: center !important">Sí</td>
 <td style="text-align: center !important">Sí</td>
-<td style="text-align: center !important">No</td>
+<td style="text-align: center !important">Sí</td>
 </tr>
 <tr>
 <td>Conexiones IN/OUT</td>
-<td style="text-align: center !important">Jack, USB, XLR, MIDI, auriculares, estereo I/O</td>
-<td style="text-align: center !important">Jack, USB, XLR, MIDI, auriculares, estereo I/O</td>
-<td style="text-align: center !important">Jack, USB, XLR, MIDI, auriculares, estereo I/O</td>
+<td style="text-align: center !important">Jack, USB, MIDI, auriculares, estereo I/O</td>
+<td style="text-align: center !important">Jack, USB, auriculares, estereo I/O</td>
+<td style="text-align: center !important">Jack, USB, auriculares, estereo I/O</td>
 </tr>
 <tr>
 <td>Looper</td>
 <td style="text-align: center !important">38s</td>
-<td style="text-align: center !important">60s</td>
-<td style="text-align: center !important">Sí</td>
+<td style="text-align: center !important">80s</td>
+<td style="text-align: center !important">52s</td>
 </tr>
 <tr>
 <td>Precio</td>
@@ -418,6 +418,12 @@ las delicias de los guitarristas más geeks.
 </tr>
 </tbody>
 </table>
+
+### Boss GT-100
+
+### Zoom G5N
+
+### Mooer GE200
 
 Y hasta aquí nuestro repaso a algunas de las mejores pedaleras de guitarra que puedes encontrar hoy día en el mercado. Han pasado muchos
 años desde que las primeras pedaleras multiefectos salieron al mercado y, sin duda, el salto cualitativo que han dado en este tiempo
