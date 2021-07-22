@@ -135,7 +135,7 @@ o sesiones de grabación.
 
 Hace pocos años que salió al mercado la Headrush Pedalboard y durante este tiempo ha ido recibiendo actualizaciones en las
 cuales cada vez se han ido añadiendo nuevos efectos, amplificadores y cabinas. Además su diseño rompedor que incluye una
-pantalla táctial de 7 pulgadas, la hace la pedalera más moderna del mercado.
+**pantalla táctil de 7 pulgadas**, la hace la pedalera más moderna del mercado.
 
 <div>
     <strong><a href="https://amzn.to/3xBhrM7" rel="nofollow noopener noreferrer" target="_blank">
@@ -144,7 +144,7 @@ pantalla táctial de 7 pulgadas, la hace la pedalera más moderna del mercado.
 </div>
 
 Dispones, como en toda pedalera de este rango, de un sinfín de amplificadores, cabinas y efectos además de poder cargar
-tus propios IR más allá de todos los que ya trae de serie. Cada preset puede tener hasta 12 slots donde colocar tus efectos,
+tus propios IR más allá de todos los que ya trae de serie. Cada preset puede tener hasta **12 espacios donde colocar tus efectos**,
 amplificador y todo lo que necesites.
 
 Es una pedalera muy sencilla de utilizar y mucho más rápida de configurar que la Line6 Helix, eso si, a costa de un menor grado
@@ -171,7 +171,7 @@ no es ninguna excepción, obtendrás un sonido profesional y una calidad y robus
 </div>
 
 Si dudas de este modelo viendo la comparativa, tienes que saber que para crearla Boss se ha basado en los exitosos 
-modelos DD-500, RV-500 y MD-500, pedales de delay, reverb y modulación de gran éxito de Boss, lo cual debería despejar 
+modelos **DD-500**, **RV-500** y **MD-500**, pedales de delay, reverb y modulación de gran éxito de Boss, lo cual debería despejar 
 las dudas de cualquiera que se plantee su compra.
 
 Dicho esto, La Boss GT-1000 no ofrece a nivel de IR las posibilidades que las otras pedaleras sí que ofrecen. Si bien tanto
@@ -197,7 +197,7 @@ todos los IR y presets que te puedas imaginar y el número de puertos de entrada
 de hardware extra además de la cantidad enorme de efectos que trae la hace la elección más evidente. 
 
 Además, cada preset dispone de 4 rutas estereo en cada una de las cuales puedes colocar hasta 8 efectos simultaneos, lo que la
-hacen la pedalera más customizable de las 3, muy por encima del resto, un auténtico placer para aquellos más dedicados a investigar
+hacen **la pedalera más customizable** de las 3, muy por encima del resto, un auténtico placer para aquellos más dedicados a investigar
 sonidos y toquetear que no aquellos que simplemente buscan el sonido que ya saben que quieren y nada más.
 
 Toda esta capacidad de customización, por contra, puede generar un exceso de opciones y menús que la hagan mucho menos intuitivo 
@@ -294,7 +294,7 @@ Calidad Line6 a un precio mucho más reducido que la Line6 Helix. Esta pedalera 
 </div>
 
 Sin llegar al nivel de Helix, la POD GO ofrece una cantidad importante de efectos y amplificadores a tu disposición para crear tus
-presets en las 250 posiciones dedicadas para ello con su pantalla a color de 4,3 pulgadas. Además puedes importar IRs para acabar de pulir tu sonido deseado.
+presets en las 250 posiciones dedicadas para ello con su **pantalla a color de 4,3 pulgadas**. Además puedes importar IRs para acabar de pulir tu sonido deseado.
 
 Todo esto unido a sus 8 footswitches, su pedal de expresión y el hecho de poderla utilizar como interfaz USB para grabar en tu DAW habitual la hacen una elección dificil de batir en este rango de precios.
 
@@ -304,7 +304,7 @@ Pedalera compacta y de buena construcción, puedes transportarla sin ninguna dif
 
 ### Mooer GE300
 
-Al igual que sucede con Joyo y sus pedales, Mooer viene pegando fuerte estos últimos años con sus pedaleras para guitarra de grandes especificaciones a precios rompedores.
+Al igual que sucede con Joyo y sus pedales, Mooer viene pegando fuerte estos últimos años con sus pedaleras para guitarra de **grandes especificaciones a precios rompedores**.
 
 <div>
     <strong><a href="https://amzn.to/2Ta4VUQ" rel="nofollow noopener noreferrer" target="_blank">
@@ -318,10 +318,10 @@ a la marca china como un intento barato de imitación de las grandes marcas sin 
 No hay más que echar un vistazo a sus especificaciones para ver que estamos ante una pedalera muy competitiva. Dispone de una cantidad
 de efectos muy similar a la POD GO de Line6, además de soporte para carga de IRs externos y dos footswitches más que el modelo de Line6.
 
-Su Looper es sencillamente imbatible, 30min de grabación para que puedas pasarte largos ratos de grabación e improvisación, añadiendo
+Su Looper es sencillamente imbatible, **30min de grabación en loop** para que puedas pasarte largos ratos de grabación e improvisación, añadiendo
 todas las capas que quieras.
 
-Por si fuera poco, incluye conectividad XLR, otro punto a favor de Mooer y puede ser utilizada como interfaz USB, eso si, en este caso solo dispone de 2x2 conexiones por las 4x3 de Line6.
+Por si fuera poco, **incluye conexión XLR**, otro punto a favor de Mooer y puede ser utilizada como interfaz USB, eso si, en este caso solo dispone de 2x2 conexiones por las 4x3 de Line6.
 
 Sin duda, un muy duro competidor de las grandes marcas en este segmento de precio. 
 
@@ -340,12 +340,12 @@ Finalmente, para cerrar el segmento de menos de 600€ traemos la versión reduc
 Eso si, a cambio de una sustancial reducción en su precio perdemos una serie de características que si bien pueden ser importantes,
 según lo que estés buscando pueden no ser necesarias para ti y merecer la pena poder ahorrarte varios cientos de euros.
 
-En este caso nos encontramos con una pedalera mucho más compacta que las otras al no tener pedal de expresión. Su número de footswitches, así como de efectos también es bastante más reducido.
+En este caso nos encontramos con una pedalera mucho más **compacta** que las otras al no tener pedal de expresión. Su número de footswitches, así como de efectos también es bastante más reducido.
 
 A favor de la pedalera, se mantiene un espacio amplísimo para guardar nuestros presets, además del looper y de poder utilizarla como
 interfaz USB. Y todo esto, por supuesto, con la calidad de emulación de Headrush, sin duda el punto fuerte de esta pedalera.
 
-Por último, no queremos olvidarnos de su pantalla táctil a color de 7 pulgadas, una de las señas de identidad de Headrush y que seguro que hará
+Por último, no queremos olvidarnos de su **pantalla táctil a color de 7 pulgadas**, una de las señas de identidad de Headrush y que seguro que hará
 las delicias de los guitarristas más geeks.
 
 <a href="https://amzn.to/3i0ywbB" class="btn btn-outline-primary" target="_blank">Ver en Amazon</a></td>
@@ -421,13 +421,67 @@ las delicias de los guitarristas más geeks.
 
 ### Boss GT-100
 
+La Boss GT-100 lleva unos años destacando entre las **pedaleras de gama media**. La sucesora de la Boss GT-10 se ha ganado con todo merecimiento
+un lugar de honor entre las pedaleras más exitosas del mercado, algo a lo que Boss ya nos tiene acostumbrados.
+
+<div>
+    <strong><a href="https://amzn.to/3ixYofk" rel="nofollow noopener noreferrer" target="_blank">
+        <img src="../../images/pedaleras-guitarra/pedalera-boss-gt100.png" alt="pedalera para guitarra Boss gt100" title="Boss GT-100" width="350" height="170">
+    </a></strong>
+</div>
+
+A nivel de especificaciones es bastante similar a la Zoom G5N. Dispone de un buen puñado de efectos y amplificadores totalmente configurables y editables para crear **hasta 200 presets** por ti mismo.
+
+Su construcción da la sensación de ser de pedalera analógica. Dispone de cuatro footswitches y pedal de expresión, todo centralizado en
+una única pantalla LED.
+
+Destaca por lo logrados que están sus efectos y emulaciones, algo ya más que habitual en Boss, y es que ser la marca lider en la fabricación de pedales analógicos tiene que tener alguna ventaja respecto al resto. Al ser **interfaz USB** podrás conectarla a tu DAW preferido a una calidad de 24bits/44KHz.
+
+Como puntos en contra, no dispone de tantos extras como la Zoom G5N. No incluye caja de ritmos y el looper incluído creemos que es bastante limitado, lo que te obliga a enchufar un looper externo si lo necesitas.
+
+<a href="https://amzn.to/3ixYofk" class="btn btn-outline-primary" target="_blank">Ver en Amazon</a></td>
+
 ### Zoom G5N
+
+No podía faltar en nuestra lista algún modelo que representara a Zoom, tradicional competencia de Boss desde los comienzos de las pedaleras multiefectos. En este caso hemos seleccionado la **versátil** Zoom G5N una pedalera de gama media más que interesante por su buena
+relación calidad precio.
+
+<div>
+    <strong><a href="https://amzn.to/3wXfYhG" rel="nofollow noopener noreferrer" target="_blank">
+        <img src="../../images/pedaleras-guitarra/pedalera-zoom-g5n.png" alt="pedalera para guitarra Zoom G5N" title="Zoom G5N" width="350" height="170">
+    </a></strong>
+</div>
+
+
+La Zoom G5N es una pedalera todoterreno dispone de casi **70 efectos** de todo tipo así como simulaciones bastante realistas de algunos de los más clásicos amplificadores y pantallas, tales como el **Marshall JCM800**, **Fender Twin Reverb** y **Mesa Boogie Mark III**.
+
+Destaca por traer una caja de ritmos muy completa y variada, así como por tener un looper más que decente. Dispone de cuatro footswitches, cada uno con su pantalla LED para su edición y su manejo es muy sencillo e intuitivo.
+
+Su precio mucho más ajustado que el de la Boss GT-100 y el hecho de ser también **interfaz USB**, la hacen una elección muy interesante
+para aquellos que quieren tener una buena pedalera sin gastarse mucho dinero.
+
+<a href="https://amzn.to/3wXfYhG" class="btn btn-outline-primary" target="_blank">Ver en Amazon</a></td>
 
 ### Mooer GE200
 
-Y hasta aquí nuestro repaso a algunas de las mejores pedaleras de guitarra que puedes encontrar hoy día en el mercado. Han pasado muchos
-años desde que las primeras pedaleras multiefectos salieron al mercado y, sin duda, el salto cualitativo que han dado en este tiempo
-ha sido tan grande que cada vez más guitarristas deciden pasarte de los pedales analógicos a las pedaleras digitales.
+La Mooer GE200 no llega al nivel de su hermana mayor, la Mooer GE300, pero creo que se merecía entrar en este top3 por su **precio ajustado**.
+
+<div>
+    <strong><a href="https://amzn.to/2W1ZKXT" rel="nofollow noopener noreferrer" target="_blank">
+        <img src="../../images/pedaleras-guitarra/pedalera-mooer-ge200.png" alt="pedalera para guitarra Mooer GE200" title="Mooer GE200" width="350" height="164">
+    </a></strong>
+</div>
+
+Dispone de tres footswitches y pedal de expresión. Su punto fuerte es el conjunto de efectos, bastante completo para su precio, destacando sobretodo en la **emulación de amplificadores** ya que trae hasta 55 conjuntos diferentes, además de **26 simulaciones IR**.
+
+Al igual que la Zoom G5N, la GE200 incorpora una buena caja de ritmos y un looper suficiente para grabar y memorizar nuestras frases que vayamo ensayando.
+
+Como puntos en contra, destacamos sobretodo que no disponga de interfaz USB, cosa que le hace perder puntos respecto a Boss y Zoom pero que si realmente no te interesa y no la vas a conectar a un PC pueden justificar no querer pagar más dinero por una pedalera, así como
+su menor sensación de robustez. 
+
+No parece que a nivel de construcción esté a la altura de Boss y Zoom y su uso queda más recomendado para casa donde no tendremos problema alguno.
+
+<a href="https://amzn.to/2W1ZKXT" class="btn btn-outline-primary" target="_blank">Ver en Amazon</a></td>
 
 Si te ha gustado la sección puedes buscar otros accesorios para guitarra o volver a nuestra página principal y visitar alguna entrada
 de nuestro blog.
