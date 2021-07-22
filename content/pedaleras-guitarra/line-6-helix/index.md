@@ -5,8 +5,8 @@ date: 2021-07-22T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Guía de compra de pedaleras para guitarra. Comparativa entre las mejores pedaleras multiefectos del mercado en 2021."
-summary: "Consulta nuestra guía de compra de pedaleras para guitarra. Comparativa entre las mejores pedaleras multiefectos del mercado en 2021."
+description: "Consulta nuestra review de la Line 6 Helix. Características, especificaciones y precio de una de las mejores pedaleras de guitarra del mercado."
+summary: "Consulta nuestra review de la Line 6 Helix. Características, especificaciones y precio de una de las mejores pedaleras de guitarra del mercado"
 
 # type
 type: "post-destacado"
