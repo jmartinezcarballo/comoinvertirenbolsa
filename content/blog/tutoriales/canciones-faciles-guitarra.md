@@ -42,7 +42,15 @@ Las canciones aparecen separadas por secciones para que puedas ir directamente a
 canción dispone de un **enlace a la partitura y a un video de youtube** donde se explica como tocar la canción. Así tendrás las mejores
 herramientas posibles y te podrás centrar solo en tocar y disfrutar.
 
-Así pues, ya no tienes excusa, empecemos!
+Si todavía estás en fase de aprendizaje de tus primeros acordes o quieres ampliar tu abanico de conocimiento, siempre recomiendo los libros de Joseph Alexander, es un autor con una colección amplísima de libros muy completos, didácticos y muy bien explicados, con todo tipo de detalles, consejos, ejercicios de práctica y archivos de sonido para acompañar.
+
+En el caso que nos importa aquí recomiendo su libro de <strong><a href="https://amzn.to/3A5BGCj" rel="nofollow noopener noreferrer" target="_blank">los primeros 100 acordes para guitarra</a></strong>, donde no solo aprenderás los acordes más importantes sino que también aprenderás como construirlos, entender la teoría que hay detrás de ellos y aprenderás a hacer progresiones de acordes para crear tus temas o tus propias bases para practicar escalas por encima.
+
+<div>
+	<a href="https://amzn.to/3A5BGCj" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Ver en Amazon</a>
+</div>
+
+ 
 
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
@@ -505,6 +513,9 @@ La música clásica tiene la capacidad de conmover y maravillar a las personas c
 Poder llevar estas canciones de una manera sencilla a tu guitarra puede hacer que tu satisfacción aumente enormemente viendo como eres capaz de tocar fragmentos de clásicos como el Fur Elise de Beethoven, piezas atemporales que ya forman
 parte de la historia de la música por méritos propios.
 
+Hemos seleccionado 10 secciones clásicas que de buen seguro os serán muy familiares por ser todas ellas piezas muy conocidas. Si os
+gusta la música clásica también tenéis disponible <strong><a href="https://amzn.to/3CfInU2" rel="nofollow noopener noreferrer" target="_blank">libros de partituras de canciones de música clásica</a></strong>.
+
 <table>
 <thead>
 <tr>
@@ -873,7 +884,7 @@ Nuestro top 10 de canciones pop para guitarra incluye, en su mayoría, algunos d
 <tr>
 <td>Ed Sheeran</td>
 <td style="text-align: center !important"><strong>Shape of you</strong></td>
-<td style="text-align: center !important"><strong><a href="" rel="nofollow noopener noreferrer" target="_blank">acordes</a></strong></td>
+<td style="text-align: center !important"><strong><a href="https://tabs.ultimate-guitar.com/tab/ed-sheeran/shape-of-you-chords-1928431" rel="nofollow noopener noreferrer" target="_blank">acordes</a></strong></td>
 <td style="text-align: center !important"><strong><a href="https://www.youtube.com/watch?v=QRuGmjhAl8E" rel="nofollow noopener noreferrer" target="_blank">ver video</a></strong></td>
 </tr>
 <tr>
