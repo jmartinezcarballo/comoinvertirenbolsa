@@ -20,14 +20,15 @@ tags:
   - "Metallica"
 ---
 
-<strong><a href="https://amzn.to/3v3SeYJ" rel="nofollow noopener noreferrer" target="_blank">Kirk Hammett</a></strong>
-es conocido por ser el **guitarra solista de Metallica**. Si bien se empezó a dar a conocer a principios de los 80 
-formando parte de los inicios de 
-<strong><a href="https://amzn.to/3wVjmKx" rel="nofollow noopener noreferrer" target="_blank">Exodus</a></strong>, 
-desde 1983 forma parte inseparable de Metallica desde que se unió al grupo sustituyendo a Dave Mustaine, 
-a quien echaron de la banda pocos días antes.
+Kirk Hammett es conocido por ser el **guitarra solista de Metallica**.
 
 <div><img src="../../images/kirk-hammett/kirk-hammett-mummy.jpg" alt="kirk hammett the mummy" width="350" height="263"></div>
+
+Si bien se empezó a dar a conocer a principios de los 80
+formando parte de los inicios de
+<strong><a href="https://amzn.to/3wVjmKx" rel="nofollow noopener noreferrer" target="_blank">Exodus</a></strong>,
+desde 1983 forma parte inseparable de Metallica desde que se unió al grupo sustituyendo a Dave Mustaine,
+a quien echaron de la banda pocos días antes.
 
 Pensar en Kirk Hammett es pensar por un lado en los solos de temas tan emblemáticos como One o Master of Puppets
 y por otro lado en el uso del 
