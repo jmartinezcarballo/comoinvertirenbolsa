@@ -90,7 +90,7 @@ o incluso el metal, por tanto es ideal para alguien que quiere aprender a tocar.
 Normalmente la puedes encontrar en tienda por debajo de los 200€.
 
 <p>
-<a href="https://amzn.to/3gpiWao" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/yamaha-pacifica-012.jpg" alt="yamaha pacifica 012"></a>
+<a href="https://amzn.to/3gpiWao" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/yamaha-pacifica-012.jpg" alt="yamaha pacifica 012" width="134" height="400"></a>
 </p>
 
 #### Características de la Yamaha Pacifica 012
@@ -102,7 +102,7 @@ Normalmente la puedes encontrar en tienda por debajo de los 200€.
 * 2 pastillas single coil y 1 humbucker en el puente con selector de 5 posiciones
 
 <div>
-	<a href="https://amzn.to/3gpiWao" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
+<a href="https://amzn.to/3gpiWao" class="btn btn-outline-primary" target="_blank">Consultar precio</a>
 </div>
 
 &nbsp;
@@ -118,7 +118,7 @@ Cuando hablamos de segundas marcas inevitablemente tenemos que tener en cuenta q
 de la marca matriz, y mucho menos cuando hablamos, como es este caso, del modelo de la gama más baja de las LTD, la serie 10,
 así como tampoco el país de fabricación de la guitarra.
 
-Dicho esto, hablar de <a href="/ltd" rel="nofollow noopener noreferrer">ltd</a> es hablar de fiabilidad y buena calidad, eso si, 
+Dicho esto, hablar de LTD es hablar de fiabilidad y buena calidad, eso si, 
 tienes que tener claro para qué quieres la guitarra. 
 
 Si lo que quieres son sonidos limpios, tocar pop, etc. seguramente hayan mejores opciones, sin embargo, si lo que te gusta 
@@ -128,7 +128,7 @@ La **serie 10 de ltd** cuenta con diferentes modelos en función del diseño de 
 el modelo stratocaster (MH), la versión single cut (EC) y la variante Viper.
 
 <p><a href="https://amzn.to/3dvDNXt" rel="nofollow noopener noreferrer" target="_blank">
-<img src="../../images/guitarras-baratas/ltd-ec-10.jpg" alt="ltd ec 10"></a></p>
+<img src="../../images/guitarras-baratas/ltd-ec-10.jpg" alt="ltd ec 10" width="472" height="400"></a></p>
 
 #### Características de la LTD EC 10
 
@@ -159,7 +159,7 @@ qué estilos te gustaría tocar para decantarte entre ámbos modelos.
 Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar a la versatilidad que ofrecen las Yamaha.
 
 <p><a href="https://amzn.to/3n3gW99" rel="nofollow noopener noreferrer" target="_blank">
-<img src="../../images/guitarras-baratas/squier-affinity.jpg" alt="squier affinity stratocaster"></a></p>
+<img src="../../images/guitarras-baratas/squier-affinity.jpg" alt="squier affinity stratocaster" width="400" height="128"></a></p>
 
 #### Características de la Squier Affinity
 
@@ -180,7 +180,7 @@ Probablemente ésta sea una guitarra más versátil que la LTD, pero sin llegar 
 
 > Comprar Ibanez es comprar calidad y comodidad. Una de las marcas más fiables que existen.
 
-<p><a href="https://amzn.to/3v1CRQE" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/ibanez-grg170dx.jpg" alt="ibanez grg170dx"></a></p>
+<p><a href="https://amzn.to/3v1CRQE" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/ibanez-grg170dx.jpg" alt="ibanez grg170dx" width="127" height="400"></a></p>
 
 Guitarra super interesante la que nos ofrece Ibanez en este rango de precios. Vas a poder dar caña con sus dos pastillas 
 Humbucker, pero además dispone de una pastilla simple, por lo que vas a tener todavía más versatilidad.
@@ -224,7 +224,7 @@ los últimos trastes por su diseño curvo.
 
 Aun así, personalmente creo que es una de las mejores guitarras que vas a encontrar en su segmento.
 
-<p><a href="https://amzn.to/2P4If6n" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/cort-cr100.jpg" alt="guitarra cort cr 100"></a></p>
+<p><a href="https://amzn.to/2P4If6n" rel="nofollow noopener noreferrer" target="_blank"><img src="../../images/guitarras-baratas/cort-cr100.jpg" alt="guitarra cort cr 100" width="400" height="139"></a></p>
 
 #### Características de la Cort CR 100
 

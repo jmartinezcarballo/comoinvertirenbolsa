@@ -226,7 +226,7 @@ A continuación te expongo las características principales del **Hricane Ukelel
 
 <div>
   <a href="https://amzn.to/2RUjs69" rel="nofollow noopener noreferrer" target="_blank">
-    <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-hricane.jpg" alt="ukelele hricane"/>
+    <img src="../../images/guitarra-pequena-cuatro-cuerdas/ukelele-hricane.jpg" alt="ukelele hricane" width="400" height="436"/>
   </a>
 </div>
 
@@ -254,7 +254,7 @@ Otra gran diferencia respecto al Hricane es que el **Ukelele Ammonn** incorpora 
 
 <div>
   <a href="https://amzn.to/3dzlXD6" rel="nofollow noopener noreferrer" target="_blank">
-    <img src="../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-24-pulgadas.jpg" alt="ammonn ukelele de 24 pulgadas"/>
+    <img src="../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-24-pulgadas.jpg" alt="ammonn ukelele de 24 pulgadas" width="352" height="385"/>
   </a>
 </div>
 
@@ -280,7 +280,7 @@ Ammoon también dispone de **ukeleles de 21 pulgadas**, en este caso sin la elec
 
 <div>
   <a href="https://amzn.to/3ng6LhD" rel="nofollow noopener noreferrer" target="_blank">
-    <img src="../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-21-pulgadas.jpg" alt="ammonn ukelele de 21 pulgadas"/>
+    <img src="../../images/guitarra-pequena-cuatro-cuerdas/ammoon-ukelele-21-pulgadas.jpg" alt="ammonn ukelele de 21 pulgadas" width="122" height="400"/>
   </a>
 </div>
 
@@ -305,7 +305,7 @@ De nuevo volvemos con otro ukelele, en este caso otro de tipo soprano de 21 pulg
 
 <div>
   <a href="https://amzn.to/2QaWbwh" rel="nofollow noopener noreferrer" target="_blank">
-    <img src="../../images/guitarra-pequena-cuatro-cuerdas/andoer-ukelele-soprano.jpg" alt="andoer ukelele soprano"/>
+    <img src="../../images/guitarra-pequena-cuatro-cuerdas/andoer-ukelele-soprano.jpg" alt="andoer ukelele soprano" width="144" height="400"/>
   </a>
 </div>
 
@@ -329,7 +329,7 @@ Es más fácil de agarrar que un ukelele y se pueden afinar las cuerdas con prec
 
 <div>
   <a href="https://amzn.to/3ek0qNL" rel="nofollow noopener noreferrer" target="_blank">
-    <img src="../../images/guitarra-pequena-cuatro-cuerdas/nuobesty-guitarra-pequena-juguete.jpg" alt="nuobesty guitarra pequeña juguete"/>
+    <img src="../../images/guitarra-pequena-cuatro-cuerdas/nuobesty-guitarra-pequena-juguete.jpg" alt="nuobesty guitarra pequeña juguete" width="129" height="400"/>
   </a>
 </div>
 
@@ -354,7 +354,7 @@ Es un **juguete educativo** perfecto para que los más pequeños de la casa se d
 
 <div>
   <a href="https://amzn.to/32Kh1oV" rel="nofollow noopener noreferrer" target="_blank">
-    <img src="../../images/guitarra-pequena-cuatro-cuerdas/guitarra-cuatro-cuerdas-juguete.jpg" alt="guitarra de cuatro cuerdas de juguete"/>
+    <img src="../../images/guitarra-pequena-cuatro-cuerdas/guitarra-cuatro-cuerdas-juguete.jpg" alt="guitarra de cuatro cuerdas de juguete" width="109" height="400"/>
   </a>
 </div>
 
