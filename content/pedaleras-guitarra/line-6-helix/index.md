@@ -15,6 +15,7 @@ image: "images/pedaleras-guitarra/line6-helix/line6-helix-section.jpg"
 # taxonomies
 categories:
     - "Accesorios"
+    - "Reviews"
 tags:
     - "pedaleras"
 ---
