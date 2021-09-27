@@ -79,73 +79,73 @@ para decorar** tu guitarra, aquí te presento algunos **inlays adhesivos de guit
 <div class="row">
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/2PbjJAA" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-calavera.jpg" alt="Inlays para guitarra de calaveras">
+          <img src="../../images/inlays-guitarra/inlays-calavera.jpg" width="200" height="150" alt="Inlays para guitarra de calaveras">
           <figcaption>Calaveras</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/2QKdu6U" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-murcielago.jpg" alt="Inlays para guitarra de murcielagos">
+          <img src="../../images/inlays-guitarra/inlays-murcielago.jpg" width="200" height="150" alt="Inlays para guitarra de murcielagos">
           <figcaption>Murciélago</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/3tCtvKL" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-guitarra-banjo.jpg" alt="Inlays para guitarra y banjo">
+          <img src="../../images/inlays-guitarra/inlays-guitarra-banjo.jpg" width="131" height="150" alt="Inlays para guitarra y banjo">
           <figcaption>Para guitarra y banjo</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/3eiwotR" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-rayo.jpg" alt="Inlays para guitarra de rayos">
+          <img src="../../images/inlays-guitarra/inlays-rayo.jpg" width="200" height="150" alt="Inlays para guitarra de rayos">
           <figcaption>Rayos</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/32uy0uW" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-pentagrama.jpg" alt="Inlays para guitarra de pentagrama">
+          <img src="../../images/inlays-guitarra/inlays-pentagrama.jpg" width="200" height="150" alt="Inlays para guitarra de pentagrama">
           <figcaption>Pentagramas</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/3tFGZ8I" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-eddie-iron-maiden.jpg" alt="Inlays para guitarra de Eddie Iron Maiden">
+          <img src="../../images/inlays-guitarra/inlays-eddie-iron-maiden.jpg" width="200" height="150" alt="Inlays para guitarra de Eddie Iron Maiden">
           <figcaption>Iron Maiden - Eddie soldado</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/32wehey" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-poker.jpg" alt="Inlays para guitarra de cartas de poker">
+          <img src="../../images/inlays-guitarra/inlays-poker.jpg" width="200" height="150" alt="Inlays para guitarra de cartas de poker">
           <figcaption>Baraja de poker</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/3sBAXEC" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-estrellas.jpg" alt="Inlays para guitarra de estrellas">
+          <img src="../../images/inlays-guitarra/inlays-estrellas.jpg" width="200" height="150" alt="Inlays para guitarra de estrellas">
           <figcaption>Estrellas</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/3tFH7Fe" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-rayo-acdc.jpg" alt="Inlays para guitarra de AC/DC">
+          <img src="../../images/inlays-guitarra/inlays-rayo-acdc.jpg" width="200" height="150" alt="Inlays para guitarra de AC/DC">
           <figcaption>Rayo AC/DC</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/2Qhpo8F" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-arbol-vida.jpg" alt="Inlays para guitarra de arbol de la vida">
+          <img src="../../images/inlays-guitarra/inlays-arbol-vida.jpg" width="200" height="150" alt="Inlays para guitarra de arbol de la vida">
           <figcaption>Árbol de la vida</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/3aoNqFw" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-biohazard.jpg" alt="Inlays para guitarra de biohazard">
+          <img src="../../images/inlays-guitarra/inlays-biohazard.jpg" width="200" height="150" alt="Inlays para guitarra de biohazard">
           <figcaption>Biohazard</figcaption>
         </a>
       </div>
       <div class="column" style="float: left; width: 33.33%; padding: 5px;">
         <a href="https://amzn.to/2Qifi7w" rel="nofollow noopener noreferrer" target="_blank">
-          <img src="../../images/inlays-guitarra/inlays-rosa-flor.jpg" alt="Inlays para guitarra de rosa y flores">
+          <img src="../../images/inlays-guitarra/inlays-rosa-flor.jpg" width="200" height="150" alt="Inlays para guitarra de rosa y flores">
           <figcaption>Rosa</figcaption>
         </a>
       </div>

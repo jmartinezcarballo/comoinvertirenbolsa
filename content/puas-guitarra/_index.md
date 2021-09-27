@@ -71,6 +71,19 @@ Para empezar te presento una selección de las **mejores púas de guitarra** de 
 
 ## Las mejores púas de guitarra eléctrica y acústica
 
+A lo largo de diferentes secciones te voy a mostrar algunas de las puas y kits de más éxito entre los guitarristas.
+
+Si eres un guitarrista principiante te recomiendo que busques puas más finas y de mayor tamaño. Al ser puas
+de menor grosor, de cara a rasguear la guitarra y aprender tus primeros acordes y ritmos te será más sencillo y podrás ir
+empezando a aprender diferentes sensaciones a medida que ejerces un poco más de fuerza contra las cuerdas.
+
+Como podrás ver en la sección de materiales, las puas de nylon son las que mejor se adaptarán a ti en estos casos.
+
+Si ya eres un guitarristas un poco más experimentado y ya estás empezando a aprender escalas y solos, necesitarás puas
+más duras, de mayor grosor y más pequeñas de cara a poder mejorar tanto la precisión como la presión sobre las cuerdas, 
+como por ejemplo las Jazz III.
+
+
 &nbsp;
 
 ### Los kits de puas de guitarra más vendidos

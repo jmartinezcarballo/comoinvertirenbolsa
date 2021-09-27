@@ -240,6 +240,9 @@ cambiar la afinación de la guitarra a Drop D, una auténtica maravilla.
 
 El cuerpo de sassafras presenta la parte superior arqueada y es más suave que la caoba, aunque con un sonido similar.
 
+La guitarra fue todo un éxito y desde hace tiempo ya no se comercializa al haber agotado sus existencias, teniendo que
+recurrir al mercado de segunda mano o de coleccionista si se desea conseguir una.
+
 #### Características de la Wolfgang Special Sassafras
 
 * Cuerpo de sassafras con acabado en negro
