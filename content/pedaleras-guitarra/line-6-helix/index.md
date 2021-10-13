@@ -9,7 +9,7 @@ description: "Consulta nuestra review de la Line 6 Helix. Características, espe
 summary: "Consulta nuestra review de la Line 6 Helix. Características, especificaciones y precio de una de las mejores pedaleras de guitarra del mercado"
 
 # type
-type: "post-destacado"
+type: "line6-helix"
 image: "images/pedaleras-guitarra/line6-helix/line6-helix-section.jpg"
 
 # taxonomies

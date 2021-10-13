@@ -1,7 +1,7 @@
 ---
 title: "Afinadores de guitarra"
 seoTitle: "Todo sobre los afinadores de guitarra | Comprar una Guitarra"
-date: 2021-01-31T10:07:47+06:00
+date: 2021-09-15T10:07:47+06:00
 draft: false
 
 # meta description

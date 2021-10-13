@@ -2,7 +2,7 @@
 title: "Las mejores guitarras eléctricas baratas de 2021"
 seoTitle: "Comparativa de las mejores guitarras eléctricas baratas de 2021"
 pageLabel: "guitarras-electricas-baratas"
-date: 2021-07-08T10:07:47+06:00
+date: 2021-10-08T10:07:47+06:00
 draft: false
  
 # meta description
