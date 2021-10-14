@@ -7,7 +7,7 @@ draft: false
 description: "política de cookies"
 
 # type
-type: "politica-de-cookies"
+type: "legal"
 ---
 
 ##### 1. ¿Qué es una cookie? ¿Y para qué usamos esta tecnología?

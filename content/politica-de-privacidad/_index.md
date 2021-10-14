@@ -7,7 +7,7 @@ draft: false
 description: "política de privacidad"
 
 # type
-type: "politica-de-privacidad"
+type: "legal"
 ---
 
 **comprarunaguitarra.com** te informa sobre su Política de Privacidad respecto del tratamiento y protección de los datos de carácter personal de los usuarios que puedan ser recabados por la navegación a través de este sitio Web.

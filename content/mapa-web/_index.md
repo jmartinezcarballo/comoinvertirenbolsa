@@ -7,7 +7,7 @@ draft: false
 description: "mapa del sitio web"
 
 # type
-type: "sitemap"
+type: "legal"
 ---
 
 ### Guitarras

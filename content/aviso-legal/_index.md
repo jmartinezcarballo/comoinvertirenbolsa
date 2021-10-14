@@ -7,7 +7,7 @@ draft: false
 description: "aviso legal"
 
 # type
-type: "politica-de-cookies"
+type: "legal"
 ---
 
 A continuación le informamos sobre la finalidad y actividad de esta web, qué información usa y qué tratamiento reciben los datos de sus usuarios.

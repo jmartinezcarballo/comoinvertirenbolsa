@@ -7,7 +7,7 @@ draft: false
 description: "contacta con nosotros"
 
 # type
-type: "contacto"
+type: "legal"
 ---
 
 Para cualquier consulta, duda y/o sugerencia puedes ponerte en contacto con este sitio web en la siguiente dirección de email:
