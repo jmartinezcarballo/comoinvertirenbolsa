@@ -914,11 +914,11 @@ Nuestro top 10 de canciones pop para guitarra incluye, en su mayoría, algunos d
 
 &nbsp;
 
+Si además de practicar tus canciones preferidas necesitas una guía para comenzar y desarrollar mejor tus habilidades con
+la guitarra, échale un vistazo a estos cursos para guitarra eléctrica y acústica que hemos buscado para ti:
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar-canciones-faciles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1545221642&linkId=42015812c47f36eee606ad16b00e144a"></iframe>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar-canciones-faciles-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1545220891&linkId=823349a7b6de177550d85573de6842d8"></iframe>
+
 Y esto ha sido todo. Espero que os haya gustado nuestro **listado de 100 canciones para tocar en guitarra** y hayáis podido encontrar ideas de canciones para aprenderos y ayudaros a hacer más ameno ese largo viaje que supone el aprender a tocar la guitarra. No os desanimeis, todo lleva su tiempo y la guitarra, como tantas otras disciplinas, se aprende a base de práctica y más práctica.
-
-Puedes seguir visitando otras entradas de nuestro blog o volver a la página principal y visitar alguna de nuestras secciones.
-
-<div>
-<a href="/blog" class="btn btn-outline-primary">Volver al blog</a>&nbsp;&nbsp;
-<a href="/" class="btn btn-outline-primary">Volver al menú principal</a>
-</div>
