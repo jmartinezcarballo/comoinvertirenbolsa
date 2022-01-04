@@ -71,6 +71,19 @@ En el caso que nos importa aquí recomiendo su libro de <strong><a href="https:/
   </ul>
 </div>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Canciones fáciles para guitarra
 
 Te preguntarás como puede ser que algunas de las mejores canciones que existen puedan llegar a ser tan sencillas a la
