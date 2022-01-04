@@ -23,6 +23,18 @@ Un **transmisor inalámbrico** es un dispositivo que, como su nombre indica, te 
 
 A continuación te presento una comparativa de **transmisores inalámbricos baratos** con una buena relación **calidad/precio** para que puedas comparar las prestaciones de unos y otros. He seleccionado, por un lado, los que ofrecen Muslady y Ammoon, y, por otro lado, el Behringer ulg10.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Comparativa transmisores inalámbricos
 
