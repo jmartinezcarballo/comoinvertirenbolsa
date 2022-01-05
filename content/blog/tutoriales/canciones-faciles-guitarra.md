@@ -257,6 +257,19 @@ interiorizas las posiciones de los dedos y los cambios entre acordes. Al fin y a
 
 <a href="https://www.youtu.be/ojJ7HwM4jXM" class="lazy-youtube-embed">Linkin Park in the end acordes para guitarra</a>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Canciones de guitarra con acordes
 
 ¿Quieres emocionar a tus amigos la próxima vez que os veais y te pregunten por tu nueva guitarra?
@@ -430,6 +443,19 @@ cada persona pudiese encontrar alguna canción que le pudiera interesar aprender
 &nbsp;
 
 <a href="https://www.youtu.be/VdrH-MuO8as" class="lazy-youtube-embed">Jarabe de Palo la flaca acordes para guitarra</a>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Canciones para guitarra eléctrica
 
@@ -606,6 +632,19 @@ gusta la música clásica también tenéis disponible <strong><a href="https://a
 
 <a href="https://www.youtu.be/2LMPK_QRcEg" class="lazy-youtube-embed">Beethoven Fur Elise acordes para guitarra</a>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Canciones navideñas para guitarra
 
 ¿Se acerca la navidad y planeas algo especial en casa con la familia? aquí te proponemos un listado de villancicos y canciones típicas
@@ -766,6 +805,19 @@ faltar dentro de nuestras 100 canciones fáciles para guitarra.
 &nbsp;
 
 <a href="https://www.youtu.be/BKDYWqfF5Z8" class="lazy-youtube-embed">Ed Sheeran Perfect acordes para guitarra</a>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Canciones infantiles para guitarra
 
