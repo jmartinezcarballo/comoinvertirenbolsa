@@ -31,9 +31,22 @@ es hablar de una de las mayores leyendas vivas dentro del panorama musical mundi
 
 Nacido en agosto de 1963, James Hetfield es el **cantante de Metallica**, banda que fundó en octubre de 1981 junto a Lars Ulrich, sin pensar que aquel nacimiento en lo más underground de la ciudad de Los Ángeles los llevaría años después a convertirse en la banda, no solo más importante de la historia del heavy metal, sino en uno de los iconos musicales de nuestra época y referencia e influencia para millones de personas y miles de bandas formadas posteriormente.
 
-<iframe loading="lazy" title="james hetfield funko" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072KL77LR&linkId=a0e66c9f2415ca920a6ae8178a906502"></iframe>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Como la historia de Metallica ya es conocida por todos, y siendo ésta una página que pretende hablar de guitarras, pensé que podría ser una buena idea realizar una **biografía** del músico desde el punto de vista de sus guitarras, así que si quieres saber **que guitarra usa James Hetfield** estás en el sitio adecuado.
+
+<iframe loading="lazy" title="james hetfield funko" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hetfield-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072KL77LR&linkId=a0e66c9f2415ca920a6ae8178a906502"></iframe>
 
 &nbsp;
 
@@ -107,6 +120,19 @@ De igual manera que con la flying V, para el Death Magnetic Hetfield quiso recup
 <a href="https://www.youtu.be/SA0dsv-ClTw" class="lazy-youtube-embed">Metallica - For Whom the Bell Tolls (Day on The Green 1985)</a>
 
 &nbsp;
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### ESP MX 220 (1987-1990)
 
@@ -187,6 +213,19 @@ Hasta aquí el repaso a los 15 primeros años de la carrera de Metallica en lo q
 	<a href="https://amzn.to/3sAuDNC" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer blanca</a>&nbsp;&nbsp; &nbsp;
 	<a href="https://www.thomann.de/es/esp_ltd_ex_200_black.htm?partner_id=87175" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Quiero una ESP explorer negra</a>
 </div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Ken Lawrence Explorer (desde 1996)
 
@@ -284,6 +323,19 @@ Es de las pocas LTD en la carrera de James Hetfield y poco también ha sido su u
 <a href="https://www.youtu.be/GudYotg4dgI" class="lazy-youtube-embed">Metallica - St.Anger (2003)</a>
 
 &nbsp;
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### ESP Truckster (desde 2008)
 
