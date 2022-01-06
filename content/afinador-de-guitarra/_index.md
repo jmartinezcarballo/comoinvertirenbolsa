@@ -35,6 +35,19 @@ reviews de varios modelos y entender **como usar un afinador de guitarra**.
 
 <a href="https://amzn.to/3sIKVV7" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar afinador de guitarra</a>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
     <span class="toc_toggle">[<a id="toggle-link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
@@ -106,6 +119,19 @@ Hoy en día muchos **pedales de guitarra** incluyen en su software un **afinador
 Si te encuentras que no tienes nada a mano siempre puedes recurrir en un momento de emergencia a múltiples apps que funcionan como
 afinador para guitarra cromático. Es la opción menos fiable, pero hay muchas apps gratuitas que te pueden sacar de pequeños apuros de manera puntual. Nunca hay que descartar ninguna opción. También puedes encontrar **afinadores de guitarra online gratis** por internet.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Top de afinadores de clip
 
 Si buscas un afinador de clip, en esta sección encontrarás una selección en base a su calidad y precio. Si quieres un **afinador de guitarra española o acústica** cualquiera de estas opciones te dará muy buen resultado.
@@ -154,6 +180,19 @@ Si buscas un afinador de clip de una marca de prestigio te presento el modelo Pi
 
 <a href="https://amzn.to/3sv3j3D" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Top de afinadores cromáticos
 
 Si lo que te interesa es un afinador cromático para tu guitarra te presento a continuación dos afinadores de Korg de calidad más que contrastada.
@@ -189,6 +228,18 @@ La función de afinación y la de metrónomo se pueden utilizar de manera simult
 
 <a href="https://amzn.to/3x9M3Ey" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">consultar precio</a>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Características de un afinador de guitarra
 
@@ -250,6 +301,19 @@ Si no tienes afinador y necesitas hacerlo de oido y tienes tu guitarra afinada e
 Una vez tengas la sexta cuerda afinada, para las demás utilizas el sistema tradicional de afinado utilizando el quinto traste de cada cuerda contra la cuerda inferior al aire salvo en la tercera cuerda donde se pulsa el cuarto traste.
 
 Con esto ya tendrás tu guitarra afinada en re.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div>
 <a href="/categories/accesorios" class="btn btn-outline-primary">Buscar otros accesorios</a>&nbsp;&nbsp;
