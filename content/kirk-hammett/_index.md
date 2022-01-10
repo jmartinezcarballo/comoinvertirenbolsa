@@ -40,6 +40,19 @@ de los riffs que no han sido compuestos por Hetfield sino por Hammett, como por 
 Creeping Death (donde la gente corea "die die!") y, el más sorprendente todavía, el riff principal de Enter Sandman, 
 seguramente el riff más conocido de la banda.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 &nbsp;
 
 ## Biografía de Kirk Hammett a través de sus guitarras
@@ -105,6 +118,19 @@ Esta Jackson la empezó a utilizar por 1985 y fue la guitarra utilizada para la 
 * 2 pastillas activas EMG
 
 <a href="https://www.youtu.be/SFqJoE_3LKg" class="lazy-youtube-embed">Metallica - Harvester of Sorrow (Seattle 1989)</a>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 &nbsp;
 
@@ -217,6 +243,19 @@ hobby a plasmarlo en sus modelos signature.
 * 2 pastillas activas EMG, sustituyendo a las Humbucker originales de Gibson
 
 <a href="https://www.youtu.be/A_D5AMoXDgY" class="lazy-youtube-embed">Metallica - One (Seoul - 2006)</a>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div>
   <a href="/categories/guitarristas" class="btn btn-outline-primary">Buscar otro guitarrista</a>&nbsp;&nbsp;
