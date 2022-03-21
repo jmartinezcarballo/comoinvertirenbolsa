@@ -1,11 +1,11 @@
 ---
 title: "Guitarras musicales de juguete para niños y bebés"
-seoTitle: "Las mejores guitarras musicales de juguete de 2021"
+seoTitle: "Las mejores guitarras musicales de juguete de 2022"
 date: 2020-09-04T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Las mejores guitarras musicales de juguete para niños y bebés en 2021. Para todas las edades y de todo tipo las tienes aquí."
+description: "Las mejores guitarras musicales de juguete para niños y bebés en 2022. Para todas las edades y de todo tipo las tienes aquí."
 summary: "Las mejores guitarras musicales de juguete para niños y bebés. Amplia selección de guitarras para que eligas la correcta."
 
 # type

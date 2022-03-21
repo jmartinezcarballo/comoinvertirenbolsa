@@ -5,7 +5,7 @@ date: 2021-01-01T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Completa review del Behringer Guitar Link ‎ucg102. Información, características e instalación del interfaz de sonido del 2021"
+description: "Completa review del Behringer Guitar Link ‎ucg102. Información, características e instalación del interfaz de sonido del 2022"
 summary: "Completa review de esta interfaz de audio con la que podrás tocar en casa sin necesidad de amplificador."
 
 # type

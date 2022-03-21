@@ -1,6 +1,6 @@
 ---
-title: "Las mejores guitarras eléctricas baratas de 2021"
-seoTitle: "Comparativa de las mejores guitarras eléctricas baratas de 2021"
+title: "Las mejores guitarras eléctricas baratas de 2022"
+seoTitle: "Comparativa de las mejores guitarras eléctricas baratas de 2022"
 pageLabel: "guitarras-electricas-baratas"
 date: 2021-10-08T10:07:47+06:00
 draft: false

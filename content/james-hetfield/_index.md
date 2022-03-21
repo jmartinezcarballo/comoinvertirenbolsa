@@ -1,11 +1,11 @@
 ---
-title: "James Hetfield, sus guitarras hasta 2021"
-seoTitle: "Todas las guitarras de James Hetfield [2021]"
+title: "James Hetfield, sus guitarras hasta 2022"
+seoTitle: "Todas las guitarras de James Hetfield [2022]"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Las mejores guitarras de James Hetfield hasta 2021 &#9989; conoce todo sobre las guitarras del cantante de Metallica"
+description: "Las mejores guitarras de James Hetfield hasta 2022 &#9989; conoce todo sobre las guitarras del cantante de Metallica"
 summary: "Toda la información acerca de las guitarras que ha utilizado el cantante de Metallica a lo largo de toda su trayectoria musical."
 
 # type

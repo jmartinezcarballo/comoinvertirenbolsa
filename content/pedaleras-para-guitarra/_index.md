@@ -1,12 +1,12 @@
 ---
-title: "Pedaleras de guitarra. Guía y consejos de compra para 2021"
-seoTitle: "Pedaleras de guitarra. Consejos y guía de compra para 2021"
+title: "Pedaleras de guitarra. Guía y consejos de compra para 2022"
+seoTitle: "Pedaleras de guitarra. Consejos y guía de compra para 2022"
 date: 2021-07-21T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Guía de compra de pedaleras para guitarra. Comparativa entre las mejores pedaleras multiefectos del mercado en 2021."
-summary: "Consulta nuestra guía de compra de pedaleras para guitarra. Comparativa entre las mejores pedaleras multiefectos del mercado en 2021."
+description: "Guía de compra de pedaleras para guitarra. Comparativa entre las mejores pedaleras multiefectos del mercado en 2022."
+summary: "Consulta nuestra guía de compra de pedaleras para guitarra. Comparativa entre las mejores pedaleras multiefectos del mercado en 2022."
 
 # type
 type: "post-destacado"

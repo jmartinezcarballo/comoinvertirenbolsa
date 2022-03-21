@@ -1,6 +1,6 @@
 ---
 title: "Guitarras Eléctricas Squier"
-seoTitle: "Las mejores guitarras Squier de 2021 | Comprar una Guitarra"
+seoTitle: "Las mejores guitarras Squier de 2022 | Comprar una Guitarra"
 date: 2020-05-24T10:07:47+06:00
 draft: false
 

@@ -1,11 +1,11 @@
 ---
-title: "Los mejores inlays para guitarra de 2021"
-seoTitle: "Top de los mejores inlays para guitarra de 2021 | Comprar una Guitarra"
+title: "Los mejores inlays para guitarra de 2022"
+seoTitle: "Top de los mejores inlays para guitarra de 2022 | Comprar una Guitarra"
 date: 2020-06-24T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra los mejores inlays para guitarra de 2021. &#9989; Compra el Eddie de Iron Maiden, el rayo de AC/DC y muchos más"
+description: "Encuentra los mejores inlays para guitarra de 2022. &#9989; Compra el Eddie de Iron Maiden, el rayo de AC/DC y muchos más"
 summary: "Encuentra todo tipo de inlays para montar en el diapasón de tu instrumento. Tienes decenas de diseños a elegir."
 
 # type

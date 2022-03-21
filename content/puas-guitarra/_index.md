@@ -1,5 +1,5 @@
 ---
-title: "Las mejores puas de guitarra en 2021"
+title: "Las mejores puas de guitarra en 2022"
 seoTitle: "Las mejores puas de guitarra | Comprar una Guitarra"
 date: 2021-04-26T10:07:47+06:00 
 draft: false
@@ -32,7 +32,7 @@ independientemente de si tu guitarra es eléctrica, acústica o española.
 El **precio** de las púas de guitarra depende como todo de la calidad que tengan y de quienes las fabriquen, pero por lo general son uno de los artículos
 relacionados con la guitarra más asequibles del mercado y accesibles a todo el público.
 
-Para empezar te presento una selección de las **mejores púas de guitarra** de 2021 que puedes encontrar hoy en día.
+Para empezar te presento una selección de las **mejores púas de guitarra** de 2022 que puedes encontrar hoy en día.
 
 <a href="https://amzn.to/3n4mOP8" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar en Amazon</a>
 

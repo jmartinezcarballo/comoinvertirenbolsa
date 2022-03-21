@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://www.comprarunaguitarra.com/"
 languageCode = "es"
-title = "Consejos y reviews sobre que guitarra comprar en 2021"
+title = "Consejos y reviews sobre que guitarra comprar en 2022"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6

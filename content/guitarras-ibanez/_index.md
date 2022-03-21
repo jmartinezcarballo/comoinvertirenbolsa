@@ -1,11 +1,11 @@
 ---
 title: "Guitarras eléctricas Ibanez"
-seoTitle: "Las mejores guitarras Ibanez en 2021 | Comprar una Guitarra"
+seoTitle: "Las mejores guitarras Ibanez en 2022 | Comprar una Guitarra"
 date: 2020-08-13T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra una selección de las mejores guitarras Ibanez de 2021 &#9989;  Compara entre modelos exitosos de la serie Ibanez GIO"
+description: "Encuentra una selección de las mejores guitarras Ibanez de 2022 &#9989;  Compara entre modelos exitosos de la serie Ibanez GIO"
 summary: "Reviews de guitarras Ibanez"
 
 # type

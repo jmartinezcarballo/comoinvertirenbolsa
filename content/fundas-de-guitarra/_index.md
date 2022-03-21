@@ -48,7 +48,7 @@ En esta entrada te presento diferentes secciones donde podrás encontrar una sel
 
 ## Fundas para guitarra eléctrica
 
-Si tienes una guitarra eléctrica te presento algunos de los modelos más recomendables que puedes encontrar en 2021.
+Si tienes una guitarra eléctrica te presento algunos de los modelos más recomendables que puedes encontrar en 2022.
 
 ### Ibanez Powerpad
 

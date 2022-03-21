@@ -1,6 +1,6 @@
 ---
 title: "Pastillas para guitarra eléctrica"
-seoTitle: "Las mejores pastillas para guitarra eléctrica [2021]"
+seoTitle: "Las mejores pastillas para guitarra eléctrica [2022]"
 date: 2020-06-24T10:07:47+06:00
 draft: false
 

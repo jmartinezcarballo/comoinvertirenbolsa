@@ -1,6 +1,6 @@
 ---
 title: "Transmisores inalámbricos para guitarra"
-seoTitle: "Top de transmisores inalámbricos para guitarra en 2021"
+seoTitle: "Top de transmisores inalámbricos para guitarra en 2022"
 date: 2020-05-31T10:07:47+06:00
 draft: false
 

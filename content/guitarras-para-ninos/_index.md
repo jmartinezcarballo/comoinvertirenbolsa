@@ -1,11 +1,11 @@
 ---
 title: "Guitarras Eléctricas para Niños"
-seoTitle: "Las mejores guitarras eléctricas para niños de 2021"
+seoTitle: "Las mejores guitarras eléctricas para niños de 2022"
 date: 2020-05-30T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Selección de las mejores guitarras eléctricas para niños de 2021 &#9989; ideales para niños entre los 4 y los 12 años."
+description: "Selección de las mejores guitarras eléctricas para niños de 2022 &#9989; ideales para niños entre los 4 y los 12 años."
 summary: "Selección de guitarras de seis cuerdas para niños que quieren aprender a tocar. Guitarras de escala inferior a 4/4."
 
 # type

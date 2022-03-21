@@ -5,7 +5,7 @@ date: 2021-09-15T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra información, características y reviews de los mejores afinadores de guitarra del mercado en 2021."
+description: "Encuentra información, características y reviews de los mejores afinadores de guitarra del mercado en 2022."
 summary: "Todo tipo de información, reviews y consejos sobre los afinadores de guitarra. Aquí encontrarás el afinador ideal para ti."
 
 # type

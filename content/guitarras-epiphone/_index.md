@@ -1,11 +1,11 @@
 ---
 title: "Las mejores guitarras Epiphone"
-seoTitle: "Las mejores guitarras Epiphone en 2021 | Comprar una Guitarra"
+seoTitle: "Las mejores guitarras Epiphone en 2022 | Comprar una Guitarra"
 date: 2020-08-13T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Encuentra una selección de las mejores guitarras Epiphone de 2021 &#9989;"
+description: "Encuentra una selección de las mejores guitarras Epiphone de 2022 &#9989;"
 summary: "Reviews de guitarras de la marca Epiphone"
 
 # type

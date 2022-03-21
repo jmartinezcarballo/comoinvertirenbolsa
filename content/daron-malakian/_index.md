@@ -1,12 +1,12 @@
 ---
-title: "Daron Malakian, sus guitarras hasta 2021"
-seoTitle: "Todas las guitarras de Daron Malakian [2021]"
+title: "Daron Malakian, sus guitarras hasta 2022"
+seoTitle: "Todas las guitarras de Daron Malakian [2022]"
 date: 2020-08-10T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Las mejores guitarras de Daron Malakian hasta 2021 &#9989; conoce todo sobre las guitarras del guitarra de SOAD"
-summary: "Las mejores guitarras de Daron Malakian hasta 2021. Conoce todo sobre las guitarras de SOAD."
+description: "Las mejores guitarras de Daron Malakian hasta 2022 &#9989; conoce todo sobre las guitarras del guitarra de SOAD"
+summary: "Las mejores guitarras de Daron Malakian hasta 2022. Conoce todo sobre las guitarras de SOAD."
 
 # type
 type: "post"

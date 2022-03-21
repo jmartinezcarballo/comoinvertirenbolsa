@@ -104,7 +104,7 @@ La verdad es que sorprende la calidad y robustez de los materiales teniendo en c
   <a href="https://amzn.to/3hj4jnd" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Comprar Tonor TC20</a>
 </div>
 
-Si estás interesado en más micrófonos te recomiendo que visites nuestra sección dedicada a los [micrófonos de condensador](/microfonos-de-condensador). En ella podrás encontrar toda la información que necesitas saber a la hora de escoger un micrófono y también podrás ver otras **reviews y recomendaciones de micrófonos** con una buena relación **calidad precio** actualizado a 2021.
+Si estás interesado en más micrófonos te recomiendo que visites nuestra sección dedicada a los [micrófonos de condensador](/microfonos-de-condensador). En ella podrás encontrar toda la información que necesitas saber a la hora de escoger un micrófono y también podrás ver otras **reviews y recomendaciones de micrófonos** con una buena relación **calidad precio** actualizado a 2022.
 
 
 <div>

@@ -1,6 +1,6 @@
 ---
-title: "Las mejores guitarras en miniatura de 2021"
-seoTitle: "Encuentra las mejores guitarra en miniatura de 2021"
+title: "Las mejores guitarras en miniatura de 2022"
+seoTitle: "Encuentra las mejores guitarra en miniatura de 2022"
 date: 2020-12-07T10:07:47+06:00 
 draft: false
 
@@ -30,7 +30,7 @@ y decenas de guitarras (ni por dinero ni por espacio), existe en el panorama mus
 Las **miniguitarras de colección** son **réplicas a pequeña escala** de los modelos más conocidos (o no tanto) de las guitarras más famosas de la historia y te sorprenderías de la enorme cantidad de modelos
 diferentes que existen y de cuanta gente las colecciona.
 
-En esta sección voy a dedicarme a enseñaros una selección de varias de las mejores guitarras en miniatura que podéis encontrar en este 2021 y, quien sabe, puede que os empiece a picar el gusanillo y después
+En esta sección voy a dedicarme a enseñaros una selección de varias de las mejores guitarras en miniatura que podéis encontrar en este 2022 y, quien sabe, puede que os empiece a picar el gusanillo y después
 de esto queráis empezar al menos a tener unas pocas guitarras de vuestro guitarrista preferido.
 
 
