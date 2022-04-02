@@ -33,6 +33,19 @@ En esta **completa review** analizaremos en profundidad la Ibanez grg121dx, vere
 	<a href="https://amzn.to/3ihtXv6" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Especificaciones generales
 
 * Cuerpo de álamo
@@ -83,6 +96,19 @@ Incluye dos potenciómetros, uno de tono y otro de volumen.
 
 Gracias a esta electrónica la guitarra es más versátil de lo que parece, aunque está claramente enfocada a sonidos duros.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Construcción y acabados
 
 La Ibanez grg121dx está fabricada en China y tiene un diseño realmente bonito además de unos buenos acabados para lo que cuesta.
@@ -106,6 +132,19 @@ Tiene un puente fijo F106 que aguanta bastante bien la afinación y que permite 
 <img src="../../images/ibanez/grg121dx/ibanez-grg121dx-puente.png" alt="Ibanez grg121dx puente" width="250" height="186"/>
 
 Eso si, los potenciómetros son de plástico, en una guitarra de gama baja por algun sitio tienen que recortar costes. 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Pros y contras
 
@@ -140,6 +179,19 @@ Si buscas una guitarra muy versátil, tus preferencias musicales son otras o bie
 </div>
 
 &nbsp;
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <a href="/guitarras-ibanez/" class="btn btn-outline-primary">Volver a guitarras Ibanez</a>&nbsp;
 <a href="/" class="btn btn-outline-primary">Volver al menú principal</a>

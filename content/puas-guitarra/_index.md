@@ -38,6 +38,19 @@ Para empezar te presento una selección de las **mejores púas de guitarra** de 
 
 &nbsp;
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
     <span class="toc_toggle">[<a id="toggle-link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
@@ -137,6 +150,19 @@ almacenarlas de forma segura.
       </div>
 </div>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Puas de discos famosos
 
 Te presento un kit de 12 **puas de guitarra personalizadas** con diseños de 24 de los más exitosos discos de la historia de la música. Podrás encontrar grandes portadas de discos de artistas como Beatles, Queen, Metallica, David Bowie, Pink Floyd, Green Day o Guns n Roses.
@@ -231,6 +257,19 @@ El kit incluye:
 	<a href="https://amzn.to/3tFcfF0" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Grosor de las púas de guitarra
 
 Existen varios tipos de púas en función de su grosor que nos sirven para clasificarlas, son los siguientes:
@@ -276,6 +315,19 @@ Mencionar finalmente que, además de estos materiales que son los más comunes, 
 De esta manera, puedes llegar a encontrarte **puas de madera para guitarra**, de metal o de piedra.
 
 &nbsp;
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Selección de las mejores puas Dunlop según su material
 
@@ -387,7 +439,18 @@ Te presento algunos modelos de corta puas para que ya no tengas excusa por no se
       </div>
 </div>
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div>
 <a href="/categories/accesorios" class="btn btn-outline-primary">Buscar otros accesorios</a>&nbsp;&nbsp;

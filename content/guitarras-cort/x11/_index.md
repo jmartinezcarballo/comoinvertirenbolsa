@@ -33,6 +33,19 @@ En esta completa **review** de la guitarra analizaremos sus **espeficicaciones**
 	<a href="https://amzn.to/38TJFq1" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio</a>
 </div>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Especificaciones generales
 
 * Cuerpo de aliso
@@ -76,6 +89,19 @@ La sorpresa de esta guitarra viene con los limpios y su versatilidad. Si bien su
 
 &nbsp;
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Construcción y acabados
 
 La Cort x11 es una **superstrato fabricada en Indonesia** con doble cutaway de rasgos muy agresivos y buenos acabados. El cutaway inferior es más pequeño para favorecer poder llegar fácilmente a los últimos trastes. Es una guitarra realmente muy bonita y que da la sensación de dar caña con solo verla.
@@ -103,6 +129,19 @@ La podemos encontrar, entre otros, en color negro o rojo cereza, personalmente e
   </a>
 </div>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Pros y contras
 
 Como **puntos a favor** de la Cort x11 no sabríamos realmente que destacar. Es una guitarra realmente muy completa, con buenos materiales y acabados, buen sonido y con una **buena relación calidad precio**. Dentro de la gama media y a su precio es de las mejores guitarras que puedes encontrar.
@@ -126,6 +165,19 @@ Si buscas una strato de gama media para dar caña y tu presupuesto es limitado, 
 	&nbsp;&nbsp;
 	<a href="https://amzn.to/2KVi000" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Consultar precio en rojo cereza</a>
 </div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <a href="/guitarras-cort/" class="btn btn-outline-primary">Volver a guitarras Cort</a>
 &nbsp;

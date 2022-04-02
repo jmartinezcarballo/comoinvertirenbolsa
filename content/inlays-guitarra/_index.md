@@ -34,6 +34,19 @@ Entre los cambios estéticos más habituales se encuentran los inlays de la guit
 &nbsp;
 <iframe loading="lazy" title="inlays synyster gates a7x" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=guitar-inlays-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07L64QWDT&linkId=33bf066e31d446c6d143c8f8876bf473"></iframe>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="toc_container" class="toc_light_blue no_bullets" style="width: auto; display: table;">
   <p class="toc_title">Tabla de contenidos 
     <span class="toc_toggle">[<a id="toggle-link" href="javascript:void(0);" onclick="javascript:changeTocVisibility();">Mostrar</a>]</span>
@@ -69,6 +82,19 @@ este tipo de cambios. Los típicos inlays que encontramos en las guitarras son l
 <div>
 	<a href="https://amzn.to/3atLnQu" class="btn btn-outline-primary" rel="nofollow noopener noreferrer" target="_blank">Buscar Inlays</a>
 </div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Inlays para guitarra eléctrica
 
@@ -150,6 +176,19 @@ para decorar** tu guitarra, aquí te presento algunos **inlays adhesivos de guit
         </a>
       </div>
     </div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
     
 ## Tipos de inlays
 
@@ -189,6 +228,19 @@ Supongamos que ya disponemos de nuestros nuevos adhesivos y nos disponemos a cam
 * A tocar!
 
 &nbsp;
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900196667870808"
+     crossorigin="anonymous"></script>
+<!-- test-anuncio-manual -->
+<ins class="adsbygoogle"
+style="display:block; min-height: 300px"
+data-ad-client="ca-pub-2900196667870808"
+data-ad-slot="5207339507"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Inlays caseros para imprimir
 
