@@ -12,4 +12,4 @@ type: "legal"
 
 Para cualquier consulta, duda y/o sugerencia puedes ponerte en contacto con este sitio web en la siguiente dirección de email:
 
-comprarunaguitarra@gmail.com
+empiezaainvertirenbolsa@gmail.com

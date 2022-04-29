@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://www.comprarunaguitarra.com/"
+baseURL = "https://www.comoinvertirenbolsa.top/"
 languageCode = "es"
-title = "Consejos y reviews sobre que guitarra comprar en 2022"
+title = "Todo lo que necesitas saber para invertir en bolsa"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -36,32 +36,27 @@ disqusShortname = ""
 
   # main menu
   [[menu.main]]
-  name = "Las mejores"
-  URL = "/categories/listas-top"
+  name = "Introducción a la bolsa"
+  URL = "/introduccion-bolsa"
   weight = 1
 
   # main menu
   [[menu.main]]
-  name = "Marcas"
-  URL = "/categories/reviews"
+  name = "Análisis Técnico"
+  URL = "/analisis-tecnico"
   weight = 2
     
    # main menu
   [[menu.main]]
-  name = "Accesorios"
-  URL = "/categories/accesorios"
+  name = "Análisis Fundamental"
+  URL = "/analisis-fundamental"
   weight = 3
     
   # main menu
   [[menu.main]]
-  name = "Guitarristas"
-  URL = "/categories/guitarristas"
+  name = "Gestión del Capital"
+  URL = "/gestion-capital"
   weight = 4
-
-  [[menu.main]]
-  name = "Blog"
-  URL = "/blog"
-  weight = 5
 
   # footer menu
   [[menu.footer]]
@@ -75,11 +70,11 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/comprar-una-guitarra.png"
+logo = "images/logo-image.png"
 home = "Inicio"
 # Meta data
-description = "Aquí podrás encontrar reviews, comparativas, consejos, tutoriales y noticias acerca del mundo de la guitarra y otros accesorios relacionados con la música"
-author = "CuG"
+description = "El portal donde podrás conocer todo acerca de cómo empezar a invertir en bolsa desde cero"
+author = "ComoInvertirEnBolsa"
 # Google Analitycs
 googleAnalitycsID = "UA-167226734-1"
 # copyright
@@ -111,4 +106,4 @@ expire_days = 60
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/ComprarUna"
+link = "https://twitter.com/chollosbolsa"
