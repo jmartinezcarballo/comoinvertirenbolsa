@@ -5,8 +5,8 @@ date: 2022-04-28T10:07:47+06:00
 draft: false
 
 # meta description
-description: "En esta guía te explicamos todo lo que debes saber acerca de cuanto dinero invertir en bolsa sin correr riesgos"
-summary: "En esta entrada conocerás cuánto dinero puedes y debes utilizar para invertir de manera adeacuada"
+description: "En esta guía te explicamos todo lo que debes saber acerca de cuanto dinero invertir en bolsa sin correr riesgos."
+summary: "En esta entrada conocerás cuánto dinero puedes y debes utilizar para invertir de manera adeacuada."
 
 # type
 type: "post-destacado"
@@ -14,7 +14,7 @@ image: "images/introduccion-bolsa/cuanto-dinero-hace-falta-para-invertir-en-bols
 
 # taxonomies
 categories:
-- "Introduccion Bolsa"
+- "Introducción a la Bolsa"
 ---
 
 La inversión es un concepto apasionante pero desalentador. 

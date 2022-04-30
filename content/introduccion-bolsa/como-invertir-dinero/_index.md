@@ -5,8 +5,8 @@ date: 2022-04-28T10:07:47+06:00
 draft: false
 
 # meta description
-description: "Si dispones de un capital que deseas invertir aquí te explico cómo y en que puedes invertir siguiendo unos consejos básicos"
-summary: "Si dispones de un capital que deseas invertir aquí te explico cómo y en que puedes invertir siguiendo unos consejos básicos"
+description: "Si dispones de un capital que deseas invertir aquí te explico cómo y en que puedes invertir siguiendo unos consejos básicos."
+summary: "Si dispones de un capital que deseas invertir aquí te explico cómo y en que puedes invertir siguiendo unos consejos básicos."
 
 # type
 type: "post-destacado"
@@ -14,7 +14,7 @@ image: "images/introduccion-bolsa/como-invertir-dinero/como-invertir-dinero.jpg"
 
 # taxonomies
 categories:
-- "Introduccion Bolsa"
+- "Introducción a la Bolsa"
 ---
 
 Invertir parte de tu patrimonio es una de las formas más seguras de crear riqueza con el paso del tiempo. 
