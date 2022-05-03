@@ -58,6 +58,12 @@ disqusShortname = ""
   URL = "/gestion-capital"
   weight = 4
 
+  # main menu
+    [[menu.main]]
+    name = "Blog"
+    URL = "/blog"
+    weight = 5
+
   # footer menu
   [[menu.footer]]
   name = "Mapa del sitio web"
