@@ -48,14 +48,14 @@ disqusShortname = ""
     
    # main menu
   [[menu.main]]
-  name = "Análisis Fundamental"
-  URL = "/analisis-fundamental"
+  name = "Trading"
+  URL = "/trading"
   weight = 3
     
   # main menu
   [[menu.main]]
-  name = "Gestión del Capital"
-  URL = "/gestion-capital"
+  name = "Educación financiera"
+  URL = "/educacion-financiera"
   weight = 4
 
   # main menu
