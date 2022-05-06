@@ -54,7 +54,7 @@ disqusShortname = ""
     
   # main menu
   [[menu.main]]
-  name = "Educación financiera"
+  name = "Educación Financiera"
   URL = "/educacion-financiera"
   weight = 4
 
